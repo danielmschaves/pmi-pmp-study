@@ -1,0 +1,94 @@
+{
+  "source_id": "yt_003",
+  "chunk_index": 3,
+  "start_label": "45:21",
+  "end_label": "1:00:26",
+  "mode": "extract",
+  "questions": [
+    {
+      "question": "You have taken over a project with a vendor where scope and requirements have been missed. You notice that miscommunication and mixed messages are common. You set a meeting with your team and the vendor team. The meeting is extremely important to get right. What will you do next?",
+      "options": [
+        "A. Speak slowly and clearly with the vendor team at a louder volume if necessary",
+        "B. Confirm they hear your message, determine if they agree, and identify nuanced or unintended messages that they may have received",
+        "C. Only communicate with the vendor in writing so you have a trail of proof if anything goes wrong in the future",
+        "D. Prepare a claim for the mishandled scope of your project through the procurement team"
+      ],
+      "answer": "B",
+      "explanation": "Confirming understanding through feedback loops, determining agreement, and identifying nuances is the best communication approach. This addresses miscommunication by creating two-way dialogue. Writing-only communication removes non-verbal elements (body language, tone) that comprise most communication effectiveness, making misinterpretation more likely. Speaking louder does not improve comprehension of meaning.",
+      "difficulty": "hard",
+      "topic": "Stakeholder Engagement and Communication",
+      "domain": 1,
+      "source_id": "yt_003",
+      "chunk_index": 3,
+      "video_segment": "45:21→1:00:26"
+    },
+    {
+      "question": "Your stakeholders seem to be engaged; however, there are frequent changes to scope and requirements causing delays. Issues are often raised and result in multiple rounds of feedback. You're not sure who or what could be the cause. What will you do next?",
+      "options": [
+        "A. Perform root cause analysis with your project team on the problem to brainstorm ideas",
+        "B. Raise a risk in the risk register for the project delay and review responses with your team",
+        "C. Review the issue log, the risk register, and the change log for the most frequent requesters, then update your stakeholder engagement approach for those people",
+        "D. Ensure your project budget has enough contingency reserves to meet the multiple reviews and delays"
+      ],
+      "answer": "C",
+      "explanation": "Reviewing logs to identify which stakeholders are requesting changes most frequently allows you to pinpoint the source (who) and adjust engagement strategy accordingly. This addresses root causes by improving stakeholder alignment and communication frequency. Root cause analysis doesn't identify who is causing issues. Adding budget reserves treats symptoms rather than addressing misalignment. This is not a risk issue but an engagement problem.",
+      "difficulty": "hard",
+      "topic": "Stakeholder Engagement and Performance",
+      "domain": 1,
+      "source_id": "yt_003",
+      "chunk_index": 3,
+      "video_segment": "45:21→1:00:26"
+    },
+    {
+      "question": "You've been working on a project where the manager leads in a dictatorship style. Over time, the team have stopped making suggestions, sick days and mental health days have become more frequent, and the pace of work has slowed. The manager comes to you for help. You suggest a servant leadership style instead. What will they do next?",
+      "options": [
+        "A. Serve the team as much as they can, ensuring their every need is met",
+        "B. Focus on obstacle removal, encouragement, and development opportunities",
+        "C. Ensure the team are serving other team members and helping each other succeed",
+        "D. Show the team new ways to do the work and engage them through additional variety"
+      ],
+      "answer": "B",
+      "explanation": "Servant leadership is characterized by obstacle removal, shielding the team from external distractions, and creating development opportunities. This empowers teams to self-organize and grow. Ensuring every need is met is not servant leadership—teams must take responsibility for themselves. While peer support and variety are good practices, they don't specifically define servant leadership behavior.",
+      "difficulty": "hard",
+      "topic": "Servant Leadership and Team Development",
+      "domain": 1,
+      "source_id": "yt_003",
+      "chunk_index": 3,
+      "video_segment": "45:21→1:00:26"
+    },
+    {
+      "question": "You have been allocated to a new project team with members from different parts of the functional business area. It soon becomes clear that very few of them have worked on a project before. There is a lot of miscommunication and rework is occurring amongst the team, which is starting to cause delays. What will you do next?",
+      "options": [
+        "A. Set a daily standup with your team to ensure they update what they completed",
+        "B. Review the resource assignment matrix with your team to ensure they are doing their job",
+        "C. Help the team set their vision and objectives, roles and responsibilities through a team charter",
+        "D. Send your team members on training in their roles to increase their capability"
+      ],
+      "answer": "C",
+      "explanation": "Establishing clear vision, objectives, roles, and responsibilities through a team charter is foundational for team development and prevents miscommunication. This addresses the root cause of confusion in cross-functional teams new to project work. While standups, resource matrices, and training can help, establishing clarity on how the team operates and each member's contribution is the primary intervention needed up front.",
+      "difficulty": "hard",
+      "topic": "Team Development and Charter",
+      "domain": 1,
+      "source_id": "yt_003",
+      "chunk_index": 3,
+      "video_segment": "45:21→1:00:26"
+    },
+    {
+      "question": "You have collected the requirements for your project, matched them to project scope, and broken them down into smaller parts and the activities required. In doing this, you notice that the manager of the marketing department has added extra scope that is unrelated to your current project. What will you do next?",
+      "options": [
+        "A. Start an open dialogue with the functional manager",
+        "B. Raise the incorrect scope items and their impact and start an open dialogue",
+        "C. Override the marketing manager's decision on scope as you are the senior project manager",
+        "D. Raise a change request for the additional scope and let the Change Control Board decide"
+      ],
+      "answer": "B",
+      "explanation": "Starting an open dialogue while raising the impact of out-of-scope items demonstrates collaborative problem-solving and ensures the functional manager understands the consequences. This allows discussion before formal processes are invoked. Simply overriding decisions strains relationships and may miss legitimate needs. A change request skips the important conversation about whether this scope even belongs in the project. This approach is more aligned with modern collaborative and agile leadership.",
+      "difficulty": "hard",
+      "topic": "Scope Management and Stakeholder Communication",
+      "domain": 2,
+      "source_id": "yt_003",
+      "chunk_index": 3,
+      "video_segment": "45:21→1:00:26"
+    }
+  ]
+}

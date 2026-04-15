@@ -1,0 +1,94 @@
+{
+  "source_id": "yt_001",
+  "chunk_index": 26,
+  "start_label": "6:32:34",
+  "end_label": "6:42:22",
+  "mode": "extract",
+  "questions": [
+    {
+      "question": "On an infrastructure project to upgrade city water systems, the project manager is struggling to finalize the project schedule due to unpredictable regulatory review times and potential delays in securing necessary equipment. What schedule technique should the project manager adapt to manage the project effectively under these conditions?",
+      "options": [
+        "A. Rolling wave planning",
+        "B. Backwards pass analysis",
+        "C. Dependency structuring",
+        "D. Lag and lead optimization"
+      ],
+      "answer": "A",
+      "explanation": "Rolling wave planning is the correct approach when dealing with unpredictable elements. Since regulatory review times are unpredictable, the project manager may not be able to break down the work or schedule everything right away. Rolling wave planning allows the team to plan in detail for the near term while planning at a higher level for the future, replanning as time progresses and things become clearer. Backwards pass analysis is used to calculate the critical path, dependency structuring shows task dependencies, and lag/lead optimization addresses delays or overlaps between tasks—none of these address the core issue of unpredictability.",
+      "difficulty": "expert",
+      "topic": "Schedule Planning under Uncertainty",
+      "domain": 2,
+      "source_id": "yt_001",
+      "chunk_index": 26,
+      "video_segment": "6:32:34→6:42:22"
+    },
+    {
+      "question": "During the rollout of a new IT system within a large corporation, the project manager observes that discussions in stakeholder meetings are frequently derailed by a participant who goes into too much technical detail irrelevant to the meetings' objectives. The behavior is causing meetings to overrun and is reducing the time available to cover all agenda items, leading to dissatisfaction among stakeholders. What action should the project manager take to ensure meetings are more focused and productive?",
+      "options": [
+        "A. Emphasize the meeting agenda at the start and kindly remind participants to keep discussions on topic",
+        "B. Allocate specific time for open discussions at the end of the meeting to cater to additional topics",
+        "C. Introduce a meeting co-facilitator to help steer conversation back to the agenda when they go off course",
+        "D. Implement a suggestion box for topics that require further discussions outside of the scheduled meeting"
+      ],
+      "answer": "A",
+      "explanation": "Emphasizing the agenda at the start and reminding participants to stay on topic directly addresses the root problem of meetings going off track. This establishes clear boundaries and expectations from the beginning, which prevents derailment throughout the meeting. While the other options have merit, they are less effective: a suggestion box does not prevent the initial problem, allocating extra time may extend meeting duration further, and the project manager should be the primary facilitator rather than introducing a co-facilitator.",
+      "difficulty": "expert",
+      "topic": "Meeting Management and Stakeholder Communication",
+      "domain": 1,
+      "source_id": "yt_001",
+      "chunk_index": 26,
+      "video_segment": "6:32:34→6:42:22"
+    },
+    {
+      "question": "On an agricultural development project, a key team member expresses dissatisfaction with the current risk management strategy, feeling it doesn't adequately address the potential for unpredictable weather conditions affecting crop trials. What action should the project manager take first?",
+      "options": [
+        "A. Implement a contingency fund specifically for weather-related delays",
+        "B. Consult with an external agriculture expert to gain insights on managing weather-related risks",
+        "C. Reevaluate the risk management plan and risk register with the entire team to incorporate feedback on weather-related risks",
+        "D. Adjust the timeline and milestones to allow for greater flexibility and response to weather changes"
+      ],
+      "answer": "C",
+      "explanation": "When a team member raises concerns about inadequate risk management, the first step is to engage the entire team to reevaluate the risk management plan and risk register and incorporate their feedback. This collaborative approach ensures all perspectives are heard and risks are properly identified and documented. Only after this foundational step should the project manager consider implementing contingency funds, consulting external experts, or adjusting timelines, as these actions may require change requests or further analysis.",
+      "difficulty": "expert",
+      "topic": "Risk Management Planning and Team Engagement",
+      "domain": 2,
+      "source_id": "yt_001",
+      "chunk_index": 26,
+      "video_segment": "6:32:34→6:42:22"
+    },
+    {
+      "question": "A project team in a digital marketing project discovers that their key design software license has expired, halting the team's work on a critical campaign's visuals. What is the most effective initial action for the project manager to take?",
+      "options": [
+        "A. Request that the team manually sketch the campaign concepts while awaiting the license renewal",
+        "B. Have the team work with the IT department to renew the license",
+        "C. Prioritize other aspects of the campaign that don't require design software",
+        "D. Coordinate with the IT department to expedite the software license renewal"
+      ],
+      "answer": "D",
+      "explanation": "As a servant leader, the project manager's role is to remove obstacles from the team so they can work effectively. A software license issue is a non-project-related obstacle that the project manager should proactively resolve by working with IT to expedite renewal. This is more effective than asking the team to work around the problem by sketching manually, redirecting to other work, or having the team coordinate with IT themselves. Removing this impediment quickly restores the team's ability to perform their primary work.",
+      "difficulty": "expert",
+      "topic": "Servant Leadership and Obstacle Removal",
+      "domain": 1,
+      "source_id": "yt_001",
+      "chunk_index": 26,
+      "video_segment": "6:32:34→6:42:22"
+    },
+    {
+      "question": "During a critical phase of a software development project, a key developer notifies the project manager that they will need to take an unexpected leave, impacting the completion of a crucial backlog item scheduled for demonstration in the upcoming Sprint review. What should the project manager do?",
+      "options": [
+        "A. Ask the developer to work remotely during their leave to ensure the backlog item is completed on time",
+        "B. Escalate the issue to senior management and demand the assignment of an additional resource immediately",
+        "C. Reevaluate the Sprint goals and backlog priorities, consult with the team about adjustments, and communicate the revised plan to stakeholders",
+        "D. Cancel the upcoming Sprint review, citing the lack of progress on the crucial backlog item"
+      ],
+      "answer": "C",
+      "explanation": "The best approach is to reevaluate Sprint goals and backlog priorities in consultation with the team and communicate changes to stakeholders. A developer taking unexpected leave should not be forced to work remotely during what is presumably a personal or family emergency. Escalating to demand additional resources from senior management is inappropriate and ineffective. Canceling the Sprint review is an overreaction. Instead, the project manager should work collaboratively with the team to adjust Sprint goals (which is within the team's authority, unlike reprioritizing the product backlog), find alternative solutions, and transparently communicate the revised plan.",
+      "difficulty": "expert",
+      "topic": "Agile Sprint Management and Adaptive Planning",
+      "domain": 2,
+      "source_id": "yt_001",
+      "chunk_index": 26,
+      "video_segment": "6:32:34→6:42:22"
+    }
+  ]
+}

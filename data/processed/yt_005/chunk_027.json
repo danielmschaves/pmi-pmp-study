@@ -1,0 +1,60 @@
+{
+  "source_id": "yt_005",
+  "chunk_index": 27,
+  "start_label": "4:32:49",
+  "end_label": "4:42:53",
+  "mode": "extract",
+  "questions": [
+    {
+      "question": "Your project team has started to find their rhythm, but you notice that they seem disengaged. You check your project budget and note that the team are all paid fairly for the market and within the same range for the role. What should you do to improve team engagement?",
+      "options": [
+        "A. Look for ways to reward the team members with bonuses above their normal pay rate",
+        "B. Move team members around to different roles frequently so they experience job variety",
+        "C. Give the team a paid day off",
+        "D. Establish ways for the team to grow and advance"
+      ],
+      "answer": "D",
+      "explanation": "According to Herzberg's hygiene-motivator theory, once hygiene factors like fair salary are met, motivational factors such as growth, advancement, and achievement are what drive engagement and satisfaction. Bonuses, role rotation, and paid time off may provide temporary relief but do not address the root cause of disengagement. Growth and advancement opportunities create a sense of progress that sustains motivation.",
+      "difficulty": "expert",
+      "topic": "Team Motivation and Herzberg's Theory",
+      "domain": 1,
+      "source_id": "yt_005",
+      "chunk_index": 27,
+      "video_segment": "4:32:49→4:42:53"
+    },
+    {
+      "question": "You are working as a project manager on a regulatory change for your organization. You notice that the team are not communicating as well as they could be. You put together a plan to improve team communication by increasing its effectiveness and richness. What will you do?",
+      "options": [
+        "A. Include methods that will handle multiple information cues such as body language, voice, and words",
+        "B. Facilitate rapid feedback",
+        "C. Include methods to escalate issues quickly with executives being open for anything the team needs",
+        "D. Include ways to get sign-off in writing so it can be recorded and reviewed later when needed"
+      ],
+      "answer": "A",
+      "explanation": "Communication effectiveness and richness, as described in Alistair Cockburn's Crystal methodology, refers to the ability of communication channels to convey multiple information cues including body language, voice tone, and words. Face-to-face communication is the richest medium. Methods should facilitate the handling of multiple cues simultaneously to maximize the effectiveness and richness of team communication.",
+      "difficulty": "expert",
+      "topic": "Communication Effectiveness and Media Richness",
+      "domain": 1,
+      "source_id": "yt_005",
+      "chunk_index": 27,
+      "video_segment": "4:32:49→4:42:53"
+    },
+    {
+      "question": "Your deliverables have been signed off by the product owner and they are ready to be released to the customer, which is the financial analytics team of your organization. The new system will be quite a change from their normal day-to-day work. The team already have the desire to use the new system. What will you do next?",
+      "options": [
+        "A. Develop a vision and explain the why behind the change",
+        "B. Use training and education to show them the new processes and systems",
+        "C. Give them unlimited hands-on practice so they can get used to the new system",
+        "D. Include rewards, recognition, feedback, and measurement"
+      ],
+      "answer": "B",
+      "explanation": "Since the team already has the desire to use the new system, they are already aligned with the vision and rationale for change. The next critical step in the change management process is to enable them with training and education on how to actually use the new processes and systems. This prepares them for successful adoption before hands-on practice and reinforcement through rewards and measurement.",
+      "difficulty": "expert",
+      "topic": "Change Management and Organizational Change",
+      "domain": 3,
+      "source_id": "yt_005",
+      "chunk_index": 27,
+      "video_segment": "4:32:49→4:42:53"
+    }
+  ]
+}

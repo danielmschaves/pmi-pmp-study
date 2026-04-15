@@ -1,0 +1,77 @@
+{
+  "source_id": "yt_005",
+  "chunk_index": 37,
+  "start_label": "6:13:46",
+  "end_label": "6:23:52",
+  "mode": "extract",
+  "questions": [
+    {
+      "question": "You are a product owner on an agile project and you've created a product backlog of features in a prioritized order for delivery. You ask the team to break down the first feature into user stories and estimate their effort. What will you do next?",
+      "options": [
+        "A. Create an iteration plan with your team",
+        "B. Create the product road map with your team",
+        "C. Perform a Sprint review",
+        "D. Begin daily standups with your team"
+      ],
+      "answer": "A",
+      "explanation": "An iteration plan (Sprint plan) is the next logical step after breaking down features into user stories and estimating their effort. The iteration plan takes the estimated user stories and places them into the upcoming Sprint to match the team's velocity. The product roadmap is created earlier in the process. Sprint reviews happen after work is completed, and daily standups cannot occur until the Sprint is planned.",
+      "difficulty": "expert",
+      "topic": "Agile Sprint Planning and Iteration Planning",
+      "domain": 2,
+      "source_id": "yt_005",
+      "chunk_index": 37,
+      "video_segment": "6:13:46→6:23:52"
+    },
+    {
+      "question": "You have worked with your project customer to create a list of features that will bring the most value to them. They would like to see when some of this value will be delivered and the expected outcomes of each. What will you do next?",
+      "options": [
+        "A. Show the features at the next Sprint review so the customer can see what they look like",
+        "B. Place the features on a release plan and show this to the customer",
+        "C. Check the features against the velocity chart to see when they might be delivered",
+        "D. Place the features into the next Sprint plan and show this to your customer"
+      ],
+      "answer": "B",
+      "explanation": "A release plan provides a forward-looking view of when features and outcomes will be delivered across multiple iterations. It sets expectations for dates, features, and expected outcomes over the course of several Sprints. While a Sprint review demonstrates completed work, it only shows the immediate next Sprint. A release plan gives the customer the future view they need to understand delivery timelines and expected value realization.",
+      "difficulty": "expert",
+      "topic": "Agile Release Planning and Product Roadmap",
+      "domain": 2,
+      "source_id": "yt_005",
+      "chunk_index": 37,
+      "video_segment": "6:13:46→6:23:52"
+    },
+    {
+      "question": "You are in the planning stages of your project where you need to find out exactly what the project customer needs so you can find a solution and make it happen. Your business analysts are new to their roles and they are not sure what their process will be. What will you do next?",
+      "options": [
+        "A. Ask the business analysts to begin writing user stories",
+        "B. Create the project management plan to outline how the project will be delivered",
+        "C. Work with the business analyst to create a requirements management plan",
+        "D. Create a work breakdown structure on the project scope"
+      ],
+      "answer": "C",
+      "explanation": "The requirements management plan is a component of the project management plan that specifically describes how requirements will be analyzed, documented, and managed. Since the business analysts are new and unsure of their process, establishing this plan first will guide their work. While user stories and a WBS are important, they come after establishing the requirements management process. The broader project management plan is less specific than the targeted requirements management plan needed here.",
+      "difficulty": "expert",
+      "topic": "Requirements Management Planning",
+      "domain": 2,
+      "source_id": "yt_005",
+      "chunk_index": 37,
+      "video_segment": "6:13:46→6:23:52"
+    },
+    {
+      "question": "You are working on a new software application with a lot of complex interdependencies. The senior user providing and testing most of the requirements is concerned that some of those dependencies will cause errors upon release if they are not checked thoroughly. What will you do next?",
+      "options": [
+        "A. Ask the senior user for a written list of all his requirements then check if they are included in the project scope",
+        "B. Raise a risk on the software complexity with the project team",
+        "C. Create an affinity diagram with the senior user where you group things together as per their affinity to each other",
+        "D. Review the test plan with the senior user"
+      ],
+      "answer": "D",
+      "explanation": "The test plan is where all complex requirements, interdependencies, test cases, and acceptance criteria are documented and managed. This is the appropriate artifact to address the senior user's concerns about catching errors caused by complex interdependencies before release. Reviewing the test plan ensures that all dependencies and their interactions are properly tested. While raising a risk is valid, the test plan is the more specific and direct solution for managing the testing of complex interdependencies.",
+      "difficulty": "expert",
+      "topic": "Test Planning and Quality Assurance",
+      "domain": 2,
+      "source_id": "yt_005",
+      "chunk_index": 37,
+      "video_segment": "6:13:46→6:23:52"
+    }
+  ]
+}

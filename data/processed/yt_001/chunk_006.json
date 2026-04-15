@@ -1,0 +1,111 @@
+{
+  "source_id": "yt_001",
+  "chunk_index": 6,
+  "start_label": "1:30:36",
+  "end_label": "1:45:43",
+  "mode": "extract",
+  "questions": [
+    {
+      "question": "At the midpoint of a renewable energy project, the project manager is faced with conflict between the design team and the environmental consultants regarding the feasibility of the proposed turbine placement. The design team believes the placement will optimize energy production, while the environmental consultants warn it could lead to significant ecological disruptions. What should the project manager take to resolve this conflict?",
+      "options": [
+        "A. Proceed with the design's recommendation to maximize energy output",
+        "B. Organize a collaborative session to discuss the impact and find a compromise",
+        "C. Consult and commission an independent review of the turbine's placement",
+        "D. Postpone decision on the turbine until further data"
+      ],
+      "answer": "B",
+      "explanation": "When there is conflict between people or teams, the project manager should help them resolve it collaboratively rather than choosing a side, which would constitute forcing. Bringing the teams together to work toward a solution is more effective than making a unilateral decision or postponing indefinitely. While compromise can be part of the discussion, the key is collaborative engagement.",
+      "difficulty": "expert",
+      "topic": "Conflict Resolution",
+      "domain": 1,
+      "source_id": "yt_001",
+      "chunk_index": 6,
+      "video_segment": "1:30:36→1:45:43"
+    },
+    {
+      "question": "After a new project is executed, an executive suggests incorporating a new add-on to provide more functionality to the product. What should the project manager do?",
+      "options": [
+        "A. Update the product immediately to include the suggested add-on without formal approval",
+        "B. Note the suggestion for inclusion in a separate risk assessment document",
+        "C. Integrate this executive feedback into an appendix of the current report",
+        "D. Encourage the executive to formalize the suggestion to a change request process"
+      ],
+      "answer": "D",
+      "explanation": "Any new add-on or scope change must go through the formal change control process. The project manager cannot approve or disapprove scope changes independently. The role is to manage the team building the deliverable while ensuring all changes follow proper procedures, not to make unilateral decisions about product scope.",
+      "difficulty": "expert",
+      "topic": "Scope Management and Change Control",
+      "domain": 2,
+      "source_id": "yt_001",
+      "chunk_index": 6,
+      "video_segment": "1:30:36→1:45:43"
+    },
+    {
+      "question": "At the onset of an urban regeneration project, the project manager observes that although team morale is high, meetings often diverge into unrelated conversations, causing them to overrun and decisions to be postponed. What is the most effective initial action for the PM to take?",
+      "options": [
+        "A. Schedule shorter meetings to encourage more focused discussions",
+        "B. Designate a time keeper to ensure meetings adhere to schedule times",
+        "C. Emphasize the meeting objectives and agenda at the beginning of each session",
+        "D. Introduce a digital platform for team members to share non-project-related discussions"
+      ],
+      "answer": "C",
+      "explanation": "The keyword is 'initial action.' The simplest and least resource-intensive approach is to emphasize objectives and agenda at the start of each meeting. If this fails, more drastic measures like shorter meetings or designating a time keeper could follow. The initial action should never be the most extreme measure; it should attempt to solve the problem in the easiest way possible first.",
+      "difficulty": "expert",
+      "topic": "Team Management and Meeting Effectiveness",
+      "domain": 1,
+      "source_id": "yt_001",
+      "chunk_index": 6,
+      "video_segment": "1:30:36→1:45:43"
+    },
+    {
+      "question": "During routine progress update sessions for a multinational project, a project manager notes that one of the key technical analysts, although exceptionally knowledgeable, rarely contributes to group discussions despite engaging actively in private conversations. What should you do?",
+      "options": [
+        "A. Schedule a dedicated session where only the technical analyst presents their findings to the team",
+        "B. Actively solicit the analyst's input during meetings, emphasizing the importance of their expertise to the project's success",
+        "C. Create an anonymous feedback mechanism where the analyst can submit their insights without speaking up",
+        "D. Wait for the analyst to naturally become more comfortable and decide to contribute to discussions at their own pace"
+      ],
+      "answer": "B",
+      "explanation": "The goal is to get the analyst to contribute in group discussions. Actively soliciting their input and emphasizing its value directly addresses this need. Option A puts the analyst in the spotlight alone, which may worsen the issue. Option C is ineffective because if only one person uses it, it is not truly anonymous. Option D is inaction and you cannot wait indefinitely for someone to self-correct.",
+      "difficulty": "expert",
+      "topic": "Team Engagement and Communication",
+      "domain": 1,
+      "source_id": "yt_001",
+      "chunk_index": 6,
+      "video_segment": "1:30:36→1:45:43"
+    },
+    {
+      "question": "Just before the final review of a new software development project, the project manager is informed by the quality assurance team that several key features do not meet the predefined specifications agreed upon with the client. Correcting these issues will delay the project delivery by several weeks. What should you do next?",
+      "options": [
+        "A. Prioritize the work to meet the agreed specifications, accepting that the project timeline may need to be extended",
+        "B. Suggest a partial delivery of the project to the client with non-compliant features to be updated in a future release",
+        "C. Propose a compromise on the specification to the client, reducing the scope to match your current state",
+        "D. Consult with the development team to find a faster solution that could reduce the delay while attempting to meet the specification"
+      ],
+      "answer": "D",
+      "explanation": "The key word is 'next,' meaning the immediate first action. Before communicating with the client or making decisions about scope, you should first consult with the development team to explore whether faster solutions exist that could reduce delays. You cannot unilaterally reduce scope or approve partial delivery without sponsor or customer approval. Consulting the team comes first to explore all options.",
+      "difficulty": "expert",
+      "topic": "Quality Management and Problem-Solving",
+      "domain": 2,
+      "source_id": "yt_001",
+      "chunk_index": 6,
+      "video_segment": "1:30:36→1:45:43"
+    },
+    {
+      "question": "During a critical phase of an Agile development project, a specialist responsible for designing a key component is unexpectedly required to take extensive medical leave. The specialist's tasks are now at risk of delay as they are the only individual equipped with the necessary expertise. What proactive measure could a project manager have taken to mitigate this risk?",
+      "options": [
+        "A. Build a cross-functional team and distribute the specialist's tasks among several members from the project onset",
+        "B. Establish a comprehensive documentation practice for all project tasks",
+        "C. Allocate additional funds to hire temporary specialists if needed",
+        "D. Distribute only this specialist's tasks among other team members"
+      ],
+      "answer": "A",
+      "explanation": "The key word is 'proactive,' meaning preventive action taken before the problem occurs. In Agile, the best practice is to build a cross-functional team of generalizing specialists where everyone is capable of helping everyone else from the project's start. This reduces bottlenecks and single points of failure. Option B addresses documentation of only this specialist's tasks after the fact. Option C requires predicting the unforeseen event. Option D would have been reactive rather than proactive.",
+      "difficulty": "expert",
+      "topic": "Agile Team Structure and Risk Mitigation",
+      "domain": 2,
+      "source_id": "yt_001",
+      "chunk_index": 6,
+      "video_segment": "1:30:36→1:45:43"
+    }
+  ]
+}

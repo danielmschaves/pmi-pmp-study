@@ -1,0 +1,60 @@
+{
+  "source_id": "yt_002",
+  "chunk_index": 5,
+  "start_label": "1:15:34",
+  "end_label": "1:30:41",
+  "mode": "extract",
+  "questions": [
+    {
+      "question": "A project manager is in the phase of planning the redesign of a commercial building. The project team includes one carpenter who is only available to work part-time. Since the carpenter's work is on the critical path, the project manager has to push back the project's planned completion date to accommodate the carpenter's availability. What technique did the project manager use?",
+      "options": [
+        "A. Load balancing",
+        "B. Resource loading",
+        "C. Resource leveling",
+        "D. Resource smoothing"
+      ],
+      "answer": "C",
+      "explanation": "Resource leveling is used to optimize resource allocation by adjusting activity start and finish dates to accommodate resource constraints, often resulting in changes to the original critical path and project schedule. Load balancing is an IT concept unrelated to project management. Resource loading is used when distributing work among multiple resources with different workloads. Resource smoothing attempts to accommodate constraints without changing the schedule by rearranging non-critical activities. Since the project manager must push back the completion date to accommodate the carpenter's part-time availability, resource leveling is the correct technique.",
+      "difficulty": "hard",
+      "topic": "Resource Management and Leveling",
+      "domain": 2,
+      "source_id": "yt_002",
+      "chunk_index": 5,
+      "video_segment": "1:15:34→1:30:41"
+    },
+    {
+      "question": "A project manager is carrying out a project using the agile approach with two-week sprints. One week into the current sprint, the team hasn't completed any of the sprint backlog items, making it impossible to achieve the sprint goal. What should the project manager do?",
+      "options": [
+        "A. Cancel the sprint, hold an early retrospective meeting, and start over with a new energy",
+        "B. Discuss with the team the root cause of their poor performance during the stand-up meeting",
+        "C. Discuss with the product owner the possibility of updating the sprint goal to make it more achievable",
+        "D. Invite the product owner and the team to renegotiate the sprint backlog and help the team overcome the encountered problems"
+      ],
+      "answer": "D",
+      "explanation": "Only the product owner can cancel a sprint, not the project manager. Stand-up meetings are for brief daily synchronization and capturing blockers, not for conducting root cause analysis or lengthy discussions about performance issues. Lowering the sprint goal undermines team motivation and does not resolve the underlying problems. The correct approach is to renegotiate the sprint backlog with the product owner and team to prioritize items that contribute most to the sprint goal, remove less critical items, and help the team overcome obstacles. This proactively maximizes the value delivered and achievement of the sprint goal.",
+      "difficulty": "hard",
+      "topic": "Agile/Scrum Sprint Management",
+      "domain": 2,
+      "source_id": "yt_002",
+      "chunk_index": 5,
+      "video_segment": "1:15:34→1:30:41"
+    },
+    {
+      "question": "A project manager is facilitating a meeting to define the user stories of the next iteration. Two team members, Charlotte and Sam, get too vocal during the meeting. Charlotte believes that user story 2 is clear enough while Sam thinks it's ambiguous and needs further elaboration. The team moves on to the next user story, ignoring Sam's point of view. Sam accepts the team's decision and remains quiet for the rest of the meeting. At the end of the meeting, the project manager tells Sam that user story 2 could be reviewed during the iteration's first week when more information is available. Which of the following conflict resolution techniques did Sam use in this scenario?",
+      "options": [
+        "A. Smoothing",
+        "B. Compromising",
+        "C. Forcing",
+        "D. Withdrawal"
+      ],
+      "answer": "D",
+      "explanation": "Smoothing was used by the project manager to lower the impact of the conflict by reassuring Sam that the issue could be addressed later. Compromising requires both parties to give something up and reach a mutual agreement, which did not occur. Forcing was used by Charlotte, who pushed her decision forward without addressing Sam's concerns. Withdrawal is what Sam used—he conceded his position, remained quiet, and accepted the team's decision to maintain harmony. This results in a lose-lose situation where Sam's valid concern is not addressed.",
+      "difficulty": "hard",
+      "topic": "Conflict Resolution",
+      "domain": 1,
+      "source_id": "yt_002",
+      "chunk_index": 5,
+      "video_segment": "1:15:34→1:30:41"
+    }
+  ]
+}

@@ -1,0 +1,145 @@
+{
+  "source_id": "yt_001",
+  "chunk_index": 9,
+  "start_label": "2:15:54",
+  "end_label": "2:30:59",
+  "mode": "extract",
+  "questions": [
+    {
+      "question": "A project manager is overseeing the construction of a new office building. The project is running over budget due to high cost of materials. The project team suggests several options to cut cost, including using less materials that may slightly reduce durability, simplifying the build-in design, or eliminating some non-essential features. Which approach should the project manager use to address costs while ensuring the building meets its intended purpose?",
+      "options": [
+        "A. Earn Value Management",
+        "B. Value Engineering",
+        "C. Critical Path Method",
+        "D. Monte Carlo Simulation"
+      ],
+      "answer": "B",
+      "explanation": "Value Engineering is the correct approach because it focuses on delivering what the customer wants in the most cost-effective way while maintaining the same level of function. The other options are not applicable: Earn Value Management tracks budget performance, Critical Path Method builds schedules, and Monte Carlo Simulation runs multiple simulations for prediction.",
+      "difficulty": "expert",
+      "topic": "Value Engineering",
+      "domain": 2,
+      "source_id": "yt_001",
+      "chunk_index": 9,
+      "video_segment": "2:15:54→2:30:59"
+    },
+    {
+      "question": "During a project charter review session, a dispute arises between the sponsor and the product owner witnessed by the team and other stakeholders. In this situation, what should the project manager do to manage the conflict and continue the project?",
+      "options": [
+        "A. Propose a follow-up session to address unresolved issues after the meeting",
+        "B. Facilitate the meeting actively using conflict resolution strategies to manage the dispute and maintain team cohesion",
+        "C. Adjourn the meeting immediately and suggest a cool-off period",
+        "D. Arrange a separate conflict resolution session with a neutral facilitator to assist parties"
+      ],
+      "answer": "B",
+      "explanation": "The best answer is B because the project manager should take a direct, confronting approach to manage conflict immediately. Actively facilitating the meeting with conflict resolution strategies addresses the issue right away and maintains team cohesion. Postponing or avoiding the conflict (options A, C, and D) allows it to escalate and negatively impact the project.",
+      "difficulty": "expert",
+      "topic": "Conflict Resolution",
+      "domain": 1,
+      "source_id": "yt_001",
+      "chunk_index": 9,
+      "video_segment": "2:15:54→2:30:59"
+    },
+    {
+      "question": "A project manager tasked with organizing risk for a new infrastructure project to ensure comprehensive risk management decides to use a risk breakdown structure. However, the team is concerned that the RBS may become overly complex and difficult to manage. What should the project manager do to create an effective and manageable RBS?",
+      "options": [
+        "A. Develop a simple categorization scheme that only includes high-priority risks",
+        "B. Use an existing RBS from a similar project and adapt it to the current project needs",
+        "C. Create a detailed RBS with multiple subcategories to capture all potential risks",
+        "D. Involve key stakeholders in development of the RBS to ensure it is comprehensive and manageable"
+      ],
+      "answer": "D",
+      "explanation": "The best answer is D because involving key stakeholders, team members, and subject matter experts ensures the RBS is both comprehensive and manageable. Every project is unique, and stakeholder involvement increases the likelihood of successful risk identification and categorization. Simply adapting an existing template (B) or limiting to high-priority risks (A) may miss important risks.",
+      "difficulty": "expert",
+      "topic": "Risk Breakdown Structure",
+      "domain": 2,
+      "source_id": "yt_001",
+      "chunk_index": 9,
+      "video_segment": "2:15:54→2:30:59"
+    },
+    {
+      "question": "In a construction project, the project manager decides to implement value engineering to enhance the project's value. The goal is to improve the ratio of function to cost by analyzing and proposing cost-effective solutions. What should the project manager do first?",
+      "options": [
+        "A. Have the team conduct a brainstorm session to remove functions for cost reduction",
+        "B. Focus solely on reducing cost even if it means compromising functionality",
+        "C. Engage with stakeholders to understand the critical functions",
+        "D. Implement all proposed changes immediately to maximize cost savings"
+      ],
+      "answer": "C",
+      "explanation": "The correct answer is C because value engineering is about maintaining functionality while reducing cost. Before optimizing or reducing functions, the project manager must first understand what the critical functions are by engaging with stakeholders. Options A and B should be eliminated because they compromise functionality, which defeats the purpose of value engineering. Option D skips proper evaluation and approval.",
+      "difficulty": "expert",
+      "topic": "Value Engineering",
+      "domain": 2,
+      "source_id": "yt_001",
+      "chunk_index": 9,
+      "video_segment": "2:15:54→2:30:59"
+    },
+    {
+      "question": "A project manager is conducting a value engineering workshop to identify ways to improve a project's value. During the session, a team member suggests replacing a component with a cheaper alternative that slightly reduces performance but saves a significant amount of money. What should the project manager do to determine if this solution aligns with value engineering principles?",
+      "options": [
+        "A. Approve the change as it reduces overall project cost",
+        "B. Reject the change as it reduces performance",
+        "C. Evaluate the reduction in performance and its impact on project functionality",
+        "D. Implement the change if it does not require additional stakeholder approval"
+      ],
+      "answer": "C",
+      "explanation": "The correct answer is C. The project manager must evaluate any proposed change before making a decision. Approving (A) or rejecting (B) without evaluation, or implementing (D) without proper approval, violates sound project management practices. Value engineering requires balancing cost savings with functionality, so understanding the impact of reduced performance on overall project functionality is essential.",
+      "difficulty": "expert",
+      "topic": "Value Engineering and Change Management",
+      "domain": 2,
+      "source_id": "yt_001",
+      "chunk_index": 9,
+      "video_segment": "2:15:54→2:30:59"
+    },
+    {
+      "question": "A project manager is working on a large infrastructure project that is facing schedule delays. The project manager wants to use an advanced forecasting technique to predict the future status and progress of the project. The project team has been using Earned Value Management to track progress. What should the project manager do to forecast the project completion date accurately?",
+      "options": [
+        "A. Apply the Schedule Performance Index to the remaining work and calculate the Estimate at Completion",
+        "B. Conduct a Monte Carlo simulation to account for potential variations in the schedule",
+        "C. Use the Critical Path Method to reevaluate the timeline",
+        "D. Implement rolling wave planning to adjust future work plans"
+      ],
+      "answer": "A",
+      "explanation": "The correct answer is A. When using Earned Value Management, the Schedule Performance Index (SPI) can be applied to remaining work to calculate the Estimate at Completion (EAC), which provides an accurate forecast of the project completion date. Monte Carlo simulations are useful for exploring multiple scenarios but are less direct for this purpose. Critical Path Method develops schedules rather than predicts completion. Rolling wave planning is a planning technique, not a forecasting technique.",
+      "difficulty": "expert",
+      "topic": "Earned Value Management and Forecasting",
+      "domain": 2,
+      "source_id": "yt_001",
+      "chunk_index": 9,
+      "video_segment": "2:15:54→2:30:59"
+    },
+    {
+      "question": "A software development project is midway through its timeline, and the project manager notices that actual progress is lagging behind the planned schedule. The sponsor is concerned about meeting the upcoming milestone. What technique should the project manager use to address the sponsor's concern and predict the project completion date?",
+      "options": [
+        "A. Create a trend analysis using historical performance data",
+        "B. Apply Earned Value Management to calculate the time variance",
+        "C. Use three-point estimation to forecast future tasks",
+        "D. Perform a resource leveling analysis to optimize resource allocation"
+      ],
+      "answer": "B",
+      "explanation": "The correct answer is B. Earned Value Management, specifically using the Estimate at Completion (EAC) formula, is the most accurate technique to predict schedule performance and project completion date because it is based on current project performance, not just historical data. Trend analysis (A) relies only on historical performance and is less accurate. Three-point estimation (C) is used to estimate task duration, not predict overall project completion. Resource leveling (D) does not predict schedule performance.",
+      "difficulty": "expert",
+      "topic": "Earned Value Management and Schedule Forecasting",
+      "domain": 2,
+      "source_id": "yt_001",
+      "chunk_index": 9,
+      "video_segment": "2:15:54→2:30:59"
+    },
+    {
+      "question": "A construction project is experiencing significant delays due to many unforeseen weather conditions, causing concerns about meeting the final deadline. The project manager needs to predict the potential impact on the project completion dates and communicate this. What approach should the project manager take?",
+      "options": [
+        "A. Update the Gantt chart with the new weather delay information and manually adjust the timeline",
+        "B. Use a Monte Carlo simulation to predict the probability of various completion dates",
+        "C. Apply Critical Path Method analysis to identify which activities can be fast-tracked",
+        "D. Perform a cost-benefit analysis to decide whether to hire additional resources to mitigate delays"
+      ],
+      "answer": "B",
+      "explanation": "The correct answer is B. A Monte Carlo simulation is ideal when there are many unforeseen conditions and scenarios to consider. It runs hundreds or thousands of simulations to predict the probability of various completion dates under different weather conditions. Updating the Gantt chart (A) is a manual approach and does not account for multiple scenarios. Critical Path Method (C) is used to develop schedules, not predict outcomes under varying conditions. Cost-benefit analysis (D) should come after understanding the impact through simulation.",
+      "difficulty": "expert",
+      "topic": "Monte Carlo Simulation and Schedule Forecasting",
+      "domain": 2,
+      "source_id": "yt_001",
+      "chunk_index": 9,
+      "video_segment": "2:15:54→2:30:59"
+    }
+  ]
+}

@@ -1,0 +1,94 @@
+{
+  "source_id": "yt_003",
+  "chunk_index": 0,
+  "start_label": "0:00",
+  "end_label": "15:07",
+  "mode": "extract",
+  "questions": [
+    {
+      "question": "You have been assigned to a new project where the work is behind schedule and the team are not working together well. The team is relatively new and conflicts are arising. Team members are blaming each other for the work not done and some people are not showing up to work on the project at all. What will you do next?",
+      "options": [
+        "A. Meet with the functional manager of that area to agree on team members' time requirements",
+        "B. Meet with your team to set a charter, team charter, and define roles and responsibilities",
+        "C. Meet with the project sponsor to gain additional funding for resources who can work together",
+        "D. Escalate the issue to the steering committee as soon as possible as a project risk"
+      ],
+      "answer": "B",
+      "explanation": "The best approach is to create a collaborative team environment through a team charter that defines roles, responsibilities, and team agreements. This addresses the root causes of conflict and poor collaboration in a new team. Escalating without first managing the issue is premature. Additional funding doesn't guarantee conflict resolution. The standard for project management requires creating a collaborative team environment with team agreements, role definitions, and regular meetings.",
+      "difficulty": "hard",
+      "topic": "Team Development and Conflict Management",
+      "domain": 1,
+      "source_id": "yt_003",
+      "chunk_index": 0,
+      "video_segment": "0:00→15:07"
+    },
+    {
+      "question": "You have recently completed a project for a new product and have been asked to manage it after its release to keep it relevant in today's marketplace. Half of your existing team are rolling off to other projects and the project budget is nearly depleted. What should you do?",
+      "options": [
+        "A. Create a business case and a project charter for your project sponsor to approve",
+        "B. Retain as many of your current project staff to continue work on the product",
+        "C. Raise a change request for your current project and add scope and continue making changes",
+        "D. Secure funding for a stable team and use current research to form a suite of projects to improve the product"
+      ],
+      "answer": "D",
+      "explanation": "This scenario transitions from project management to product management. Product management involves maintaining and developing a product throughout its lifecycle, which requires a stable team that continuously releases features over time. A depleted budget and rolling-off team members indicate the need for new funding and a different organizational structure than a single project. Creating new project charters or adding scope to the current project are not appropriate for ongoing product management and maintenance activities.",
+      "difficulty": "hard",
+      "topic": "Product Management and Project versus Operations",
+      "domain": 3,
+      "source_id": "yt_003",
+      "chunk_index": 0,
+      "video_segment": "0:00→15:07"
+    },
+    {
+      "question": "You are delivering a critical change and several key stakeholders in your organization have added seemingly unnecessary steps for you to take with extra approvals, reports, and meetings. They are also restricting the people you need from working on your project in a larger capacity. What will you do next?",
+      "options": [
+        "A. Go directly to the people you need to avoid extra back and forth with the stakeholders",
+        "B. Raise a risk in the risk register on the lack of access to sufficient resources",
+        "C. Communicate more often with the stakeholders and gain a deeper awareness of their ideas and situation",
+        "D. Show your stakeholders the resource assignment matrix and project roles and responsibilities"
+      ],
+      "answer": "C",
+      "explanation": "Effective stakeholder engagement through regular communication and knowledge sharing helps address underlying concerns. Stakeholders may be adding requirements or restricting resources due to lack of engagement or understanding rather than actual project needs. Going directly to resources circumvents authority and creates conflict. Raising a risk doesn't solve the engagement problem. While showing documentation is useful, winning stakeholder buy-in requires understanding their perspective first.",
+      "difficulty": "hard",
+      "topic": "Stakeholder Engagement and Communication",
+      "domain": 1,
+      "source_id": "yt_003",
+      "chunk_index": 0,
+      "video_segment": "0:00→15:07"
+    },
+    {
+      "question": "You are managing a project team made up mostly of men. Recently, Jane was hired for her high expertise in the brands that make up your industry. You notice she has been left out of some key meetings and others are overlooking her opinions. You also notice she has paid significantly less than her male colleagues. What will you do next?",
+      "options": [
+        "A. Make steps to update her pay to the same range as the others on your project and ask her opinion and advice specifically during each meeting along with others in your team",
+        "B. Take the lower pay as a win for your project as it will help keep costs low and her colleagues do not need to know",
+        "C. Ask Jane to write down her knowledge of the industry just in case she leaves",
+        "D. Do not rock the boat; this is just how people work in this industry"
+      ],
+      "answer": "A",
+      "explanation": "This question addresses integrity and stewardship in project management. Fair and respectful treatment of all team members—including equal compensation, access to opportunity, and respectful engagement—is essential. When inequity is discovered, engagement plummets and valuable team members leave. As a leader, you must ensure respectful engagement and fair treatment. Ignoring pay inequity or exclusion from meetings undermines team cohesion and violates ethical principles of project management.",
+      "difficulty": "hard",
+      "topic": "Integrity, Stewardship, and Diversity",
+      "domain": 1,
+      "source_id": "yt_003",
+      "chunk_index": 0,
+      "video_segment": "0:00→15:07"
+    },
+    {
+      "question": "During one of your work group meetings, a stakeholder raises the concern that the product you are working on will be discontinued in the next five months. You are not aware of this and your project budget has already been approved until the scheduled delivery, which is in five months. What should you do?",
+      "options": [
+        "A. Keep the project going as it is; the discontinued product is not your responsibility",
+        "B. Set a meeting with your project sponsor to share the information and make a recommendation to terminate the project",
+        "C. Change the scope of the project to meet a different product so your project can remain relevant",
+        "D. Ask for additional funding to see if you can improve the product instead of discontinuing it"
+      ],
+      "answer": "B",
+      "explanation": "The primary motivator for a project is delivering value aligned with business needs. If the product will be discontinued, continuing the project no longer provides value and wastes resources. The appropriate action is to escalate to the project sponsor immediately with information and a recommendation to terminate. Changing scope mid-project without stakeholder alignment is inappropriate. Continuing a project that will produce a discontinued product violates stewardship principles and wastes organizational resources.",
+      "difficulty": "hard",
+      "topic": "Project Value and Benefits Realization",
+      "domain": 3,
+      "source_id": "yt_003",
+      "chunk_index": 0,
+      "video_segment": "0:00→15:07"
+    }
+  ]
+}

@@ -1,0 +1,145 @@
+{
+  "source_id": "yt_001",
+  "chunk_index": 10,
+  "start_label": "2:30:59",
+  "end_label": "2:46:04",
+  "mode": "extract",
+  "questions": [
+    {
+      "question": "During the execution phase of a manufacturing project, an internal audit team reveals several non-conformances in the production process. The audit team has identified these issues as potential risks to the success of the project. What should the project manager do to address these non-conformances immediately?",
+      "options": [
+        "A. Halt the production process until all non-conformances are resolved",
+        "B. Develop and implement corrective actions to address these non-conformances identified by the team",
+        "C. Dismiss the non-conformances as minor issues and continue",
+        "D. Inform the sponsor about these non-conformances and request additional resources"
+      ],
+      "answer": "B",
+      "explanation": "The question asks how to fix the problem, not what to do next or first. Halting the project is only appropriate for safety issues or legal violations. Dismissing non-conformances and ignoring them is never acceptable. Going to the sponsor for help is inappropriate as they hired the project manager to solve problems. Developing and implementing corrective actions to address identified risks is the correct approach.",
+      "difficulty": "expert",
+      "topic": "Quality Management & Risk Response",
+      "domain": 2,
+      "source_id": "yt_001",
+      "chunk_index": 10,
+      "video_segment": "2:30:59→2:46:04"
+    },
+    {
+      "question": "In the middle of a large infrastructure project, the project manager receives a report from an external quality auditor highlighting several significant non-conformances. These issues, if not addressed, could impact the timeline and budget. What should you do to address these non-conformances effectively?",
+      "options": [
+        "A. Continue the plan and monitor these non-conformances",
+        "B. Escalate all non-conformances to leadership",
+        "C. Request the sponsor to review the auditor report",
+        "D. Integrate the recommended corrective actions from the audit report into the plan"
+      ],
+      "answer": "D",
+      "explanation": "Continuing with the current plan and monitoring is doing nothing. The sponsor should only be consulted for approvals or disapprovals, not for guidance on how to manage the project. Adjusting scope requires a formal change request and is not the immediate response to non-conformances. Integrating recommended corrective actions from the audit report is the best approach, as it directly addresses the identified issues while maintaining project control.",
+      "difficulty": "expert",
+      "topic": "Quality Management & Audit Response",
+      "domain": 2,
+      "source_id": "yt_001",
+      "chunk_index": 10,
+      "video_segment": "2:30:59→2:46:04"
+    },
+    {
+      "question": "A project manager is preparing to oversee the development of a new mobile application. During a stakeholder meeting, a senior executive expresses concern that the project may not align with the strategic goals of the organization. The project manager needs to address this concern to ensure continued support and alignment. What should you do next?",
+      "options": [
+        "A. Reassure the executive that the team is capable of delivering the project on time and within budget",
+        "B. Review the project alignment with the strategic goals",
+        "C. Schedule a follow-up meeting with the executive to discuss project benefits in more detail",
+        "D. Conduct a performance review of the project team to identify any areas for improvement"
+      ],
+      "answer": "B",
+      "explanation": "The stakeholder has raised a concern about strategic alignment, so the immediate action should be to analyze whether the project actually aligns with strategic goals before taking any other action. Reassuring without verification does nothing to address the concern. Scheduling a follow-up meeting and conducting a performance review are premature actions when you haven't yet verified alignment with organizational strategy.",
+      "difficulty": "expert",
+      "topic": "Stakeholder Management & Strategic Alignment",
+      "domain": 3,
+      "source_id": "yt_001",
+      "chunk_index": 10,
+      "video_segment": "2:30:59→2:46:04"
+    },
+    {
+      "question": "A project manager is working on a government infrastructure project that requires strict compliance with company standards. During a routine review, the project manager discovers that some activities may not meet the required standards. What should you do?",
+      "options": [
+        "A. Halt all activities until a full compliance review is conducted",
+        "B. Update the project plan to include additional quality checks",
+        "C. Notify regulatory authorities about the non-compliance activities",
+        "D. Conduct a root cause analysis to identify the reasons for non-compliance and implement corrective actions"
+      ],
+      "answer": "D",
+      "explanation": "The key word is 'may not meet' standards, indicating potential rather than confirmed non-compliance. Halting the project should only occur if there is confirmed illegal activity or safety risk. Notifying regulators about potential issues prematurely may cause unnecessary escalation. Updating the plan without understanding root causes is premature. Conducting a root cause analysis to understand why standards may not be met and then implementing corrective actions is the appropriate professional response.",
+      "difficulty": "expert",
+      "topic": "Compliance & Quality Management",
+      "domain": 2,
+      "source_id": "yt_001",
+      "chunk_index": 10,
+      "video_segment": "2:30:59→2:46:04"
+    },
+    {
+      "question": "During the construction of a new building, the project manager learns that unforeseen geological issues will significantly increase the cost beyond the budget. What should you do next?",
+      "options": [
+        "A. Adjust the timeline to reduce labor cost",
+        "B. Consult with a geological technician for a remote cost-effective solution",
+        "C. Implement phased construction",
+        "D. Analyze the situation and consider all possible solutions"
+      ],
+      "answer": "D",
+      "explanation": "This situation requires a comprehensive analysis before taking any action. Adjusting the timeline without understanding all implications may not solve the cost issue and could require a change request. Consulting with a geological technician is premature without first understanding the full scope of the problem. Implementing phased construction may not address the cost overrun. Analyzing the situation first allows the project manager to consider all possible solutions before committing to any specific course of action.",
+      "difficulty": "expert",
+      "topic": "Risk Management & Cost Control",
+      "domain": 2,
+      "source_id": "yt_001",
+      "chunk_index": 10,
+      "video_segment": "2:30:59→2:46:04"
+    },
+    {
+      "question": "As a project manager overseeing the rollout of a new IT system, it is discovered halfway through the fiscal year that several critical software enhancements funded by this year's budget will not be completed on schedule. These enhancements were initiated based on mid-year changes and are critical for the project's success. What should you do first?",
+      "options": [
+        "A. Initiate a review of the scope to identify areas for schedule acceleration",
+        "B. Collaborate with the team to assess the project deliverables and focus on critical enhancements",
+        "C. Engage the sponsor to adjust expectations and secure support for extended timelines",
+        "D. Communicate the progress and adjust the timelines for these enhancements to the finance department"
+      ],
+      "answer": "B",
+      "explanation": "When facing a schedule challenge, the first step should be to work with the team to assess deliverables and prioritize critical enhancements. The team provides the best insights on what can be accelerated or reprioritized. Initiating a scope review alone won't give you the answers—the team must be involved. Engaging the sponsor should come after you've worked with your team to understand options. Finance should be informed, but they are not the primary stakeholders for solving the delivery challenge.",
+      "difficulty": "expert",
+      "topic": "Schedule Management & Team Collaboration",
+      "domain": 2,
+      "source_id": "yt_001",
+      "chunk_index": 10,
+      "video_segment": "2:30:59→2:46:04"
+    },
+    {
+      "question": "In the midst of a major software development project, the project manager is preparing for an upcoming executive in-depth review. The project manager must present how the project's progress is being tracked and measured to the executive team who are keen to understand how effectively the project is being managed. What should the project manager focus on in their presentation?",
+      "options": [
+        "A. Provide a detailed report on team productivity and individual contributions",
+        "B. Compile Earned Value Management (EVM) metrics including the Schedule Variance (SV) and Cost Variance (CV) for a comprehensive review",
+        "C. Discuss the implementation of the new project management tool and its impact on project efficiency",
+        "D. Outline the risks encountered so far and the mitigation strategies"
+      ],
+      "answer": "B",
+      "explanation": "Executives want to understand how progress is tracked and measured. EVM metrics including Schedule Variance and Cost Variance directly answer this by measuring project performance in terms of time and cost—the two most critical dimensions of project management. Team productivity and individual contributions are input-focused, not measurement-focused. The project management tool implementation is not a measure of progress. Risk mitigation is important but doesn't directly address how progress is tracked and measured.",
+      "difficulty": "expert",
+      "topic": "Earned Value Management & Performance Measurement",
+      "domain": 2,
+      "source_id": "yt_001",
+      "chunk_index": 10,
+      "video_segment": "2:30:59→2:46:04"
+    },
+    {
+      "question": "Leading a new agile global environmental conservation project, the project manager oversees a diverse team distributed across several continents. Recognizing the diverse cultural backgrounds within the team, the project manager aims to foster unity and effective collaboration. What is the most effective action for the project manager to enhance team integration?",
+      "options": [
+        "A. Organize a series of cross-functional training for all teams to educate them about cultural differences",
+        "B. Set up a digital collaboration space for the team to share personal and professional updates",
+        "C. Arrange monthly face-to-face retreats",
+        "D. Encourage open communication and demonstrate confidence in the team's ability and contributions"
+      ],
+      "answer": "D",
+      "explanation": "In an agile environment, the project manager is a servant leader, and the team is self-directing and self-managing. The key principle is to step back and let the team work through challenges collaboratively rather than imposing solutions. Monthly face-to-face retreats are not feasible for a globally distributed team. A digital collaboration space is a tool but doesn't guarantee integration. While cultural training has value, in the agile context, encouraging open communication and demonstrating confidence in the team allows them to figure out their own solutions and build trust. This empowerment is more effective than prescriptive training.",
+      "difficulty": "expert",
+      "topic": "Agile Team Leadership & Emotional Intelligence",
+      "domain": 1,
+      "source_id": "yt_001",
+      "chunk_index": 10,
+      "video_segment": "2:30:59→2:46:04"
+    }
+  ]
+}

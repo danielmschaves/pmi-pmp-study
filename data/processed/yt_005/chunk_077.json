@@ -1,0 +1,77 @@
+{
+  "source_id": "yt_005",
+  "chunk_index": 77,
+  "start_label": "12:57:52",
+  "end_label": "13:07:58",
+  "mode": "extract",
+  "questions": [
+    {
+      "question": "A stakeholder approaches you and says they have not been engaged sufficiently even though they believe their team is highly impacted by the change. They advise they may block the project as a result. What should you do next?",
+      "options": [
+        "A. Perform stakeholder engagement assessment with your stakeholder",
+        "B. Add them to the stakeholder register including their salary and interest information",
+        "C. Add them to the stakeholder register including their impact and influence information",
+        "D. Raise a risk to the project delivery due to the nature of their actions"
+      ],
+      "answer": "C",
+      "explanation": "The stakeholder register should record information about project stakeholders including their assessment and classification, impact, and influence. This ensures their details are properly documented and classified before taking further action. While a stakeholder engagement assessment is important, adding the stakeholder to the register with their impact and influence information is the more complete and appropriate next step. Salary information is not relevant to stakeholder management, and raising a risk without first attempting to manage the stakeholder is premature.",
+      "difficulty": "expert",
+      "topic": "Stakeholder Management and Engagement",
+      "domain": 1,
+      "source_id": "yt_005",
+      "chunk_index": 77,
+      "video_segment": "12:57:52→13:07:58"
+    },
+    {
+      "question": "You are a product owner on an agile project and have created a product backlog of features in prioritized order for delivery. You ask the team to break down the first feature into user stories and estimate their effort. What will you do next?",
+      "options": [
+        "A. Create an iteration plan with your team",
+        "B. Create the product roadmap with your team",
+        "C. Perform a Sprint review",
+        "D. Begin daily stand-ups with your team"
+      ],
+      "answer": "A",
+      "explanation": "After user stories are created and estimated with story points, the next step is to create an iteration plan (Sprint plan) with the team. This involves taking the estimated user stories and placing as much work as possible into the upcoming Sprint to match the team's velocity. The product roadmap would have been created earlier before breaking down into user stories. Sprint reviews occur after work is completed, and daily stand-ups cannot begin until the Sprint is planned.",
+      "difficulty": "expert",
+      "topic": "Agile Planning and Iteration Management",
+      "domain": 2,
+      "source_id": "yt_005",
+      "chunk_index": 77,
+      "video_segment": "12:57:52→13:07:58"
+    },
+    {
+      "question": "You have worked with your project customer to create a list of features that will bring the most value to them. They would like to see when some of this value will be delivered and the expected outcomes of each. What will you do next?",
+      "options": [
+        "A. Show the features at the next Sprint review so the customer can see what they look like",
+        "B. Place the features on a release plan and show this to the customer",
+        "C. Check the features against the velocity chart to see when they might be delivered",
+        "D. Place the features into the next Sprint plan and show this to your customer"
+      ],
+      "answer": "B",
+      "explanation": "A release plan is the appropriate tool to show the customer when features will be delivered and the expected outcomes over multiple iterations. The release plan provides a forward-looking view across multiple Sprints, setting expectations for dates, features, and outcomes. While a Sprint review demonstrates completed work from a single iteration, it does not provide the future view needed. A velocity chart can inform the release plan but is not the primary tool for showing delivery dates to customers. Similarly, the next Sprint plan only covers one iteration rather than the full roadmap.",
+      "difficulty": "expert",
+      "topic": "Agile Release Planning",
+      "domain": 2,
+      "source_id": "yt_005",
+      "chunk_index": 77,
+      "video_segment": "12:57:52→13:07:58"
+    },
+    {
+      "question": "You are in the planning stages of your project where you need to find out exactly what the project customer needs so you can find a solution and make it happen. Your business analysts are new to their roles and are not sure what their process will be. What will you do next?",
+      "options": [
+        "A. Ask the business analysts to begin writing user stories",
+        "B. Create the project management plan to outline how the project will be delivered",
+        "C. Work with the business analysts to create a requirements management plan",
+        "D. Create a work breakdown structure based on the project scope"
+      ],
+      "answer": "C",
+      "explanation": "The requirements management plan (sometimes called the business analysis plan) describes how requirements will be analyzed, documented, and managed. This is the appropriate first step when business analysts need guidance on their process. It establishes the approach for gathering, managing, and tracing requirements before moving to user stories or creating the WBS. While the project management plan will eventually include this information, creating a dedicated requirements management plan is more specific and appropriate for addressing the business analysts' needs.",
+      "difficulty": "expert",
+      "topic": "Requirements Management Planning",
+      "domain": 2,
+      "source_id": "yt_005",
+      "chunk_index": 77,
+      "video_segment": "12:57:52→13:07:58"
+    }
+  ]
+}

@@ -1,0 +1,77 @@
+{
+  "source_id": "yt_005",
+  "chunk_index": 43,
+  "start_label": "7:14:23",
+  "end_label": "7:24:28",
+  "mode": "extract",
+  "questions": [
+    {
+      "question": "You are managing a project where senior managers are suffering from conflict over priorities. What leadership approach will be most effective in resolving this situation?",
+      "options": [
+        "A. Provide detailed recommendations on how to resolve the conflict",
+        "B. Use neutral facilitation to help senior managers resolve the problem themselves",
+        "C. Escalate the issue to the project steering committee",
+        "D. Limit project resources to the executives until they can agree on a way forward"
+      ],
+      "answer": "B",
+      "explanation": "Neutral facilitation helps more than detailed recommendations because when leaders generate ideas themselves and reach consensus, they become engaged with those ideas and are more likely to support the solution. Providing recommendations without their input lacks their buy-in. Escalation should only occur after exhausting management options. Limiting resources continues to waste project funds.",
+      "difficulty": "expert",
+      "topic": "Leadership and Conflict Resolution",
+      "domain": 1,
+      "source_id": "yt_005",
+      "chunk_index": 43,
+      "video_segment": "7:14:23→7:24:28"
+    },
+    {
+      "question": "You are managing a project where the majority of the product has been planned upfront, but an external system is needed from a vendor in partial pieces where the requirements are unclear. Half of your stakeholders want to use a waterfall approach and the other half are advocating for an agile approach. What will you do next?",
+      "options": [
+        "A. Use an agile methodology because the fixed scope is low risk and you can capture changes using agile",
+        "B. Use a waterfall methodology",
+        "C. Proceed with a hybrid method to start with pre-planned scope but agile ceremonies that promote feedback",
+        "D. Use a combination of waterfall and agile to capture all requirements and keep stakeholders happy"
+      ],
+      "answer": "C",
+      "explanation": "A hybrid approach is the most appropriate tailoring strategy when different parts of the project require different methodologies. The pre-planned portion can use waterfall while the unclear external system requirements benefit from agile ceremonies and feedback loops. This combines both stakeholder needs and project contexts. While option D mentions both approaches, option C uses the specific terminology of hybrid methodology and includes the tailoring principle of adapting to unique project contexts.",
+      "difficulty": "expert",
+      "topic": "Tailoring and Project Life Cycles",
+      "domain": 2,
+      "source_id": "yt_005",
+      "chunk_index": 43,
+      "video_segment": "7:14:23→7:24:28"
+    },
+    {
+      "question": "You are working on a project where senior users have been testing the product as parts are released. They have found some missing requirements and defects. Their manager is worried that the project won't deliver a product that is fit for purpose without defects and within the needed timeframe. What will you do next?",
+      "options": [
+        "A. Perform some of the testing yourself to ensure a quality product",
+        "B. Help every team member focus on quality from correct acceptance criteria to a developed and tested product",
+        "C. Limit testing until the very end of the project so you can do it all in one go when the product is completely ready",
+        "D. Increase testing on your project and add more testing resources so no defect goes unnoticed"
+      ],
+      "answer": "B",
+      "explanation": "In an agile project, quality is everyone's responsibility, not just the project manager's or a dedicated testing team's. By focusing the entire team on quality through proper acceptance criteria and building quality into processes, you address the root cause rather than just adding resources. Testing should occur at all levels throughout the project (unit testing, system testing, user acceptance testing, regression testing), not just at the end. The project manager acts as a conductor orchestrating the team, not performing individual technical tasks.",
+      "difficulty": "expert",
+      "topic": "Quality Management in Agile Projects",
+      "domain": 2,
+      "source_id": "yt_005",
+      "chunk_index": 43,
+      "video_segment": "7:14:23→7:24:28"
+    },
+    {
+      "question": "You are working through the risk assessment with your team who are having trouble coming up with ideas for risks. You decide to give them some guidance on types of complexity that might affect your new product. What will you do next?",
+      "options": [
+        "A. Ask them to brainstorm qualitative and quantitative risks",
+        "B. Ask them to perform the five whys and Ishikawa analysis to find the root cause of a problem",
+        "C. Ask them to brainstorm around possible unwanted human behavior, system behavior, ambiguity, and technical innovation impacts",
+        "D. Ask them to perform a retrospective to discover what isn't working well and what still puzzles us"
+      ],
+      "answer": "C",
+      "explanation": "Complexity is often the result of human behavior, system interactions, technical innovation, uncertainty, and ambiguity (VUCA framework). By guiding the team to brainstorm risks across these types of complexity, you help them identify risks more comprehensively. This addresses the underlying sources of complexity that can introduce risks affecting value, scope, stakeholders, and project success. The five whys and Ishikawa are root cause analysis tools used after a problem is identified, not for generating risks. Retrospectives are review tools, not risk identification techniques.",
+      "difficulty": "expert",
+      "topic": "Risk Identification and Complexity Management",
+      "domain": 2,
+      "source_id": "yt_005",
+      "chunk_index": 43,
+      "video_segment": "7:14:23→7:24:28"
+    }
+  ]
+}

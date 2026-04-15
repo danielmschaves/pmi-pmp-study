@@ -1,0 +1,128 @@
+{
+  "source_id": "yt_001",
+  "chunk_index": 7,
+  "start_label": "1:45:43",
+  "end_label": "2:00:50",
+  "mode": "extract",
+  "questions": [
+    {
+      "question": "What technique are you using when you are developing a risk breakdown structure, conducting a sensitivity analysis, utilizing a cause and effect diagram, or using Monte Carlo?",
+      "options": [
+        "A. Developing a risk breakdown structure",
+        "B. Monte Carlo simulation",
+        "C. Sensitivity analysis",
+        "D. Cause and effect diagram"
+      ],
+      "answer": "B",
+      "explanation": "Monte Carlo simulation looks at many different scenarios and perspectives or different outcomes that can affect projects. For example, if you have a weather event, how is it going to affect the project? What happens if you had a category 4 hurricane, category 5 hurricane, or a blizzard? You are looking at all different perspectives and how they will affect the project. A cause and effect diagram tells you the reasons for risks or the cause of failure (fishbone diagram). Sensitivity analysis ranks impacts of positive and negative risks. A risk breakdown structure just categorizes your risks.",
+      "difficulty": "expert",
+      "topic": "Risk Analysis and Quantification",
+      "domain": 2,
+      "source_id": "yt_001",
+      "chunk_index": 7,
+      "video_segment": "1:45:43→2:00:50"
+    },
+    {
+      "question": "On a project to develop a new CRM system, the project manager launched a stakeholder meeting. During the stakeholder meeting, it was discovered that upcoming regulatory changes will affect data handling processes within the system. The changes are expected to be enforced shortly after the project's planned completion date. What is the most appropriate action for the project manager to ensure the project remains compliant with the new regulations?",
+      "options": [
+        "A. Incorporate the regulations into the project's risk register for future analysis",
+        "B. Integrate discussion of the regulatory changes into the project phases",
+        "C. Plan to address the regulations in the next CRM system development",
+        "D. Request immediate detailed information during the next product update meeting"
+      ],
+      "answer": "B",
+      "explanation": "This is not a risk because the regulations will definitely affect data handling—it is guaranteed to happen, not probabilistic. Therefore, it should not be added to the risk register. You do not want to wait for the next system to be developed, and you cannot delay action until the next product update because the regulation will be enforced shortly after the project completes. The best action is to integrate discussion of the regulatory changes into the project phases so the system can be compliant when released.",
+      "difficulty": "expert",
+      "topic": "Compliance and Regulatory Management",
+      "domain": 3,
+      "source_id": "yt_001",
+      "chunk_index": 7,
+      "video_segment": "1:45:43→2:00:50"
+    },
+    {
+      "question": "During a mobile application development project, the project manager faces significant uncertainty regarding user preferences and the effectiveness of proposed features. The initial user feedback has been inconclusive, leading to questions about the project's current direction. What is the best course of action for the project manager to ensure the project aligns with users' expectations?",
+      "options": [
+        "A. Finish developing the application and correct all features not aligned with user expectations",
+        "B. Proceed with the creation of an MVP (minimum viable product)",
+        "C. Pause development efforts until a comprehensive market analysis provides clear guidance on user preferences",
+        "D. Instruct the development team to incorporate the most popular features of a competing application to ensure relevance"
+      ],
+      "answer": "B",
+      "explanation": "A minimum viable product (MVP) is something that the team releases to customers to get feedback. You do not need to release the entire application to get feedback; you release something minimal and usable with core features. The question specifically states the effectiveness of these features, and the only way to understand effectiveness is to have users use them. This is the best way to gain certainty in the face of uncertainty. Finishing the entire application and then correcting it is like kicking the can down the road, which is not advisable. Pausing the project should not happen unless there is a major safety or legal issue. You cannot determine if popular features will be effective without user validation.",
+      "difficulty": "expert",
+      "topic": "Agile Development and MVP Strategy",
+      "domain": 2,
+      "source_id": "yt_001",
+      "chunk_index": 7,
+      "video_segment": "1:45:43→2:00:50"
+    },
+    {
+      "question": "In anticipation of new environmental regulations, a manufacturing project involves two distinct operational teams—one using traditional manufacturing methods and the other employing green technology. They need to evaluate the impact of these regulations on combined operations. What is the most effective action for the project manager to ensure compliance and seamless integration?",
+      "options": [
+        "A. Organize a collaborative workshop with representatives from both teams to discuss compliance strategies",
+        "B. Conduct a separate workshop for each team to allow for focused discussion on adapting their specific operations",
+        "C. Facilitate individual strategy sessions with each team to outline their approach, followed by a joint session",
+        "D. Assemble a panel of regulatory experts to provide guidance and recommendations to both teams"
+      ],
+      "answer": "A",
+      "explanation": "Follow the mindset of collaboration and bringing people together. Your job as a project manager is to be a facilitator. You want collaboration between all parties on a project. You never want individual workshops where teams figure things out on their own in isolation. Especially with something like regulatory compliance, the teams must work together. Option C with separate individual sessions followed by a joint session may take longer and is less effective than immediate collaboration. Option D puts the decision-making in the hands of external experts rather than empowering the teams to work together and develop their own implementation approach.",
+      "difficulty": "expert",
+      "topic": "Stakeholder Collaboration and Integration",
+      "domain": 1,
+      "source_id": "yt_001",
+      "chunk_index": 7,
+      "video_segment": "1:45:43→2:00:50"
+    },
+    {
+      "question": "The goal on a project is to foster a culture of cooperation that drives the team towards exceptional performance. Following a recommendation from the company's founder, the project manager decides to adopt a servant leadership approach. What should the project manager do to effectively embody servant leadership?",
+      "options": [
+        "A. Implement a competitive reward system to incentivize individual excellence and drive project outcomes",
+        "B. Direct the team to refine their strategies continuously until they devise an unbeatable plan for project execution",
+        "C. Evaluate the project scope meticulously and set clear prioritized goals to encourage team alignment and focus",
+        "D. Establish clear project goals and nurture a supportive environment that enables team members to excel and contribute to their fullest potential"
+      ],
+      "answer": "D",
+      "explanation": "As a servant leader, you support the team rather than directing them. Option A creates a competitive system where team members feel they must outperform each other, which is contrary to servant leadership and cooperation. Option B involves directing the team to refine strategies, but a servant leader supports rather than directs. Option C involves the project manager setting goals, but the team should be self-directing and choosing their own work from the backlog. In servant leadership on agile projects, the team decides what work to do, and the project manager is there to support and enable them. Option D correctly describes establishing goals while nurturing a supportive environment where team members can excel, which is the essence of servant leadership.",
+      "difficulty": "expert",
+      "topic": "Servant Leadership and Team Development",
+      "domain": 1,
+      "source_id": "yt_001",
+      "chunk_index": 7,
+      "video_segment": "1:45:43→2:00:50"
+    },
+    {
+      "question": "During the critical phase of a remote-operated environmental research project, a key analyst departs, necessitating swift onboarding of new members who lack familiarity with the project-specific challenges and objectives. Extensive project documentation exists, yet the project's complexity might hinder rapid comprehension necessary for the new team members' success. What proactive measure should a project manager implement to ensure new members' effective integration?",
+      "options": [
+        "A. Arrange for the new member to shadow an experienced team member for hands-on learning",
+        "B. Encourage the new member to study the documentation thoroughly, followed by a session to discuss their role",
+        "C. Schedule a series of training webinars on the project's methodology and technologies",
+        "D. Facilitate a workshop with the team focusing on the project, where both current members and new members attend"
+      ],
+      "answer": "D",
+      "explanation": "This follows the mindset of bringing the team together and ensuring the new person is not working in isolation. Option A (shadowing) gives away work and creates dependency rather than team integration. Option B encourages the new member to study independently, which does not provide team support or context. Option C (webinars) may not ensure active participation and could delay timeline. Option D brings the team together in a workshop format, which follows servant leadership principles, ensures the new member is integrated into the team, and allows for collaborative understanding of the project. This proactive measure was something that could have been done in advance to ensure effective integration.",
+      "difficulty": "expert",
+      "topic": "Team Integration and Knowledge Transfer",
+      "domain": 1,
+      "source_id": "yt_001",
+      "chunk_index": 7,
+      "video_segment": "1:45:43→2:00:50"
+    },
+    {
+      "question": "In a routine progress check on an agile project, the project manager notices that a lead analyst is habitually passing off less complex analytical work to newer team members, claiming it allows them to concentrate on more complex aspects of the project. What should the project manager do?",
+      "options": [
+        "A. Develop a rotational task assignment system to ensure all members gain experience across a range of tasks",
+        "B. Directly assign tasks based on complexity to ensure each team member works within their capability",
+        "C. Establish a mentorship program where senior members guide junior members through complex tasks",
+        "D. Organize a team discussion during the next project update meeting to evaluate the effectiveness of the current task allocation method"
+      ],
+      "answer": "D",
+      "explanation": "The team has developed an approach that they believe is effective. As a servant leader and project manager, you do not know if this is truly effective or not, so you should not immediately stop it or change it. You do not want to shut down the team by imposing your own system. Options A and B put you in charge as a directive project manager telling the team how to do things, which shuts down collaboration and self-organization. Option C is also directive. The best approach is to evaluate the effectiveness of what the team is already doing by organizing a team discussion. This way you work together with the team to determine if the current allocation is actually effective and whether changes are needed. This respects the team's autonomy while ensuring alignment with project goals.",
+      "difficulty": "expert",
+      "topic": "Team Management and Self-Organization",
+      "domain": 1,
+      "source_id": "yt_001",
+      "chunk_index": 7,
+      "video_segment": "1:45:43→2:00:50"
+    }
+  ]
+}

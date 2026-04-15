@@ -1,0 +1,111 @@
+{
+  "source_id": "yt_003",
+  "chunk_index": 23,
+  "start_label": "5:47:18",
+  "end_label": "6:02:23",
+  "mode": "extract",
+  "questions": [
+    {
+      "question": "You are integrating a third-party system as part of your project. The developers in your project team have not worked on this system before, but they believe the language and layout is the same and they should be able to implement it. Adding a bit of time for the uncertainty, they give a high-level estimate of 5 weeks. What will you do next?",
+      "options": [
+        "A. Note the estimate of 5 weeks and update the Assumption log",
+        "B. Don't add the estimate; break down the integration into user stories and use a bottom-up approach",
+        "C. Check the estimate using parametric estimating to increase its accuracy",
+        "D. Gather your whole team and customers together and estimate using wideband Delphi or planning poker"
+      ],
+      "answer": "A",
+      "explanation": "The best approach is to note the estimate and document the assumption that the languages and layout are the same. Since the team already has an estimate of 5 weeks and there is a clear technical assumption underlying it, recording this in the Assumption log is the appropriate first step. While the other options (bottom-up estimating, parametric estimating, and wideband Delphi) are all valid estimation techniques, in this scenario where an estimate already exists and is based on a stated assumption, documenting that assumption is the critical next step before proceeding with further refinement.",
+      "difficulty": "hard",
+      "topic": "Estimation and Assumptions Management",
+      "domain": 2,
+      "source_id": "yt_003",
+      "chunk_index": 23,
+      "video_segment": "5:47:18→6:02:23"
+    },
+    {
+      "question": "Your agile project has delivered three features so far and is halfway through delivering the latest improvement. During a brainstorming session, one of your customers comes up with a new feature idea. You check the benefit and the benefit is high; the complexity is also low. What are you going to do next?",
+      "options": [
+        "A. Add money to your budget to accommodate the additional feature as soon as possible",
+        "B. Elaborate on the feature, break it down into user stories, and estimate them",
+        "C. Place the item in the backlog and reprioritize it to be next",
+        "D. Create a business case for the new feature outlining the benefit and costs involved"
+      ],
+      "answer": "C",
+      "explanation": "In an agile project, the scope is variable while budget and time are typically fixed. When a new high-benefit, low-complexity feature is identified, it should be placed in the backlog and reprioritized according to the project's prioritization schema. This is the standard agile process for handling scope changes. While elaborating into user stories is eventually necessary, reprioritization in the backlog comes first. Creating a business case is a waterfall practice, and adding budget unilaterally without going through prioritization is not agile best practice.",
+      "difficulty": "hard",
+      "topic": "Agile Backlog Management and Prioritization",
+      "domain": 2,
+      "source_id": "yt_003",
+      "chunk_index": 23,
+      "video_segment": "5:47:18→6:02:23"
+    },
+    {
+      "question": "One of the senior users testing your product has found that it was missing a key requirement that he had assumed would be there. It was not noted in the project scope, which has been baselined already. You check the impact to cost and schedule, raise a change request on his behalf, and it is approved by the Change Control Board. What will you do next?",
+      "options": [
+        "A. Ask your team to elaborate and turn their requirement into user stories",
+        "B. Place the new requirement into the Sprint backlog for the next Sprint",
+        "C. Add the missing requirement to the issue log and problem-solve with your team to ensure it does not happen again in the future",
+        "D. Note the outcome in the change log and communicate it to your stakeholders"
+      ],
+      "answer": "D",
+      "explanation": "The correct sequence in the change control process is: approve the change, document it in the change log, and communicate the outcome to stakeholders first. Only after that should you elaborate the requirement into user stories, place it in the Sprint backlog, and then during the retrospective problem-solve to prevent recurrence. The question asks what to do next immediately after Change Control Board approval, which is to document and communicate the change.",
+      "difficulty": "hard",
+      "topic": "Change Control and Change Log Management",
+      "domain": 2,
+      "source_id": "yt_003",
+      "chunk_index": 23,
+      "video_segment": "5:47:18→6:02:23"
+    },
+    {
+      "question": "You are working on a hybrid project to replace an aging customer system that has just had a feature upgrade release. The senior developer raises a concern during the daily standup that the system doesn't seem to be able to connect to some parts of the organization after the upgrade. What will you do next?",
+      "options": [
+        "A. Replan the project to ensure the correct scope is worked on that will connect to the organization",
+        "B. Assign it to a responsible party and work with them to find a resolution",
+        "C. Raise the concern as a risk and brainstorm risk responses",
+        "D. Escalate the issue to the technical managers so they can resolve it"
+      ],
+      "answer": "B",
+      "explanation": "This is an issue that has already occurred and is impacting the project, not a potential risk. The appropriate response is to assign the issue to a responsible party and work collaboratively to find a resolution. This follows the issue log process where issues are documented and assigned to an owner for resolution. While escalation to technical managers might eventually occur, the best practice is to assign to a responsible party and remove blockers to support resolution, rather than simply escalating.",
+      "difficulty": "hard",
+      "topic": "Issue Log and Issue Management",
+      "domain": 2,
+      "source_id": "yt_003",
+      "chunk_index": 23,
+      "video_segment": "5:47:18→6:02:23"
+    },
+    {
+      "question": "You are working on an agile project where your project team has raised multiple risks to project delivery. Some of these risks may impact your cost and schedule significantly. Your program manager asks you to manage them using a risk-adjusted backlog. What will you do next?",
+      "options": [
+        "A. Adjust your risk register to include the work not completed if the risks are triggered",
+        "B. Adjust your backlog velocity so that your end date is not impacted by the raised risks",
+        "C. Gather risk mitigation responses from your retrospectives and assign them to an owner",
+        "D. Place at least one risk response in each Sprint so you are managing and closing the risks"
+      ],
+      "answer": "D",
+      "explanation": "A risk-adjusted backlog is a backlog that includes both regular work and actions to address threats and opportunities. Risk responses should be included as work items in the backlog and prioritized alongside other work to be executed in Sprints. This ensures that risk mitigation is actively managed and completed as part of the sprint work, rather than being deferred or treated separately. This is the agile approach to managing risks as part of the regular backlog flow.",
+      "difficulty": "hard",
+      "topic": "Risk-Adjusted Backlog and Agile Risk Management",
+      "domain": 2,
+      "source_id": "yt_003",
+      "chunk_index": 23,
+      "video_segment": "5:47:18→6:02:23"
+    },
+    {
+      "question": "You are delivering a project to a functional area in your organization. The project is highly complex and there are many risks to project delivery. The functional manager would like to see the biggest risks that are assigned to her. What will you do next?",
+      "options": [
+        "A. Show the risk-adjusted backlog",
+        "B. Show the risk register",
+        "C. Show the risk management plan",
+        "D. Show her the qualitative risk assessment"
+      ],
+      "answer": "B",
+      "explanation": "The risk register is the comprehensive document that contains all identified risks, their descriptions, assigned owners/responsible parties, risk responses, and mitigation strategies. Since the functional manager specifically wants to see the risks assigned to her, the risk register is the appropriate document to show, as it includes all this information in one place. The risk management plan describes the process for managing risks. The qualitative risk assessment shows impact and likelihood but not ownership. A risk-adjusted backlog is specific to agile projects and may not apply here since the project complexity is emphasized but agile is not mentioned.",
+      "difficulty": "hard",
+      "topic": "Risk Register and Risk Documentation",
+      "domain": 2,
+      "source_id": "yt_003",
+      "chunk_index": 23,
+      "video_segment": "5:47:18→6:02:23"
+    }
+  ]
+}

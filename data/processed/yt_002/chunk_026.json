@@ -1,0 +1,94 @@
+{
+  "source_id": "yt_002",
+  "chunk_index": 26,
+  "start_label": "6:32:55",
+  "end_label": "6:48:01",
+  "mode": "extract",
+  "questions": [
+    {
+      "question": "In order to ensure that the agile team is cross-functional, the project manager hires a new team member who is more inclined towards testing tasks. After a few days, the new member informs the project manager that he is unable to do his work properly because he doesn't have the necessary permission to access part of the code. What should the project manager do next?",
+      "options": [
+        "A. Ask the team member to raise the issue during the retrospective meeting",
+        "B. Tell the team member to adjust the acceptance criteria of the pending tasks and then inform the product owner",
+        "C. Explain to the team member that he cannot access the whole code due to security restrictions",
+        "D. Reach out to the appropriate stakeholder to either confirm or update the team member's privileges"
+      ],
+      "answer": "D",
+      "explanation": "As a servant leader, the project manager should proactively resolve impediments by reaching out to stakeholders to verify access issues. Option A is wrong because impediments should be resolved immediately, not postponed to retrospectives. Option B is incorrect because team members cannot adjust acceptance criteria without product owner approval. Option C may be true but doesn't take proactive action to resolve the blocker.",
+      "difficulty": "hard",
+      "topic": "Servant Leadership and Impediment Removal in Agile",
+      "domain": 1,
+      "source_id": "yt_002",
+      "chunk_index": 26,
+      "video_segment": "6:32:55→6:48:01"
+    },
+    {
+      "question": "During a sprint review meeting, a team member demonstrated a new feature and pointed out that it took longer than expected due to missing technical documentation. Then the team member asked a senior member how to avoid this in the future. What should the meeting facilitator do?",
+      "options": [
+        "A. Let the discussion flow naturally since it's important and only intervene if the side discussion continues for too long",
+        "B. Ask the team member to reflect on how to make such improvements at another meeting",
+        "C. Interrupt the team member because the product owner is not supposed to know that documentation is missing",
+        "D. Let the discussion continue and then ask the product owner to give feedback on potential improvements"
+      ],
+      "answer": "B",
+      "explanation": "The sprint review is for demonstrating completed work to stakeholders, not for process improvements. Discussions about how to prevent future problems belong in the retrospective meeting. Option A is incorrect because the facilitator should redirect off-topic discussions. Option C contradicts agile principles of transparency. Option D extends the discussion beyond the scope of a sprint review.",
+      "difficulty": "hard",
+      "topic": "Sprint Review Meeting Purpose and Scope",
+      "domain": 2,
+      "source_id": "yt_002",
+      "chunk_index": 26,
+      "video_segment": "6:32:55→6:48:01"
+    },
+    {
+      "question": "During the sprint, the scrum master asked two senior members whether the remaining work in the sprint backlog could be completed to achieve the sprint goal. The team members replied by saying that they were not supposed to track such data. What should the scrum master do next?",
+      "options": [
+        "A. Take disciplinary action against the two team members",
+        "B. Take charge of tracking the sprint backlog process",
+        "C. Inform the two team members that tracking sprint backlog is the responsibility of the development team and guide them through the process",
+        "D. Ask the two team members about the sprint backlog progress during the next standup instead"
+      ],
+      "answer": "C",
+      "explanation": "The scrum master's role is to coach the team on their responsibilities and guide them through agile processes. The development team is responsible for tracking remaining work in the sprint backlog. Option A is inappropriate as this is not a disciplinary matter. Option B violates the principle of self-organizing teams by having the scrum master take over tracking. Option D postpones addressing the knowledge gap.",
+      "difficulty": "hard",
+      "topic": "Scrum Master Coaching and Team Responsibilities",
+      "domain": 1,
+      "source_id": "yt_002",
+      "chunk_index": 26,
+      "video_segment": "6:32:55→6:48:01"
+    },
+    {
+      "question": "A stakeholder added a user story to the product backlog. The user story seemed clear to the scrum team. However, during execution, the assigned member gets confused about one of its implementation scenarios. What should the team member do in this case?",
+      "options": [
+        "A. Ask the stakeholder for clarification",
+        "B. Ask the product owner for clarification",
+        "C. Convey the confusion to the scrum master who will help get clarification from the product owner",
+        "D. Wait for the next standup meeting to report the issue"
+      ],
+      "answer": "B",
+      "explanation": "The product owner is the single point of contact for product-related clarifications and specifications in agile. The team should reach out directly to the product owner without intermediaries. Option A bypasses the product owner hierarchy. Option C unnecessarily involves the scrum master, whose role is to facilitate processes, not product specifications. Option D unnecessarily delays resolution of blocking issues.",
+      "difficulty": "hard",
+      "topic": "Product Owner Role and Single Point of Contact",
+      "domain": 1,
+      "source_id": "yt_002",
+      "chunk_index": 26,
+      "video_segment": "6:32:55→6:48:01"
+    },
+    {
+      "question": "Shortly after joining a new organization, a project manager noted a lack of collaboration within the team. What should the project manager do to create a cooperative work environment?",
+      "options": [
+        "A. Conduct soft skills development training",
+        "B. Opt for a pool based system for working assignments",
+        "C. Organize team building activities",
+        "D. Adopt an agile work approach"
+      ],
+      "answer": "C",
+      "explanation": "Team building activities directly foster collaboration and cooperation among team members. Option A addresses skills but may not immediately improve collaboration culture. Option B (pool-based systems like kanban) improves work efficiency but does not create a cooperative environment. Option D is not appropriate to implement based on a single criterion of lacking collaboration without understanding the project context.",
+      "difficulty": "hard",
+      "topic": "Team Building and Creating a Collaborative Environment",
+      "domain": 1,
+      "source_id": "yt_002",
+      "chunk_index": 26,
+      "video_segment": "6:32:55→6:48:01"
+    }
+  ]
+}

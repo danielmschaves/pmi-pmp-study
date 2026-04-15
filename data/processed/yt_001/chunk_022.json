@@ -1,0 +1,145 @@
+{
+  "source_id": "yt_001",
+  "chunk_index": 22,
+  "start_label": "5:32:08",
+  "end_label": "5:47:15",
+  "mode": "extract",
+  "questions": [
+    {
+      "question": "In the midst of a renewable energy project, a team member notices a significant risk related to equipment procurement that could potentially derail the project timeline. The concern is promptly communicated to the project sponsor who then requests the project manager for a detailed assessment and action plan. Which document should a project manager consult with the team to outline predefined approaches to assist in addressing this procurement risk appropriately?",
+      "options": [
+        "A. Risk register",
+        "B. Issue log",
+        "C. Risk response strategy",
+        "D. Risk management plan"
+      ],
+      "answer": "A",
+      "explanation": "The risk register is the correct document as it contains identified risks and their potential responses. An issue log is for issues, not risks. There is no document called 'risk response strategy'—the strategy is contained within the risk register. The risk management plan describes the processes for managing risk but does not contain individual risks or their responses.",
+      "difficulty": "expert",
+      "topic": "Risk Management - Risk Register and Response Planning",
+      "domain": 2,
+      "source_id": "yt_001",
+      "chunk_index": 22,
+      "video_segment": "5:32:08→5:47:15"
+    },
+    {
+      "question": "In finalizing an infrastructure upgrade project, the project manager needs to ensure that all critical operational knowledge has been transferred to the client's maintenance team efficiently. What approach should the project manager employ to confirm the thoroughness of the knowledge transfer?",
+      "options": [
+        "A. Schedule face-to-face sessions with the maintenance team members and the project team to validate understanding and application of operational knowledge",
+        "B. Develop and administer a formal assessment to the maintenance team on key operational procedures",
+        "C. Create an interactive online module for the maintenance team to complete covering all necessary operational information",
+        "D. Facilitate a roundtable discussion with key project and maintenance team members to evaluate the depth of knowledge transfer"
+      ],
+      "answer": "A",
+      "explanation": "Face-to-face communication is one of the richest and most effective forms of communication. It allows both parties to directly interact, ask questions in real time, and validate mutual understanding. While assessments, online modules, and roundtable discussions have value, face-to-face sessions provide the most direct confirmation of thorough knowledge transfer through dialogue and immediate feedback.",
+      "difficulty": "expert",
+      "topic": "Stakeholder Engagement and Knowledge Transfer",
+      "domain": 1,
+      "source_id": "yt_001",
+      "chunk_index": 22,
+      "video_segment": "5:32:08→5:47:15"
+    },
+    {
+      "question": "In a software development project, the project manager notices that the various project teams have different priorities and methodologies, leading to inconsistencies and delays in project milestones. The project manager realizes the need for a unified approach to streamline processes and improve collaboration amongst the team. What is the most effective course of action for the project manager to ensure consistent progress across all teams?",
+      "options": [
+        "A. Implement a centralized project management tool to enhance communication and task tracking",
+        "B. Conduct a workshop to align all teams on the project objectives and establish a shared methodology",
+        "C. Assign a liaison from each team to facilitate better understanding and integration of work practices",
+        "D. Reallocate project resources to prioritize tasks according to urgency and importance of project milestones"
+      ],
+      "answer": "B",
+      "explanation": "The root cause of the problem is different priorities and especially different methodologies causing inconsistencies. Conducting a workshop directly addresses this by establishing a shared methodology and aligning teams on objectives. A centralized tool does not resolve the underlying methodological differences. Assigning liaisons or reallocating resources without first establishing a shared methodology does not solve the core problem of divergent approaches.",
+      "difficulty": "expert",
+      "topic": "Team Management and Process Alignment",
+      "domain": 1,
+      "source_id": "yt_001",
+      "chunk_index": 22,
+      "video_segment": "5:32:08→5:47:15"
+    },
+    {
+      "question": "While implementing an ERP (enterprise resource planning) system, the agile project manager receives several requests for additional features from department heads that could potentially affect the project scope and timeline. What should the project manager do to address these feature requests efficiently?",
+      "options": [
+        "A. Direct the department heads to submit their requests after the ERP goes live",
+        "B. Have the product owner integrate the feature requests into the product backlog for prioritization",
+        "C. Advise the department heads that all project changes are frozen to avoid deviations from the plan",
+        "D. Request detailed business cases for each feature to assess the impact before adding them to the project plan"
+      ],
+      "answer": "B",
+      "explanation": "In agile projects, only the product owner has the authority to add features to the product backlog and prioritize them. Feature requests should be channeled through the product owner, not directed to be submitted later, frozen, or individually justified with business cases. The product owner works with stakeholders to evaluate and prioritize all incoming requests through the backlog refinement process.",
+      "difficulty": "expert",
+      "topic": "Agile Project Management - Product Backlog and Scope Management",
+      "domain": 2,
+      "source_id": "yt_001",
+      "chunk_index": 22,
+      "video_segment": "5:32:08→5:47:15"
+    },
+    {
+      "question": "In the implementation stage of a critical network security project, it is revealed that a specialist responsible for key parts of the configuration will be taking emergency leave. What should the project manager do to address this specialist's imminent absence and keep the project on schedule?",
+      "options": [
+        "A. Facilitate a discussion with the project team to redistribute the specialist's responsibilities efficiently among existing members",
+        "B. Suggest pausing the project until the specialist can return and resume their duties",
+        "C. Contract an external consultant firm to temporarily fill the specialist role",
+        "D. Request an immediate extension of the project deadline to accommodate the delay"
+      ],
+      "answer": "A",
+      "explanation": "The best first approach is to engage the team to assess whether responsibilities can be redistributed among existing members. This empowers the team as subject matter experts to determine feasibility. Only if the team determines they cannot absorb the work should the project manager then consider external resources, project pause, or deadline extension. Starting with team discussion respects their expertise and avoids premature escalation.",
+      "difficulty": "expert",
+      "topic": "Team Management and Resource Planning",
+      "domain": 1,
+      "source_id": "yt_001",
+      "chunk_index": 22,
+      "video_segment": "5:32:08→5:47:15"
+    },
+    {
+      "question": "Nearing completion of an extensive software development project, it is noticed that one developer's innovative solutions have greatly enhanced the project outcome, distinguishing their contribution from the rest of the team. What is the most appropriate way for the project manager to acknowledge this outstanding contribution?",
+      "options": [
+        "A. Create a feature in the company newsletter highlighting the developer's innovative work",
+        "B. Organize a casual team lunch where the developer's efforts can be informally recognized by peers",
+        "C. Submit a recommendation for the developer to be considered for a prestigious industry award",
+        "D. Identify a form of recognition that aligns with the developer's values, whether it be professional development opportunities or something personal"
+      ],
+      "answer": "D",
+      "explanation": "The most appropriate approach is to work with the individual developer to determine what form of recognition would be most meaningful to them. Options A, B, and C involve the project manager unilaterally choosing the method of recognition without consulting the employee. By discussing recognition preferences directly with the developer, the project manager ensures the acknowledgment genuinely resonates with their individual values and motivations, which is more effective for morale and engagement.",
+      "difficulty": "expert",
+      "topic": "Motivation and Recognition - Individual Preferences",
+      "domain": 1,
+      "source_id": "yt_001",
+      "chunk_index": 22,
+      "video_segment": "5:32:08→5:47:15"
+    },
+    {
+      "question": "As a project manager for a novel online educational platform, you are faced with divergent views among stakeholders regarding the balance between interactive content and accessibility features. The development team is split on which aspects to prioritize, potentially affecting the project timeline. What action should the project manager take to navigate this impasse effectively?",
+      "options": [
+        "A. Deploy a conflict resolution method or technique specifically designed to address and navigate the diverse viewpoints into a unified strategy",
+        "B. Conduct a poll with the team and stakeholders to democratically decide the project's focus area",
+        "C. Facilitate a focus group discussion leveraging design thinking principles to foster innovative solutions",
+        "D. Suggest the team separately debates and reaches a consensus without managerial intervention"
+      ],
+      "answer": "A",
+      "explanation": "The core issue is divergent views among stakeholders and a split development team. A simple poll may not account for regulatory or technical requirements that might mandate certain accessibility features. Telling the team to figure it out without managerial involvement abdicates the project manager's responsibility to guide resolution. While design thinking is creative, the immediate need is to resolve the conflict and create a unified strategy using proven conflict resolution techniques so the project can progress. This directly addresses the impasse.",
+      "difficulty": "expert",
+      "topic": "Conflict Resolution and Stakeholder Management",
+      "domain": 1,
+      "source_id": "yt_001",
+      "chunk_index": 22,
+      "video_segment": "5:32:08→5:47:15"
+    },
+    {
+      "question": "Halfway through a critical website development project, it is revealed during a sprint review that an unforeseen technical hurdle could potentially delay the project's completion. This revelation came as a surprise, especially considering the project manager's prior weekly updates indicated the project was proceeding according to plan. What could have been done differently to avoid being caught off-guard by such a critical issue?",
+      "options": [
+        "A. Establish a robust risk management process to identify and monitor potential technical challenges to the project",
+        "B. Schedule mid-sprint reviews to assess progress and uncover hidden risks before they escalate",
+        "C. Conduct regular one-on-one meetings with the team to identify potential risks that might not surface in group settings",
+        "D. Use project management tools to track progress and flag potential risks based on time deviations"
+      ],
+      "answer": "A",
+      "explanation": "The fundamental issue is that a significant technical risk was not identified or monitored proactively. Establishing a robust risk management process ensures risks are systematically identified, analyzed, and monitored throughout the project lifecycle. While mid-sprint reviews, one-on-ones, and tracking tools are helpful, they are tactical implementations. A comprehensive risk management process—which includes identification, monitoring, and response planning—is the overarching approach that would have caught this technical risk before it became a surprise during the sprint review.",
+      "difficulty": "expert",
+      "topic": "Risk Management Process - Identification and Monitoring",
+      "domain": 2,
+      "source_id": "yt_001",
+      "chunk_index": 22,
+      "video_segment": "5:32:08→5:47:15"
+    }
+  ]
+}

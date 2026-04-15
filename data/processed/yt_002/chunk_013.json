@@ -1,0 +1,111 @@
+{
+  "source_id": "yt_002",
+  "chunk_index": 13,
+  "start_label": "3:16:30",
+  "end_label": "3:31:36",
+  "mode": "extract",
+  "questions": [
+    {
+      "question": "A project manager is leading a project involving three stakeholders with high authority. By analyzing each of these stakeholders, the project manager identifies stakeholder A as the one who has the most interest in the project. What strategy should the project manager use for managing stakeholder A?",
+      "options": [
+        "A. Manage closely",
+        "B. Keep satisfied",
+        "C. Keep informed",
+        "D. Monitor"
+      ],
+      "answer": "A",
+      "explanation": "Stakeholder A has high authority and high interest in the project, placing them in the manage closely quadrant of the power-interest grid. The project manager must put forth the greatest effort to satisfy them and be aware that factors can cause them to change quadrants rapidly.",
+      "difficulty": "hard",
+      "topic": "Stakeholder Management",
+      "domain": 1,
+      "source_id": "yt_002",
+      "chunk_index": 13,
+      "video_segment": "3:16:30→3:31:36"
+    },
+    {
+      "question": "An agile coach was invited to assist an organization in its transition to the scrum framework. After examining the current situation, the agile coach finds out that the cross-functional team lacks a single point of contact to refer to in case they have any questions about the product. Which of the following roles is missing in this situation?",
+      "options": [
+        "A. Scrum Master",
+        "B. Sponsor",
+        "C. Product Owner",
+        "D. Project Manager"
+      ],
+      "answer": "C",
+      "explanation": "The Product Owner is the single point of contact for the cross-functional team and is known as the voice of the customer. The Product Owner is responsible for ensuring that product specifications are clearly communicated to the team through the definition of acceptance criteria and ensuring those criteria are met and satisfied.",
+      "difficulty": "hard",
+      "topic": "Agile Scrum Framework Roles",
+      "domain": 2,
+      "source_id": "yt_002",
+      "chunk_index": 13,
+      "video_segment": "3:16:30→3:31:36"
+    },
+    {
+      "question": "A project manager is managing a project using a hybrid approach. After one week of the first iteration, the customer informs the project manager that they were dissatisfied with the deliverables. What should the project manager do next?",
+      "options": [
+        "A. Ask the customer to submit a change request so that their dissatisfaction can be addressed",
+        "B. Use soft skills to convince the customer that the deliverables conform to the project specifications",
+        "C. Investigate the cause of dissatisfaction and verify the deliverables",
+        "D. Implement adjustments and improvements in the next iteration"
+      ],
+      "answer": "C",
+      "explanation": "The project manager should first listen to the customer, take note of the reasons behind their dissatisfaction, and verify deliverables. Once equipped with all the needed information, the project manager will be able to make the best decision on whether to pursue a change request, adjust deliverables, or use soft skills to explain conformance to specifications.",
+      "difficulty": "hard",
+      "topic": "Customer Satisfaction and Issue Resolution",
+      "domain": 1,
+      "source_id": "yt_002",
+      "chunk_index": 13,
+      "video_segment": "3:16:30→3:31:36"
+    },
+    {
+      "question": "The project team includes the following members. Member A is very excited about the project. Member B sometimes exceeds expectations. Member C often spends additional time working on the project. Member D consistently achieves the project requirements. Who is the most valuable resource to the project?",
+      "options": [
+        "A. Member A",
+        "B. Member B",
+        "C. Member C",
+        "D. Member D"
+      ],
+      "answer": "D",
+      "explanation": "Member D is the most valuable resource because they consistently achieve the project requirements. While Member A's excitement is good for morale, enthusiasm alone does not guarantee productivity. Member B is inconsistent (sometimes exceeds, sometimes does not). Member C's additional time does not guarantee delivering required quality or efficiency. Consistency in meeting project requirements is the most valuable trait.",
+      "difficulty": "hard",
+      "topic": "Team Member Performance and Value",
+      "domain": 1,
+      "source_id": "yt_002",
+      "chunk_index": 13,
+      "video_segment": "3:16:30→3:31:36"
+    },
+    {
+      "question": "At the end of the iteration, a team member informs the project manager that she wasn't able to finish one of her assigned tasks due to an issue with her laptop. What should the project manager do in order to prevent such a situation from occurring in the future?",
+      "options": [
+        "A. Discuss the issue during the demonstration session",
+        "B. Address the issue during the following iteration planning meeting",
+        "C. Handle the issue during the next daily stand-up meeting",
+        "D. Address the issue during the retrospective meeting"
+      ],
+      "answer": "D",
+      "explanation": "The retrospective meeting is where the team discusses what happened during the iteration and determines improvement areas for future iterations. This is the appropriate venue to capture lessons learned and prevent such situations from occurring in the future, such as implementing policies for equipment maintenance or backup systems.",
+      "difficulty": "hard",
+      "topic": "Agile Retrospectives and Lessons Learned",
+      "domain": 2,
+      "source_id": "yt_002",
+      "chunk_index": 13,
+      "video_segment": "3:16:30→3:31:36"
+    },
+    {
+      "question": "A project manager was assigned to organize a national event. The event project has been planned and approved for execution. Three months separate the project manager from the peak event during which they will follow the iterative approach with two-week-long iterations. Before starting any work, the project manager holds a meeting with the sponsor, project team, stakeholders, and key contractors. What kind of meeting did the project manager hold?",
+      "options": [
+        "A. Status meeting",
+        "B. Kickoff meeting",
+        "C. Planning meeting",
+        "D. Stakeholder engagement meeting"
+      ],
+      "answer": "B",
+      "explanation": "A project kickoff meeting is the formal announcement of the project approval for execution. This meeting gathers the sponsor, project team, stakeholders, and key contractors to officially launch the project and establish alignment before execution begins.",
+      "difficulty": "hard",
+      "topic": "Project Initiation and Kickoff Meeting",
+      "domain": 2,
+      "source_id": "yt_002",
+      "chunk_index": 13,
+      "video_segment": "3:16:30→3:31:36"
+    }
+  ]
+}

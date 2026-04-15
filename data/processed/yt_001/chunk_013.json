@@ -1,0 +1,128 @@
+{
+  "source_id": "yt_001",
+  "chunk_index": 13,
+  "start_label": "3:16:14",
+  "end_label": "3:31:18",
+  "mode": "extract",
+  "questions": [
+    {
+      "question": "On an agile project, a stakeholder requests some kind of new function. What should the project manager do?",
+      "options": [
+        "A. Advise the stakeholder to present the request to the next cycle",
+        "B. Have them meet with the product owner",
+        "C. Recommend assessing the new function in the next team planning meeting",
+        "D. Swiftly incorporate the requested function into the project"
+      ],
+      "answer": "B",
+      "explanation": "Only the product owner can add functions to an agile project, not the project manager or the team. The project manager should facilitate a meeting between the stakeholder and the product owner to discuss the request. While the team doesn't determine functionalities, and the request shouldn't be swiftly incorporated without proper prioritization, the product owner has the authority to evaluate and potentially add new features to the product backlog.",
+      "difficulty": "expert",
+      "topic": "Agile Project Management - Product Owner Role",
+      "domain": 2,
+      "source_id": "yt_001",
+      "chunk_index": 13,
+      "video_segment": "3:16:14→3:31:18"
+    },
+    {
+      "question": "As the deadline for a critical project approaches, the project manager notices a decrease in team enthusiasm with several members consistently arriving late to the office. The team is not focused and is dragging. What should the project manager do?",
+      "options": [
+        "A. Coordinate with human resources to discuss potential post-project opportunities for team members",
+        "B. Conduct a motivational workshop to re-energize the team and reinforce the importance of their contributions",
+        "C. Initiate a peer recognition program to highlight individual contributions and foster team spirit",
+        "D. Enforce a strict attendance policy to curb lateness and improve discipline within the team"
+      ],
+      "answer": "B",
+      "explanation": "The project manager should take a proactive, motivational approach rather than punitive measures. While option A delegates motivation to HR, option C relies on peer recognition which may not address the underlying issue, and option D is negative and punitive. The best approach is to directly engage the team through a motivational workshop to understand what's causing the lack of enthusiasm and reinforce the importance of their work. As a project manager, keeping your team motivated is your responsibility, and confronting the problem directly is key.",
+      "difficulty": "expert",
+      "topic": "Team Motivation and Leadership",
+      "domain": 1,
+      "source_id": "yt_001",
+      "chunk_index": 13,
+      "video_segment": "3:16:14→3:31:18"
+    },
+    {
+      "question": "During the development of a new healthcare system, the project manager requests that the product owner prioritize features that will significantly enhance patient data processing efficiency. What tool should the product owner use?",
+      "options": [
+        "A. Scope statement",
+        "B. Sprint backlog",
+        "C. Product backlog",
+        "D. WBS (Work Breakdown Structure)"
+      ],
+      "answer": "C",
+      "explanation": "The product backlog is the correct tool because it stores all features for an agile development project. The mention of a 'product owner' indicates this is an agile project. The scope statement and WBS are used in traditional project management. The sprint backlog contains only items to be completed in the next sprint, not all features. The product owner manages the product backlog and determines prioritization, not the team.",
+      "difficulty": "expert",
+      "topic": "Agile Tools and Artifacts - Product Backlog",
+      "domain": 2,
+      "source_id": "yt_001",
+      "chunk_index": 13,
+      "video_segment": "3:16:14→3:31:18"
+    },
+    {
+      "question": "During the final stages of a significant infrastructure project, it was discovered that comprehensive reports on critical structural assessments performed by a key engineer who has since departed the company were not documented or shared with the team. To mitigate such risk in the future, what should have been implemented by the project manager during the project lifecycle?",
+      "options": [
+        "A. Have the team initiate a cross-training program enabling team members to understand and perform each other's roles during absences",
+        "B. Organize monthly knowledge exchange sessions where engineers could discuss challenges and solutions, ensuring collective awareness of project details",
+        "C. Engage external consultants to oversee all critical testing phases, ensuring unbiased review and documentation of findings",
+        "D. Establish an integrated project management information system to share information"
+      ],
+      "answer": "D",
+      "explanation": "The best answer is D because an integrated information system ensures consistent sharing of information throughout the entire project lifecycle. Option A has limitations—cross-training may not be feasible for specialized roles requiring licenses or certifications. Option B is problematic because monthly sessions create gaps in knowledge transfer; if an engineer departs mid-month, significant knowledge is lost. Option C adds unnecessary external pressure and cost. An information system that continuously shares and documents information ensures that knowledge is preserved and accessible regardless of personnel changes, making it the most comprehensive solution.",
+      "difficulty": "expert",
+      "topic": "Knowledge Management and Documentation",
+      "domain": 2,
+      "source_id": "yt_001",
+      "chunk_index": 13,
+      "video_segment": "3:16:14→3:31:18"
+    },
+    {
+      "question": "A project manager initiates a project with a fully remote team, and ensuring effective communication becomes a challenge. What is the best approach for the project manager to maintain consistent information flow within the team?",
+      "options": [
+        "A. Suggest the creation of monthly detailed project updates for a comprehensive overview",
+        "B. Establish a structured online communication platform for frequent and organized team interactions",
+        "C. Recommend an open forum for team members to post daily updates",
+        "D. Organize bi-weekly email blasts to summarize project progress and incoming tasks"
+      ],
+      "answer": "B",
+      "explanation": "The best answer is B because the question is vague and open-ended, requiring a correspondingly generic answer. Option B provides a flexible, frequent communication approach without specifying rigid timelines. Options A, C, and D are too specific—they prescribe particular schedules (monthly, daily, bi-weekly) that may not suit all project needs. When a question lacks detail, the answer should be general enough to adapt to various circumstances. A structured online platform allows flexibility in how often communication occurs (frequent) without locking into a specific schedule, making it the most adaptable solution.",
+      "difficulty": "expert",
+      "topic": "Remote Team Communication and Stakeholder Engagement",
+      "domain": 1,
+      "source_id": "yt_001",
+      "chunk_index": 13,
+      "video_segment": "3:16:14→3:31:18"
+    },
+    {
+      "question": "As a complex project draws to a close, the project manager realizes that several risks initially assessed as low probability and impact have evolved into significant issues, catching the project team off guard. What proactive step should the project manager have taken?",
+      "options": [
+        "A. Implement a weekly risk review session with the project's core team to identify any changes in the risk landscape",
+        "B. Institute a monthly risk tracking system to monitor the project's risk status continuously",
+        "C. Mandate a zero-tolerance policy for all risks, ensuring every potential risk is addressed immediately upon identification",
+        "D. Undertake continuous assessment and prioritization of risk throughout the project lifecycle"
+      ],
+      "answer": "D",
+      "explanation": "The best answer is D because risk is dynamic and changes constantly throughout a project—365 days a year, 24 hours a day. Risks that seem low-impact at project start can escalate over time, and new risks emerge continuously. Option A (weekly) and B (monthly) are too rigid and specific; they don't allow for the continuous, adaptive monitoring needed. Option C, a zero-tolerance policy, is unrealistic and overly prescriptive. Continuous assessment allows the project manager to adapt to how risks actually evolve, rather than forcing a predetermined schedule. Different projects may require different assessment frequencies, so a continuous approach ensures risks are identified and re-prioritized as conditions change.",
+      "difficulty": "expert",
+      "topic": "Risk Monitoring and Control",
+      "domain": 2,
+      "source_id": "yt_001",
+      "chunk_index": 13,
+      "video_segment": "3:16:14→3:31:18"
+    },
+    {
+      "question": "In a project designated to deploy new technologies across several departments, a project manager notices a shift in stakeholder satisfaction levels despite the project adhering to its timeline and all deliverables being met. Feedback indicates a perception of diminishing returns in terms of value from recent project increments. What approach should the project manager take to address these concerns?",
+      "options": [
+        "A. Clarify to stakeholders that timeline adherence and completed deliverables are the primary indicators of success, assuring them the project is on track",
+        "B. Highlight to stakeholders the inherent fluctuations in value perception due to the variant nature of resources and expected benefits at different project stages",
+        "C. Communicate to stakeholders that it is common practice in agile projects to tackle the most value-adding elements first, resulting in a perceived decrease in value as the project progresses",
+        "D. Analyze the trend in value with the team to identify underlying issues, devise strategies for consistent value delivery, and transparently relay those plans to stakeholders"
+      ],
+      "answer": "D",
+      "explanation": "The best answer is D because it directly addresses the stakeholder's concern rather than dismissing it. Option A ignores the satisfaction problem by focusing only on schedule and scope—being on time doesn't guarantee stakeholder satisfaction. Option B attempts to explain away the concern without solving it. Option C acknowledges the pattern but doesn't address it; telling stakeholders their concern is normal doesn't resolve the issue. Option D confronts the actual problem: stakeholders perceive diminishing value. By analyzing trends with the team, identifying root causes, developing strategies, and communicating transparently, the project manager actively works to restore value perception and stakeholder confidence. This reflects the principle of solving the problem rather than pushing it aside.",
+      "difficulty": "expert",
+      "topic": "Stakeholder Engagement and Value Delivery",
+      "domain": 1,
+      "source_id": "yt_001",
+      "chunk_index": 13,
+      "video_segment": "3:16:14→3:31:18"
+    }
+  ]
+}

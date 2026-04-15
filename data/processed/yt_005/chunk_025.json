@@ -1,0 +1,77 @@
+{
+  "source_id": "yt_005",
+  "chunk_index": 25,
+  "start_label": "4:12:37",
+  "end_label": "4:22:41",
+  "mode": "extract",
+  "questions": [
+    {
+      "question": "You are a manager of a PMO in a large organization which has recently undertaken a company-wide way of working transformation. You need to select an initial development approach for your projects which you will then tailor to suit them further. What will you do next?",
+      "options": [
+        "A. Use a framework that best engages your executive team through easy to use graphics and presentations",
+        "B. Select the most popular current framework to keep up with what other organizations are doing",
+        "C. Select multiple development approaches as a baseline for your organization",
+        "D. Use a suitability filter to assess the most appropriate development approach"
+      ],
+      "answer": "D",
+      "explanation": "A suitability filter helps project teams consider whether a project has characteristics that lend themselves towards a predictive, hybrid, or adaptive approach. This allows you to select one as a base and then enable the ability to tailor to your project or organization's circumstances. The other options focus on engaging executives through graphics, following trends, or managing multiple approaches—none of which are the correct way to select an initial development approach.",
+      "difficulty": "expert",
+      "topic": "Development Approach Selection and Tailoring",
+      "domain": 2,
+      "source_id": "yt_005",
+      "chunk_index": 25,
+      "video_segment": "4:12:37→4:22:41"
+    },
+    {
+      "question": "Your organization is starting to move to an agile way of work and they are setting up a Value Delivery Office (VDO) to complement the existing PMO (Project Management Office). The executives in the area have begun working through what the function looks like and the roles and responsibilities that might exist. They approach you for help. What will you tell them?",
+      "options": [
+        "A. A VDO is responsible for the value delivered and owns the programs within the organization",
+        "B. The VDO focuses on coaching project teams, building adaptive skills and capabilities throughout the organization, and mentoring sponsors and product owners to be more effective",
+        "C. The VDO is responsible for agile resources such as Scrum Masters and product owners to be allocated effectively to project teams",
+        "D. The VDO creates the organizational framework to be used on each project throughout the company"
+      ],
+      "answer": "B",
+      "explanation": "A VDO serves an enabling role rather than a management or oversight function. It focuses on coaching project teams, building adaptive skills and capabilities throughout the organization, and mentoring sponsors and product owners. The other options describe PMO functions (program ownership, resource allocation, and framework creation) rather than the VDO's coaching and mentoring role.",
+      "difficulty": "expert",
+      "topic": "Value Delivery Office and Organizational Structure",
+      "domain": 3,
+      "source_id": "yt_005",
+      "chunk_index": 25,
+      "video_segment": "4:12:37→4:22:41"
+    },
+    {
+      "question": "You have been planning a project for the last two months, gathering requirements and scope and assigning tasks to a schedule. As you get closer to the execution phase of your project, you decide what delivery approach you will use. The requirements are likely to change, require a medium amount of compliance, but can be released in one go. What will you do next?",
+      "options": [
+        "A. Use a predictive delivery approach",
+        "B. Use an incremental delivery approach",
+        "C. Use an adaptive or agile delivery approach",
+        "D. Use an iterative delivery approach"
+      ],
+      "answer": "D",
+      "explanation": "An iterative delivery approach gathers feedback and improves over time while delivering in one release. Since requirements are likely to change but the project can be released as a single deliverable, iterative is the best fit. Incremental would deliver features separately; predictive would plan everything upfront; adaptive would release incrementally. Iterative allows for gathering feedback and iteration towards success with a single final release.",
+      "difficulty": "expert",
+      "topic": "Development Approach Selection—Iterative vs. Incremental vs. Predictive",
+      "domain": 2,
+      "source_id": "yt_005",
+      "chunk_index": 25,
+      "video_segment": "4:12:37→4:22:41"
+    },
+    {
+      "question": "You have been asked to make a process improvement in the accounting area for your organization. You have been assigned a small team of nine people, each with all the skills you need to complete the project. The team is collocated and have unlimited access to the project customer. What sort of delivery approach will you use?",
+      "options": [
+        "A. Use a predictive delivery approach",
+        "B. Use an agile or adaptive delivery approach",
+        "C. Use an incremental delivery approach",
+        "D. Use a hybrid delivery approach"
+      ],
+      "answer": "B",
+      "explanation": "An agile or adaptive delivery approach works best when the team is small (fewer than 9 to 12 people), is cross-functional with all required skills, is collocated in the same space, and has close access to the customer. All these conditions are met in this scenario. Predictive is best when lots of planning is needed; hybrid is best when two different approaches are needed; incremental delivers features over time but doesn't account for all the favorable agile conditions present.",
+      "difficulty": "expert",
+      "topic": "Development Approach Selection—Agile vs. Predictive vs. Hybrid",
+      "domain": 2,
+      "source_id": "yt_005",
+      "chunk_index": 25,
+      "video_segment": "4:12:37→4:22:41"
+    }
+  ]
+}

@@ -1,0 +1,128 @@
+{
+  "source_id": "yt_001",
+  "chunk_index": 1,
+  "start_label": "15:07",
+  "end_label": "30:14",
+  "mode": "extract",
+  "questions": [
+    {
+      "question": "A project manager is overseeing a software development project where the team has prioritized creating a new user authentication system in the current Sprint. Midway through the Sprint, two developers express a desire to divert their efforts to optimize database queries, anticipating future performance issues. What should you do next?",
+      "options": [
+        "A. Allocate time for developers to present their optimization proposal at the next Sprint planning meeting, reinforcing the importance of adherence to the Sprint's primary goal of completing the authentication system",
+        "B. Request a special session to assess the potential impact of the database optimization on future Sprints",
+        "C. Support the developers' initiative by allocating a small portion of their time to start preliminary work on the database optimization",
+        "D. Allow them to context switch and pursue the database optimization work immediately"
+      ],
+      "answer": "A",
+      "explanation": "Agile principles dictate that once a Sprint starts, the team should focus on completing the Sprint goal without scope changes. The correct approach is to reinforce commitment to the current Sprint goal and defer the new work to the product backlog for consideration in future Sprints. Allowing context switching, requesting special sessions, or allocating time away from the Sprint goal undermines Sprint commitments and the predictability of agile delivery.",
+      "difficulty": "expert",
+      "topic": "Agile Sprint Execution and Scope Protection",
+      "domain": 2,
+      "source_id": "yt_001",
+      "chunk_index": 1,
+      "video_segment": "15:07→30:14"
+    },
+    {
+      "question": "A project manager is overseeing the development of an enterprise resource planning system and has decided that a combination of Scrum and Kanban methodologies would be most effective. However, the product owner is unsure about how to begin optimizing and prioritizing work. What should the project manager do?",
+      "options": [
+        "A. Guide the product owner on developing and optimizing a comprehensive product backlog",
+        "B. Have team members explain the integration of Scrum and Kanban principles to the product owner to enhance understanding",
+        "C. Recommend that the project team use visual management tools to improve workflow",
+        "D. Teach the product owner how to map out process flows to better understand task sequences"
+      ],
+      "answer": "A",
+      "explanation": "According to PMP leadership mindset, when someone lacks knowledge in their role, the project manager should teach them, not do the work for them or assign it to others. The product owner's primary responsibility is managing the product backlog, which directly involves organizing and prioritizing work. Guiding them on developing and optimizing the product backlog directly addresses the stated need. Having team members explain principles or using visual tools are supportive but do not directly teach the product owner how to prioritize work.",
+      "difficulty": "expert",
+      "topic": "Product Owner Development and Role Definition",
+      "domain": 1,
+      "source_id": "yt_001",
+      "chunk_index": 1,
+      "video_segment": "15:07→30:14"
+    },
+    {
+      "question": "A project manager is leading a team on a critical marketing campaign for a major product launch. After unexpected last-minute changes, the team worked overtime to meet tight deadlines. The sponsor has allocated a monetary award to recognize the team's efforts. Based on project management practice, what is the most appropriate action for the project manager?",
+      "options": [
+        "A. Distribute the entire award to the team member who worked the longest hours",
+        "B. Organize a team building and retreat to enhance morale for future projects",
+        "C. Use the award to fund professional development opportunities to benefit the team in future projects",
+        "D. Decide how to distribute the award based on informal feedback from the team"
+      ],
+      "answer": "C",
+      "explanation": "When creating any reward or recognition system, it must be fair, transparent, and publicly communicated. Distributing based solely on hours worked ignores actual contribution and is not equitable. Informal feedback lacks transparency and fairness. While team building has merit, professional development provides greater tangible long-term benefit to team members and future project success. Professional development funding demonstrates investment in the team's growth and directly enhances future project capability.",
+      "difficulty": "expert",
+      "topic": "Team Recognition and Reward Systems",
+      "domain": 1,
+      "source_id": "yt_001",
+      "chunk_index": 1,
+      "video_segment": "15:07→30:14"
+    },
+    {
+      "question": "A project manager is overseeing the construction of a new community recreation center which needs to be developed quickly to meet the community's expectations. The team is skilled, stakeholders are engaged, and the community is excited about the new facility. What should the project manager prioritize to ensure timely completion?",
+      "options": [
+        "A. Assign more resources to critical tasks without consulting the team",
+        "B. Develop a milestone-based plan ensuring regular stakeholder involvement and communication",
+        "C. Monitor daily progress in a way that integrates input from team members to ensure alignment with project goals",
+        "D. Request an extension of the project deadline from the sponsor"
+      ],
+      "answer": "B",
+      "explanation": "The key to project success, particularly when there is strong engagement and skilled teams, is stakeholder involvement and communication. A milestone-based plan provides structure and schedule clarity while ensuring stakeholder engagement maintains alignment. Assigning resources without team consultation violates collaborative principles. Requesting a deadline extension contradicts the stated goal of timely completion. While daily monitoring is important, the strategic approach of combining milestone planning with stakeholder engagement is superior and prevents many issues before they occur.",
+      "difficulty": "expert",
+      "topic": "Stakeholder Engagement and Schedule Planning",
+      "domain": 2,
+      "source_id": "yt_001",
+      "chunk_index": 1,
+      "video_segment": "15:07→30:14"
+    },
+    {
+      "question": "A project manager has begun a complex airport expansion project. Although the project is in the initiating phase, the sponsor keeps asking for concrete dates for the most important project milestones. When will the project manager be able to provide the requested information?",
+      "options": [
+        "A. After the initial risk assessments are completed to estimate timelines",
+        "B. At the end of the planning phase once detailed schedule and risk assessments are completed",
+        "C. During the execution phase when the project is underway and progress can be measured",
+        "D. Once the project charter is signed as it outlines initial milestones"
+      ],
+      "answer": "B",
+      "explanation": "The initiating phase produces only high-level, broad information including a high-level scope, schedule, budget, and risk summary within the project charter. Concrete, detailed milestone dates require the work performed during planning—including expert judgment, bottom-up estimations, WBS decomposition, and detailed schedule development. Initial risk assessments alone do not provide sufficient detail. The project charter authorization does not mean detailed planning is complete. Waiting until execution defeats the purpose of the planning phase.",
+      "difficulty": "expert",
+      "topic": "Project Planning and Schedule Development",
+      "domain": 2,
+      "source_id": "yt_001",
+      "chunk_index": 1,
+      "video_segment": "15:07→30:14"
+    },
+    {
+      "question": "A project manager is overseeing a large infrastructure project in a hierarchical organization. Team members are used to receiving direct instructions and their performance reviews are based on task completion percentage. After discussing with the sponsor, the project manager realizes that some tasks need to be reassigned to meet the next milestone. This change could be perceived as a negative reflection on the current assignees' performance. What should the project manager do?",
+      "options": [
+        "A. Assign the task to the most skilled member without further discussion",
+        "B. Hold a meeting to explain the changes and collaborate on reassigning tasks",
+        "C. Privately ask a senior member to take over the task and inform the others of the reassignment",
+        "D. Send an email to the team outlining the task changes and reasoning behind them"
+      ],
+      "answer": "B",
+      "explanation": "The leadership mindset requires confronting problems directly and collaboratively rather than avoiding them. When changes affect the team, especially those perceived negatively, transparency and team involvement are essential. Meeting with the team and collaborating on reassignments demonstrates respect, provides opportunity for discussion, and prevents misunderstanding. Assigning unilaterally removes team input. Private side conversations lack transparency. While email communication is better than silence, a collaborative meeting is superior to one-way written communication for sensitive matters.",
+      "difficulty": "expert",
+      "topic": "Team Communication and Change Management",
+      "domain": 1,
+      "source_id": "yt_001",
+      "chunk_index": 1,
+      "video_segment": "15:07→30:14"
+    },
+    {
+      "question": "A project manager is leading a city park renovation project. During a status meeting with city officials, the project manager provides an update about a significant deliverable. Some officials claim they were not informed about this deliverable. What should the project manager do next?",
+      "options": [
+        "A. Confirm if the scope statement has been updated to include the deliverable",
+        "B. Meet with these officials to review the communication plan and clarify deliverables",
+        "C. Check the attendance records of these officials at prior project meetings",
+        "D. Review the project documents to ensure the deliverable was communicated"
+      ],
+      "answer": "B",
+      "explanation": "The leadership mindset emphasizes confronting problems directly and transparently. When stakeholders claim they were not informed, the appropriate response is to meet with them to understand the communication gap and review the communication plan together. This collaborative approach addresses the concern directly. Checking attendance records appears punitive and defensive. Reviewing documents alone without stakeholder dialogue does not resolve the concern. Confirming scope updates is administrative but does not address the immediate stakeholder communication gap.",
+      "difficulty": "expert",
+      "topic": "Stakeholder Communication and Problem Resolution",
+      "domain": 1,
+      "source_id": "yt_001",
+      "chunk_index": 1,
+      "video_segment": "15:07→30:14"
+    }
+  ]
+}

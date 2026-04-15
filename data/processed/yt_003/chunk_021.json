@@ -1,0 +1,111 @@
+{
+  "source_id": "yt_003",
+  "chunk_index": 21,
+  "start_label": "5:17:08",
+  "end_label": "5:32:13",
+  "mode": "extract",
+  "questions": [
+    {
+      "question": "You have completed a make or buy analysis in your project and found that part of your deliverable is best created by an external vendor. You work with your project team to create the procurement strategy, source selection criteria, and statement of work. What are you going to do next?",
+      "options": [
+        "A. Gather the seller proposals including technical details and price",
+        "B. Meet with prospective sellers to ensure all vendors have a common understanding of the procurement",
+        "C. Perform source selection analysis on what you want from prospective vendors",
+        "D. Create the procurement agreement for the third party vendor to provide their specified services"
+      ],
+      "answer": "B",
+      "explanation": "A bidder conference (also called a contractor conference, vendor conference, or pre-bid conference) is a meeting with prospective sellers prior to the preparation of a bid or proposal to ensure all prospective bidders have a clear and common understanding of the procurement. This occurs before gathering proposals and before source selection. This is an output of plan procurement management.",
+      "difficulty": "hard",
+      "topic": "Procurement Strategy and Bidder Conferences",
+      "domain": 2,
+      "source_id": "yt_003",
+      "chunk_index": 21,
+      "video_segment": "5:17:08→5:32:13"
+    },
+    {
+      "question": "One of the stakeholders in your project has raised a change request after some of the deliverables contained defects and a missed requirement. Your project has a formal change control process as opposed to a more agile prioritized product backlog. What will you do next?",
+      "options": [
+        "A. Gather feedback from other stakeholders to see if they also need the change",
+        "B. Take it to the change control board",
+        "C. Note the change in the change log",
+        "D. Raise the request as an issue that will affect your project schedule and budget"
+      ],
+      "answer": "B",
+      "explanation": "In a formal change control process, change requests must be submitted to the change control board for review, approval, or rejection. The change control board includes the people accountable for reviewing and approving changes to the project. The decisions made are recorded and communicated to stakeholders. This is the proper formal governance process.",
+      "difficulty": "hard",
+      "topic": "Formal Change Control Process",
+      "domain": 2,
+      "source_id": "yt_003",
+      "chunk_index": 21,
+      "video_segment": "5:17:08→5:32:13"
+    },
+    {
+      "question": "Your agile project has recently gained some new stakeholders after a department restructure. They complain that they are not seeing enough traction of work delivered through the project and they are worried that it will not meet their requirements. What will you do next?",
+      "options": [
+        "A. Invite them to the daily standup so they can see the work that happens on a daily basis",
+        "B. Invite them to iteration planning so they can choose what the team works on",
+        "C. Invite them to the retrospective so they can raise their issue there and come up with a solution",
+        "D. Invite them to the iteration review so they can see the usable increment that the team delivers"
+      ],
+      "answer": "D",
+      "explanation": "The iteration review (or sprint review) is held at the end of an iteration to demonstrate the work that was accomplished to the project customers and stakeholders. This allows new stakeholders to see the usable features being delivered and provide feedback. This is the appropriate venue to address their concerns about work being delivered and to gather their input on whether requirements are being met.",
+      "difficulty": "hard",
+      "topic": "Iteration Review and Stakeholder Communication",
+      "domain": 1,
+      "source_id": "yt_003",
+      "chunk_index": 21,
+      "video_segment": "5:17:08→5:32:13"
+    },
+    {
+      "question": "You have recently taken over a project. Your project team approached you to say that there is a regulatory approval that has not been granted yet and it might block development of your project in the next 5 months. You check your project documentation but cannot see any mention of this. What will you do next?",
+      "options": [
+        "A. Hold a risk review meeting, capture it as a risk, and ensure an adequate risk response",
+        "B. Hold a retrospective with your team to capture what challenges the team are facing",
+        "C. Adjust your product roadmap to reflect the changes to the timeframe of that deliverable",
+        "D. Escalate the regulatory approval to the project steering committee"
+      ],
+      "answer": "A",
+      "explanation": "A risk review meeting is held to analyze the status of existing risks and identify new risks, including changes to probability, impact, or urgency, and to determine if responses are adequate. Since the regulatory approval has not yet been granted but might block development in the future, this is a potential risk that must be identified, analyzed, and managed with an appropriate response plan. This is more appropriate than escalating or adjusting the roadmap based on an uncertain future event.",
+      "difficulty": "hard",
+      "topic": "Risk Review and Risk Response Planning",
+      "domain": 2,
+      "source_id": "yt_003",
+      "chunk_index": 21,
+      "video_segment": "5:17:08→5:32:13"
+    },
+    {
+      "question": "You are an agile project manager and holding daily standups with your team. You notice people accusing other team members of not doing their job and there are some tasks that are not mentioned anywhere and no one is responsible for. The team velocity has slowed in the last three sprints. What will you do next?",
+      "options": [
+        "A. Refer to the team charter that outlines team roles, agreed ways of managing conflict, and responsibilities",
+        "B. Work with your team to problem-solve in the next retrospective and come to a solution with the team",
+        "C. Raise it as an issue in the next retrospective",
+        "D. Assign team roles to those you think are best suited"
+      ],
+      "answer": "B",
+      "explanation": "A retrospective is a regularly occurring workshop where the team explores their work to improve their process. Since tasks are not mentioned in the team charter and roles are undefined, the team needs to problem-solve together in a retrospective to clarify responsibilities, resolve conflicts, and improve their process. This is the agile approach to addressing process and team issues.",
+      "difficulty": "hard",
+      "topic": "Retrospective and Team Process Improvement",
+      "domain": 1,
+      "source_id": "yt_003",
+      "chunk_index": 21,
+      "video_segment": "5:17:08→5:32:13"
+    },
+    {
+      "question": "You are managing a large construction project. Due to some delays, the project schedule has been pushed back by one week. As a result, one of the project risks has increased slightly but is still within the acceptable limits. What will you do next?",
+      "options": [
+        "A. Hold a risk review and update the risk response and owners",
+        "B. Raise a change request for the change to the project schedule",
+        "C. Capture the change in your project reporting and take it to the next status meeting",
+        "D. Update the sprint backlog to reflect the delayed work"
+      ],
+      "answer": "C",
+      "explanation": "Since the risk has increased slightly but is still within acceptable limits, a new risk response may not be necessary. The priority is to communicate the schedule change to stakeholders. A status meeting is a regularly scheduled event to exchange and analyze information about current project progress and performance. Capturing the change in project reporting and communicating it at the status meeting ensures stakeholders are informed of the one-week delay.",
+      "difficulty": "hard",
+      "topic": "Project Status Reporting and Stakeholder Communication",
+      "domain": 2,
+      "source_id": "yt_003",
+      "chunk_index": 21,
+      "video_segment": "5:17:08→5:32:13"
+    }
+  ]
+}

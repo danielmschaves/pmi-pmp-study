@@ -1,0 +1,77 @@
+{
+  "source_id": "yt_005",
+  "chunk_index": 44,
+  "start_label": "7:24:28",
+  "end_label": "7:34:34",
+  "mode": "extract",
+  "questions": [
+    {
+      "question": "You are working on a project where you discover a certain negative risk with a potential impact of $2 million. You meet with your project stakeholders who determine that this is within their risk appetite provided that you meet a risk threshold of 10%. What will you do next?",
+      "options": [
+        "A. Note the acceptable risk level as a threat of $200,000, which is 10%",
+        "B. Note the acceptable risk level as a threat of $1.8 million to $2.2 million, which is a 10% variance",
+        "C. Note the impact as outside the acceptable risk level of $2 million",
+        "D. Note the impact as an opportunity of $200,000, which is 10%"
+      ],
+      "answer": "B",
+      "explanation": "Risk appetite describes the level of uncertainty or risk stakeholders are willing to accept. Risk threshold is the measure of acceptable variation around an objective that reflects the risk appetite. In this scenario, a 10% variation around $2 million is $1.8 million to $2.2 million, which matches the stakeholders' acceptable risk parameters. The other options either misrepresent the calculation or ignore stakeholder acceptance.",
+      "difficulty": "expert",
+      "topic": "Risk Appetite and Risk Threshold",
+      "domain": 2,
+      "source_id": "yt_005",
+      "chunk_index": 44,
+      "video_segment": "7:24:28→7:34:34"
+    },
+    {
+      "question": "A risk has been raised in your project around insufficient building materials. A risk responder assigned to the functional manager suggests using a brand new material which has not been fully tested before in a building project. Half of your stakeholder group are happy with this risk response but the other half are not and refuse to sign off on it. What will you do next?",
+      "options": [
+        "A. Suggest a quantitative risk approach to give a more accurate financial impact",
+        "B. Suggest they proceed with the proposed risk response and ensure it is followed through",
+        "C. Suggest a different risk owner as an executive may have more power to respond to the risk",
+        "D. Suggest a different risk response as they should be timely, cost-effective, realistic, and agreed to by relevant stakeholders"
+      ],
+      "answer": "D",
+      "explanation": "Risk responses should be appropriate and timely to the significance of the risk, cost-effective, realistic within the project context, agreed to by relevant stakeholders, and owned by a responsible person. Since 50% of stakeholders are disagreeing with the proposed response, it does not meet the criterion of being agreed to by relevant stakeholders. The best approach is to suggest a different risk response that addresses these concerns. Forcing the response through or changing the risk owner does not resolve stakeholder disagreement.",
+      "difficulty": "expert",
+      "topic": "Risk Response Planning",
+      "domain": 2,
+      "source_id": "yt_005",
+      "chunk_index": 44,
+      "video_segment": "7:24:28→7:34:34"
+    },
+    {
+      "question": "Your project is starting to go off track due to a large amount of uncertainty in the requirements and resources. You managed to reign in these issues at a significant cost. However, your project management office would like you to brainstorm ways to improve with your team so that it does not happen again. What will you do next?",
+      "options": [
+        "A. Ask your team to increase the project contingency reserve to allow for these impacts",
+        "B. Ask your team to change the project model methodology from waterfall to agile",
+        "C. Ask your team to use short feedback loops, continuous improvement, and transparent planning",
+        "D. Ask your team to check their work twice before sending it to the next part of the process"
+      ],
+      "answer": "C",
+      "explanation": "Project teams need to embrace adaptability and resiliency with methods such as using short feedback loops, continuous learning and improvement, regular inspection, transparent planning, and diverse project teams. These agile practices enable teams to identify and address uncertainty and requirements issues earlier in the process. While changing methodology or increasing contingency reserves may help, short feedback loops and transparent planning directly address the root causes of the uncertainty and allow for continuous adaptation. Merely checking work twice does not address the underlying requirement for adaptability.",
+      "difficulty": "expert",
+      "topic": "Embrace Adaptability and Resiliency",
+      "domain": 2,
+      "source_id": "yt_005",
+      "chunk_index": 44,
+      "video_segment": "7:24:28→7:34:34"
+    },
+    {
+      "question": "As your project progresses, many of the business stakeholders are starting to voice their concerns, question some of the changes, and even miss key meetings while trying to sabotage your efforts. What will you do next?",
+      "options": [
+        "A. Communicate the vision and benefits for the change clearly along with the impact to their work",
+        "B. Create an impact over influence chart to determine who should be engaged appropriately",
+        "C. Escalate the matter to your project sponsor and arrange for different stakeholders",
+        "D. Map the current state and the proposed future state of the change for the stakeholders"
+      ],
+      "answer": "A",
+      "explanation": "Stakeholder resistance is best addressed through clear communication of vision, benefits, and impact. This two-way communication approach allows you to listen to stakeholder concerns while articulating the value of proposed changes. While tools like impact-influence charts and state mapping are useful planning techniques, they do not directly address the immediate engagement and communication gaps. Escalating to replace stakeholders is typically not feasible or advisable, as it does not resolve the underlying concerns and may exacerbate resistance.",
+      "difficulty": "expert",
+      "topic": "Stakeholder Engagement and Communication",
+      "domain": 1,
+      "source_id": "yt_005",
+      "chunk_index": 44,
+      "video_segment": "7:24:28→7:34:34"
+    }
+  ]
+}

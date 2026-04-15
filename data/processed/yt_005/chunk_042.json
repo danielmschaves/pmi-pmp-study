@@ -1,0 +1,77 @@
+{
+  "source_id": "yt_005",
+  "chunk_index": 42,
+  "start_label": "7:04:20",
+  "end_label": "7:14:23",
+  "mode": "extract",
+  "questions": [
+    {
+      "question": "You notice that Jane, a team member on your project, has been left out of some key meetings and others are overlooking her opinions. You also notice she has paid significantly less than her male colleagues. What will you do next?",
+      "options": [
+        "A. Make steps to update her pay to the same range as the others on your project and ask her opinion and advice specifically during each meeting along with others in your team",
+        "B. Take the lower pay as a win for your project as it will help keep costs low and her colleagues do not need to know",
+        "C. Ask Jane to write down her knowledge of the industry just in case she leaves",
+        "D. No need to rock the boat; this is just how people work in this industry"
+      ],
+      "answer": "A",
+      "explanation": "The correct answer addresses integrity and stewardship by ensuring respectful engagement of project team members including fair compensation, access to opportunity, and fair treatment. Options B, C, and D avoid acting fairly and would result in poor engagement and potential team member attrition. When people discover inequality, engagement plummets, leading to knowledge loss and increased hiring costs.",
+      "difficulty": "expert",
+      "topic": "Integrity and Stewardship; Fair Treatment and Respectful Engagement",
+      "domain": 1,
+      "source_id": "yt_005",
+      "chunk_index": 42,
+      "video_segment": "7:04:20→7:14:23"
+    },
+    {
+      "question": "During one of your working group meetings, a stakeholder raises the concern that the product you are working on will be discontinued in the next 5 months. You are not aware of this and your project budget has already been approved until the scheduled delivery which is in 5 months. What will you do next?",
+      "options": [
+        "A. Keep the project going as it is; the discontinued product is not your responsibility",
+        "B. Set a meeting with your project sponsor to share the information and provide a recommendation to terminate the project",
+        "C. Change the scope of the project to meet a different product so your project can remain relevant",
+        "D. Ask for additional funding to see if you can improve the product instead of discontinuing it"
+      ],
+      "answer": "B",
+      "explanation": "The correct answer addresses delivering value and focusing on the primary motivator for a project. If the project is no longer aligned with the business need or unlikely to provide value, the organization should terminate the effort. This requires meeting with the sponsor to share the critical information and recommend appropriate action. Continuing the project, changing scope mid-stream, or seeking additional funding does not address the fundamental misalignment with business value.",
+      "difficulty": "expert",
+      "topic": "Delivering Value; Project Termination; Stakeholder Communication",
+      "domain": 3,
+      "source_id": "yt_005",
+      "chunk_index": 42,
+      "video_segment": "7:04:20→7:14:23"
+    },
+    {
+      "question": "You have collected the requirements for your project and are creating the scope statement and work breakdown structure. During this process, you notice some functionality in your database system that will help a different project that you are aware of in your project management office. What will you do next?",
+      "options": [
+        "A. Place the feature in the other project's backlog and ask them to prioritize it as soon as possible",
+        "B. Raise the functionality in your risk register as a threat with the response to mitigate",
+        "C. Add the scope to your project and complete it as soon as possible",
+        "D. Raise the functionality in your risk register as an opportunity with the response to exploit and meet with the other project team and sponsor to discuss"
+      ],
+      "answer": "D",
+      "explanation": "The correct answer applies systems thinking by taking a holistic view of how project parts interact with each other and external systems. Finding a previously unknown opportunity requires making it known and exploiting it through stakeholder discussion. Option A assumes authority to add to another project's backlog without discussion. Option B misclassifies this as a threat rather than an opportunity. Option C adds out-of-scope work that your team may not be experts in. Meeting with the other project team and sponsor ensures proper integration and resource allocation.",
+      "difficulty": "expert",
+      "topic": "Systems Thinking; Opportunity Management; Stakeholder Engagement",
+      "domain": 2,
+      "source_id": "yt_005",
+      "chunk_index": 42,
+      "video_segment": "7:04:20→7:14:23"
+    },
+    {
+      "question": "You are working on a high-profile project and several high-ranking senior executives want to take credit for this initiative while limiting the impact to their own resources. This has led to several conflicts and an unclear scope statement, resulting in a risk of project failure. What will you do next?",
+      "options": [
+        "A. Create a scope statement yourself to avoid further conflict",
+        "B. Facilitate discussion with the executives as a neutral third party focusing on agreed project goals",
+        "C. Allow the executives to define the scope based on their preferred allocation of resources",
+        "D. Escalate the conflict to senior leadership without attempting resolution"
+      ],
+      "answer": "B",
+      "explanation": "The correct answer uses facilitation techniques to align stakeholders around agreed project goals, which is a key project manager responsibility. Acting as a neutral third party helps resolve conflicts and build consensus on scope. Option A risks stakeholder rejection and customer non-acceptance. Option C perpetuates the resource-hoarding behavior causing the conflict. Option D escalates prematurely without attempting to resolve through proper facilitation and stakeholder engagement.",
+      "difficulty": "expert",
+      "topic": "Stakeholder Engagement; Conflict Resolution; Facilitation; Scope Definition",
+      "domain": 1,
+      "source_id": "yt_005",
+      "chunk_index": 42,
+      "video_segment": "7:04:20→7:14:23"
+    }
+  ]
+}

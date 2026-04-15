@@ -1,0 +1,94 @@
+{
+  "source_id": "yt_003",
+  "chunk_index": 1,
+  "start_label": "15:07",
+  "end_label": "30:13",
+  "mode": "extract",
+  "questions": [
+    {
+      "question": "You have collected the requirements for your project and you are creating the scope statement and the work breakdown structure. During this process, you notice some functionality in your database system that will help a different project that you are aware of in your project management office. What will you do next?",
+      "options": [
+        "A. Place the feature in the other project's backlog and ask them to prioritize it as soon as possible",
+        "B. Raise the functionality in your risk register as a threat with the response to mitigate",
+        "C. Add the scope to your project and complete it as soon as possible",
+        "D. Raise the functionality in your risk register as an opportunity with the response to exploit"
+      ],
+      "answer": "D",
+      "explanation": "This involves systems thinking and recognizing that an unknown opportunity has been discovered. The best approach is to raise it as an opportunity in the risk register and plan to exploit it, rather than simply passing it to another team without discussion or taking on scope that is not your team's expertise. Meeting with the other project team and sponsor to discuss is the practical next step, but registering it as an opportunity to exploit reflects the proper PM approach. Systems thinking involves taking a holistic view of how project parts interact with each other and external systems.",
+      "difficulty": "hard",
+      "topic": "Systems Thinking, Risk Response Planning, Opportunity Management",
+      "domain": 2,
+      "source_id": "yt_003",
+      "chunk_index": 1,
+      "video_segment": "15:07→30:13"
+    },
+    {
+      "question": "You are working on a high-profile project where several high-ranking senior executives want to take the credit for this initiative while limiting the impact to their own resources. This has led to several conflicts and a scope statement that is unclear, leading to a risk of project failure. What will you do next?",
+      "options": [
+        "A. Create a scope statement yourself to avoid further conflict",
+        "B. Facilitate discussion with the executives as a neutral third party, focusing on agreed project goals",
+        "C. Limit your project resources to the executives until they can agree on a way forward",
+        "D. Escalate the issue to the project steering committee and ask them to resolve the problem"
+      ],
+      "answer": "B",
+      "explanation": "Leadership is not the same as authority. When senior managers suffer conflict over priorities, neutral facilitation helps more than detailed recommendations. As a project manager, you should attempt to manage and resolve conflicts before escalating. By facilitating discussion and helping extract ideas and priorities from the executives themselves, you generate consensus on the way forward. This involves focusing the team around agreed goals, negotiating, and resolving conflict—soft skills essential to leadership behavior.",
+      "difficulty": "hard",
+      "topic": "Leadership, Conflict Resolution, Stakeholder Engagement",
+      "domain": 1,
+      "source_id": "yt_003",
+      "chunk_index": 1,
+      "video_segment": "15:07→30:13"
+    },
+    {
+      "question": "You are managing a project where the majority of the product has been planned up front, but an external system is needed from a vendor in partial pieces where the requirements are unclear. Half of your stakeholders want to use a waterfall approach and the other half are advocating for an agile approach. What will you do next?",
+      "options": [
+        "A. Use an agile methodology; the fixed scope is low risk and you can capture the changes using agile",
+        "B. Use a waterfall methodology",
+        "C. Proceed with a hybrid method to start with pre-planned scope but agile ceremonies that promote feedback",
+        "D. Use a combination of waterfall and agile to capture all the requirements and keep stakeholders happy"
+      ],
+      "answer": "C",
+      "explanation": "This project requires tailoring—adapting to the unique context. Since you have both predetermined scope and uncertain external dependencies, a hybrid approach combining waterfall for the planned portions with agile ceremonies for feedback on the unclear vendor requirements is most appropriate. Tailoring is iterative in nature, meaning you may adjust your approach over time as the project progresses. Option C uses the specific terminology of a hybrid method applied appropriately to the project's dual nature.",
+      "difficulty": "hard",
+      "topic": "Tailoring, Project Life Cycles, Hybrid Approaches",
+      "domain": 2,
+      "source_id": "yt_003",
+      "chunk_index": 1,
+      "video_segment": "15:07→30:13"
+    },
+    {
+      "question": "You are working on a project where senior users have been testing the product as parts are released. They have found some missing requirements and defects. Their manager is worried that the project will not deliver a product that is fit for purpose without defects and within the time frame needed. What will you do next?",
+      "options": [
+        "A. Perform some of the testing yourself to ensure a quality product",
+        "B. Help every team member focus on quality from correct acceptance criteria to a developed and tested product",
+        "C. Limit testing until the very end of the project so you can do it all in one go when the product is completely ready",
+        "D. Increase the testing on your project and add more testing resources so no defect goes unnoticed"
+      ],
+      "answer": "B",
+      "explanation": "Quality is everyone's responsibility in an adaptive or agile project. Rather than the project manager performing testing themselves, taking on additional testing resources, or deferring all testing to the end, the best approach is to help the entire team focus on quality throughout. This means ensuring correct acceptance criteria are defined and that quality is built into every deliverable and process from development through testing. This shifts quality from being a separate concern to being a shared team responsibility.",
+      "difficulty": "hard",
+      "topic": "Quality Management, Team Responsibility, Adaptive Processes",
+      "domain": 2,
+      "source_id": "yt_003",
+      "chunk_index": 1,
+      "video_segment": "15:07→30:13"
+    },
+    {
+      "question": "You are working through the risk assessment with your team who are having trouble coming up with ideas for risks. You decide to give them some guidance on types of complexity that might affect your new product. What will you do next?",
+      "options": [
+        "A. Ask them to brainstorm qualitative and quantitative risks",
+        "B. Ask them to perform the five whys and Ishikawa analysis to find the root cause of a problem",
+        "C. Ask them to brainstorm around possible unwanted human behavior, system behavior, ambiguity, and technical innovation impacts",
+        "D. Ask them to perform a retrospective to discover what isn't working well and what still puzzles us"
+      ],
+      "answer": "C",
+      "explanation": "Complexity often results from human behavior, system interactions, technical innovation, uncertainty, and ambiguity (VUCA—Volatility, Uncertainty, Complexity, Ambiguity). By guiding the team to brainstorm risks around these types of complexity, you help them uncover risks they might otherwise miss. This approach addresses the underlying sources of complexity and volatility that can affect project scope, value, stakeholders, and risk. Options A and D do not specifically target the complexity factors, while Option B addresses root cause analysis of existing problems rather than forward-looking risk identification.",
+      "difficulty": "hard",
+      "topic": "Risk Identification, Complexity Management, VUCA",
+      "domain": 2,
+      "source_id": "yt_003",
+      "chunk_index": 1,
+      "video_segment": "15:07→30:13"
+    }
+  ]
+}

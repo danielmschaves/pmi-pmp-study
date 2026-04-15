@@ -1,0 +1,111 @@
+{
+  "source_id": "yt_002",
+  "chunk_index": 2,
+  "start_label": "30:14",
+  "end_label": "45:20",
+  "mode": "extract",
+  "questions": [
+    {
+      "question": "A project manager is running a project with remote and local resources. The remote team complains that they are not getting enough information about what's going on with the project, which has caused them to do some rework. The project manager facilitates a conference call with the two teams in which they decide to switch to a sophisticated enterprise chat platform to optimize communications. Which conflict resolution technique did the project manager use?",
+      "options": [
+        "A. Collaborate",
+        "B. Compromise",
+        "C. Force",
+        "D. Smooth"
+      ],
+      "answer": "A",
+      "explanation": "Collaboration is the correct conflict resolution technique because the project manager brought the two teams together, facilitated a meeting, and reached a solution that incorporates multiple viewpoints. In compromise, each party would have to sacrifice or give concessions, which did not occur here. Force would mean imposing a solution on both teams, which did not happen. Smoothing would lower the impact of the conflict rather than solve it. Collaboration aims for a win-win situation where all parties agree to the solution.",
+      "difficulty": "hard",
+      "topic": "Conflict Resolution",
+      "domain": 1,
+      "source_id": "yt_002",
+      "chunk_index": 2,
+      "video_segment": "30:14→45:20"
+    },
+    {
+      "question": "To better understand how the project system flows, depicting the scope in abstraction and enabling stakeholders to communicate about it and what lies beyond its boundaries, a project manager uses a visual representation of how people and other systems interact with the new system. Which of the following tools does the project manager use?",
+      "options": [
+        "A. Affinity diagram",
+        "B. Flowchart",
+        "C. Context diagram",
+        "D. Influence diagram"
+      ],
+      "answer": "C",
+      "explanation": "A context diagram is the correct answer because it is a visual depiction of the product scope that displays the business system and how it connects and interacts with other systems. It shows how different users and external systems interact with the new system and what lies beyond its boundaries. Affinity diagrams are used for organizing and categorizing ideas. Flowcharts show sequential processes. Influence diagrams show relationships between variables.",
+      "difficulty": "hard",
+      "topic": "Scope Definition and Visualization",
+      "domain": 2,
+      "source_id": "yt_002",
+      "chunk_index": 2,
+      "video_segment": "30:14→45:20"
+    },
+    {
+      "question": "Realizing that her project is not going according to estimations, a project manager suspects that it might be due to student syndrome. What does this syndrome imply?",
+      "options": [
+        "A. People who proceed with their studies during their professional careers",
+        "B. People who begin to apply themselves only at the last possible moment before the deadline",
+        "C. People who lack formal training in project management",
+        "D. People who resist organizational change"
+      ],
+      "answer": "B",
+      "explanation": "Student syndrome refers to the habit of putting off work until the last minute while initially working at a very relaxed pace. This causes schedule delays and increased pressure at the end of the project. It is not about formal studies or training. Understanding student syndrome helps project managers recognize when team members may be procrastinating and adjust their schedule management or motivation strategies accordingly.",
+      "difficulty": "hard",
+      "topic": "Schedule Management and Team Behavior",
+      "domain": 1,
+      "source_id": "yt_002",
+      "chunk_index": 2,
+      "video_segment": "30:14→45:20"
+    },
+    {
+      "question": "A project manager is managing a project using the scrum framework. The project manager receives a call from the product owner asking for a meeting with the team to discuss the possible approaches to implement user stories and make some initial size estimations. What type of meeting is the product owner referring to?",
+      "options": [
+        "A. Sprint planning",
+        "B. Story mapping",
+        "C. Backlog refinement",
+        "D. Brainstorming"
+      ],
+      "answer": "C",
+      "explanation": "Backlog refinement is the correct answer because it is the meeting where the product owner discusses and addresses story requirements with the team, including discussing requirements, potential approaches, and estimations. Sprint planning occurs at the beginning of each sprint with a fixed schedule and produces final estimations before work begins. Story mapping involves decomposing epics and user stories into tasks. Brainstorming is a general meeting for finding ideas and collecting insights, not for discussing specific user story implementation approaches.",
+      "difficulty": "hard",
+      "topic": "Agile/Scrum Ceremonies and Backlog Management",
+      "domain": 2,
+      "source_id": "yt_002",
+      "chunk_index": 2,
+      "video_segment": "30:14→45:20"
+    },
+    {
+      "question": "A project manager is leading a software project using a hybrid approach. During a lessons learned meeting, one of the team members complained that every time she submits a new piece of code, she finds many errors caused by the code changes made by her fellow developers. The project manager suggested testing, updating, and integrating new software code more frequently in order to reduce such errors. Which of the following techniques did the project manager suggest?",
+      "options": [
+        "A. Constant integration",
+        "B. Consecutive integration",
+        "C. Consistent integration",
+        "D. Continuous integration"
+      ],
+      "answer": "D",
+      "explanation": "Continuous integration is the correct technique because it dictates that all changes to the application source code base be frequently tested and integrated to reduce risks, improve quality, and establish a quick, reliable, and sustainable development base. The other options (constant, consecutive, and consistent integration) are made-up terms. Continuous integration directly addresses the problem of errors arising from code changes by ensuring frequent testing and integration of new code.",
+      "difficulty": "hard",
+      "topic": "Software Development and Quality Management",
+      "domain": 2,
+      "source_id": "yt_002",
+      "chunk_index": 2,
+      "video_segment": "30:14→45:20"
+    },
+    {
+      "question": "A project manager is leading a project to implement a new enterprise resource planning (ERP) system for a local customer. The project manager guides the team to define the project requirements and details before moving to execution. The project will be delivered after 4 months. The customer will pay the organization in monthly installments. Which of the following project development approaches is the project manager adopting?",
+      "options": [
+        "A. Predictive",
+        "B. Adaptive",
+        "C. Iterative",
+        "D. Incremental"
+      ],
+      "answer": "A",
+      "explanation": "Predictive is the correct approach because the project involves defining requirements and details upfront before moving to execution, and deliverables will only be shipped at the end of the project. The fact that the customer will pay in monthly installments does not affect the development approach decision. Adaptive, iterative, and incremental approaches involve delivering value incrementally throughout the project. In a predictive approach with fixed requirements and a single final delivery, the payment structure is separate from the methodology used.",
+      "difficulty": "hard",
+      "topic": "Project Development Approaches and Lifecycle Selection",
+      "domain": 2,
+      "source_id": "yt_002",
+      "chunk_index": 2,
+      "video_segment": "30:14→45:20"
+    }
+  ]
+}

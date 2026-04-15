@@ -1,0 +1,77 @@
+{
+  "source_id": "yt_005",
+  "chunk_index": 57,
+  "start_label": "9:35:43",
+  "end_label": "9:45:49",
+  "mode": "extract",
+  "questions": [
+    {
+      "question": "You are working in an agile project where there are vastly differing levels of product knowledge within your team. The Scrum Master suggests that you try to gain knowledge by osmosis because the project information may be lost when only communicating by email. What will you do next?",
+      "options": [
+        "A. Collocate the team to capture the benefit of each person's tacit knowledge",
+        "B. Refer to the organizational process assets to capture the team's explicit knowledge",
+        "C. Refer to the Project's Knowledge Management System and capture the project's explicit knowledge",
+        "D. Create a process to capture the team's tacit knowledge"
+      ],
+      "answer": "A",
+      "explanation": "Learning by osmosis is capturing information from immediate surroundings such as collocating the team. Tacit knowledge is information that is not straightforward, such as experience, insights, and practical knowledge or skill. This is best captured through collocation where team members naturally overhear conversations and absorb knowledge. Explicit knowledge (options B and C) can be readily codified using words, processes, or pictures, but tacit knowledge requires the team to be together. A process alone (option D) does not capture tacit knowledge as effectively as collocation does.",
+      "difficulty": "expert",
+      "topic": "Knowledge Management and Tacit vs. Explicit Knowledge",
+      "domain": 1,
+      "source_id": "yt_005",
+      "chunk_index": 57,
+      "video_segment": "9:35:43→9:45:49"
+    },
+    {
+      "question": "You are working as a product owner and have placed high-level information about the product in the product backlog. The highest priority feature is at the top. Senior users informing the project are unable to clearly articulate their requirements and are concerned that the product will not truly meet their needs. What will you do next?",
+      "options": [
+        "A. Proceed with the highest priority item during the first Sprint",
+        "B. Work with the customer to create mockups and prototypes to discover what works for them",
+        "C. Ask your stakeholders to submit a change request and update the project scope accordingly",
+        "D. Begin breaking down the work into user stories to place into the Sprint"
+      ],
+      "answer": "B",
+      "explanation": "When requirements are not clearly defined, prototypes, demonstrations, storyboards, and mockups can be used to evolve those requirements. This approach allows stakeholders to see what the product will look like and say 'I know it when I see it,' enabling them to provide feedback and adjustments before development begins. Proceeding with the Sprint (option A) or breaking down work into user stories (option D) would be premature without clear requirements. Submitting a change request (option C) is not the appropriate response for discovering initial requirements.",
+      "difficulty": "expert",
+      "topic": "Requirements Elicitation and Discovery",
+      "domain": 2,
+      "source_id": "yt_005",
+      "chunk_index": 57,
+      "video_segment": "9:35:43→9:45:49"
+    },
+    {
+      "question": "You are gathering requirements for a new feature in a customer management system. The product owner has given a user interface feature as the next highest priority and you are collocated with the team. What will you do next?",
+      "options": [
+        "A. Show the customer team how the new user interface will look as they will be using it",
+        "B. Communicate the requirements to developers with a coherent logical flow of ideas",
+        "C. Elicit requirements into user stories with clear, verifiable, and traceable acceptance criteria",
+        "D. Show the mockup or prototype to the developers and ask them to develop based on that"
+      ],
+      "answer": "C",
+      "explanation": "Well-documented requirements are clear, concise, verifiable, consistent, complete, and traceable. Eliciting requirements into user stories with acceptance criteria ensures that developers have all the information needed. While mockups and prototypes are useful (option D), they may not provide sufficient detail for developers to fully understand what needs to be built. Well-articulated user stories with acceptance criteria provide clarity, verifiability, and traceability back to the original requirements, making them the best approach for moving forward.",
+      "difficulty": "expert",
+      "topic": "Requirements Elicitation and User Story Development",
+      "domain": 2,
+      "source_id": "yt_005",
+      "chunk_index": 57,
+      "video_segment": "9:35:43→9:45:49"
+    },
+    {
+      "question": "You are working in an agile team who are trying to break down the project requirements and scope. They have created a scope statement and a work breakdown structure. However, you are not sure how it will work now that they are using Sprints and user stories. What will you do next?",
+      "options": [
+        "A. Assign activities to each of the scope items in the work breakdown structure and place them on a Gantt chart",
+        "B. Create a product road map with the team using the lowest most detailed part of the work breakdown structure",
+        "C. Convert the work breakdown structure into a Sprint backlog for immediate use",
+        "D. Abandon the work breakdown structure and rely solely on user stories"
+      ],
+      "answer": "B",
+      "explanation": "In an agile environment, a work breakdown structure can still be valuable but should be converted into a product road map. Using the lowest, most detailed parts of the work breakdown structure to create a product road map allows the team to maintain structure while operating within an agile framework with Sprints and user stories. While a Gantt chart (option A) is traditional project management approach that can work in hybrid environments, creating a product road map is the more appropriate agile practice. The work breakdown structure should not be abandoned entirely (option D), and converting directly to a Sprint backlog (option C) may skip important planning steps.",
+      "difficulty": "expert",
+      "topic": "Work Breakdown Structure in Agile Environments",
+      "domain": 2,
+      "source_id": "yt_005",
+      "chunk_index": 57,
+      "video_segment": "9:35:43→9:45:49"
+    }
+  ]
+}

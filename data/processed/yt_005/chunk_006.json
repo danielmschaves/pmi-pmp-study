@@ -1,0 +1,60 @@
+{
+  "source_id": "yt_005",
+  "chunk_index": 6,
+  "start_label": "1:00:29",
+  "end_label": "1:10:37",
+  "mode": "extract",
+  "questions": [
+    {
+      "question": "Your project team is protected by a union agreement. You notice that they don't know how to use the product you're improving, they're slow to respond, and regularly complain about the work. Your project sponsor has had enough and threatens to shut down the project if improvements can't be made. What will you do next?",
+      "options": [
+        "A. Set up a new project with different team members and transfer the work to that team",
+        "B. Set a clear project purpose and vision and pair your team with a customer",
+        "C. Tell your project team that they will lose their jobs",
+        "D. Create a project Gantt chart schedule and burn down chart so the work is transparent to all"
+      ],
+      "answer": "B",
+      "explanation": "Setting a clear project purpose and vision while pairing the team with a customer addresses the core issue of low engagement and motivation. This approach increases intrinsic motivation by showing the team how they are making a positive difference. Transferring to another team risks the same result and requires the new team to go through forming, storming, norming, and performing stages. Threatening job loss may embed the negative behavior further rather than change it. While transparency is good, a Gantt chart and burn down chart alone won't directly address the engagement and motivation issues.",
+      "difficulty": "expert",
+      "topic": "Team Motivation and Leadership",
+      "domain": 1,
+      "source_id": "yt_005",
+      "chunk_index": 6,
+      "video_segment": "1:00:29→1:10:37"
+    },
+    {
+      "question": "During a key scope meeting, an argument arises. The business manager accuses the technology manager of not delivering to their needs on past projects, and the technology manager accuses the business manager of changing requirements that impact the delivery schedule. The meeting is at risk with the stakeholders being closed off to any further discussion. What will you do next?",
+      "options": [
+        "A. Take the side of the technology manager as scope that impacts delivery should be controlled",
+        "B. Take the side of the business manager as we should always deliver to the customer specification",
+        "C. Facilitate to keep the communication respectful, focus on the issue in the present, and search for alternatives together",
+        "D. Ensure they both agree to the Change Control process to avoid disagreements in the future"
+      ],
+      "answer": "C",
+      "explanation": "Facilitating respectful communication while focusing on the present issue and searching for alternatives together is the best conflict resolution approach. Not all conflict is negative; how it is handled determines whether it leads to more conflict or better decision making and stronger solutions. Taking sides ignores the legitimate concerns of both parties. While agreeing to a Change Control process is valuable, it must follow problem-solving that addresses the current issue. The PMBOK Guide 7th Edition emphasizes open and respectful communication, focusing on the issue not the person, addressing the present not the past, and searching for alternatives together in conflict management.",
+      "difficulty": "expert",
+      "topic": "Conflict Resolution and Communication",
+      "domain": 1,
+      "source_id": "yt_005",
+      "chunk_index": 6,
+      "video_segment": "1:00:29→1:10:37"
+    },
+    {
+      "question": "You're working on a project where the project team is completely distributed around the country in multiple sites including working from home. Some of the project team members have not been able to contribute to the project, and there are concerns from the program that the project will fall behind. What will you do next?",
+      "options": [
+        "A. Raise a request to the program to co-locate all your project team members as soon as possible",
+        "B. Proceed with daily stand-ups and working group meetings with any team members in your area",
+        "C. Set team leaders for each area around the country to report back to you as the centralized project leader",
+        "D. Use technology to maintain ongoing contact with audio and video for meetings and a team website to keep all project information available"
+      ],
+      "answer": "D",
+      "explanation": "Using technology to maintain ongoing contact through audio and video meetings while creating a centralized team website for transparency is the most practical and effective approach for a distributed team. Co-locating everyone would be logistically difficult and costly. Meeting only with team members in your local area excludes remote contributors and doesn't solve the problem. Setting up area leaders who report back to you creates silos and reduces transparency rather than fostering the collaboration and communication needed for a distributed team to function effectively.",
+      "difficulty": "expert",
+      "topic": "Virtual Team Management and Communication",
+      "domain": 1,
+      "source_id": "yt_005",
+      "chunk_index": 6,
+      "video_segment": "1:00:29→1:10:37"
+    }
+  ]
+}

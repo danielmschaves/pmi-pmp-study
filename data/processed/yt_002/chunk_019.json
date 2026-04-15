@@ -1,0 +1,111 @@
+{
+  "source_id": "yt_002",
+  "chunk_index": 19,
+  "start_label": "4:47:13",
+  "end_label": "5:02:18",
+  "mode": "extract",
+  "questions": [
+    {
+      "question": "During the project planning phase, stakeholders insisted that their conflicting requirements should all be considered and consolidated. That made it hard for the project manager to create a plan that satisfies all stakeholders. What should the project manager do to establish a common ground?",
+      "options": [
+        "A. Build focus groups involving concerned stakeholders to discuss and resolve conflicting interests",
+        "B. Create a document explaining the different perspectives",
+        "C. Give each stakeholder the opportunity to write their requirements",
+        "D. Use the project manager's legitimate power to decide which requirements should be prioritized"
+      ],
+      "answer": "A",
+      "explanation": "Focus groups bring together stakeholders and subject matter experts to interactively discuss and learn about their expectations and attitudes. This approach directly establishes common ground through dialogue, rather than passive documentation or autocratic decision-making. The project manager should engage stakeholders in active discussion, not impose decisions unilaterally.",
+      "difficulty": "hard",
+      "topic": "Stakeholder Engagement and Conflict Resolution",
+      "domain": 1,
+      "source_id": "yt_002",
+      "chunk_index": 19,
+      "video_segment": "4:47:13→5:02:18"
+    },
+    {
+      "question": "A project manager is managing a project with a distributed team, limited budget, and tight deadlines. The project manager wants to avoid any scope creep and keep the team focused on delivering a product that meets requirements. What should the project manager do?",
+      "options": [
+        "A. Ask the project team to skip small requirements",
+        "B. Ensure that all alterations to the scope are authorized through a formal process",
+        "C. Prevent stakeholders from directly interacting",
+        "D. Recommend adopting an agile project management approach instead"
+      ],
+      "answer": "B",
+      "explanation": "Scope creep is managed by adhering to a formal, documented change management process. This ensures control and visibility over scope modifications. Skipping requirements is inappropriate, preventing stakeholder interaction is counterproductive, and changing the entire project approach based on one criterion is premature and risky without understanding organizational readiness.",
+      "difficulty": "hard",
+      "topic": "Scope Management and Change Control",
+      "domain": 2,
+      "source_id": "yt_002",
+      "chunk_index": 19,
+      "video_segment": "4:47:13→5:02:18"
+    },
+    {
+      "question": "All stakeholders are in a meeting to discuss a new project that is expected to start within one month and to last at least 10 iterations. One of the stakeholders mentions that someone should take the responsibility of developing and maintaining the product road map. Who should take this responsibility?",
+      "options": [
+        "A. The project manager",
+        "B. The development team",
+        "C. The scrum master",
+        "D. The product owner"
+      ],
+      "answer": "D",
+      "explanation": "In agile projects with iterations, the product owner is responsible for creating and maintaining the product roadmap. The product owner represents the client and is accountable for the product's success, including managing the vision and priorities reflected in the roadmap.",
+      "difficulty": "hard",
+      "topic": "Agile Roles and Responsibilities",
+      "domain": 2,
+      "source_id": "yt_002",
+      "chunk_index": 19,
+      "video_segment": "4:47:13→5:02:18"
+    },
+    {
+      "question": "A project manager works for a company that does not have an official archiving procedure. The project manager has just finished a project and got the client's official approval of the final deliverables. What should the project manager do with all the associated paperwork?",
+      "options": [
+        "A. Do nothing since the company does not require the archiving of completed projects",
+        "B. Archive the project documents following industry best practices",
+        "C. Discard the archive to comply with the company's policy",
+        "D. Ask the client to keep the project archive"
+      ],
+      "answer": "B",
+      "explanation": "Even without an official company archiving procedure in place, project records should be organized, indexed, and preserved for future use. The project manager should apply professional standards and industry best practices to ensure proper documentation retention. The absence of a company policy does not eliminate the need to archive; it means the project manager must use professional judgment to establish proper archiving practices.",
+      "difficulty": "hard",
+      "topic": "Project Documentation and Records Management",
+      "domain": 2,
+      "source_id": "yt_002",
+      "chunk_index": 19,
+      "video_segment": "4:47:13→5:02:18"
+    },
+    {
+      "question": "An agile team is demonstrating a recently developed product increment. Among the deliverables is the product's logo. After explaining the meaning behind their choice for the different elements of the logo, the senior graphic designer solicited feedback. The product owner appreciated the logo. While the majority of the cross-functional team noted that the logo icon would look better if it was 20% bigger. However, the scrum master thinks that a 10% size increase would be enough to make the logo look better. Which of the following decisions should be ultimately considered?",
+      "options": [
+        "A. The icon size should be increased by 20% as per the recommendation of the majority of the cross-functional team",
+        "B. The icon size should be increased by 10% as per the scrum master",
+        "C. It should not be increased as per the product owner",
+        "D. It should not be increased because the senior graphic designer is the decision maker"
+      ],
+      "answer": "C",
+      "explanation": "The product owner is the decision maker responsible for accepting or rejecting demonstrated product increments during iteration review meetings. Since the product owner is pleased with the logo as presented, their decision takes precedence over other team members' suggestions. The product owner represents the client's interests and has the authority to approve or reject deliverables.",
+      "difficulty": "hard",
+      "topic": "Agile Acceptance Criteria and Product Owner Authority",
+      "domain": 1,
+      "source_id": "yt_002",
+      "chunk_index": 19,
+      "video_segment": "4:47:13→5:02:18"
+    },
+    {
+      "question": "Two team members discuss an issue concerning server configuration. When the first member asks why this issue keeps happening, the second member says that server parameters are confusing, making it difficult for him to handle its configuration. The first team member suggests that he could be consulted the next few times the server is being configured, to which the second team member agrees and the problem is resolved. Which conflict resolution technique is being used in this situation?",
+      "options": [
+        "A. Collaborating",
+        "B. Confronting",
+        "C. Norming",
+        "D. Forcing"
+      ],
+      "answer": "B",
+      "explanation": "Confronting (also known as problem-solving) is the technique being used here. The two team members directly address the underlying issue—server parameter confusion—and work toward resolving it by identifying a practical solution. While collaborating involves negotiation between parties with different positions, confronting focuses on solving the specific problem at hand. This scenario demonstrates a direct, problem-focused approach rather than forcing (authoritative), norming (a team development stage, not a conflict resolution technique), or collaborating (which involves more negotiation).",
+      "difficulty": "hard",
+      "topic": "Conflict Resolution Techniques",
+      "domain": 1,
+      "source_id": "yt_002",
+      "chunk_index": 19,
+      "video_segment": "4:47:13→5:02:18"
+    }
+  ]
+}

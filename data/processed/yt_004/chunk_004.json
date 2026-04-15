@@ -1,0 +1,213 @@
+{
+  "source_id": "yt_004",
+  "chunk_index": 4,
+  "start_label": "40:30",
+  "end_label": "44:06",
+  "mode": "generate",
+  "questions": [
+    {
+      "question": "A project manager discovers that a key compliance requirement was overlooked during the planning phase and the team has already begun implementation. What should the project manager do first?",
+      "options": [
+        "A. Immediately halt all work until compliance is addressed",
+        "B. Perform a root cause analysis to understand how the gap occurred and develop a corrective action plan",
+        "C. Escalate to the sponsor and request additional budget for remediation",
+        "D. Document the issue and continue work while planning corrections"
+      ],
+      "answer": "B",
+      "explanation": "Performing a root cause analysis and developing a corrective action plan is the most effective approach because it identifies why the compliance gap occurred, enables targeted corrective actions, and provides a structured path to resolution. While escalation (C) may eventually be necessary, understanding the root cause first ensures the sponsor receives complete information. Halting work immediately (A) may not be proportionate, and continuing without corrective action (D) ignores the compliance obligation.",
+      "difficulty": "medium",
+      "topic": "Compliance and Corrective Action Planning",
+      "domain": 3,
+      "source_id": "yt_004",
+      "chunk_index": 4,
+      "video_segment": "40:30→44:06"
+    },
+    {
+      "question": "During project execution, a critical stakeholder was not informed about an emerging external risk that could impact project deliverables. What should the project manager prioritize?",
+      "options": [
+        "A. Immediately brief the stakeholder and update the risk register to document stakeholder notification",
+        "B. Wait until the risk materializes before engaging the stakeholder to avoid unnecessary alarm",
+        "C. Escalate to the sponsor to decide whether the stakeholder needs to be informed",
+        "D. Have the team manage the risk independently and report results at the next status meeting"
+      ],
+      "answer": "A",
+      "explanation": "Immediately briefing the stakeholder and updating the risk register addresses both stakeholder engagement and risk management simultaneously. This maintains trust, ensures the stakeholder can contribute input or prepare mitigation strategies, and documents the communication for compliance. Waiting (B) violates principles of proactive stakeholder engagement and increases risk exposure. Escalating unnecessarily (C) delays critical communication, and managing independently (D) excludes a stakeholder who may have valuable insights or authority to influence the risk outcome.",
+      "difficulty": "medium",
+      "topic": "Stakeholder Engagement and Risk Communication",
+      "domain": 3,
+      "source_id": "yt_004",
+      "chunk_index": 4,
+      "video_segment": "40:30→44:06"
+    },
+    {
+      "question": "A project in the execution phase encounters opposition from local authorities citing environmental concerns. Which action should the project manager prioritize?",
+      "options": [
+        "A. Escalate the issue to the sponsor and request executive intervention",
+        "B. Organize a direct meeting with local authorities to understand and address their concerns",
+        "C. Pause all project activities until formal approvals are obtained",
+        "D. Update the project schedule to account for anticipated delays and continue work"
+      ],
+      "answer": "B",
+      "explanation": "Organizing a direct meeting with local authorities demonstrates proactive stakeholder engagement and problem-solving. This approach enables the PM to understand specific concerns, clarify project details, build relationships, and potentially find solutions that satisfy both the project and regulatory requirements. Escalating first (A) bypasses an opportunity for direct dialogue and may escalate tension unnecessarily. Pausing all activities (C) is premature without understanding the concerns, and simply scheduling delays (D) ignores the underlying stakeholder issue.",
+      "difficulty": "medium",
+      "topic": "Organizational Change and Stakeholder Management",
+      "domain": 3,
+      "source_id": "yt_004",
+      "chunk_index": 4,
+      "video_segment": "40:30→44:06"
+    },
+    {
+      "question": "A project team experiences unexpected delays due to a critical supplier shutting down following a natural disaster. What should the project manager do first?",
+      "options": [
+        "A. Notify all stakeholders immediately about the delay impact and timeline changes",
+        "B. Identify alternative suppliers and evaluate mitigation options to restore the supply chain",
+        "C. Update the project risk register and formally document the disruption",
+        "D. Revise the project schedule to reflect the new expected completion date"
+      ],
+      "answer": "B",
+      "explanation": "Identifying alternative suppliers is the first priority because it is a proactive risk mitigation strategy that addresses the root cause of the delay. This action can minimize or eliminate the impact before stakeholder communication becomes necessary. While stakeholder notification (A), risk register updates (C), and schedule revision (D) are all important follow-up steps, they are reactive measures. Mitigation must precede communication to ensure the PM has concrete information about recovery options.",
+      "difficulty": "easy",
+      "topic": "Risk Mitigation and Supply Chain Management",
+      "domain": 3,
+      "source_id": "yt_004",
+      "chunk_index": 4,
+      "video_segment": "40:30→44:06"
+    },
+    {
+      "question": "A project manager realizes that one of three critical deliverables does not align with the organization's new strategic direction, which was clarified only after the project began. What should the project manager do?",
+      "options": [
+        "A. Continue with the deliverable as planned since it was approved in the project charter",
+        "B. Immediately stop work and request the sponsor to clarify strategic alignment before proceeding",
+        "C. Facilitate a discussion with the sponsor and stakeholders to assess the gap and determine whether the deliverable should be modified, replaced, or remain unchanged",
+        "D. Modify the deliverable independently to align with the new strategy"
+      ],
+      "answer": "C",
+      "explanation": "Facilitating a discussion with the sponsor and stakeholders ensures alignment between project deliverables and organizational strategy, which is a key business environment concern. This collaborative approach enables informed decision-making about whether adjustments are necessary and maintains stakeholder buy-in. Continuing unchanged (A) risks delivering misaligned value; stopping work (B) halts progress without exploring solutions; and modifying independently (D) may exceed the PM's authority and create rework. This approach balances strategic alignment with governance and efficiency.",
+      "difficulty": "hard",
+      "topic": "Strategic Alignment and Benefits Realization",
+      "domain": 3,
+      "source_id": "yt_004",
+      "chunk_index": 4,
+      "video_segment": "40:30→44:06"
+    },
+    {
+      "question": "An external audit reveals that the project's quality assurance process does not comply with newly enacted regulatory standards. The project is 60% complete with significant rework required. How should the project manager proceed?",
+      "options": [
+        "A. Halt the project immediately until all compliance gaps are resolved",
+        "B. Perform a root cause analysis, develop a corrective action plan, assess impact, and communicate findings to the sponsor",
+        "C. Escalate to the sponsor and request guidance on whether to continue or suspend the project",
+        "D. Implement the new standards going forward while accepting current non-compliant work as sunk cost"
+      ],
+      "answer": "B",
+      "explanation": "Performing root cause analysis and developing a corrective action plan provides the structured, evidence-based approach required for compliance issues. This includes assessing the full impact, determining what rework is necessary, and communicating clear information to decision-makers. Immediate halting (A) may be premature without understanding scope; escalating without analysis (C) leaves the sponsor without actionable information; and accepting non-compliance (D) violates regulatory obligations. The PM's role is to diagnose the issue and present options with clear consequences.",
+      "difficulty": "hard",
+      "topic": "Compliance Management and Corrective Actions",
+      "domain": 3,
+      "source_id": "yt_004",
+      "chunk_index": 4,
+      "video_segment": "40:30→44:06"
+    },
+    {
+      "question": "A project is implementing new technology that will change how team members work. Some team members are resistant to the change. What should the project manager prioritize?",
+      "options": [
+        "A. Mandate the technology adoption and require compliance",
+        "B. Conduct change management activities including training, communication, and addressing concerns to build adoption",
+        "C. Skip the technology and maintain current processes to avoid conflict",
+        "D. Allow early adopters to implement while others opt out"
+      ],
+      "answer": "B",
+      "explanation": "Conducting change management activities addresses the human dimension of technology adoption. Training builds capability, communication sets expectations, and addressing concerns directly increases buy-in and reduces resistance. This approach aligns with organizational change management principles and supports benefits realization. Mandating without support (A) often fails; avoiding change (C) defeats the project purpose; allowing opt-out (D) creates inconsistency and undermines the project's intended benefits.",
+      "difficulty": "easy",
+      "topic": "Organizational Change Management",
+      "domain": 3,
+      "source_id": "yt_004",
+      "chunk_index": 4,
+      "video_segment": "40:30→44:06"
+    },
+    {
+      "question": "A project manager notices that a regulatory requirement documented in the project charter has become obsolete due to a recent change in government regulations. The project is in the planning phase. What is the best course of action?",
+      "options": [
+        "A. Remove the requirement immediately and update all project documents",
+        "B. Keep the requirement to maintain compliance with the original charter",
+        "C. Meet with the sponsor to reassess project alignment with current regulations and determine appropriate updates",
+        "D. Continue with both old and new requirements to ensure maximum compliance"
+      ],
+      "answer": "C",
+      "explanation": "Meeting with the sponsor to reassess regulatory alignment ensures that the project charter reflects current legal and business requirements. This maintains governance, protects the organization from compliance risk, and prevents rework. The sponsor has authority to approve changes to the charter. Unilaterally removing requirements (A) exceeds the PM's authority; keeping obsolete requirements (B) wastes resources and may create compliance issues; adopting both (D) is inefficient and may conflict. The charter is the project's governing document and must reflect current reality.",
+      "difficulty": "medium",
+      "topic": "Compliance and Regulatory Alignment",
+      "domain": 3,
+      "source_id": "yt_004",
+      "chunk_index": 4,
+      "video_segment": "40:30→44:06"
+    },
+    {
+      "question": "A project team is introducing an organizational process improvement that some functional managers perceive as a threat to their authority. The improvement aligns with strategic goals but faces political resistance. What approach best supports benefits realization?",
+      "options": [
+        "A. Proceed with implementation despite resistance and demonstrate results through metrics",
+        "B. Engage resistant managers early to understand concerns, address objections, and position the change as empowering rather than threatening",
+        "C. Escalate the resistance to senior leadership for directive enforcement of the change",
+        "D. Delay the project until all resistance disappears and managers are comfortable with the change"
+      ],
+      "answer": "B",
+      "explanation": "Engaging resistant stakeholders early addresses the root causes of resistance and builds political support for the change. Understanding concerns allows the PM to reframe the initiative, demonstrate benefits, and gain buy-in from influential leaders. This approach is more sustainable than forcing compliance (A), escalating prematurely (C), or indefinite delay (D). Change management effectiveness depends on stakeholder involvement and alignment, particularly from those who can influence adoption. Building internal advocates increases the likelihood of benefits realization.",
+      "difficulty": "hard",
+      "topic": "Organizational Change and Stakeholder Alignment",
+      "domain": 3,
+      "source_id": "yt_004",
+      "chunk_index": 4,
+      "video_segment": "40:30→44:06"
+    },
+    {
+      "question": "A project manager discovers during a stakeholder review that the project's intended benefits have shifted significantly since project initiation, and the current scope no longer fully supports the organization's evolved business objectives. What should the project manager do?",
+      "options": [
+        "A. Complete the project as originally scoped and let the sponsor decide post-project what additional work is needed",
+        "B. Unilaterally realign the scope to match the new business objectives and update the project plan",
+        "C. Facilitate a review with the sponsor and key stakeholders to reassess benefits, scope alignment, and recommend adjustments or confirm the original direction",
+        "D. Pause the project until clarity on benefits is achieved"
+      ],
+      "answer": "C",
+      "explanation": "Facilitating a structured review with the sponsor and stakeholders ensures that project governance remains intact while addressing potential misalignment between scope and benefits. This collaborative approach enables informed decisions about whether scope changes are justified and approves adjustments through proper channels. Proceeding unchanged (A) risks delivering diminished value; making unilateral changes (B) violates change control and governance; pausing indefinitely (D) halts progress. The PM's role is to surface the issue and facilitate collaborative decision-making with appropriate authorities.",
+      "difficulty": "expert",
+      "topic": "Benefits Realization and Strategic Alignment",
+      "domain": 3,
+      "source_id": "yt_004",
+      "chunk_index": 4,
+      "video_segment": "40:30→44:06"
+    },
+    {
+      "question": "A project is nearing completion when the sponsor informs the project manager that the expected benefits have been significantly reduced due to market changes. How should the project manager respond?",
+      "options": [
+        "A. Complete the project as planned since cancellation costs would exceed the reduced benefits",
+        "B. Work with the sponsor to assess the new business case, evaluate continuation versus early closure, and make a risk-informed recommendation",
+        "C. Continue to project completion and measure actual benefits realized in the post-project phase",
+        "D. Recommend immediate project closure to minimize wasted effort on diminished benefits"
+      ],
+      "answer": "B",
+      "explanation": "Working with the sponsor to reassess the business case ensures that the decision to continue or close is based on current information and organizational strategy. Reduced benefits may or may not justify continuation depending on remaining costs, strategic importance, and other factors. A risk-informed recommendation demonstrates responsible stewardship of organizational resources. Continuing unchanged (A) ignores changed business conditions; assuming completion is best (C) delays corrective action; recommending closure without analysis (D) may be premature. The sponsor needs the PM's assessment of options and implications.",
+      "difficulty": "expert",
+      "topic": "Benefits Realization and Project Governance",
+      "domain": 3,
+      "source_id": "yt_004",
+      "chunk_index": 4,
+      "video_segment": "40:30→44:06"
+    },
+    {
+      "question": "A project manager learns that a deliverable required by a key customer aligns poorly with the organization's data governance policies, creating a conflict between customer satisfaction and organizational compliance. What should the project manager do first?",
+      "options": [
+        "A. Deliver what the customer requested and address governance issues after project closure",
+        "B. Refuse to deliver the non-compliant deliverable and require the customer to accept a compliant alternative",
+        "C. Escalate the conflict to the sponsor and relevant policy owners to determine the acceptable path forward that balances governance and customer needs",
+        "D. Modify the deliverable unilaterally to ensure compliance without customer input"
+      ],
+      "answer": "C",
+      "explanation": "Escalating to the sponsor and policy owners ensures that the conflict is resolved with proper authority and that organizational governance is maintained while considering customer relationships. This approach respects both compliance requirements and business relationships. Delivering non-compliant work (A) violates organizational policy and creates downstream risk; refusing without seeking solutions (B) may damage the customer relationship unnecessarily; modifying without consent (D) may not address customer needs and could breach agreements. The sponsor has authority to make trade-off decisions when governance and customer requirements conflict.",
+      "difficulty": "hard",
+      "topic": "Compliance, Governance, and Stakeholder Management",
+      "domain": 3,
+      "source_id": "yt_004",
+      "chunk_index": 4,
+      "video_segment": "40:30→44:06"
+    }
+  ]
+}

@@ -1,0 +1,77 @@
+{
+  "source_id": "yt_005",
+  "chunk_index": 35,
+  "start_label": "5:53:36",
+  "end_label": "6:03:41",
+  "mode": "extract",
+  "questions": [
+    {
+      "question": "You are working in a new agile team where the work has started to slow and there is uncertainty and low team engagement. You set time to create a team charter with your team to agree on roles and responsibilities and team cadence to improve the engagement of the team. What will you do next?",
+      "options": [
+        "A. Set a team goal for them to be more engaged in the work over the next three months",
+        "B. Create a product vision statement showing the value you are bringing and the why behind the work",
+        "C. Ask the team to contribute more to all pieces of work during each team meeting",
+        "D. Raise it as a people issue for your project and manage it with the project steering committee"
+      ],
+      "answer": "B",
+      "explanation": "Creating a product vision statement that shows the value and the 'why' behind the work is a key part of building an effective team charter. This addresses engagement by connecting the team to purpose. While setting goals and escalating are options, they are not as direct. The vision statement, combined with roles and responsibilities, directly supports team engagement and is part of establishing the team charter.",
+      "difficulty": "expert",
+      "topic": "Team Charter and Engagement",
+      "domain": 1,
+      "source_id": "yt_005",
+      "chunk_index": 35,
+      "video_segment": "5:53:36→6:03:41"
+    },
+    {
+      "question": "You are integrating a third-party system as part of your project. The developers in your project team have not worked on this system before but they believe the language and layout is the same and they should be able to implement it. Adding a bit of time for the uncertainty, they give a high level estimate of 5 weeks. What will you do next?",
+      "options": [
+        "A. Note the estimate of 5 weeks and update the assumption log",
+        "B. Don't add the estimate; break down the integration into user stories and use a bottom-up approach",
+        "C. Check the estimate using parametric estimating to increase its accuracy",
+        "D. Gather your whole team and customers together and estimate using wideband Delphi or planning poker"
+      ],
+      "answer": "A",
+      "explanation": "The team has made an assumption that the language and layout are the same. This assumption should be documented in the assumption log along with the estimate. Recording assumptions is critical project management practice to track factors that are considered true without proof. While breaking down into user stories, parametric estimating, and wideband Delphi are all valid estimation techniques, the immediate priority when assumptions are identified is to document them in the assumption log.",
+      "difficulty": "expert",
+      "topic": "Estimation and Assumption Log Management",
+      "domain": 2,
+      "source_id": "yt_005",
+      "chunk_index": 35,
+      "video_segment": "5:53:36→6:03:41"
+    },
+    {
+      "question": "Your agile project has delivered three features so far and is halfway through delivering the latest improvement. During a brainstorming session, one of your customers comes up with a new feature idea. You check the benefit and the benefit is high; the complexity is also low. What are you going to do next?",
+      "options": [
+        "A. Add money to your budget to accommodate the additional feature as soon as possible",
+        "B. Elaborate on the feature, break it down into user stories and estimate them",
+        "C. Place the item in the backlog and reprioritize it to be next",
+        "D. Create a business case for the new feature outlining the benefit and costs involved"
+      ],
+      "answer": "C",
+      "explanation": "On an agile project, the scope is variable while budget and time are typically fixed. When a high-benefit, low-complexity item is identified, the appropriate action is to add it to the product backlog and reprioritize based on its value and complexity. This is the standard agile workflow. Adding budget, elaborating without prioritizing first, and creating a business case (waterfall approach) are not aligned with agile practices.",
+      "difficulty": "expert",
+      "topic": "Agile Backlog Management and Prioritization",
+      "domain": 2,
+      "source_id": "yt_005",
+      "chunk_index": 35,
+      "video_segment": "5:53:36→6:03:41"
+    },
+    {
+      "question": "One of the senior users testing your product has found that it was missing a key requirement that he had assumed would be there. It was not noted in the project scope which has been baselined already. You check the impact to cost and schedule, raise a change request on his behalf, and take it to the Change Control Board where it is approved. What will you do next?",
+      "options": [
+        "A. Ask your team to elaborate and turn their requirement into user stories",
+        "B. Place the new requirement into the Sprint backlog for the next Sprint",
+        "C. Add the missed requirement to the issue log and problem solve with your team to ensure it does not happen again in the future",
+        "D. Implement the requirement immediately without further analysis"
+      ],
+      "answer": "A",
+      "explanation": "Once the change request is approved, the next step is to elaborate on the requirement and convert it into user stories with acceptance criteria that the team can actually work on. Placing it directly into the Sprint backlog without elaboration would be premature. While problem-solving to prevent recurrence is important, it comes after the immediate need to define the work. User stories provide the clarity needed before scheduling or implementation.",
+      "difficulty": "expert",
+      "topic": "Change Management and User Story Definition",
+      "domain": 2,
+      "source_id": "yt_005",
+      "chunk_index": 35,
+      "video_segment": "5:53:36→6:03:41"
+    }
+  ]
+}

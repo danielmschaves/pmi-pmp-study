@@ -1,0 +1,60 @@
+{
+  "source_id": "yt_005",
+  "chunk_index": 33,
+  "start_label": "5:33:23",
+  "end_label": "5:43:29",
+  "mode": "extract",
+  "questions": [
+    {
+      "question": "You are an agile project manager and holding daily stand-ups with your team. You notice people accusing other team members of not doing their job and there are some tasks that are not mentioned anywhere and no one is responsible for. The team velocity has slowed in the last three sprints. What will you do next?",
+      "options": [
+        "A. Refer to the team charter and team roles",
+        "B. Raise it as an issue in the next retrospective and come to a solution with the team",
+        "C. Assign team roles to those you think are best suited",
+        "D. Work with your team to size user stories correctly so velocity improves"
+      ],
+      "answer": "B",
+      "explanation": "In an agile environment, when team roles and responsibilities are unclear and tasks are not listed in the team charter, the best approach is to use the retrospective—a regularly occurring workshop where the team explores their work to improve their process and product. While referring to the team charter could be helpful, if the information isn't there, you cannot refer to it. The agile approach emphasizes problem-solving with the team through the retrospective rather than reassigning roles or focusing solely on user story sizing.",
+      "difficulty": "expert",
+      "topic": "Agile Team Management, Retrospectives, Conflict Resolution",
+      "domain": 1,
+      "source_id": "yt_005",
+      "chunk_index": 33,
+      "video_segment": "5:33:23→5:43:29"
+    },
+    {
+      "question": "You are managing a large construction project. Due to some delays, the project schedule has been pushed back by one week. As a result, one of the project risks has increased slightly but is still within the acceptable limits. What will you do next?",
+      "options": [
+        "A. Hold a risk review and update the risk response and owners",
+        "B. Raise a change request for the change to the project schedule",
+        "C. Capture the change in your project reporting and take it to the next status meeting",
+        "D. Update the sprint backlog to reflect the delayed work"
+      ],
+      "answer": "C",
+      "explanation": "Since the risk has increased only slightly and remains within acceptable limits, there is no need to update the risk response or owners, eliminating option A. A change request is not necessary for a one-week schedule adjustment that has already occurred. Updating the sprint backlog is inappropriate for a large construction project. The correct approach is to capture the change in project reporting and communicate it at the next status meeting to keep stakeholders informed of current progress and project performance.",
+      "difficulty": "expert",
+      "topic": "Status Meetings, Project Communication, Risk Management",
+      "domain": 2,
+      "source_id": "yt_005",
+      "chunk_index": 33,
+      "video_segment": "5:33:23→5:43:29"
+    },
+    {
+      "question": "You are an agile project manager and your team have delivered three features to improve a customer app over the last three months. Your product owner needs to know if the features are having the desired effect. It is a large organization and there are multiple measures available. What will you do next?",
+      "options": [
+        "A. Ask them to gather the team velocity and throughput over the past three months",
+        "B. Ask them to gather the cost benefit ratio over the past six months",
+        "C. Ask them to gather the NPS (Net Promoter Score) over the past six months",
+        "D. Ask them to gather the average app availability and uptime"
+      ],
+      "answer": "C",
+      "explanation": "The product owner represents the customer's perspective and needs to measure whether the delivered features are having the desired effect from a customer satisfaction standpoint. Net Promoter Score (NPS) is a customer-centric measure that gauges overall customer satisfaction and loyalty by asking how likely customers would be to recommend the product to others on a scale of 1 to 10. While velocity and throughput measure internal team performance, cost-benefit ratio is used for prioritization, and app availability measures operational performance, only NPS directly measures the customer's perception of the features' value and impact.",
+      "difficulty": "expert",
+      "topic": "Agile Metrics, Product Owner Responsibilities, Customer Satisfaction",
+      "domain": 2,
+      "source_id": "yt_005",
+      "chunk_index": 33,
+      "video_segment": "5:33:23→5:43:29"
+    }
+  ]
+}

@@ -1,0 +1,77 @@
+{
+  "source_id": "yt_005",
+  "chunk_index": 30,
+  "start_label": "5:03:04",
+  "end_label": "5:13:11",
+  "mode": "extract",
+  "questions": [
+    {
+      "question": "You are in the executing and delivery phase of your project. The work begins in line with the project plan and scope. What will you do next?",
+      "options": [
+        "A. Monitor and control the project work",
+        "B. Plan the work",
+        "C. Form and sign off the project",
+        "D. Execute the project work"
+      ],
+      "answer": "A",
+      "explanation": "After executing project work, the next process group is monitoring and controlling to ensure the work stays on track and meets its goals. Planning has already been completed and the project cannot be signed off until it is finished. Monitoring and controlling is part of the iterative project management process groups which include initiating, planning, executing, monitoring and controlling, and closing.",
+      "difficulty": "expert",
+      "topic": "Process Groups",
+      "domain": 2,
+      "source_id": "yt_005",
+      "chunk_index": 30,
+      "video_segment": "5:03:04→5:13:11"
+    },
+    {
+      "question": "You are working as a product owner and your sales and revenue have been increasing over the past 8 months, but the overall profit has decreased by 17%. Your executive manager asks you to address the situation. What should you do?",
+      "options": [
+        "A. Stop the current work and set a planning session with your team to address the situation",
+        "B. Ask your team to work overtime on the current features in your backlog to get the work done",
+        "C. Perform benchmarking with a similar yet non-competitive company and add any process improvements to your product backlog",
+        "D. Look for opportunities to partner with other projects or products in your organization and increase your sales further"
+      ],
+      "answer": "C",
+      "explanation": "Since profit is decreasing while sales are increasing, the issue is high costs of production or delivery. Performing benchmarking to find gaps in processes and then executing improvements will help reduce costs and increase profit. Simply increasing sales further without addressing the cost issue will not solve the root problem. Stopping work or working overtime are not sustainable approaches. As a product owner, your responsibility includes managing costs to improve profitability.",
+      "difficulty": "expert",
+      "topic": "Business Justification and Data Gathering",
+      "domain": 3,
+      "source_id": "yt_005",
+      "chunk_index": 30,
+      "video_segment": "5:03:04→5:13:11"
+    },
+    {
+      "question": "You have been given authority to manage upcoming features your team will release. You do not have a high level of expertise in the product, so you gather senior users from the product's area to create a features list. Each stakeholder wants their feature to be delivered first. How will you prioritize them and move forward?",
+      "options": [
+        "A. Go with the features wanted by top-level executives first to avoid issues later on",
+        "B. Perform Moscow analysis with the stakeholders",
+        "C. Perform a root cause analysis and go with the features that address the root cause",
+        "D. Use a cost benefit analysis and compare the time needed to recover the project cost"
+      ],
+      "answer": "D",
+      "explanation": "Cost-benefit analysis and the payback period (time to recover an investment) are the best accepted ways to prioritize business value. While Moscow is a direct prioritization framework, it often results in all stakeholders voting their own features as 'must have.' Cost-benefit analysis allows you to compare which features deliver the highest benefit relative to their cost, enabling you to deliver the lowest-cost, highest-benefit features first. Following executive preferences or performing root cause analysis without clear prioritization criteria are less effective approaches.",
+      "difficulty": "expert",
+      "topic": "Prioritization and Business Value Analysis",
+      "domain": 3,
+      "source_id": "yt_005",
+      "chunk_index": 30,
+      "video_segment": "5:03:04→5:13:11"
+    },
+    {
+      "question": "You are creating a business case and project charter with a small initial project team. You have a high-level feature decomposed into smaller release milestones and would like to note a high-level schedule using wideband Delphi or a high-level version of planning poker. What are you going to do next?",
+      "options": [
+        "A. Hold a round of cards with points on them where each team member places their cards in the center for the total estimate",
+        "B. Conduct multiple rounds of estimation where estimates are refined based on each team member's reasoning until consensus is reached",
+        "C. Ask subject matter experts to complete multiple rounds of estimates",
+        "D. Use a single round of estimation with all team members providing their estimates simultaneously"
+      ],
+      "answer": "B",
+      "explanation": "Wideband Delphi is an estimation technique where multiple rounds of estimation are conducted. In each round, team members provide estimates based on available information, then reasons for estimates are shared. After hearing others' reasoning, estimates become more refined and converge toward consensus in subsequent rounds. This iterative process continues until estimates align. Planning poker uses cards with numbers and works similarly with multiple rounds of estimation refinement.",
+      "difficulty": "expert",
+      "topic": "Estimation Techniques",
+      "domain": 2,
+      "source_id": "yt_005",
+      "chunk_index": 30,
+      "video_segment": "5:03:04→5:13:11"
+    }
+  ]
+}

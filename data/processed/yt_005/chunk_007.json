@@ -1,0 +1,77 @@
+{
+  "source_id": "yt_005",
+  "chunk_index": 7,
+  "start_label": "1:10:37",
+  "end_label": "1:20:42",
+  "mode": "extract",
+  "questions": [
+    {
+      "question": "You are initiating a project for a sales team where the process will change significantly even though the outcome of a completed sale will remain the same. The functional manager is concerned about the change and any disruption that it might bring. What will you do next?",
+      "options": [
+        "A. Kick off the project with multiple deliveries to deliver small parts and reduce the change impact",
+        "B. Kick off the project with a single delivery at the end of the project when the process change is complete",
+        "C. Kick off the project with continuous delivery in mind to ensure fast delivery to the business",
+        "D. Kick off the project using periodic deliveries as delivering value as it's ready"
+      ],
+      "answer": "B",
+      "explanation": "For process re-engineering projects where the entire process is changing, a single delivery at the end is appropriate because the new process should be rolled out all at once rather than in increments. A process re-engineering project may not have any deliveries until near the end when the new process is ready. This differs from product development where incremental or iterative approaches work better.",
+      "difficulty": "expert",
+      "topic": "Delivery Cadence and Development Approaches",
+      "domain": 2,
+      "source_id": "yt_005",
+      "chunk_index": 7,
+      "video_segment": "1:10:37→1:20:42"
+    },
+    {
+      "question": "You are working on a project where the requirements are clear but the solution ideas are uncertain. The product owner and technical experts cannot be sure which ideas will work in practice. The organization cannot afford to get the project wrong as they have previously made mistakes and customers are starting to leave. What will you do next?",
+      "options": [
+        "A. Use an incremental approach to deliver increments of value",
+        "B. Use an iterative approach to iterate towards success",
+        "C. Use a predictive development approach to plan everything upfront and deliver in one go",
+        "D. Use a hybrid approach combining agile and waterfall"
+      ],
+      "answer": "B",
+      "explanation": "An iterative approach is used when you need to capture ideas that might change while still delivering in one release. This allows the team to test different solution ideas, get feedback, and refine them while maintaining a single final release. This is different from an incremental approach which progressively delivers multiple features or increments to customers.",
+      "difficulty": "expert",
+      "topic": "Development Approaches and Project Life Cycles",
+      "domain": 2,
+      "source_id": "yt_005",
+      "chunk_index": 7,
+      "video_segment": "1:10:37→1:20:42"
+    },
+    {
+      "question": "You are working on a new product for your organization where the requirements are complex and are likely to change a few times as the project progresses. The organization also needs usable parts of the product to be released as fast as possible to capture market share away from competitors. What will you do next?",
+      "options": [
+        "A. Use an iterative approach for one big release with feedback",
+        "B. Use an incremental approach to deliver parts as quickly as possible",
+        "C. Use an adaptive approach combining iterations and increments",
+        "D. Use a hybrid approach combining agile and waterfall"
+      ],
+      "answer": "C",
+      "explanation": "An adaptive (agile) approach is useful when requirements are subject to uncertainty and change, and a clear vision is established at the start. Initial requirements are refined or replaced in accordance with user feedback. Adaptive approaches combine both iterative feedback loops and incremental value delivery, making them ideal when you need to release usable parts frequently while requirements evolve.",
+      "difficulty": "expert",
+      "topic": "Development Approaches and Adaptive Life Cycles",
+      "domain": 2,
+      "source_id": "yt_005",
+      "chunk_index": 7,
+      "video_segment": "1:10:37→1:20:42"
+    },
+    {
+      "question": "A new project has been kicked off in your organization due to a recent government inquiry into your industry that found multiple processes with significant regulatory oversight that need to change. The inquiry has given you a due date of 10 months before you start incurring penalties. What will you do next?",
+      "options": [
+        "A. Proceed with an agile development approach to deliver change as quickly as possible",
+        "B. Proceed with a hybrid development approach to respond to changes while planning upfront",
+        "C. Proceed with a predictive development approach due to regulatory requirements",
+        "D. Proceed with an iterative methodology to improve using feedback"
+      ],
+      "answer": "C",
+      "explanation": "Environments with significant regulatory oversight typically require a predictive approach due to the required process documentation and demonstration needs. Government inquiries involve strict compliance requirements, and a predictive approach allows for thorough planning, documentation, and quality assurance before implementation, which satisfies regulatory demands better than agile or iterative methods.",
+      "difficulty": "expert",
+      "topic": "Development Approaches and Regulatory Considerations",
+      "domain": 2,
+      "source_id": "yt_005",
+      "chunk_index": 7,
+      "video_segment": "1:10:37→1:20:42"
+    }
+  ]
+}

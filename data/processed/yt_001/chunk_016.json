@@ -1,0 +1,145 @@
+{
+  "source_id": "yt_001",
+  "chunk_index": 16,
+  "start_label": "4:01:31",
+  "end_label": "4:16:39",
+  "mode": "extract",
+  "questions": [
+    {
+      "question": "A project team is spread across multiple continents with diverse cultures and geography, presenting a unique challenge in maintaining effective communications and collaboration. What initiative should the project manager prioritize to ensure effective team collaboration?",
+      "options": [
+        "A. Introduce a dynamic platform for real-time video conferencing and interactive sessions",
+        "B. Implement an asynchronous communication tool for delayed but comprehensive exchange",
+        "C. Arrange for physical annual meetups to foster personal connections",
+        "D. Develop an internal email newsletter for weekly updates on project progress"
+      ],
+      "answer": "A",
+      "explanation": "Real-time video conferencing enables synchronous, interactive communication which is essential for team collaboration. Asynchronous tools lack interactivity, annual physical meetups occur too infrequently, and email is a push-type communication that does not facilitate true collaboration. Effective collaboration requires interactive, synchronous communication.",
+      "difficulty": "expert",
+      "topic": "Team Communication and Collaboration",
+      "domain": 1,
+      "source_id": "yt_001",
+      "chunk_index": 16,
+      "video_segment": "4:01:31→4:16:39"
+    },
+    {
+      "question": "In the critical validation stage of a software development project, a third-party component fails to meet the expected performance benchmark due to the component being developed based on outdated specifications. What could have been done to prevent this from happening?",
+      "options": [
+        "A. Conduct a comprehensive review of the project requirements and management processes with stakeholders to align expectations and specifications",
+        "B. Initiate a cost-benefit analysis to determine if redesign of the component is financially viable compared to potential project delays",
+        "C. Schedule an urgent meeting with the supplier to negotiate expedited delivery terms",
+        "D. Assign a team to develop a workaround for the failed component"
+      ],
+      "answer": "A",
+      "explanation": "The question asks what could have been done to prevent the problem from occurring, not how to fix the current situation. A comprehensive review of requirements with stakeholders would have caught the outdated specifications before development began. Options B, C, and D address fixing the current problem rather than preventing it. The keyword 'prevent' is critical to selecting the correct answer.",
+      "difficulty": "expert",
+      "topic": "Requirements Management and Prevention Planning",
+      "domain": 2,
+      "source_id": "yt_001",
+      "chunk_index": 16,
+      "video_segment": "4:01:31→4:16:39"
+    },
+    {
+      "question": "A project manager is overseeing a project designed to deliver iterative enhancements to an existing service with an established prioritized product backlog from the product owner. Despite this, the product owner later voices concerns to senior management about the project's direction not aligning with expectations. What initiative should the project manager have undertaken?",
+      "options": [
+        "A. Institute a comprehensive stakeholder engagement plan to ensure all voices are heard and integrated into project planning",
+        "B. Adapt a more flexible approach to project management methodologies to accommodate changing stakeholder expectations",
+        "C. Enhance team training on the project's technical and business aspects to ensure a deeper understanding of project goals",
+        "D. Organize regular sprint review meetings with the product owner and conduct team retrospectives to close the feedback loop"
+      ],
+      "answer": "D",
+      "explanation": "In Agile projects, sprint review meetings are the primary mechanism for the product owner to inspect work and provide feedback on alignment with expectations. Regular sprint reviews would have surfaced the misalignment early and continuously. The other options address different concerns: A is too broad, B assumes the methodology is the problem, and C addresses technical understanding which is not indicated in the scenario.",
+      "difficulty": "expert",
+      "topic": "Agile Project Management and Stakeholder Feedback",
+      "domain": 2,
+      "source_id": "yt_001",
+      "chunk_index": 16,
+      "video_segment": "4:01:31→4:16:39"
+    },
+    {
+      "question": "After a project milestone, a team member voices concerns about the lack of detailed feedback regarding their project contributions, feeling that without specific insight their ability to improve and positively impact the project is limited. What should the project manager consider first?",
+      "options": [
+        "A. Schedule an all-hands meeting to discuss project performance and individual contributions openly",
+        "B. Establish an online form for the project team to post accomplishments and receive peer feedback",
+        "C. Introduce a quarterly review system that focuses on project-specific achievements and growth areas",
+        "D. Enhance documentation of individual performance metrics and provide regular personalized feedback sessions"
+      ],
+      "answer": "D",
+      "explanation": "The concern involves one individual team member who needs specific, personalized feedback. An all-hands meeting would be inappropriate and potentially embarrassing for the individual. An online form is impersonal and does not address the need for direct feedback. A quarterly review may be too infrequent. Regular personalized feedback sessions with documented performance metrics directly address the team member's need to understand their contributions and areas for improvement.",
+      "difficulty": "expert",
+      "topic": "Individual Performance Feedback and Motivation",
+      "domain": 1,
+      "source_id": "yt_001",
+      "chunk_index": 16,
+      "video_segment": "4:01:31→4:16:39"
+    },
+    {
+      "question": "During a project review, the client identifies a critical feature in the new software application that was discussed but not implemented. The project manager verifies that this feature was indeed documented as part of the scope. What should the project manager undertake as a preliminary action?",
+      "options": [
+        "A. Initiate a brainstorming session with stakeholders to identify alternatives for the missing feature",
+        "B. Arrange a detailed discussion with the team to understand the oversight and develop corrective action",
+        "C. Commission an external audit to evaluate the project management processes and identify gaps",
+        "D. Recommend suspension of the project delivery timeline to reevaluate all project components comprehensively"
+      ],
+      "answer": "B",
+      "explanation": "When a documented scope item was not implemented, the preliminary action is to understand why the oversight occurred by meeting with the team and then developing corrective actions. Brainstorming alternatives should only occur if implementation is not feasible. An external audit and suspension of the project are excessive measures for the initial response. Understanding the root cause and coordinating a solution is the appropriate first step.",
+      "difficulty": "expert",
+      "topic": "Scope Management and Corrective Action",
+      "domain": 2,
+      "source_id": "yt_001",
+      "chunk_index": 16,
+      "video_segment": "4:01:31→4:16:39"
+    },
+    {
+      "question": "Upon discovering a significant quality issue with a key supplier's deliverables, the project manager needs to address the problem to maintain project standards. What should be the project manager's initial action?",
+      "options": [
+        "A. Schedule an urgent project team meeting to brainstorm potential solutions to the quality issue",
+        "B. Request an immediate comprehensive quality audit on all supplier deliverables to identify the scope of the problem",
+        "C. Refer to the project's risk register for predetermined mitigation actions",
+        "D. Draft an urgent communication to the supplier demanding an explanation of the proposed rectification plan"
+      ],
+      "answer": "C",
+      "explanation": "Quality issues from suppliers should have been identified as risks during project planning. The risk register should contain predetermined mitigation strategies for supplier quality failures. Consulting the risk register first ensures that any planned mitigation actions are executed before taking other steps. The other actions may follow, but reviewing predetermined risk responses is the proper initial action. Option D is inappropriate as it uses negative language ('demanding') when working with suppliers.",
+      "difficulty": "expert",
+      "topic": "Risk Response and Quality Management",
+      "domain": 2,
+      "source_id": "yt_001",
+      "chunk_index": 16,
+      "video_segment": "4:01:31→4:16:39"
+    },
+    {
+      "question": "After an unscheduled discussion, a project team member advises the client about potential project delays due to frequent changes in requirements. What proactive steps should the project manager take to manage project communications more effectively?",
+      "options": [
+        "A. Emphasize to the project team the importance of routing all communications to the project manager to ensure consistency and accuracy",
+        "B. Conduct a workshop with the team to underscore the significance of adherence to the project's communication guidelines",
+        "C. Schedule a meeting with the client to directly address their concerns and clarify any misunderstanding about the project timeline",
+        "D. Require all significant project updates and communications to be conveyed through formal channels to maintain documentation and clarity"
+      ],
+      "answer": "D",
+      "explanation": "The issue stems from unscheduled, informal communications bypassing proper channels. Establishing formal communication channels with proper documentation prevents future miscommunications and ensures consistency. While option A is similar, option D is broader in requiring all significant communications through formal channels rather than funneling everything through the PM. Option B addresses adherence to guidelines but is more about a one-time workshop. Option C addresses only the immediate symptom, not the systemic communication process improvement needed.",
+      "difficulty": "expert",
+      "topic": "Communications Management and Control",
+      "domain": 2,
+      "source_id": "yt_001",
+      "chunk_index": 16,
+      "video_segment": "4:01:31→4:16:39"
+    },
+    {
+      "question": "During the execution phase, conflicts have arisen between two team members negatively impacting their work output. Despite the project manager's efforts to encourage open communication to resolve the disagreements, there has been no improvement. What action should the project manager consider as the next step to resolve the conflict?",
+      "options": [
+        "A. Implement a strategy to delegate separate tasks to the team members to reduce direct interaction",
+        "B. Arrange for a third-party mediator to facilitate a solution between the two members",
+        "C. Have the team members continue working on the issues to solve the problem themselves",
+        "D. Address the conflict by making a decision that best serves the project objectives, even if it is unilateral"
+      ],
+      "answer": "D",
+      "explanation": "When open communication and conflict resolution attempts have failed, the project manager must take action to resolve the conflict. Option C (doing nothing) is never appropriate when performance is being negatively impacted. Option A (separating tasks) is smoothing and avoids addressing the underlying conflict. Option B (third-party mediator) may be considered but is less direct. Option D represents decisive action where the PM makes a judgment in the project's best interest when informal resolution methods have been exhausted. The PM has a responsibility to actively intervene and resolve conflicts affecting project performance.",
+      "difficulty": "expert",
+      "topic": "Conflict Resolution and Team Management",
+      "domain": 1,
+      "source_id": "yt_001",
+      "chunk_index": 16,
+      "video_segment": "4:01:31→4:16:39"
+    }
+  ]
+}

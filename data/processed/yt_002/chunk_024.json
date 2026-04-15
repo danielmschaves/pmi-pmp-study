@@ -1,0 +1,94 @@
+{
+  "source_id": "yt_002",
+  "chunk_index": 24,
+  "start_label": "6:02:42",
+  "end_label": "6:17:48",
+  "mode": "extract",
+  "questions": [
+    {
+      "question": "A project manager is leading a software development project using a hybrid approach. During project execution, the sponsor left the project and a new sponsor was assigned. When the project manager informed the new sponsor that the deliverables were produced using a hybrid project management approach, the sponsor asked for proof. How should the project manager address the new sponsor's request?",
+      "options": [
+        "A. Explain the hybrid approach to the new sponsor",
+        "B. Ask the new sponsor to reach out to the project team in order to get a clear explanation of how the product is being developed",
+        "C. Present the project charter to the new sponsor",
+        "D. Present the project management plan to the new sponsor"
+      ],
+      "answer": "D",
+      "explanation": "The project management plan is the formal document that includes the project development approach as one of its elements. Presenting it provides formal proof of the hybrid approach being used. The charter contains only high-level information and typically does not detail the development approach. Explaining or asking the team to explain does not provide formal proof as requested by the sponsor.",
+      "difficulty": "hard",
+      "topic": "Project Documentation and Sponsor Communication",
+      "domain": 2,
+      "source_id": "yt_002",
+      "chunk_index": 24,
+      "video_segment": "6:02:42→6:17:48"
+    },
+    {
+      "question": "During the sprint planning, the team decomposed a user story into four tasks. When working on the user story, a team member identified a fifth task. What should the team member do?",
+      "options": [
+        "A. Update the user story and work on the new task",
+        "B. Report the issue to the scrum master",
+        "C. Request approval from the product owner to approve the new task",
+        "D. Add the new task to the product backlog"
+      ],
+      "answer": "A",
+      "explanation": "If a new technical task is identified that contributes to the acceptance criteria and definition of done of the user story, the team member should update the user story and work on the new task immediately during the sprint. The team is responsible for determining how to do the work. However, if the new work is separate and does not contribute to the user story, then it should be added to the product backlog for the product owner to prioritize. In this case, since a fifth task was identified within the user story, it should be worked on immediately.",
+      "difficulty": "hard",
+      "topic": "Agile Sprint Planning and User Story Decomposition",
+      "domain": 2,
+      "source_id": "yt_002",
+      "chunk_index": 24,
+      "video_segment": "6:02:42→6:17:48"
+    },
+    {
+      "question": "A data science project manager is used to implementing projects with the hybrid approach. Her organization owns two servers for manipulating big data with one server being more performant than the other. After a meeting with a potential client, the project manager informed her superior that if this project is approved, she would like to use the organization's performance server and have the senior developer Adam as part of the project team. Does the project manager have the right to make such a request?",
+      "options": [
+        "A. Yes, project managers can reassign resources if they need to",
+        "B. Yes, competition over resources is common, so project managers should be proactive in reserving them",
+        "C. No, the project manager cannot preassign resources",
+        "D. No, in hybrid projects it is the product owner's responsibility to acquire and develop resources"
+      ],
+      "answer": "A",
+      "explanation": "Resources can be identified and preassigned as early as the initiation phase through preassignment or resource negotiations. The project manager has the right to identify required resources, whether human or physical, and request them early in the project. This is not about competition but about identifying adequate resources needed for project success. Options C and D are incorrect because preassignment is a valid practice, and responsibility for resource acquisition is not exclusively the product owner's in hybrid approaches.",
+      "difficulty": "hard",
+      "topic": "Resource Planning and Preassignment",
+      "domain": 2,
+      "source_id": "yt_002",
+      "chunk_index": 24,
+      "video_segment": "6:02:42→6:17:48"
+    },
+    {
+      "question": "While having a meeting with the organization's CEO, a project manager got a call from a team member asking for a 4-day leave to attend a religious celebration. The project manager immediately refused the team member's request since the project is already behind schedule and approaching its deadline. The CEO who was listening to the conversation intervened to discuss the matter with the team member. After a long call, the CEO decided to allow the team member to only get a two-day leave. What type of conflict management technique did the project manager use in this situation?",
+      "options": [
+        "A. Smoothing",
+        "B. Compromising",
+        "C. Forcing",
+        "D. Collaborating"
+      ],
+      "answer": "C",
+      "explanation": "The project manager used the forcing technique by immediately and firmly refusing the team member's request, attempting to impose a decision using their formal authority and coercive power. This is a win-lose situation. The CEO later used compromising when they negotiated a middle ground of two days instead of four. It is important to focus on who is being asked about in the question—the project manager used forcing, not the CEO's compromise.",
+      "difficulty": "hard",
+      "topic": "Conflict Resolution and Management Styles",
+      "domain": 1,
+      "source_id": "yt_002",
+      "chunk_index": 24,
+      "video_segment": "6:02:42→6:17:48"
+    },
+    {
+      "question": "During the first sprint of a new project, a scrum master had an important business meeting at the same time as the daily stand-up meeting. What should the scrum master do in this situation?",
+      "options": [
+        "A. Skip the stand-up meeting and attend the business meeting instead",
+        "B. Ask the cross-functional team to postpone the stand-up meeting",
+        "C. Cancel the stand-up meeting",
+        "D. Ask the cross-functional team to record the stand-up meeting in order to watch it later"
+      ],
+      "answer": "A",
+      "explanation": "The scrum master is not required to attend every daily stand-up meeting. If the scrum master has another important commitment, it is acceptable to skip the meeting since the stand-up is primarily for team members to synchronize their work and assess progress. The meeting should not be postponed, cancelled, or recorded just because the scrum master is unavailable. Such actions would impose unnecessary burden on the team.",
+      "difficulty": "hard",
+      "topic": "Scrum Master Responsibilities and Daily Stand-ups",
+      "domain": 2,
+      "source_id": "yt_002",
+      "chunk_index": 24,
+      "video_segment": "6:02:42→6:17:48"
+    }
+  ]
+}

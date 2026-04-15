@@ -1,0 +1,94 @@
+{
+  "source_id": "yt_005",
+  "chunk_index": 54,
+  "start_label": "9:05:27",
+  "end_label": "9:15:34",
+  "mode": "extract",
+  "questions": [
+    {
+      "question": "When planning for the team, the project sponsor considers the ability and necessity for team members to work in the same location. What is a key advantage of small project teams that can work in the same room?",
+      "options": [
+        "A. It reduces the need for a project manager",
+        "B. It allows the team to take advantage of osmotic communication and solve problems as they arise",
+        "C. It eliminates the need for formal communication plans",
+        "D. It guarantees project success on the first delivery"
+      ],
+      "answer": "B",
+      "explanation": "Small teams working in the same location can leverage osmotic communication—overhearing conversations and solving problems together quickly. This reduces communication channels (which increase exponentially with team size) and enables rapid problem-solving. This relates to team composition and structure principles in the PMBOK Guide.",
+      "difficulty": "expert",
+      "topic": "Team Composition and Structure, Colocation",
+      "domain": 1,
+      "source_id": "yt_005",
+      "chunk_index": 54,
+      "video_segment": "9:05:27→9:15:34"
+    },
+    {
+      "question": "You are putting together a project team to deliver an accounting system to officers around the country. The accounting system has not been used by anyone in your organization before. The project is quite high risk and the delivery needs to be right the first time. What will you do next?",
+      "options": [
+        "A. Select a small team that can work in the same area so they can solve problems as they arise",
+        "B. Use a predictive project approach and source part of your team externally to access skill sets in the new system",
+        "C. Train existing internal staff in the new system and have them work on the project",
+        "D. Perform a make or buy analysis on the different software options"
+      ],
+      "answer": "B",
+      "explanation": "Since the system is new to the organization and the project is high risk with a single delivery requirement, a predictive (waterfall) approach is appropriate. Sourcing part of the team externally brings specialized skills with the new system, which is critical. Training internal staff might work but would introduce team formation delays and lack of expertise in the new system. The make or buy analysis is past the decision point.",
+      "difficulty": "expert",
+      "topic": "Team Composition and Structure, Resource Planning, Project Approach Selection",
+      "domain": 1,
+      "source_id": "yt_005",
+      "chunk_index": 54,
+      "video_segment": "9:05:27→9:15:34"
+    },
+    {
+      "question": "You are putting together a project plan for a change that affects nearly 10,000 stakeholders in your organization. You have identified and prioritized the affected stakeholders and are putting together a communication plan to ensure proper engagement. What will you NOT include in your plan?",
+      "options": [
+        "A. Why information should be shared with stakeholders",
+        "B. When and how often information is needed",
+        "C. How stakeholders can make changes to the communication plan",
+        "D. What is the best way to provide the information"
+      ],
+      "answer": "C",
+      "explanation": "A communication plan includes: who needs information, what they need, why it should be shared, when and how often it's needed, and the best delivery method. However, the project manager and team develop the communication plan—stakeholders do not typically make changes to it. The project manager incorporates stakeholder feedback, but the stakeholders themselves are not responsible for modifying the communication plan.",
+      "difficulty": "expert",
+      "topic": "Stakeholder Engagement, Communication Planning",
+      "domain": 1,
+      "source_id": "yt_005",
+      "chunk_index": 54,
+      "video_segment": "9:05:27→9:15:34"
+    },
+    {
+      "question": "You put together a resource plan for a large amount of physical inventory to be purchased from overseas. You ordered the inventory during project execution; however, global supply chains were impacted and the shipment was delayed by three months, significantly impacting your project. What should you have done differently?",
+      "options": [
+        "A. Hired a resource manager to take care of resource tasks on the project",
+        "B. Planned strategically about the timing from order to delivery to usage, including management of resource risks and their responses",
+        "C. Tracked the inventory from arrival on site to delivery of the integrated product",
+        "D. Sourced the inventory locally to reduce the impact of global supply chains"
+      ],
+      "answer": "B",
+      "explanation": "For projects requiring significant physical materials, strategic planning about timing from order to delivery to usage is essential. This includes evaluating logistics, bulk ordering versus storage costs, and supply chain risks. The delay should have been identified as a potential risk during planning and mitigation strategies developed. Tracking inventory after it arrives does not prevent the delay. While sourcing locally might be an option, the question states it must be purchased overseas.",
+      "difficulty": "expert",
+      "topic": "Physical Resources Planning, Risk Management, Resource Scheduling",
+      "domain": 2,
+      "source_id": "yt_005",
+      "chunk_index": 54,
+      "video_segment": "9:05:27→9:15:34"
+    },
+    {
+      "question": "You are halfway through your agile project when a significant change to the project scope is discovered after finding that the project would not be able to deliver the promised benefits. You check your project budget and find that contingency and management reserves are available. What will you do next?",
+      "options": [
+        "A. Take the project scope change to the Change Control Board for approval",
+        "B. Use the available contingency reserves to make the appropriate change to the project scope",
+        "C. Use the available management reserves to make the appropriate change to the project scope",
+        "D. Request additional budget from the project sponsor before proceeding"
+      ],
+      "answer": "A",
+      "explanation": "Any significant scope change must go through the formal Change Control Board for approval, regardless of available reserves. Contingency reserves are for identified risks, and management reserves are for unforeseen items, but both must be approved through the change control process. Using reserves without proper change control and approval bypasses necessary governance and accountability procedures.",
+      "difficulty": "expert",
+      "topic": "Change Control, Scope Management, Reserve Management",
+      "domain": 2,
+      "source_id": "yt_005",
+      "chunk_index": 54,
+      "video_segment": "9:05:27→9:15:34"
+    }
+  ]
+}

@@ -1,0 +1,77 @@
+{
+  "source_id": "yt_005",
+  "chunk_index": 49,
+  "start_label": "8:14:57",
+  "end_label": "8:25:01",
+  "mode": "extract",
+  "questions": [
+    {
+      "question": "Your team has been working at a sustainable pace, but your organization is moving to an agile way of work. The team has hesitations about this transition. What should you do?",
+      "options": [
+        "A. Add extra resources to your team to deliver faster and avoid executives getting involved",
+        "B. Proceed with a predictive development approach and deal with the consequences later",
+        "C. Ask your team to work with agile velocity and iterations despite their hesitations",
+        "D. Suggest the team uses flow-based scheduling with a Kanban board for visual work management"
+      ],
+      "answer": "D",
+      "explanation": "Flow-based scheduling with Kanban boards is a proven agile approach that respects team capacity and maintains focus through work-in-progress limits, minimizing context switching and multitasking. This addresses the transition to agile while supporting sustainable pace. Adding resources may complicate things, forcing the team against their will reduces engagement, and avoiding the organizational mandate is not viable. Kanban is one of the major agile approaches alongside Scrum and Lean, optimizing deliveries based on resource capacity and minimizing waste.",
+      "difficulty": "expert",
+      "topic": "Agile and Adaptive Approaches",
+      "domain": 2,
+      "source_id": "yt_005",
+      "chunk_index": 49,
+      "video_segment": "8:14:57→8:25:01"
+    },
+    {
+      "question": "Your team has never worked on projects before and doesn't know about waterfall, agile, or different development models. Your project may have requirements that are certain or uncertain with varying levels of risk, and you are unsure which approach to use as you begin this new project. What will you do next?",
+      "options": [
+        "A. Use waterfall and plan everything up front so the team has more stability",
+        "B. Use general phase definitions such as feasibility, design, build, test, deploy, and close",
+        "C. Use agile to ensure you can respond to change while your team's capability increases",
+        "D. Don't use any project approach; it doesn't matter as long as the work is getting done"
+      ],
+      "answer": "B",
+      "explanation": "All projects—whether waterfall or agile—go through the same fundamental phases: feasibility, design, build, test, deploy, and close. In waterfall these are done sequentially once; in agile they are done multiple times for each feature or increment. This approach provides a universally applicable starting point regardless of uncertainty or team experience. It allows flexibility in how these phases are implemented while ensuring a structured framework is in place.",
+      "difficulty": "expert",
+      "topic": "Project Life Cycles and Phase Definitions",
+      "domain": 2,
+      "source_id": "yt_005",
+      "chunk_index": 49,
+      "video_segment": "8:14:57→8:25:01"
+    },
+    {
+      "question": "You are a project manager in an organization with a directive project management office and are currently between projects. The PMO asks you to prepare for an upcoming project in the accounting area by meeting with the functional manager. You have no team, no scope, no requirements, and no timeline yet. What will you do next?",
+      "options": [
+        "A. Ask the functional manager for their wish list of improvements so you can take these to your PMO",
+        "B. Create a project management plan so the project scope, budget, and schedule are more clear",
+        "C. Create a small backlog of work and start your first sprint, then progressively update the backlog as the project progresses",
+        "D. Progressively elaborate the vision and develop a vision statement and project charter to kick off your project"
+      ],
+      "answer": "D",
+      "explanation": "Before initiating any project, you must first establish a vision statement, project charter, or business case to identify a coordinated path forward and understand why the project exists. This establishes direction and enables all subsequent planning activities. Creating a full project management plan is premature without a charter; starting sprints without clarity is not appropriate; and gathering a wish list alone is insufficient without first defining the strategic direction and coordinated approach.",
+      "difficulty": "expert",
+      "topic": "Project Initiation and Charter Development",
+      "domain": 2,
+      "source_id": "yt_005",
+      "chunk_index": 49,
+      "video_segment": "8:14:57→8:25:01"
+    },
+    {
+      "question": "You are working on a project where part of the project delivers a high-value, high-risk component and another part delivers routine changes to the system. Your project sponsor wants to gain business value quickly, but your project team wants to start with the work they are familiar with first. What will you do next?",
+      "options": [
+        "A. Prioritize the higher-risk items at the end of the project",
+        "B. Prioritize the high-risk items at the start of the project",
+        "C. Prioritize the routine work first since the team is familiar with it",
+        "D. Split the work equally between high-risk and routine components"
+      ],
+      "answer": "B",
+      "explanation": "High-risk items should be prioritized at the start of the project to remove risk early. As a project progresses, risk exposure increases—if high-risk items remain unresolved until the end, the risk of project failure or downstream impacts becomes significantly higher. Addressing high-risk components first reduces overall project risk and enables course correction if issues arise, ultimately protecting the high business value component.",
+      "difficulty": "expert",
+      "topic": "Risk Management and Prioritization",
+      "domain": 2,
+      "source_id": "yt_005",
+      "chunk_index": 49,
+      "video_segment": "8:14:57→8:25:01"
+    }
+  ]
+}

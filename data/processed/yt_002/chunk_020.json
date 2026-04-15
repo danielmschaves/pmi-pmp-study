@@ -1,0 +1,94 @@
+{
+  "source_id": "yt_002",
+  "chunk_index": 20,
+  "start_label": "5:02:18",
+  "end_label": "5:17:24",
+  "mode": "extract",
+  "questions": [
+    {
+      "question": "A subcontractor is engaged to install the electrical wiring of a construction project. A stakeholder requests a modification in the project scope which will result in a change in the subcontractor's workload. Which of the following documents will address how the change in the subcontractor's workload will be handled?",
+      "options": [
+        "A. The change control system",
+        "B. The procurement management plan",
+        "C. The contract",
+        "D. The project scope"
+      ],
+      "answer": "C",
+      "explanation": "The contract is the document that defines the relationship between the subcontractor and the project manager, including the scope of work. Any changes to predetermined contract terms should be addressed in the contract through the change clause, which specifies how changes will be performed, negotiated, and their impact. While the change control system describes how modifications to project deliverables are managed, if modifications impact a subcontractor's work, the project manager must review the change clause in the corresponding contract. The procurement management plan addresses how subcontractors will be hired and selected, not how changes to their workload are handled. The project scope defines what is in and out of scope but does not address how changes affect a subcontractor's workload.",
+      "difficulty": "hard",
+      "topic": "Procurement Management and Change Management",
+      "domain": 2,
+      "source_id": "yt_002",
+      "chunk_index": 20,
+      "video_segment": "5:02:18→5:17:24"
+    },
+    {
+      "question": "Since switching to the agile approach, a project manager has been encouraging their team to be self-organizing by allowing them to decide on how to execute their assigned work. What is the main aspect of a self-organizing team?",
+      "options": [
+        "A. It gives more responsibility to the project manager",
+        "B. It gives more responsibility to the agile team",
+        "C. It allows the team to deliver a working product without external dependencies",
+        "D. It gives team members higher visibility to the product"
+      ],
+      "answer": "B",
+      "explanation": "A self-organizing team is characterized by the fact that team members do not wait for supervisors to assign tasks. Instead, they determine which tasks must be accomplished, prioritize those tasks, and manage their own schedules and deadlines. This means more responsibility and decision-making authority is given to the agile team rather than the project manager. Option A is incorrect because self-organizing teams reduce rather than increase the project manager's responsibility. Option C describes a cross-functional team, not a self-organizing team—cross-functional teams have all necessary skills without external dependencies. Option D about product visibility is not the defining characteristic of self-organizing teams.",
+      "difficulty": "hard",
+      "topic": "Agile Team Management and Self-Organization",
+      "domain": 1,
+      "source_id": "yt_002",
+      "chunk_index": 20,
+      "video_segment": "5:02:18→5:17:24"
+    },
+    {
+      "question": "One month into the project, the sponsor contacts the project manager to express dissatisfaction with the project work. The sponsor says that the deliverables do not match neither the requirements nor the set expectations. What should the project manager do?",
+      "options": [
+        "A. Continue working on the next deliverable to finish the project on time",
+        "B. Talk to management to discuss the sponsor's concerns",
+        "C. Ensure that the next deliverables have enough features to meet the client's expectations",
+        "D. Perform a scope control to verify if the deliverables meet the project objectives"
+      ],
+      "answer": "D",
+      "explanation": "The appropriate action is to perform scope control (or scope verification) to review and verify the deliverables against requirements and expectations. Scope control involves reviewing deliverables to ensure they are appropriately completed as per requirements, and any discovered inconsistencies should be rectified before seeking the sponsor's formal approval through the validate scope process. Option A is incorrect because ignoring the sponsor's concerns and continuing with the next deliverable does not address the problem. Option B is premature escalation—the project manager should first understand and verify the issue at the project management level before escalating to management. Option C attempts to deliver more in the future but does not address the already-delivered work or the root causes of the sponsor's dissatisfaction.",
+      "difficulty": "hard",
+      "topic": "Scope Verification and Control",
+      "domain": 2,
+      "source_id": "yt_002",
+      "chunk_index": 20,
+      "video_segment": "5:02:18→5:17:24"
+    },
+    {
+      "question": "After purchasing a new software needed for the project, a project manager identifies a potential risk. The bought version might be old. In case that risk occurs, the project manager will just need to go to the settings and update the software version. Therefore, the project manager decides to passively accept the risk. Why is passive risk acceptance the appropriate approach?",
+      "options": [
+        "A. Because the probability of risk occurrence is very low",
+        "B. Because the risk occurrence is difficult to identify",
+        "C. Because it is better to deal with trivial risks when they occur",
+        "D. Because the risk is not on the critical path"
+      ],
+      "answer": "C",
+      "explanation": "Passive risk acceptance is appropriate for trivial risks—those with very low impact. In this case, updating the software version is a simple and straightforward action with minimal consequence, making it a trivial risk that does not require elaborate risk response planning. Option A is incorrect because passive acceptance is not determined solely by low probability; even low-probability risks with high impact require risk responses. Option B is incorrect because risk by definition may or may not occur—the difficulty of identification is inherent to all risks and does not justify acceptance. Option D is incorrect because whether a risk is attached to an activity on the critical path or not is irrelevant to risk response strategy selection; what matters is the impact and importance of the risk itself.",
+      "difficulty": "hard",
+      "topic": "Risk Response Planning and Acceptance",
+      "domain": 2,
+      "source_id": "yt_002",
+      "chunk_index": 20,
+      "video_segment": "5:02:18→5:17:24"
+    },
+    {
+      "question": "The project manager recently learned that one of the senior team members will be promoted to manage a new project within the organization. When this happens, the project manager will lose a valuable member in the team. What should the project manager do next?",
+      "options": [
+        "A. Try to influence management to delay the team member's promotion until the project is completed",
+        "B. Inform the team member about the promotion and ask them to transfer their responsibilities to another team member",
+        "C. Ask the team member to prepare a transition plan once they get officially promoted",
+        "D. Acquire another resource to replace the team member"
+      ],
+      "answer": "C",
+      "explanation": "The appropriate action is to ask the team member to prepare a transition plan once they are officially promoted. This acknowledges that the promotion is not yet finalized and avoids premature action while ensuring a structured handover when the transition actually occurs. Option A is inappropriate because trying to delay a promotion is detrimental to the team member's career development and professional growth. Option B is premature because it assumes the team member should transfer responsibilities before the promotion has officially taken place; asking them to act on a future event that has not yet occurred is not appropriate. Option D is also premature and inefficient—acquiring a replacement before the person has actually left is wasteful and unnecessary. The correct approach respects the team member's opportunity while planning for transition only after the promotion is official.",
+      "difficulty": "hard",
+      "topic": "Team Management and Resource Planning",
+      "domain": 1,
+      "source_id": "yt_002",
+      "chunk_index": 20,
+      "video_segment": "5:02:18→5:17:24"
+    }
+  ]
+}

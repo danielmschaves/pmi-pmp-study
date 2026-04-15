@@ -1,0 +1,94 @@
+{
+  "source_id": "yt_002",
+  "chunk_index": 21,
+  "start_label": "5:17:24",
+  "end_label": "5:32:30",
+  "mode": "extract",
+  "questions": [
+    {
+      "question": "During a bidder conference, a supplier brought to the project manager's attention a missing requirement in the request for proposal. When checking the RFP, the project manager realized that the supplier was correct. The project manager then discussed this particular requirement and its acceptance criteria for 15 minutes to ensure that all attending suppliers were fully aware of it. When seller responses were received, only one prospective supplier addressed the missing requirement. What should the project manager do next?",
+      "options": [
+        "A. Retain the supplier who noted the missing requirement.",
+        "B. Retain the supplier who addressed the missing requirements in their response.",
+        "C. Extend the deadline to receive more proposals and have more choices.",
+        "D. Send an adjusted RFP comprising the missing requirement to all suppliers and give them the opportunity to resubmit their proposals."
+      ],
+      "answer": "D",
+      "explanation": "The correct answer is D because the project manager must correct the mistake by sending a formal written adjustment to the RFP to all prospective suppliers. While verbal communication was used during the bidder conference, formal written communication is necessary to ensure clarity and prevent misunderstandings. This gives all suppliers a fair opportunity to respond to the missing requirement and allows the project manager to make a selection based on complete and comparable proposals. Options A and B make premature selections based on incomplete information or a single criterion rather than evaluating all selection criteria. Option C, while addressing the extension, lacks the clarity of also sending the adjusted RFP.",
+      "difficulty": "hard",
+      "topic": "Procurement and Vendor Management",
+      "domain": 2,
+      "source_id": "yt_002",
+      "chunk_index": 21,
+      "video_segment": "5:17:24→5:32:30"
+    },
+    {
+      "question": "After sizing the selected product backlog items for the next release, the product owner estimated that five sprints are needed to complete the release. However, after two sprints, the project manager finds out that the velocity of the team has declined for various reasons, which means that the release deadline will not be met. What should the project manager do next?",
+      "options": [
+        "A. Reprioritize the backlog.",
+        "B. Add more members to the team.",
+        "C. Decompose user stories to increase the velocity of the team.",
+        "D. Discuss the issue with the product owner to find the appropriate solution."
+      ],
+      "answer": "D",
+      "explanation": "The correct answer is D because the project manager must collaborate with the product owner to determine the appropriate course of action. Option A is incorrect because only the product owner has the authority to prioritize product backlog items. Option B is incorrect because adding team members requires product owner approval and has financial implications that the project manager cannot decide alone. Option C is incorrect because decomposing user stories does not increase velocity; it simply breaks down larger stories into smaller ones with proportionally smaller story point estimates, yielding no net gain. The project manager should inform the product owner of the facts and work together to determine whether to adjust expectations, add resources, or take other corrective actions.",
+      "difficulty": "hard",
+      "topic": "Agile Project Management and Team Velocity",
+      "domain": 2,
+      "source_id": "yt_002",
+      "chunk_index": 21,
+      "video_segment": "5:17:24→5:32:30"
+    },
+    {
+      "question": "During a meeting with 15 stakeholders, the product owner was discussing and collecting ideas about the product requirements. Since there were a lot of suggested ideas, the product owner decided to vote. After voting, the product owner found that a particular idea received nine votes out of 15. What type of decision-making approach does this depict?",
+      "options": [
+        "A. Unanimity",
+        "B. Majority",
+        "C. Plurality",
+        "D. Dictatorship"
+      ],
+      "answer": "B",
+      "explanation": "The correct answer is B, majority. With 15 stakeholders and 9 votes for the selected idea, this represents more than 50% of the votes (9 out of 15), which is the definition of a majority decision. Option A, unanimity, would require all 15 votes. Option C, plurality, occurs when the winning option receives the most votes but does not constitute a majority (e.g., 6 votes out of 15 when multiple competing options exist). Option D, dictatorship, describes a decision made by a single person without input from others.",
+      "difficulty": "hard",
+      "topic": "Stakeholder Engagement and Decision-Making Techniques",
+      "domain": 1,
+      "source_id": "yt_002",
+      "chunk_index": 21,
+      "video_segment": "5:17:24→5:32:30"
+    },
+    {
+      "question": "A project manager is leading a software project. A team member is in charge of developing the user interface. Even though this member is doing a great job, their work pace is way slower than expected, which can cause the whole project to miss its deadline. What should the project manager do first in this situation?",
+      "options": [
+        "A. Delegate some of the team member's tasks to other team members.",
+        "B. Remove the team member from the project.",
+        "C. Find out the cause of the team member's slow work pace.",
+        "D. Give the concerned team member other non-critical tasks."
+      ],
+      "answer": "C",
+      "explanation": "The correct answer is C because the project manager should first investigate and understand the root cause of the problem before taking any corrective action. Option A, delegating tasks, is premature without understanding why the pace is slow. Option B, removing the team member, is extreme and inappropriate for a high-quality performer. Option D, reassigning to non-critical tasks, sends a negative message and does not address the underlying issue. By determining the cause first, the project manager can make an informed decision—whether the member is overallocated, facing technical challenges, or dealing with other constraints—and can collaborate with the team member to identify appropriate solutions.",
+      "difficulty": "hard",
+      "topic": "Team Performance Management and Coaching",
+      "domain": 1,
+      "source_id": "yt_002",
+      "chunk_index": 21,
+      "video_segment": "5:17:24→5:32:30"
+    },
+    {
+      "question": "A stakeholder is pressuring the project team to make some changes to the product. The project manager informs the stakeholder that the changes cannot be implemented immediately due to the established processes. What should the project manager refer the stakeholder to?",
+      "options": [
+        "A. The change control plan",
+        "B. The change control system",
+        "C. The organizational process assets",
+        "D. The scope management plan"
+      ],
+      "answer": "B",
+      "explanation": "The correct answer is B, the change control system. The change control system is the formal mechanism through which changes are reviewed, evaluated, approved, and implemented during project execution. It consists of the actual procedures and tools used to manage changes. Option A, the change control plan, is a planning document that describes how the change control system will be established and operated, not the system itself. Option C, organizational process assets, is too broad and refers to the general set of processes and documents an organization follows. Option D, the scope management plan, defines how scope will be collected and managed, but does not address the change control process. The project manager should refer the stakeholder to the change control system so they understand the established procedures for submitting and processing change requests.",
+      "difficulty": "hard",
+      "topic": "Change Management and Scope Control",
+      "domain": 2,
+      "source_id": "yt_002",
+      "chunk_index": 21,
+      "video_segment": "5:17:24→5:32:30"
+    }
+  ]
+}

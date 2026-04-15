@@ -1,0 +1,94 @@
+{
+  "source_id": "yt_003",
+  "chunk_index": 4,
+  "start_label": "1:00:26",
+  "end_label": "1:15:33",
+  "mode": "extract",
+  "questions": [
+    {
+      "question": "Your project team is protected by a union agreement. You notice that they don't know how to use the product you're improving, they're slow to respond, and regularly complain about the work. Your project sponsor has had enough and threatens to shut down the project if improvements can't be made. What will you do next?",
+      "options": [
+        "A. Set up a new project with different team members and transfer the work to that team",
+        "B. Set a clear project purpose and vision and pair your team with a customer",
+        "C. Tell your project team that they will lose their jobs",
+        "D. Create a project Gantt chart schedule and burndown chart so the work is transparent to all"
+      ],
+      "answer": "B",
+      "explanation": "Setting a vision and purpose and showing your team how they're making a difference increases intrinsic motivation. Transferring to another team risks the same result and would require going through team development stages again. Threatening team members will embed their negative behavior further rather than change it. While transparency is good, it doesn't directly address the engagement and motivation issues.",
+      "difficulty": "hard",
+      "topic": "Team Motivation and Leadership",
+      "domain": 1,
+      "source_id": "yt_003",
+      "chunk_index": 4,
+      "video_segment": "1:00:26→1:15:33"
+    },
+    {
+      "question": "During a key scope meeting, an argument arises. The business manager accuses the technology manager of not delivering to their needs on past projects, and the technology manager accuses the business manager of changing requirements that impact the delivery schedule. The meeting is at risk with stakeholders being closed off to any further discussion. What will you do next?",
+      "options": [
+        "A. Take the side of the technology manager as scope that impacts delivery should be controlled",
+        "B. Take the side of the business manager as you should always deliver to customer specification",
+        "C. Facilitate to keep communication respectful, focus on the issue in the present, and search for alternatives together",
+        "D. Ensure they both agree to the Change Control process to avoid disagreements in the future"
+      ],
+      "answer": "C",
+      "explanation": "Conflict resolution requires open and respectful communication, focusing on the issue not the person, on the present not the past, and searching for alternatives together. Taking sides escalates conflict rather than resolving it. While a Change Control process is important, problem-solving must come first to address the current conflict and underlying issues.",
+      "difficulty": "hard",
+      "topic": "Conflict Management",
+      "domain": 1,
+      "source_id": "yt_003",
+      "chunk_index": 4,
+      "video_segment": "1:00:26→1:15:33"
+    },
+    {
+      "question": "You are working on a project where the project team is completely distributed around the country in multiple sites including working from home. Some project team members have not been able to contribute to the project, and there are concerns from the program that the project will fall behind. What will you do next?",
+      "options": [
+        "A. Raise a request to the program to collocate all project team members as soon as possible",
+        "B. Proceed with daily stand-ups and working group meetings with any team members in your area",
+        "C. Set team leaders for each area around the country to report back to you as the centralized project leader",
+        "D. Use technology to maintain ongoing contact with audio and video for meetings, a team website to keep all project information available, and build in time to get to know remote team members"
+      ],
+      "answer": "D",
+      "explanation": "Distributed teams require leveraging technology for communication, transparency, and connection. Collocating everyone is not feasible. Working only with local team members creates silos and excludes distributed members. Setting up regional leaders maintains silos rather than fostering team collaboration and transparency across all locations.",
+      "difficulty": "hard",
+      "topic": "Distributed Project Teams",
+      "domain": 1,
+      "source_id": "yt_003",
+      "chunk_index": 4,
+      "video_segment": "1:00:26→1:15:33"
+    },
+    {
+      "question": "You are initiating a project for a sales team where the process will change significantly, even though the outcome of a completed sale will remain the same. The functional manager is concerned about the change and any disruption that it might bring. What will you do next?",
+      "options": [
+        "A. Kick off the project with multiple deliveries to deliver small parts and reduce the change impact",
+        "B. Kick off the project with a single delivery at the end of the project when the process change is complete",
+        "C. Kick off the project with continuous delivery in mind to ensure fast delivery to the business",
+        "D. Kick off the project using periodic deliveries as delivering value as it's ready"
+      ],
+      "answer": "B",
+      "explanation": "In a process re-engineering project, the process change is typically implemented in one complete rollout rather than in increments, as the entire process is being changed as a unified system. Multiple or periodic deliveries of a single process change could create confusion and disruption. The delivery occurs when the new process is ready and rolled out completely.",
+      "difficulty": "hard",
+      "topic": "Delivery Cadence and Process Re-engineering",
+      "domain": 2,
+      "source_id": "yt_003",
+      "chunk_index": 4,
+      "video_segment": "1:00:26→1:15:33"
+    },
+    {
+      "question": "You're working on a project where the requirements are clear but the solution ideas are uncertain. The product owner and technical experts can't be sure which ideas will work in practice and which ones won't. The organization can't afford to get this project wrong, as they have previously made mistakes and customers are starting to leave. What will you do next?",
+      "options": [
+        "A. Use an incremental approach to progressively deliver features",
+        "B. Use an iterative approach to refine ideas while still delivering in one release",
+        "C. Use a predictive development approach that will plan everything up front and then deliver in one go",
+        "D. Use a hybrid approach combining agile and waterfall"
+      ],
+      "answer": "B",
+      "explanation": "An iterative approach allows you to capture and refine uncertain ideas through feedback cycles while maintaining a single release, preventing customer risk from multiple releases. Incremental delivery would release parts to customers prematurely, which the organization cannot afford given their history. Predictive planning won't accommodate the solution uncertainty. A hybrid approach is not specifically suited to this scenario.",
+      "difficulty": "hard",
+      "topic": "Development Approaches and Life Cycles",
+      "domain": 2,
+      "source_id": "yt_003",
+      "chunk_index": 4,
+      "video_segment": "1:00:26→1:15:33"
+    }
+  ]
+}

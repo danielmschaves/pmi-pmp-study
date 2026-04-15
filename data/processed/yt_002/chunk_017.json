@@ -1,0 +1,94 @@
+{
+  "source_id": "yt_002",
+  "chunk_index": 17,
+  "start_label": "4:16:57",
+  "end_label": "4:32:05",
+  "mode": "extract",
+  "questions": [
+    {
+      "question": "The project manager oversees an agile project for developing a mobile application for a fast-paced startup. The project involves a cross-functional team comprising developers, designers, and testers. As the project progresses, the project manager encounters various challenges such as technological complexities, stakeholder communication gaps, and collaboration issues. What should the project manager's primary focus be to ensure the team remains aligned with agile principles?",
+      "options": [
+        "A. Ensuring the team delivers new features as frequently as possible",
+        "B. Establishing accurate and detailed plans",
+        "C. Implementing rigorous quality control measures to ensure the application meets the highest standards of performance and usability",
+        "D. Prioritizing the delivery of features that directly contribute to the client's goals and provide tangible value to end users"
+      ],
+      "answer": "D",
+      "explanation": "Delivering value should always be the agile team's top priority, as it represents one of the agile manifesto principles: working software over comprehensive documentation. Option A is too extreme with 'as frequently as possible' without value focus. Option B implies a predictive approach inconsistent with agile. Option C relates to rigorous quality control measures that align with predictive approaches rather than agile adaptability.",
+      "difficulty": "hard",
+      "topic": "Agile Principles and Values",
+      "domain": 2,
+      "source_id": "yt_002",
+      "chunk_index": 17,
+      "video_segment": "4:16:57→4:32:05"
+    },
+    {
+      "question": "Midway through the execution phase of a construction project, a key team member requests a two-month leave for personal reasons. What should the project manager do first?",
+      "options": [
+        "A. Find a replacement",
+        "B. Evaluate the impact of the team member's leave on the project",
+        "C. Persuade the team member to take several short leaves over the remaining project duration instead",
+        "D. Ask the team member to postpone their leave"
+      ],
+      "answer": "B",
+      "explanation": "The first thing the project manager should do is understand what impact this leave will have on the project. For instance, a two-month leave may not have a significant impact on a three-year project, but it will have a substantial impact on a six-month project, especially if this team member is a key player. Evaluation and assessment should always precede action.",
+      "difficulty": "hard",
+      "topic": "Resource Management and Team Planning",
+      "domain": 1,
+      "source_id": "yt_002",
+      "chunk_index": 17,
+      "video_segment": "4:16:57→4:32:05"
+    },
+    {
+      "question": "A senior team member expresses concerns to the project manager about a new member, believing that the new member lacks the technical proficiency to properly accomplish their assigned work. Having worked together for several years, the project manager has confidence in the senior team member's judgment. What should the project manager do?",
+      "options": [
+        "A. Release the new team member",
+        "B. Do nothing since the new team member has already been assigned",
+        "C. Provide the new team member with training and mentoring",
+        "D. Keep the new team member but reassign their tasks to someone else"
+      ],
+      "answer": "C",
+      "explanation": "A project manager should provide the new member with the needed training and mentoring. Option A is incorrect as releasing team members is not an appropriate first response. Option B is wrong because the project manager must intervene when issues are identified. Option D is incorrect because reassigning tasks prevents the new member from learning and developing their skills.",
+      "difficulty": "hard",
+      "topic": "Team Development and Coaching",
+      "domain": 1,
+      "source_id": "yt_002",
+      "chunk_index": 17,
+      "video_segment": "4:16:57→4:32:05"
+    },
+    {
+      "question": "A project manager is leading an agile project through two sprints. One week into the first sprint, the project manager got a request from the project owner to immediately cancel the sprint. What should the project manager do?",
+      "options": [
+        "A. Inform the project owner that the sprint is time-boxed and should continue till its predefined end date",
+        "B. Ask the team to just finish the work in progress and then terminate the sprint",
+        "C. Immediately cancel the sprint",
+        "D. Ask the product owner to provide a clear explanation of their decision in order to cancel the sprint"
+      ],
+      "answer": "C",
+      "explanation": "The product owner has the authority to cancel an ongoing sprint for any reason they think is valid. When a request comes from the product owner to cancel the sprint, the project manager should immediately comply. The product owner is the only one responsible for cancelling a sprint in agile frameworks, and the project manager must respect this authority.",
+      "difficulty": "hard",
+      "topic": "Agile Sprint Management and Product Owner Authority",
+      "domain": 2,
+      "source_id": "yt_002",
+      "chunk_index": 17,
+      "video_segment": "4:16:57→4:32:05"
+    },
+    {
+      "question": "In order to promote adaptability and minimize disruptions, a project manager decides to adopt an agile development approach that allows the project team to work in a continuous flow rather than using iteration-based cycles. What should the project manager do?",
+      "options": [
+        "A. Implement daily standup meetings to enhance communication and collaboration",
+        "B. Encourage self-organization and decision-making within the team",
+        "C. Break down project deliverables into smaller manageable increments",
+        "D. Use a Kanban framework to optimize workflow and identify bottlenecks"
+      ],
+      "answer": "D",
+      "explanation": "The Kanban method involves pulling work into the system only when the team is capable of handling it. Kanban prioritizes productivity and efficiency through its workflow approach and provides continuous flow rather than iteration-based cycles like Scrum. Option A addresses communication but doesn't respond to the continuous flow requirement. Option B addresses team empowerment but not workflow structure. Option C relates to iteration-based approaches, not continuous flow.",
+      "difficulty": "hard",
+      "topic": "Kanban Framework and Continuous Flow",
+      "domain": 2,
+      "source_id": "yt_002",
+      "chunk_index": 17,
+      "video_segment": "4:16:57→4:32:05"
+    }
+  ]
+}

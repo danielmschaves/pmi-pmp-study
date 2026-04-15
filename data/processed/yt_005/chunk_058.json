@@ -1,0 +1,60 @@
+{
+  "source_id": "yt_005",
+  "chunk_index": 58,
+  "start_label": "9:45:49",
+  "end_label": "9:55:55",
+  "mode": "extract",
+  "questions": [
+    {
+      "question": "Your project team is trialling an agile way of work. The product owner has a clear vision for the product. There is confusion in the team as to how much work should be done on a user story before it's taken to the Sprint review and how they will know that a story is complete. What will you do next?",
+      "options": [
+        "A. Refer to the user story acceptance criteria and your team's definition of done",
+        "B. Review the user story with multiple users to ensure it's correct",
+        "C. Ask the product owner to sign off on the completed user story",
+        "D. Ensure quality testing on the user story is completed and passed"
+      ],
+      "answer": "A",
+      "explanation": "The definition of done is the key artifact that clarifies when work on a user story is complete. Acceptance criteria and the definition of done together ensure the team knows what 'done' means. While the other options are good practices, they are all components that feed into the acceptance criteria and definition of done rather than the primary mechanism for establishing completion standards.",
+      "difficulty": "expert",
+      "topic": "Agile Ceremonies and Artifacts - Definition of Done",
+      "domain": 2,
+      "source_id": "yt_005",
+      "chunk_index": 58,
+      "video_segment": "9:45:49→9:55:55"
+    },
+    {
+      "question": "You have been working closely with the quality manager of your project planning the budget for the project phase that is due to begin in the next two months. They mention the need to budget for appraisal costs to avoid quality issues in the future. What will you do next?",
+      "options": [
+        "A. Ensure there is enough budget for training",
+        "B. Ensure there is enough budget for a quality tester to verify the deliverables against the agreed specifications",
+        "C. Ensure there is enough budget to create a quality assurance plan",
+        "D. Ensure there is enough budget to allow for rework or rectification when defects are found"
+      ],
+      "answer": "B",
+      "explanation": "Appraisal costs are the costs of verification and testing activities - inspecting, auditing, and checking deliverables. Option B directly addresses appraisal costs through quality testing and verification. Option A relates to prevention costs, Option C is part of quality planning, and Option D relates to internal failure costs. Appraisal costs occur during the verification and validation phase to detect defects before they reach the customer.",
+      "difficulty": "expert",
+      "topic": "Cost of Quality - Appraisal Costs",
+      "domain": 2,
+      "source_id": "yt_005",
+      "chunk_index": 58,
+      "video_segment": "9:45:49→9:55:55"
+    },
+    {
+      "question": "Your agile project has recently had multiple quality issues. Project features have been prioritized by the product owner and broken down into user stories. What will you do to help reduce the cost of quality issues the most?",
+      "options": [
+        "A. Quality test each user story according to its acceptance criteria before release",
+        "B. Advise the team that any quality defects will come out of their bonus",
+        "C. Perform testing all in one go at the end to reduce the cost of testing resources",
+        "D. Ensure a triad of developer, tester, and customer is involved during the requirements and design"
+      ],
+      "answer": "D",
+      "explanation": "The cost of defects is least during requirements and design phases, and increases exponentially as the project progresses - 20 times more expensive during build, 50 times during test, and 150 times if a defect reaches production. By involving developers, testers, and customers early in requirements and design, defects are caught at the source, preventing costly rework later. While option A addresses appraisal costs, involving the triad early prevents defects from occurring in the first place, which is the most cost-effective approach to reducing quality issues.",
+      "difficulty": "expert",
+      "topic": "Cost of Quality - Cost of Change and Early Detection",
+      "domain": 2,
+      "source_id": "yt_005",
+      "chunk_index": 58,
+      "video_segment": "9:45:49→9:55:55"
+    }
+  ]
+}

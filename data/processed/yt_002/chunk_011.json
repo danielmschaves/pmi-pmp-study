@@ -1,0 +1,128 @@
+{
+  "source_id": "yt_002",
+  "chunk_index": 11,
+  "start_label": "2:46:17",
+  "end_label": "3:01:24",
+  "mode": "extract",
+  "questions": [
+    {
+      "question": "A project manager is leading a predictive project. After identifying a risk, the project manager decides to transfer it to another party by buying insurance. Which risk response strategy is being used?",
+      "options": [
+        "A. Transfer",
+        "B. Acceptance",
+        "C. Escalation",
+        "D. Avoidance"
+      ],
+      "answer": "A",
+      "explanation": "Buying insurance is one of the most common ways to transfer risk to another party. Acceptance would involve accepting lower profit in case of cost overrun. Escalation would involve asking the sponsor to deal with the risk. Avoidance would involve eliminating the risk through beta testing.",
+      "difficulty": "hard",
+      "topic": "Risk Response Planning",
+      "domain": 2,
+      "source_id": "yt_002",
+      "chunk_index": 11,
+      "video_segment": "2:46:17→3:01:24"
+    },
+    {
+      "question": "Due to a financial crisis, an organization decides to pause all internal projects and define a termination date. A project manager within this organization has a weekly meeting with a subcontractor who provides the majority of the project's physical resources. What type of communication should the project manager use to inform the subcontractor of the contract discontinuation decision?",
+      "options": [
+        "A. Informal written",
+        "B. Formal written",
+        "C. Informal verbal",
+        "D. Formal verbal"
+      ],
+      "answer": "B",
+      "explanation": "When dealing with contracts and complex legal matters such as contract discontinuation, formal written communication is best to ensure all procedures are followed and there is documentation of the decision. Although the project manager has weekly meetings with the subcontractor, verbal communication is not appropriate for such significant decisions.",
+      "difficulty": "hard",
+      "topic": "Stakeholder Communication",
+      "domain": 1,
+      "source_id": "yt_002",
+      "chunk_index": 11,
+      "video_segment": "2:46:17→3:01:24"
+    },
+    {
+      "question": "During a workshop about the agile approach, the project manager stated that each member of the team should be cross-functional and self-organizing. Which statement best describes an agile team?",
+      "options": [
+        "A. Each team member is cross-functional and self-organizing",
+        "B. The agile team should have all the required skills to deliver the product on their own",
+        "C. The agile team should have complimentary skill sets and be able to organize the backlog by themselves",
+        "D. The agile team should self-organize to acquire the necessary skills to be cross-functional"
+      ],
+      "answer": "B",
+      "explanation": "Cross-functional refers to the team as a whole, not individual members. Self-organization refers to the team, not individuals. Option C is incorrect because the team organizes the sprint backlog, not the product backlog—that is the responsibility of the product owner. Option D does not make logical sense as written.",
+      "difficulty": "hard",
+      "topic": "Agile Team Structure",
+      "domain": 2,
+      "source_id": "yt_002",
+      "chunk_index": 11,
+      "video_segment": "2:46:17→3:01:24"
+    },
+    {
+      "question": "Despite creating an agenda and time boxing the meetings, the project manager struggles to engage all attendees. What should the project manager do?",
+      "options": [
+        "A. Make meetings shorter to prevent boredom",
+        "B. Limit the interventions of the most talkative attendees to allow others to participate",
+        "C. Change to remote meetings to make everyone feel more comfortable",
+        "D. Encourage all attendees to participate and share their thoughts by asking for their opinions on the discussed matters"
+      ],
+      "answer": "D",
+      "explanation": "The project manager should directly engage attendees by encouraging them to share ideas and opinions. Option A is already being done through time boxing. Option B only addresses talkative attendees and is not a direct engagement strategy. Option C changes the meeting format unnecessarily, as in-person meetings typically facilitate better engagement. Option D is the most direct and effective approach to ensure all attendees participate.",
+      "difficulty": "hard",
+      "topic": "Meeting Facilitation and Stakeholder Engagement",
+      "domain": 1,
+      "source_id": "yt_002",
+      "chunk_index": 11,
+      "video_segment": "2:46:17→3:01:24"
+    },
+    {
+      "question": "Two agile teams are working on developing the same product. Team A consists of five members and uses two-week sprints, completing all sprint backlog items with a velocity of 50 story points. Team B consists of four members and uses three-week sprints, reaching 70 story points without completing all of the sprint backlog items. Which team has better performance?",
+      "options": [
+        "A. Team A, since they completed all sprint backlog items",
+        "B. Team A, taking into consideration their velocity, they can achieve 57 story points in a 3-week sprint, which is better than what Team B achieved",
+        "C. Team B, since they have a better velocity",
+        "D. Team B, since they achieved more story points with fewer team members"
+      ],
+      "answer": "A",
+      "explanation": "Better performance is measured by fulfilling sprint commitments and completing all planned backlog items, not by velocity. Velocity cannot be used to compare different teams, as each team has its own velocity baseline. The number of story points depends on how each team estimates user stories, so achieving more points does not necessarily indicate better performance. Team A demonstrated better performance by completing their commitment.",
+      "difficulty": "hard",
+      "topic": "Agile Performance Metrics",
+      "domain": 2,
+      "source_id": "yt_002",
+      "chunk_index": 11,
+      "video_segment": "2:46:17→3:01:24"
+    },
+    {
+      "question": "A product owner and team members have different interpretations of a particular user story. To resolve the disagreement, the project manager suggests the creation of personas. What is the most probable reason for creating personas?",
+      "options": [
+        "A. To use it as a wireframe to help clarify project outcomes",
+        "B. To engage stakeholders who don't know much about the project",
+        "C. To help the development team empathize with the users of the solution",
+        "D. To identify and describe real users of the solution"
+      ],
+      "answer": "C",
+      "explanation": "Personas are fictional representations of target users designed to help team members understand and empathize with the end users and their needs. Option A is incorrect because personas do not clarify project outcomes. Option B is incorrect because personas are not an engagement tool. Option D is incorrect because personas are fictional, not real users.",
+      "difficulty": "hard",
+      "topic": "Agile Requirements and User Stories",
+      "domain": 2,
+      "source_id": "yt_002",
+      "chunk_index": 11,
+      "video_segment": "2:46:17→3:01:24"
+    },
+    {
+      "question": "A project manager created a high-level hierarchical list of human and physical resources of a project that consists of creating a bulk SMS platform for marketing campaigns. What does this visual illustration represent?",
+      "options": [
+        "A. A resource calendar",
+        "B. An organization breakdown structure",
+        "C. A resource breakdown structure",
+        "D. A RACI chart"
+      ],
+      "answer": "C",
+      "explanation": "A resource breakdown structure is a hierarchical breakdown of resources, including human resources, equipment, and materials, organized by type or category. A resource calendar tracks when resources are available. An organization breakdown structure shows the organizational hierarchy with roles like CEO and department heads. A RACI chart assigns responsibilities and accountability to team members.",
+      "difficulty": "hard",
+      "topic": "Resource Planning",
+      "domain": 2,
+      "source_id": "yt_002",
+      "chunk_index": 11,
+      "video_segment": "2:46:17→3:01:24"
+    }
+  ]
+}

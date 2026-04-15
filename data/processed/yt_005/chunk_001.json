@@ -1,0 +1,77 @@
+{
+  "source_id": "yt_005",
+  "chunk_index": 1,
+  "start_label": "10:04",
+  "end_label": "20:09",
+  "mode": "extract",
+  "questions": [
+    {
+      "question": "You have discovered that one of your project team members is being paid significantly less than others in similar roles on your project. She is competent and engaged, but you're concerned about fairness and future retention. What should you do?",
+      "options": [
+        "A. Make steps to update her pay to the same range as the others on your project and ask her opinion and advice specifically during each meeting along with others in your team.",
+        "B. Take the lower pay as a win for your project as it will help keep costs low and her colleagues don't need to know.",
+        "C. Ask Jane to write down her knowledge of the industry just in case she leaves.",
+        "D. Let this be, as this is just how people work in this industry and there's no need to rock the boat."
+      ],
+      "answer": "A",
+      "explanation": "This question tests integrity and stewardship principles. The correct answer addresses fair treatment and respectful engagement of project team members including compensation, access to opportunity, and equal treatment. When inequity is discovered by team members, engagement plummets and retention suffers, leading to loss of product knowledge and increased hiring costs. While options B, C, and D might occur in practice, they fail to act fairly as a true leader and manager should. This aligns with PMBOK 7th edition page 25 on being a diligent, respectful, and caring steward.",
+      "difficulty": "expert",
+      "topic": "Integrity and Stewardship; Team Engagement and Fair Treatment",
+      "domain": 1,
+      "source_id": "yt_005",
+      "chunk_index": 1,
+      "video_segment": "10:04→20:09"
+    },
+    {
+      "question": "During one of your work group meetings, a stakeholder raises the concern that the product you're working on will be discontinued in the next five months. You are not aware of this and your project budget has already been approved until the scheduled delivery, which is also in five months. What should you do?",
+      "options": [
+        "A. Keep the project going as it is, as the discontinued product isn't your responsibility.",
+        "B. Set a meeting with your project sponsor to share the information and provide a recommendation to terminate the project.",
+        "C. Change the scope of the project to meet a different product so your project can remain relevant.",
+        "D. Ask for additional funding to see if you can improve the product instead of discontinuing it."
+      ],
+      "answer": "B",
+      "explanation": "This question tests the principle of delivering value and understanding that projects must remain aligned with business needs. If a project is no longer aligned with organizational strategy or unlikely to provide value, it should be terminated rather than continued or pivoted without proper governance. Changing scope mid-project using existing budget (option C) or seeking additional funding (option D) without addressing the fundamental misalignment is poor stewardship. The correct approach is to escalate to the sponsor with a clear recommendation to terminate. This directly supports PMBOK 7th edition page 35 on focusing on value.",
+      "difficulty": "expert",
+      "topic": "Business Value; Project Termination and Governance",
+      "domain": 3,
+      "source_id": "yt_005",
+      "chunk_index": 1,
+      "video_segment": "10:04→20:09"
+    },
+    {
+      "question": "You've collected requirements and are creating a scope statement and work breakdown structure. During this process, you notice some functionality in your database system that will help a different project that you're aware of in your project management office. What should you do next?",
+      "options": [
+        "A. Place the feature in the other project's backlog and ask them to prioritize it as soon as possible.",
+        "B. Raise the functionality in your risk register as a threat with the response to mitigate.",
+        "C. Add the scope to your project and complete it as soon as possible.",
+        "D. Raise the functionality in your risk register as an opportunity with the response to exploit, and meet with the other project's team and sponsor to discuss the opportunity."
+      ],
+      "answer": "D",
+      "explanation": "This question tests systems thinking and opportunity identification. While you've identified a valuable cross-project opportunity, the correct approach is not to unilaterally add it to your scope or assume the other project wants it. Instead, you should recognize this as an opportunity (not a threat) in the risk register and initiate a discussion with the other project's stakeholders to explore exploitation. This demonstrates holistic systems thinking by understanding how project parts interact within the larger organizational system. You cannot simply hand over scope to another project without their agreement and resource assessment. PMBOK 7th edition page 39 addresses responding to system interactions and page 129 covers opportunities.",
+      "difficulty": "expert",
+      "topic": "Systems Thinking; Risk and Opportunity Management; Cross-Project Coordination",
+      "domain": 2,
+      "source_id": "yt_005",
+      "chunk_index": 1,
+      "video_segment": "10:04→20:09"
+    },
+    {
+      "question": "You're working on a high-profile project where several high-ranking senior executives want to take credit for the initiative while limiting the impact to their own resources. This has led to several conflicts and an unclear scope statement, resulting in a risk of project failure. What should you do next?",
+      "options": [
+        "A. Create a scope statement yourself to avoid further conflict.",
+        "B. Facilitate a discussion with the executives as a neutral third party, focusing on agreed project goals.",
+        "C. Limit your project resources to the executives until they can agree on a way forward.",
+        "D. Escalate the issue to the project steering committee."
+      ],
+      "answer": "B",
+      "explanation": "This question tests conflict resolution and stakeholder engagement skills. Creating a scope statement unilaterally (option A) risks lack of buy-in and customer acceptance issues. Limiting resources (option C) wastes project funds without solving the underlying problem. While escalation (option D) might eventually be necessary, the first appropriate step is for the project manager to act as a neutral facilitator and guide executives toward agreement on project goals and resource commitments. This demonstrates the facilitation role emphasized in PMBOK 7th edition and reflects modern agile-influenced project leadership focusing on collaborative problem-solving rather than unilateral decision-making.",
+      "difficulty": "expert",
+      "topic": "Stakeholder Engagement; Conflict Resolution; Facilitation",
+      "domain": 1,
+      "source_id": "yt_005",
+      "chunk_index": 1,
+      "video_segment": "10:04→20:09"
+    }
+  ]
+}

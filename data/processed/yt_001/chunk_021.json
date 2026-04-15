@@ -1,0 +1,145 @@
+{
+  "source_id": "yt_001",
+  "chunk_index": 21,
+  "start_label": "5:17:03",
+  "end_label": "5:32:08",
+  "mode": "extract",
+  "questions": [
+    {
+      "question": "Following a critical review session of a healthcare software project, a project manager notes that the output of one software engineer is not up to the project standards. What is the most appropriate form of communication for the project manager to utilize in addressing the software engineer's performance concerns?",
+      "options": [
+        "A. Send a group email highlighting the importance of meeting project standards without naming individuals",
+        "B. Schedule a one-on-one meeting to discuss the performance issues and development plan",
+        "C. Issue a formal performance improvement plan through the company's HR system",
+        "D. Initiate a team-wide meeting to discuss project standards and individual contributions collectively"
+      ],
+      "answer": "B",
+      "explanation": "When dealing with a performance issue affecting one individual team member, the appropriate approach is a private one-on-one meeting rather than group communication. This avoids embarrassment, allows for candid discussion, and enables the project manager to work collaboratively with the team member on a development plan. Public communication or group settings can damage the team member's reputation and create unnecessary tension within the team.",
+      "difficulty": "expert",
+      "topic": "Conflict Resolution and Team Communication",
+      "domain": 1,
+      "source_id": "yt_001",
+      "chunk_index": 21,
+      "video_segment": "5:17:03→5:32:08"
+    },
+    {
+      "question": "A leader in a software development agile project for a multinational corporation faces the challenge of managing a team spread across multiple time zones. The project manager has previously encountered issues with such teams regarding inconsistent work quality and missed deadlines. What action should the project manager take to ensure high quality deliverables and adherence to the timeline?",
+      "options": [
+        "A. Initiate frequent virtual stand-ups to clarify project goals, synchronize team efforts, and address any issues",
+        "B. Develop a comprehensive training program on time management and productivity tools",
+        "C. Distribute a detailed weekly template for members to fill out summarizing their progress",
+        "D. Organize a quarterly in-person meetup for team building and detailed project reviews"
+      ],
+      "answer": "A",
+      "explanation": "In an agile project, frequent daily stand-up meetings are a core practice that ensures alignment across distributed teams. Stand-ups clarify goals, synchronize efforts, and allow issues to be addressed immediately. While training, templates, and quarterly meetings have value, they are less effective for addressing the immediate coordination needs of a distributed agile team compared to frequent synchronous communication through stand-ups.",
+      "difficulty": "expert",
+      "topic": "Agile Team Management and Communication",
+      "domain": 1,
+      "source_id": "yt_001",
+      "chunk_index": 21,
+      "video_segment": "5:17:03→5:32:08"
+    },
+    {
+      "question": "A project manager is tasked with launching a new drug product which requires adherence to strict health and safety regulations. It is critical for the launch to comply with these regulations to avoid penalties and ensure public safety. What should the project manager do next to guarantee compliance with these regulations?",
+      "options": [
+        "A. Arrange for regular training sessions on regulatory compliance with the team",
+        "B. Assess and document the potential compliance risks related to health and safety",
+        "C. Implement a quality control system to continuously monitor the product against safety standards",
+        "D. Organize a consultation with legal experts specialized in regulations to review project alignment"
+      ],
+      "answer": "B",
+      "explanation": "The first step in ensuring compliance with critical regulations is to identify and document all potential risks and gaps. Once risks are assessed and documented, the project manager can understand how they affect the schedule, budget, scope, and public safety, and develop appropriate mitigation strategies. Training, quality control implementation, and legal consultation are important follow-up steps, but risk assessment must happen first to inform all subsequent planning and decisions.",
+      "difficulty": "expert",
+      "topic": "Risk Management and Compliance",
+      "domain": 2,
+      "source_id": "yt_001",
+      "chunk_index": 21,
+      "video_segment": "5:17:03→5:32:08"
+    },
+    {
+      "question": "During the critical testing phase of an enterprise software upgrade, the project manager identifies that testing is significantly behind schedule, posing a risk to the planned go-live date. What should the project manager do first?",
+      "options": [
+        "A. Escalate to the company's executive management",
+        "B. Conduct a detailed session with the team to pinpoint causes for the delay",
+        "C. Seek additional funding to contract external testing services to catch up",
+        "D. Implement overtime hours for the testing team"
+      ],
+      "answer": "B",
+      "explanation": "Before taking any corrective action, the project manager must first understand the root cause of the delay. Conducting a detailed session with the team to pinpoint causes allows for informed decision-making. Escalating prematurely to executive management is inappropriate; overtime can reduce quality and productivity; and seeking additional funding without understanding the problem is premature. Diagnosis must precede treatment.",
+      "difficulty": "expert",
+      "topic": "Schedule Management and Problem Analysis",
+      "domain": 2,
+      "source_id": "yt_001",
+      "chunk_index": 21,
+      "video_segment": "5:17:03→5:32:08"
+    },
+    {
+      "question": "During a critical software implementation project, the project manager identifies a significant slowdown in the integration phase attributed to the team's unfamiliarity with the new software's API. This issue threatens to delay project milestones. What should the project manager do first to address the team's skill gap without raising the budget?",
+      "options": [
+        "A. Initiate a collaborative problem-solving meeting to identify alternative integration strategies or solutions",
+        "B. Delegate the integration task to more experienced team members within the organization, reducing the learning curve",
+        "C. Invest in a fast-track external training program specifically focused on the new software's API",
+        "D. Hire an external consultant with expertise in the software to lead the integration phase and train the team"
+      ],
+      "answer": "A",
+      "explanation": "The question explicitly constrains the solution by stating 'without raising the budget.' Options C and D would increase costs. Option B delegates the work away, which doesn't build team capability and may not be sustainable. Option A is the best approach as it engages the team in collaborative problem-solving to identify alternative integration strategies that work within budget constraints. This maintains budget control while addressing the schedule risk.",
+      "difficulty": "expert",
+      "topic": "Resource Management and Problem-Solving",
+      "domain": 2,
+      "source_id": "yt_001",
+      "chunk_index": 21,
+      "video_segment": "5:17:03→5:32:08"
+    },
+    {
+      "question": "During the planning of a new development project, a recently enacted zoning law changes the permissible building heights within the project's area. The project team has been informed of this change. What is the most effective course of action for the project manager to take?",
+      "options": [
+        "A. Proceed with planning until the legal department informs you to update the plan",
+        "B. Update the project documentation to reflect the change in zonal laws' impact on the scope",
+        "C. Schedule a meeting with local government officials to seek exceptions for the current project",
+        "D. Consult with legal counsel to understand the implementation of the zoning law change on the project"
+      ],
+      "answer": "B",
+      "explanation": "Since a law has been enacted, it is mandatory to comply with it regardless of project impact. The project manager cannot proceed with the existing plan, seek exceptions from laws, or wait for notification from legal. The zoning law is now a constraint that must be incorporated into project documentation immediately. Legal consultation (option D) is a supporting action, but the primary action is to update project scope and documentation to reflect the mandatory compliance requirement. Laws supersede project preferences.",
+      "difficulty": "expert",
+      "topic": "Scope Management and Compliance",
+      "domain": 3,
+      "source_id": "yt_001",
+      "chunk_index": 21,
+      "video_segment": "5:17:03→5:32:08"
+    },
+    {
+      "question": "Late in the stages of a marketing campaign project, it is identified that a critical piece of content is not ready because a team member fell behind schedule. This issue came to light during a presentation to the marketing department, causing concern about meeting the launch date. What action should the project manager do first?",
+      "options": [
+        "A. Have a confidential discussion with the team member to understand the reasons for the delay and explore solutions together",
+        "B. Delegate the unfinished task to another team member who has the capacity to expedite completion",
+        "C. Organize a session for the team to collaboratively brainstorm ways to expedite the remaining work",
+        "D. Seek advice from a senior manager on how to handle the team member's delay in task completion"
+      ],
+      "answer": "A",
+      "explanation": "When one team member is causing a delay or performance issue, the appropriate first step is a confidential, private discussion to understand the root cause and work collaboratively on solutions. This preserves the team member's dignity, may reveal obstacles the manager can help remove, and demonstrates supportive leadership. Delegating the task without discussion bypasses the real issue; involving the whole team publicly may embarrass the individual; and involving senior management is not the project manager's role—the PM is responsible for managing project issues directly.",
+      "difficulty": "expert",
+      "topic": "Team Leadership and Performance Management",
+      "domain": 1,
+      "source_id": "yt_001",
+      "chunk_index": 21,
+      "video_segment": "5:17:03→5:32:08"
+    },
+    {
+      "question": "The project manager for a renewable energy initiative receives a suggestion from an environmental consultant to incorporate a new technology that can improve project outcomes but also extend the timelines and increase costs. What should you do first?",
+      "options": [
+        "A. Forward the suggestion to the project's change control board (CCB) for approval",
+        "B. Arrange a project team meeting to discuss the feasibility and implications of integrating the new technology",
+        "C. Consult with industry experts to gauge the potential benefits and drawbacks",
+        "D. Conduct a preliminary risk analysis to understand how the new technology might affect the project risk"
+      ],
+      "answer": "B",
+      "explanation": "Before forwarding a suggestion to the change control board or conducting formal risk analysis, the project manager should first convene the project team to discuss feasibility and implications. This allows the team to evaluate whether the technology aligns with project objectives, what the actual impacts would be, and whether it merits formal change request consideration. Team input informs better decision-making and ensures buy-in. Jumping directly to CCB submission or external consultation skips the internal evaluation necessary for informed governance.",
+      "difficulty": "expert",
+      "topic": "Change Management and Stakeholder Engagement",
+      "domain": 2,
+      "source_id": "yt_001",
+      "chunk_index": 21,
+      "video_segment": "5:17:03→5:32:08"
+    }
+  ]
+}

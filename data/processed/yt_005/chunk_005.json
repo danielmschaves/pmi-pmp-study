@@ -1,0 +1,60 @@
+{
+  "source_id": "yt_005",
+  "chunk_index": 5,
+  "start_label": "50:25",
+  "end_label": "1:00:29",
+  "mode": "extract",
+  "questions": [
+    {
+      "question": "Your stakeholders seem to be engaged; however, there are frequent changes to scope and requirements causing delays. Issues are often raised and result in multiple rounds of feedback. You're not sure who or what could be the cause. What will you do next?",
+      "options": [
+        "A. Perform root cause analysis with your project team on the problem to brainstorm ideas",
+        "B. Raise a risk in the risk register for the project delay and review responses with your team",
+        "C. Review the issue log, the risk register, and the change log for the most frequent requesters, then update your stakeholder engagement approach for those people",
+        "D. Ensure your project budget has enough contingency reserves to meet the multiple reviews and delays"
+      ],
+      "answer": "C",
+      "explanation": "A significant number of changes or modifications to project requirements or scope may indicate stakeholders are not engaged or aligned with project objectives. Reviewing the issue log, risk register, and change log can identify which individual stakeholders are requesting changes most frequently. Once identified, updating the stakeholder engagement approach for those specific people allows for more frequent communication and two-way feedback, potentially addressing underlying concerns and reducing unnecessary changes. While root cause analysis is useful, it does not directly address the stakeholder engagement piece. Raising a risk and adding contingency reserves are reactive measures that don't solve the root cause of misalignment.",
+      "difficulty": "expert",
+      "topic": "Stakeholder Engagement and Management",
+      "domain": 1,
+      "source_id": "yt_005",
+      "chunk_index": 5,
+      "video_segment": "50:25→1:00:29"
+    },
+    {
+      "question": "You've been working on a project where the manager leads in a dictatorship style. Over time, the team have stopped making suggestions, sick days and mental health days have become more frequent, and the pace of work has slowed. The manager comes to you for help. You suggest a servant leadership style instead. What will they do next?",
+      "options": [
+        "A. Serve the team as much as they can, ensuring their every need is met",
+        "B. Focus on obstacle removal, encouragement, and development opportunities",
+        "C. Ensure the team is serving other team members and helping each other succeed",
+        "D. Serve the team in new ways to do the work and engage them through additional variety"
+      ],
+      "answer": "B",
+      "explanation": "Servant leaders allow project teams to self-organize when possible and increase levels of autonomy by passing appropriate decision-making opportunities to project team members. Servant leadership behaviors include obstacle removal (acting as a division shield and removing blockers), encouragement, and development opportunities (helping team members grow and progress in their careers). While option A sounds caring, servant leaders don't focus on meeting every need; team members must also take responsibility. Option C describes good teamwork but not servant leadership specifically. Option D has the right keywords but doesn't accurately capture the core of servant leadership.",
+      "difficulty": "expert",
+      "topic": "Servant Leadership and Team Development",
+      "domain": 1,
+      "source_id": "yt_005",
+      "chunk_index": 5,
+      "video_segment": "50:25→1:00:29"
+    },
+    {
+      "question": "You have been allocated to a new project team with members from different parts of the functional business area. It soon becomes clear that very few of them have worked on a project before. There is a lot of miscommunication and rework occurring amongst the team, which is starting to cause delays. What will you do next?",
+      "options": [
+        "A. Set a daily stand-up with your team to ensure they update what they completed",
+        "B. Review the resource assignment matrix with your team to ensure they are doing their job",
+        "C. Help the team set their vision and objectives, roles and responsibilities",
+        "D. Send your team members on training in their roles to increase their capability"
+      ],
+      "answer": "C",
+      "explanation": "When project teams form across different organizations or functional areas, more work may be required upfront to establish a one-team mindset and ensure everyone understands how they contribute to the project. Team development, such as establishing a vision, clear roles and responsibilities, and a way of working (typically documented in a team charter), is key to reducing miscommunication and rework. While daily stand-ups, resource reviews, and training are useful practices, they are secondary to first establishing clarity on vision, objectives, roles, and responsibilities. Without this foundational clarity, other interventions will be less effective.",
+      "difficulty": "expert",
+      "topic": "Team Formation and Development",
+      "domain": 1,
+      "source_id": "yt_005",
+      "chunk_index": 5,
+      "video_segment": "50:25→1:00:29"
+    }
+  ]
+}

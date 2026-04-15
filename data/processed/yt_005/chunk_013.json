@@ -1,0 +1,77 @@
+{
+  "source_id": "yt_005",
+  "chunk_index": 13,
+  "start_label": "2:11:13",
+  "end_label": "2:21:16",
+  "mode": "extract",
+  "questions": [
+    {
+      "question": "You are in the planning stages of an agile project where the functional manager and senior users have provided the high-level requirements and scope. You have been asked to put together a project team that will be able to deliver quickly. What will you do next?",
+      "options": [
+        "A. Select project team members from each city to ensure diversity of knowledge within the team",
+        "B. Put together a resource management plan outlining the resources required",
+        "C. Ask your PMO for current available resources and assign them to the work",
+        "D. Select a small team that can work in the same area so they can solve problems as they arise"
+      ],
+      "answer": "D",
+      "explanation": "Small agile teams working in the same location benefit from osmotic communication and can solve problems quickly as they arise. Co-location reduces communication channels exponentially compared to distributed teams. While diversity and resource planning are important, the ability to work closely together in one area is critical for agile delivery.",
+      "difficulty": "expert",
+      "topic": "Agile Team Composition and Co-location",
+      "domain": 1,
+      "source_id": "yt_005",
+      "chunk_index": 13,
+      "video_segment": "2:11:13→2:21:16"
+    },
+    {
+      "question": "You are putting together a project team to deliver an accounting system to offices around the country. The accounting system you are moving to has not been used by anyone in your organization before. The project is quite high risk and the delivery needs to be right the first time. What will you do next?",
+      "options": [
+        "A. Select a small team that can work in the same area so they can solve problems as they arise",
+        "B. Use a predictive project approach and source part of your team externally",
+        "C. Train existing internal staff in the new system and then have them work on the project",
+        "D. Perform a make or buy analysis on the different software options"
+      ],
+      "answer": "B",
+      "explanation": "With high risk and a single delivery requirement, a predictive or waterfall approach is most appropriate. Since the new system has not been used internally before, sourcing external expertise in that system is critical to success. External skills help mitigate the high-risk nature of the project, even though this comes with associated costs.",
+      "difficulty": "expert",
+      "topic": "Team Composition and Project Delivery Approach Selection",
+      "domain": 1,
+      "source_id": "yt_005",
+      "chunk_index": 13,
+      "video_segment": "2:11:13→2:21:16"
+    },
+    {
+      "question": "You are putting together a project plan for a change that affects nearly 10,000 stakeholders in your organization. You have identified the affected stakeholders, analyzed and prioritized them, and are putting together a communication plan to ensure that the right engagement is made. What will you not include in your plan?",
+      "options": [
+        "A. Why should information be shared with stakeholders",
+        "B. When and how often is information needed",
+        "C. How can they make changes to the communication plan",
+        "D. What is the best way to provide the information"
+      ],
+      "answer": "C",
+      "explanation": "A communication plan includes who needs information, why it should be shared, when and how often it is needed, what information each stakeholder needs, and the best way to provide it. However, the communication plan does not include how stakeholders can make changes to the plan itself—that is outside the scope of the communication planning process.",
+      "difficulty": "expert",
+      "topic": "Stakeholder Communication Planning",
+      "domain": 1,
+      "source_id": "yt_005",
+      "chunk_index": 13,
+      "video_segment": "2:11:13→2:21:16"
+    },
+    {
+      "question": "You put together a resource plan for a large amount of physical inventory to be purchased from overseas. You ordered the inventory during project execution; however, global supply chains were impacted and the shipment was delayed by three months, significantly impacting your project. What should you have done differently?",
+      "options": [
+        "A. Hired a resource manager to take care of the resource tasks on your project",
+        "B. Planned strategically about the timing from order to delivery to usage",
+        "C. Managed resource risks and their responses",
+        "D. Performed a detailed procurement audit before ordering"
+      ],
+      "answer": "B",
+      "explanation": "The delay occurred because strategic planning about timing—from order to delivery to usage—was not done early enough. This is a resource planning issue that should have been addressed during planning, not execution. While risk management (option C) could have identified supply chain delays as a potential risk, the core issue was failure to plan the timing strategically during the planning phase rather than waiting until execution.",
+      "difficulty": "expert",
+      "topic": "Resource Planning and Supply Chain Timing",
+      "domain": 2,
+      "source_id": "yt_005",
+      "chunk_index": 13,
+      "video_segment": "2:11:13→2:21:16"
+    }
+  ]
+}

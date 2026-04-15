@@ -1,0 +1,128 @@
+{
+  "source_id": "yt_001",
+  "chunk_index": 17,
+  "start_label": "4:16:39",
+  "end_label": "4:31:45",
+  "mode": "extract",
+  "questions": [
+    {
+      "question": "A team member has been reporting no progress on a critical task for several days during the daily standup meetings, causing a potential delay in the project timeline. This task is critical for the next phase of the project. What should the PM do to facilitate progress?",
+      "options": [
+        "A. Organize a brainstorming session with the team to find alternative solutions to complete the task",
+        "B. Initiate a risk assessment meeting to evaluate the impact of the delay",
+        "C. Schedule a 1-on-1 meeting with the team member to identify any obstacles",
+        "D. Encourage the team member to provide detailed reports"
+      ],
+      "answer": "C",
+      "explanation": "When there is a problem with a particular team member, the best approach is to meet with that individual privately first to understand the obstacles they are facing. You should not involve the entire team for an individual's problem. While encouraging detailed reports (D) might be a follow-up step, you first need to schedule a meeting to identify what is actually going on.",
+      "difficulty": "expert",
+      "topic": "Team Management and Problem Solving",
+      "domain": 1,
+      "source_id": "yt_001",
+      "chunk_index": 17,
+      "video_segment": "4:16:39→4:31:45"
+    },
+    {
+      "question": "For an upcoming critical initiative, a project manager must engage a vendor notorious for not meeting deadlines yet uniquely skilled for the project requirements. What approach should the project manager consider during project planning?",
+      "options": [
+        "A. Initiate a collaborative effort with the vendor to streamline workflow and reduce potential delays",
+        "B. Develop a contingency plan that involves parallel work streams with similar expertise",
+        "C. Set penalty clauses for delays in the vendor agreement",
+        "D. Propose a performance-based payment schedule to motivate timely deliveries without extra costs"
+      ],
+      "answer": "A",
+      "explanation": "The best approach is to work collaboratively with the vendor first to understand why they have a history of delays and to develop strategies together to reduce potential delays. While penalty clauses (C) might be part of a contract, they should not be the first approach. A contingency plan with parallel work (B) should come after you have attempted to work with the vendor. Performance-based payment (D) is a secondary incentive that could follow collaborative planning.",
+      "difficulty": "expert",
+      "topic": "Vendor Management and Procurement Planning",
+      "domain": 2,
+      "source_id": "yt_001",
+      "chunk_index": 17,
+      "video_segment": "4:16:39→4:31:45"
+    },
+    {
+      "question": "Upon discovering a critical design issue in a software development project, stakeholders are uncertain about proceeding with the implementation as planned. What is the most effective step for the project manager to take to address the concerns?",
+      "options": [
+        "A. Recommend a comprehensive overhaul of the design",
+        "B. Update the project quality assurance procedures to incorporate this new discovery",
+        "C. Initiate a thorough risk evaluation to ascertain the flaws' potential impacts on the project deliverables",
+        "D. Propose the introduction of additional project phases to rectify the identified design issue"
+      ],
+      "answer": "C",
+      "explanation": "When stakeholders are uncertain about a discovered issue, the first step is to perform a thorough risk assessment and evaluation to understand the potential impacts. Before recommending an overhaul (A), updating procedures (B), or adding phases (D), you must identify and assess the risk. Remember that uncertainty itself is a risk, and the process is to identify the risk, assess its impact, and then develop mitigation strategies.",
+      "difficulty": "expert",
+      "topic": "Risk Management and Assessment",
+      "domain": 2,
+      "source_id": "yt_001",
+      "chunk_index": 17,
+      "video_segment": "4:16:39→4:31:45"
+    },
+    {
+      "question": "In a hybrid project environment, stakeholders are experiencing challenges in assessing the most recent version of the project schedule in the project's online document management system. What proactive measure should the project manager take?",
+      "options": [
+        "A. Implement an iterative tutorial with the document management system to guide stakeholders through the navigation",
+        "B. Ensure all stakeholders are trained on how to use the document management system and the location of critical documents",
+        "C. Develop a feedback mechanism within the document management for stakeholders to report accessibility issues",
+        "D. Create a dedicated helpline for stakeholders to call in or receive guidance in accessing the project documents"
+      ],
+      "answer": "B",
+      "explanation": "The key word here is 'proactive measure,' which means preventing the problem before it occurs. The best approach is to train all stakeholders upfront on how to use the system and where to find critical documents. This prevents problems from happening in the first place. While an interactive tutorial (A) and a feedback mechanism (C) could be supportive, they are reactive. A helpline (D) is also reactive since stakeholders would already be experiencing problems. Training is the proactive measure that ensures stakeholders have the knowledge needed to access information independently.",
+      "difficulty": "expert",
+      "topic": "Stakeholder Communication and Training",
+      "domain": 3,
+      "source_id": "yt_001",
+      "chunk_index": 17,
+      "video_segment": "4:16:39→4:31:45"
+    },
+    {
+      "question": "In the midst of a software development project, the project manager notices that the software features are not aligned with the client's requirements. This misalignment has caused the project schedule to slip, moving the schedule performance index (SPI) from 1.05 to 0.85 and the CPI from 1.2 to 0.95. What is the most effective course of action for the project manager to ensure the project meets its deadline and quality requirements in the future?",
+      "options": [
+        "A. Implement a code review process to identify and address defects before they progress to the testing phase",
+        "B. Enhance communication with stakeholders to refine project requirements and expectations",
+        "C. Implement an automated testing tool to increase efficiency",
+        "D. Revisit and adjust the project schedule to better align with project realities and client needs"
+      ],
+      "answer": "B",
+      "explanation": "The root cause of the problem is that software features are not aligned with client requirements, not schedule or budget issues. While the SPI and CPI numbers show schedule and cost problems, these are symptoms of the misalignment. Code review (A) addresses defects, automated testing (C) addresses efficiency, and schedule adjustment (D) treats the symptom rather than the cause. The most effective solution is to enhance communication with stakeholders and refine the project requirements and expectations to achieve true alignment before continuing development.",
+      "difficulty": "expert",
+      "topic": "Requirements Management and Stakeholder Communication",
+      "domain": 2,
+      "source_id": "yt_001",
+      "chunk_index": 17,
+      "video_segment": "4:16:39→4:31:45"
+    },
+    {
+      "question": "A project manager is overseeing the development of a new urban park. During the project, a dispute arises between the landscape designer and the environmental consultant over the choice of plant species, with each advocating for different selections based on ecological impact. What is the most effective course of action for the project manager so that the project's ecological and design goals are both met?",
+      "options": [
+        "A. Organize a collaborative session between both parties to integrate the ecological concerns with design aesthetics",
+        "B. Solicit input from the local community to determine their preference and guide the decision",
+        "C. Implement a trial period for both selections to evaluate their performance in the park's environment",
+        "D. Rely on external research findings to make decisions based on best practices"
+      ],
+      "answer": "A",
+      "explanation": "When there is a conflict between two team members or experts, the most effective approach is to bring them together in a collaborative session to work toward an integrated solution that meets both ecological and design objectives. Soliciting community input (B) involves a third party when the primary issue is between the two professionals. A trial period (C) avoids resolving the conflict and delays decision-making. External research (D) circumvents the expertise of both parties and does not leverage their knowledge. Collaborative problem-solving allows both perspectives to inform a better overall solution.",
+      "difficulty": "expert",
+      "topic": "Conflict Resolution and Stakeholder Integration",
+      "domain": 1,
+      "source_id": "yt_001",
+      "chunk_index": 17,
+      "video_segment": "4:16:39→4:31:45"
+    },
+    {
+      "question": "In the process of deploying a new customer relationship management system, the project manager realizes that the updates provided to the sales department head are perceived as lacking specifics on user adaptation rates and feedback. What should the project manager do to ensure the sales department head receives the necessary information to gauge project success?",
+      "options": [
+        "A. Tailor the project updates to include detailed metrics on user adaptation rates and specific feedback from users",
+        "B. Implement an interactive dashboard that allows the sales department head to access real-time data",
+        "C. Organize bi-weekly review sessions to verbally communicate user adaptation metrics and feedback",
+        "D. Distribute a monthly comprehensive report covering all aspects of the CRM deployment, including user adaptation"
+      ],
+      "answer": "A",
+      "explanation": "The core issue is that the stakeholder's communication needs are not being met. The project manager should tailor communications to match the stakeholder's specific information needs and communication preferences. This is a key principle from the Identify Stakeholders and Communication Management Plan processes. While a dashboard (B), bi-weekly sessions (C), and monthly reports (D) could all be valuable, the fundamental solution is to tailor the updates to include the specific metrics and feedback the stakeholder needs. This directly addresses the gap in current communications.",
+      "difficulty": "expert",
+      "topic": "Stakeholder Communication and Engagement",
+      "domain": 1,
+      "source_id": "yt_001",
+      "chunk_index": 17,
+      "video_segment": "4:16:39→4:31:45"
+    }
+  ]
+}

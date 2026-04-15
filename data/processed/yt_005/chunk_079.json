@@ -1,0 +1,77 @@
+{
+  "source_id": "yt_005",
+  "chunk_index": 79,
+  "start_label": "13:18:04",
+  "end_label": "13:28:12",
+  "mode": "extract",
+  "questions": [
+    {
+      "question": "The features developed by your agile team have added some complexity to your website delivered quickly with no time to refactor the code. It's a bit messy code and hasn't been cleaned up. You believe the user stories are moving slower now as a result, but you can't be sure. What will you do next?",
+      "options": [
+        "A. Review the cycle time chart",
+        "B. Shadow the developers to overview the work they are doing",
+        "C. View the product roadmap for proposed release dates",
+        "D. Review the points in the Sprint backlog versus the last three Sprints velocity"
+      ],
+      "answer": "A",
+      "explanation": "A cycle time chart shows the average cycle time of work items completed over time and can be displayed as a scatter diagram or bar chart. This directly measures how long individual user stories take to complete, allowing you to see if stories are indeed moving slower. Lead time measures from initial backlog entry to delivery, while velocity measures team capacity across entire Sprints rather than individual story performance. Shadowing developers and viewing the product roadmap do not provide quantitative metrics to confirm whether stories are moving slower.",
+      "difficulty": "expert",
+      "topic": "Agile Metrics and Artifacts (Cycle Time Chart)",
+      "domain": 2,
+      "source_id": "yt_005",
+      "chunk_index": 79,
+      "video_segment": "13:18:04→13:28:12"
+    },
+    {
+      "question": "You are working on an agile project with a full product roadmap for the next 6 months. Your project team is not sure what the next feature does or how they should turn it into user stories. What will you do next?",
+      "options": [
+        "A. Review the scope baseline",
+        "B. Perform story mapping with your team",
+        "C. Perform sprint planning with your team",
+        "D. Perform a retrospective with your team"
+      ],
+      "answer": "B",
+      "explanation": "Story mapping is a visual model that breaks down features into user stories based on functionality, giving the team a holistic view of what they are building and why. It directly addresses the need to understand what a feature does and how to decompose it into deliverable user stories. The scope baseline is not typically used on agile projects. Sprint planning requires user stories to already exist. Retrospectives occur after Sprints to address what went well and what did not, but they do not help decompose upcoming features into user stories.",
+      "difficulty": "expert",
+      "topic": "Agile Artifacts (Story Mapping)",
+      "domain": 2,
+      "source_id": "yt_005",
+      "chunk_index": 79,
+      "video_segment": "13:18:04→13:28:12"
+    },
+    {
+      "question": "You are a program manager on a large-scale agile program where each project team has its own Scrum Master. You need to know the rate at which work is flowing through each team so you can see if there are any blockers or issues and whether they will remain on track. What will you do next?",
+      "options": [
+        "A. Raise your query at Scrum of Scrums",
+        "B. Attend the Sprint review of each team at the end of each Sprint",
+        "C. Review the schedule management plan for managing the schedule",
+        "D. Review the team velocity charts"
+      ],
+      "answer": "D",
+      "explanation": "The velocity chart tracks the rate at which deliverables are produced, validated, and accepted within a predefined interval like a Sprint. It shows what was committed versus what was completed for each team over time, directly revealing the work flow rate and identifying trends that indicate blockers or performance issues. The Scrum of Scrums is a coordination meeting but may not provide detailed rate metrics. Sprint reviews demonstrate completed work but do not focus on the rate of flow. The schedule management plan is a process document, not a performance metric.",
+      "difficulty": "expert",
+      "topic": "Agile Metrics (Velocity Chart)",
+      "domain": 2,
+      "source_id": "yt_005",
+      "chunk_index": 79,
+      "video_segment": "13:18:04→13:28:12"
+    },
+    {
+      "question": "Your project has been executing for the past 5 months and due to an organizational change a new project sponsor has come on board. He asks where the project is up to and whether it is on track. You tell him but he wants more information. What will you do next?",
+      "options": [
+        "A. Show him the signed project charter",
+        "B. Show him the project management plan including the schedule management plan",
+        "C. Review the status report and previous status reports with the sponsor",
+        "D. Invite him to the next Sprint review so he can see the progress made"
+      ],
+      "answer": "C",
+      "explanation": "The status report provides current project status and may include information on progress since the last report and forecasts for cost and schedule performance. Reviewing current and previous status reports allows the new sponsor to see project tracking, variance information, and trends over time (often using RAG status—red, amber, green). The project charter addresses the initial agreement but is backward-looking. The project management plan contains process information but is not focused on current performance status. Sprint reviews show incremental progress but do not provide comprehensive historical tracking and forecasting needed for a new sponsor to understand overall project health.",
+      "difficulty": "expert",
+      "topic": "Project Monitoring and Controlling (Status Reports)",
+      "domain": 2,
+      "source_id": "yt_005",
+      "chunk_index": 79,
+      "video_segment": "13:18:04→13:28:12"
+    }
+  ]
+}

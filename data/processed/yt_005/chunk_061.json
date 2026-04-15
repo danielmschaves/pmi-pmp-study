@@ -1,0 +1,77 @@
+{
+  "source_id": "yt_005",
+  "chunk_index": 61,
+  "start_label": "10:16:06",
+  "end_label": "10:26:10",
+  "mode": "extract",
+  "questions": [
+    {
+      "question": "You are working on an agile project where leaders are spending a considerable amount of time in meetings to stay informed about progress, which reduces time spent on creating the actual product. What will you do next?",
+      "options": [
+        "A. Ask your project sponsor to wait until a steering committee meeting for the information",
+        "B. Suggest the leaders come to the Sprint review and gather information from the information radiator",
+        "C. Share your working project schedule and budget with the executives instead of creating reports",
+        "D. Demonstrate to the customer that you have visible charts and information radiators"
+      ],
+      "answer": "B",
+      "explanation": "Information radiators (Big Visible Charts) allow stakeholders to pull information anytime without formal meetings. The Sprint review demonstrates actual completed work. This approach is more live and transparent than sharing static reports, and it eliminates the need for frequent status meetings that add non-value-added work.",
+      "difficulty": "expert",
+      "topic": "Agile Communication and Information Radiators",
+      "domain": 2,
+      "source_id": "yt_005",
+      "chunk_index": 61,
+      "video_segment": "10:16:06→10:26:10"
+    },
+    {
+      "question": "You are working on a project that has planned as much as they can up front, and you would like the team to move to a more agile way of working. Currently the work is hidden, the team catches up only once a week in a working group, and it is hard to see what each person is working on. What will you do next?",
+      "options": [
+        "A. Ask your team to report on their work in a written status update each day so you can keep track",
+        "B. Have more working group meetings so you are always up to date on what the team is working on",
+        "C. Ask the team to move their work to a central visible task board like a Kanban board and have a short meeting each day to discuss progress on their cards like a standup meeting",
+        "D. Remove the team meetings altogether and trust your team to get the work done"
+      ],
+      "answer": "C",
+      "explanation": "A Kanban board with daily standups creates visibility and transparency while reducing non-value-added work. Standups are short (15 minutes) and focused on removing blockers and ensuring the team has what they need. This is better than daily written updates (which is non-value-added work), more frequent meetings, or removing communication entirely.",
+      "difficulty": "expert",
+      "topic": "Agile Ceremonies and Visual Controls (Kanban Board)",
+      "domain": 2,
+      "source_id": "yt_005",
+      "chunk_index": 61,
+      "video_segment": "10:16:06→10:26:10"
+    },
+    {
+      "question": "You are working on a hybrid project where the majority of the work has been planned up front, the team manages their work via a Kanban board and reports on progress and blockers each day. As the project evolves, stakeholders have added more and more scope to the product, with one executive raising an urgent feature that needs to be added. What will you do next?",
+      "options": [
+        "A. Limit the number of cards in the ready or to-do column and ask the product owner to work with stakeholder requests, noting the need to swap the new item for an existing item",
+        "B. Match the number of user stories to the team's velocity to ensure a sustainable pace",
+        "C. Work with the stakeholder to raise a change request and note the outcome in a change log",
+        "D. Review the impact of the scope change with the stakeholder using the work breakdown structure dictionary"
+      ],
+      "answer": "A",
+      "explanation": "In a hybrid Kanban environment, work-in-progress limits and prioritization control scope creep. The product owner must help stakeholders understand that adding new features means deprioritizing existing items. This maintains sustainable pace and ensures the team works on the highest-value items. A change log is less appropriate for agile scope management, and the WBS dictionary is not used for impact reviews.",
+      "difficulty": "expert",
+      "topic": "Scope Management in Hybrid/Agile Projects",
+      "domain": 2,
+      "source_id": "yt_005",
+      "chunk_index": 61,
+      "video_segment": "10:16:06→10:26:10"
+    },
+    {
+      "question": "You are working as a product owner in an agile team where the main measure of project success is the number of features delivered into production. Over the past 6 months, the team has delivered the highest number of features your organization has ever seen. However, customers are now starting to complain about issues and bugs in the product. What will you do next?",
+      "options": [
+        "A. Ask the team to work harder to deliver more features and fix product issues",
+        "B. Adjust the product metrics to include customer satisfaction and quality measures alongside feature delivery",
+        "C. Add a slack card of 5 points in the Sprint backlog to deal with technical debt",
+        "D. Review the product roadmap and reduce the number of planned features"
+      ],
+      "answer": "B",
+      "explanation": "Adjusting success metrics to include quality and customer satisfaction will change team behavior and priorities. What gets measured gets managed; by expanding metrics to include quality measures, the team will naturally balance feature velocity with product quality. While technical debt management (option C) is important, it addresses the symptom rather than the root cause of misaligned incentives.",
+      "difficulty": "expert",
+      "topic": "Agile Metrics and Success Measurement",
+      "domain": 3,
+      "source_id": "yt_005",
+      "chunk_index": 61,
+      "video_segment": "10:16:06→10:26:10"
+    }
+  ]
+}

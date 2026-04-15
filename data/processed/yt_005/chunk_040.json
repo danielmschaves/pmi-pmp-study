@@ -1,0 +1,77 @@
+{
+  "source_id": "yt_005",
+  "chunk_index": 40,
+  "start_label": "6:44:07",
+  "end_label": "6:54:14",
+  "mode": "extract",
+  "questions": [
+    {
+      "question": "Your project is releasing a number of upgrades to a commercial building over the next 12 months. Material costs have changed a lot recently. You need to budget for the materials required; however, the volume of materials may change significantly as the project evolves. What will you do next?",
+      "options": [
+        "A. Create an indefinite delivery indefinite quantity (IDIQ) contract for the materials",
+        "B. Create a firm fixed price contract for the materials",
+        "C. Ensure a sole supplier for your materials",
+        "D. Ensure multiple suppliers for your materials"
+      ],
+      "answer": "A",
+      "explanation": "An indefinite delivery indefinite quantity (IDIQ) contract is the best choice when the quantity of materials may change significantly. IDIQ contracts provide for an indefinite quantity of goods or services with a stated lower and upper limit within a fixed time period, allowing flexibility as project needs evolve. A firm fixed price contract would not work because the quantity is not known and will change. While sole or multiple suppliers are considerations, they do not address the fundamental need for contract flexibility regarding quantity changes.",
+      "difficulty": "expert",
+      "topic": "Procurement Contract Types",
+      "domain": 2,
+      "source_id": "yt_005",
+      "chunk_index": 40,
+      "video_segment": "6:44:07→6:54:14"
+    },
+    {
+      "question": "You have completed a make-or-buy analysis and you agree to hire a third-party vendor to complete part of your product. You create the statement of work and have a list of acceptable sellers that will meet the source selection criteria. The work is not complex and they understand the scope. What do you do next?",
+      "options": [
+        "A. Send a request for proposal",
+        "B. Send a request for information",
+        "C. Send a request for quotation",
+        "D. Hold a bidders conference to ensure all sellers are on the same page"
+      ],
+      "answer": "C",
+      "explanation": "Since the requirements are ready, the work is not complex, the scope is understood, and you already have a list of acceptable sellers, a request for quotation (RFQ) is the most appropriate tool. A request for quotation is used when the item is straightforward and you primarily need pricing information. A request for proposal would be used for more complex items requiring detailed proposals. A request for information is used when more information is needed from sellers. A bidders conference is unnecessary since the sellers already understand the scope.",
+      "difficulty": "expert",
+      "topic": "Source Selection and Procurement Documents",
+      "domain": 2,
+      "source_id": "yt_005",
+      "chunk_index": 40,
+      "video_segment": "6:44:07→6:54:14"
+    },
+    {
+      "question": "Your project is new and the team have just come on board. There have been multiple disagreements and the workers slow as they try to understand where they fit in the project and the team. What will you do next?",
+      "options": [
+        "A. Create a project charter to kick off the project",
+        "B. Create a definition of ready to show what items need before work starts",
+        "C. Create a project management plan for all schedule, scope, and cost",
+        "D. Create a team charter to establish roles, responsibilities, and operating guidelines"
+      ],
+      "answer": "D",
+      "explanation": "A project team charter is the best solution when team members are unclear about where they fit in the project and are experiencing disagreements. The team charter records team values, agreements, and operating guidelines, establishing clear expectations regarding acceptable behavior and defining roles and responsibilities. While a project charter kicks off the project definition and a project management plan defines overall processes, neither directly addresses team dynamics and individual roles. A definition of ready applies to work items, not team structure.",
+      "difficulty": "expert",
+      "topic": "Team Development and Formation",
+      "domain": 1,
+      "source_id": "yt_005",
+      "chunk_index": 40,
+      "video_segment": "6:44:07→6:54:14"
+    },
+    {
+      "question": "You have created a high-level view of the features your project will deliver and prioritized them into a prioritized product backlog. The development team is ready to start work, but they do not know where to start as the information is too high level. These features are too high level and need to be broken down. What will you do next?",
+      "options": [
+        "A. Ask the team to begin with the highest priority item first",
+        "B. Decompose the features into user stories to place in a Sprint",
+        "C. Hold a retrospective with the team to understand what is blocking them",
+        "D. Reprioritize the features into an order that makes sense for the developers"
+      ],
+      "answer": "B",
+      "explanation": "User stories are the appropriate tool for breaking down high-level features into work items that the development team can actually work on. A user story is a brief description of an outcome for a specific user and contains enough information at the right level for team members to work on the item. Asking the team to start with the highest priority item does not solve the decomposition problem. A retrospective is used after a Sprint to reflect on what happened, not before starting work. Reprioritizing features does not address the fundamental need to break them down into actionable items.",
+      "difficulty": "expert",
+      "topic": "Agile Requirements and User Stories",
+      "domain": 2,
+      "source_id": "yt_005",
+      "chunk_index": 40,
+      "video_segment": "6:44:07→6:54:14"
+    }
+  ]
+}

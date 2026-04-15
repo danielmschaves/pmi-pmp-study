@@ -1,0 +1,77 @@
+{
+  "source_id": "yt_005",
+  "chunk_index": 46,
+  "start_label": "7:44:40",
+  "end_label": "7:54:46",
+  "mode": "extract",
+  "questions": [
+    {
+      "question": "You are working on a project where issues are often raised and result in multiple rounds of feedback. You are not sure who or what could be the cause of these issues. What will you do next?",
+      "options": [
+        "A. Perform root cause analysis with your project team on the problem to brainstorm ideas",
+        "B. Review the issue log, the risk register, and the change log for the most frequent requesters, then update your stakeholder engagement approach for those people",
+        "C. Raise a risk in the risk register for the project delay and review responses with your team",
+        "D. Ensure your project budget has enough contingency reserves to meet the multiple reviews and delays"
+      ],
+      "answer": "B",
+      "explanation": "The correct answer addresses the root cause by identifying who is requesting changes (from the issue log, risk register, and change log) and then improving engagement with those stakeholders. While root cause analysis is a reasonable approach, the best answer goes further by examining patterns of who is making requests and updating the stakeholder engagement strategy accordingly. This addresses both the 'who' and ensures better two-way communication to potentially prevent future issues.",
+      "difficulty": "expert",
+      "topic": "Stakeholder Engagement and Communication",
+      "domain": 1,
+      "source_id": "yt_005",
+      "chunk_index": 46,
+      "video_segment": "7:44:40→7:54:46"
+    },
+    {
+      "question": "You have been working on a project where the manager leads in a dictatorial style. Over time, the team have stopped making suggestions, sick days and mental health days have become more frequent, and the pace of work has slowed. The manager comes to you for help and you suggest a servant leadership style instead. What will they do next?",
+      "options": [
+        "A. Serve the team by ensuring their every need is met",
+        "B. Focus on obstacle removal, encouragement, and development opportunities",
+        "C. Ensure the team are serving other team members and helping each other succeed",
+        "D. Serve the team through new ways to do the work and engage them through additional variety"
+      ],
+      "answer": "B",
+      "explanation": "Servant leadership specifically involves removing blockers that prevent the team from doing their work, shielding them from external distractions, encouraging their growth, and creating development opportunities. While ensuring every need is met sounds caring, servant leaders empower teams by removing obstacles and enabling growth rather than meeting every need. The other options reference good practices but do not capture the core essence of servant leadership as defined in the PMBOK Guide.",
+      "difficulty": "expert",
+      "topic": "Servant Leadership and Team Development",
+      "domain": 1,
+      "source_id": "yt_005",
+      "chunk_index": 46,
+      "video_segment": "7:44:40→7:54:46"
+    },
+    {
+      "question": "You have been allocated to a new project team with members from different parts of the functional business area. Very few of them have worked on a project before. There is a lot of miscommunication and rework occurring amongst the team, which is starting to cause delays. What will you do next?",
+      "options": [
+        "A. Set a daily standup with your team to ensure they update what they completed",
+        "B. Review the resource assignment matrix with your team to ensure they are doing their job",
+        "C. Help the team set their vision and objectives, roles and responsibilities through a team charter",
+        "D. Send your team members on training in their roles to increase their capability"
+      ],
+      "answer": "C",
+      "explanation": "The best answer addresses the root cause of miscommunication and rework by establishing clarity on vision, objectives, roles, and responsibilities through team development activities like a team charter. This creates a shared understanding of how the team will work together and how they contribute to the project. While the other options are valid practices, they do not establish the foundational team clarity needed when members lack project experience and are experiencing miscommunication.",
+      "difficulty": "expert",
+      "topic": "Team Development and Charter",
+      "domain": 1,
+      "source_id": "yt_005",
+      "chunk_index": 46,
+      "video_segment": "7:44:40→7:54:46"
+    },
+    {
+      "question": "You have collected the requirements for your project, matched them to project scope, and broken them down into smaller parts and the activities required. You notice that the manager of the marketing department has added extra scope that is unrelated to your current project. What will you do next?",
+      "options": [
+        "A. Start an open dialogue with the functional manager",
+        "B. Raise the incorrect scope items and their impact and start an open dialogue",
+        "C. Override the marketing manager's decision on scope as you are the senior project manager",
+        "D. Raise a change request for the additional scope and let the Change Control Board decide"
+      ],
+      "answer": "B",
+      "explanation": "The best answer combines two actions: raising awareness of the incorrect scope items and their impact while also initiating dialogue. This approach addresses the issue directly by documenting what is out of scope and why, while maintaining open communication with the functional manager. Starting dialogue alone (option A) without first establishing the scope mismatch is less effective. Overriding the manager is inappropriate given their authority, and jumping to the change control process (option D) skips the necessary discussion to determine if a change is even warranted.",
+      "difficulty": "expert",
+      "topic": "Scope Management and Stakeholder Communication",
+      "domain": 2,
+      "source_id": "yt_005",
+      "chunk_index": 46,
+      "video_segment": "7:44:40→7:54:46"
+    }
+  ]
+}

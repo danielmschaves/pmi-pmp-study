@@ -1,0 +1,111 @@
+{
+  "source_id": "yt_003",
+  "chunk_index": 13,
+  "start_label": "3:16:20",
+  "end_label": "3:31:24",
+  "mode": "extract",
+  "questions": [
+    {
+      "question": "Your agile team has been experiencing low morale and reduced productivity. You want to measure team satisfaction and capture improvement ideas to address these issues. What should you do?",
+      "options": [
+        "A. Hold a workshop with your team and ask them why they're unhappy",
+        "B. Have the team complete a net promoter score with comments and hold a retrospective to capture improvement ideas",
+        "C. Raise the issue with their line managers and ensure that everyone is working on the issue",
+        "D. Have the team pair up together so they can learn from each other"
+      ],
+      "answer": "B",
+      "explanation": "The net promoter score with comments combined with a retrospective is the most effective approach. A retrospective allows the team to collaboratively identify improvements rather than simply complaining in a workshop. While pairing and involving line managers have merit, they don't directly address measurement and systematic improvement.",
+      "difficulty": "hard",
+      "topic": "Team Performance and Agile Ceremonies",
+      "domain": 1,
+      "source_id": "yt_003",
+      "chunk_index": 13,
+      "video_segment": "3:16:20→3:31:24"
+    },
+    {
+      "question": "Your project is 3 weeks behind schedule due to supply chain disruptions from a global pandemic. At the steering committee meeting, executives ask how much the project will cost at completion. What should you do next?",
+      "options": [
+        "A. Use the current budget with no deviations until it runs out",
+        "B. Use the project burndown chart to see the burn rate of accounting funds",
+        "C. Use regression analysis to forecast spending and final cost",
+        "D. Use the project's estimate at completion (EAC) to show the steering committee the most likely final cost"
+      ],
+      "answer": "D",
+      "explanation": "Estimate at completion (EAC) is the appropriate earned value forecasting metric to determine the final project cost. EAC is calculated using the formula: Budget at Completion (BAC) divided by Cost Performance Index (CPI). This directly answers the steering committee's question about final project cost. The burndown chart shows feature completion, not financial forecasting, and regression analysis, while potentially useful, is not the standard EVM approach.",
+      "difficulty": "hard",
+      "topic": "Earned Value Management and Budget Forecasting",
+      "domain": 2,
+      "source_id": "yt_003",
+      "chunk_index": 13,
+      "video_segment": "3:16:20→3:31:24"
+    },
+    {
+      "question": "You are working on an agile project where the project sponsor and executive managers require lengthy weekly reports about project progress. This non-value-added work reduces time spent on creating the actual product. What should you do?",
+      "options": [
+        "A. Demonstrate to the customer using visible charts and information radiators",
+        "B. Suggest the leaders attend the Sprint review and gather information from the information radiator",
+        "C. Ask your project sponsor to wait until a steering committee meeting for the information",
+        "D. Share your working project schedule and budget with executives instead of creating reports"
+      ],
+      "answer": "B",
+      "explanation": "Inviting leaders to the Sprint review and directing them to the information radiator eliminates the need for lengthy reports while providing real-time visibility. An information radiator (big visible chart) contains work completed, remaining tasks, risks, and burn-down data that executives can access anytime. This reduces non-value-added reporting work while maintaining transparency. Option A is similar but the Sprint review plus information radiator is the most complete solution.",
+      "difficulty": "hard",
+      "topic": "Agile Communication and Information Radiators",
+      "domain": 1,
+      "source_id": "yt_003",
+      "chunk_index": 13,
+      "video_segment": "3:16:20→3:31:24"
+    },
+    {
+      "question": "You are working on a project that has planned extensively up front and would like to transition to a more agile way of working. Currently, the work is hidden and the team meets only once a week in a working group, making it difficult to see what each person is working on. What should you do?",
+      "options": [
+        "A. Ask your team to report on their work in a written status update each day",
+        "B. Have more working group meetings so you are always up to date on what the team is working on",
+        "C. Ask the team to move their work to a central visible task board such as a Kanban board and hold a short daily standup meeting to discuss progress",
+        "D. Remove the team meetings altogether and trust your team to get the work done"
+      ],
+      "answer": "C",
+      "explanation": "A Kanban board combined with daily standup meetings creates visibility and transparency while improving communication cadence. The standup is a 15-minute daily ceremony where the team discusses progress and identifies blockers. This approach directly addresses the visibility problem and is a core agile practice. Written status updates remain non-value-added work, and removing meetings entirely eliminates necessary collaboration.",
+      "difficulty": "hard",
+      "topic": "Agile Ceremonies and Visual Controls",
+      "domain": 2,
+      "source_id": "yt_003",
+      "chunk_index": 13,
+      "video_segment": "3:16:20→3:31:24"
+    },
+    {
+      "question": "You are working on a hybrid project where most work was planned upfront and the team manages work via a Kanban board with daily standups. Stakeholders have continuously added scope, and one executive now requests an urgent feature. What should you do?",
+      "options": [
+        "A. Limit the number of cards in the ready column and ask the product owner to prioritize the new item, noting that an existing item may need to be swapped out",
+        "B. Match the number of user stories to the team's velocity to ensure a sustainable pace",
+        "C. Work with the stakeholder to raise a change request and note the outcome in a change log",
+        "D. Review the impact of the scope change with the stakeholder using the work breakdown structure dictionary"
+      ],
+      "answer": "A",
+      "explanation": "Work-in-progress limits on the Kanban board combined with prioritization is the appropriate approach for managing continuous scope additions in a hybrid environment. The product owner must work with stakeholders to understand that adding new features requires deprioritizing existing items, maintaining a sustainable pace. This uses the pull-based nature of Kanban rather than pushing unlimited work. Change requests and WBS analysis are less appropriate for ongoing agile prioritization decisions.",
+      "difficulty": "hard",
+      "topic": "Kanban and Scope Management",
+      "domain": 2,
+      "source_id": "yt_003",
+      "chunk_index": 13,
+      "video_segment": "3:16:20→3:31:24"
+    },
+    {
+      "question": "You are working as a product owner on an agile team where the main measure of project success is the number of features delivered into production. Over the past 6 months, your team has delivered the highest number of features your organization has ever seen. However, customers are now complaining about issues and bugs in the product. What should you do?",
+      "options": [
+        "A. Ask the team to work harder to deliver more features and fix product issues",
+        "B. Adjust the product metrics to include customer satisfaction and quality measures along with feature delivery",
+        "C. Add a slack card of five points in the Sprint backlog to deal with technical debt",
+        "D. Implement a code review process to catch bugs before they reach production"
+      ],
+      "answer": "B",
+      "explanation": "Adjusting project metrics to include quality and customer satisfaction measures will change team behavior and focus. Teams naturally optimize for what is measured; by expanding success criteria beyond feature count to include quality and customer happiness, the team will balance speed with quality. While addressing technical debt (option C) is also important, changing the metrics addresses the root cause of the problem by redefining what success means.",
+      "difficulty": "hard",
+      "topic": "Agile Metrics and Success Measures",
+      "domain": 2,
+      "source_id": "yt_003",
+      "chunk_index": 13,
+      "video_segment": "3:16:20→3:31:24"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "source_id": "yt_002",
+  "chunk_index": 27,
+  "start_label": "6:48:01",
+  "end_label": "6:50:38",
+  "mode": "extract",
+  "questions": [
+    {
+      "question": "An organization hires an external agile coach as part of its transformation project. In the final report, the agile coach mentions that measures should be taken to enable agile teams to be cross-functional. How should the organization proceed with the agile coach recommendation?",
+      "options": [
+        "A. Allow individuals to collectively determine the best way to accomplish the goal of the sprint",
+        "B. Allow individuals to take part in guiding the product direction",
+        "C. Assign individuals who possess the necessary skills to produce a functioning product",
+        "D. Empower individuals to approve the potentially shippable product increment"
+      ],
+      "answer": "C",
+      "explanation": "A cross-functional team must possess the necessary competencies for creating a product or service independently without relying on other members outside of the team. Option A describes self-organizing teams, not cross-functional teams. Option B assigns the product owner's responsibility (guiding product direction) to the team. Option D assigns the product owner's approval responsibility to the team, which is incorrect—the product owner approves the potentially shippable product increment, not the team.",
+      "difficulty": "hard",
+      "topic": "Agile Team Structure and Cross-Functional Teams",
+      "domain": 1,
+      "source_id": "yt_002",
+      "chunk_index": 27,
+      "video_segment": "6:48:01→6:50:38"
+    }
+  ]
+}

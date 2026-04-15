@@ -1,0 +1,77 @@
+{
+  "source_id": "yt_005",
+  "chunk_index": 36,
+  "start_label": "6:03:41",
+  "end_label": "6:13:46",
+  "mode": "extract",
+  "questions": [
+    {
+      "question": "You're working on a hybrid project to replace an aging customer system that has just had a feature upgrade release. The senior developer raises a concern during the daily standup that the system doesn't seem to be able to connect to some parts of the organization after the upgrade. What should you do next?",
+      "options": [
+        "A. Replan the project to ensure the correct scope is worked on that will connect to the organization",
+        "B. Raise it in the issue log, assign it to a responsible party, and work with them to find a resolution",
+        "C. Raise the concern as a risk and brainstorm risk responses",
+        "D. Escalate the issue to the technical managers so they can resolve it"
+      ],
+      "answer": "B",
+      "explanation": "The correct approach is to raise the issue in the issue log and assign it to a responsible party to work on resolution. This follows the issue management process. The issue has already occurred, so it's not a risk but an active issue. While escalation to technical managers might happen, the best practice is to assign it to any responsible party and use the issue log to track and monitor it. An issue log records current conditions that may impact project objectives and ensures issues are assigned and tracked for resolution.",
+      "difficulty": "expert",
+      "topic": "Issue Management and Monitoring",
+      "domain": 2,
+      "source_id": "yt_005",
+      "chunk_index": 36,
+      "video_segment": "6:03:41→6:13:46"
+    },
+    {
+      "question": "You're working on an agile project where your project team has raised multiple risks to project delivery. Some of these risks may impact your cost and schedule significantly. Your program manager asks you to manage them using a risk adjusted backlog. What will you do next?",
+      "options": [
+        "A. Adjust your risk register to include the work not completed if the risks are triggered",
+        "B. Adjust your backlog velocity so that your end date is not impacted by the raised risks",
+        "C. Gather risk mitigation responses from your retrospectives and assign them to an owner",
+        "D. Place at least one risk response in each Sprint in an agile project to manage and close"
+      ],
+      "answer": "D",
+      "explanation": "A risk adjusted backlog includes work and actions to address threats and opportunities. The correct approach is to place risk responses into the backlog as items to be worked on during each Sprint. This ensures risks are actively managed as part of the project work. While a risk register tracks all risks and their information, a risk adjusted backlog specifically integrates risk work into the sprint planning and execution process in agile projects.",
+      "difficulty": "expert",
+      "topic": "Risk Management in Agile Projects",
+      "domain": 2,
+      "source_id": "yt_005",
+      "chunk_index": 36,
+      "video_segment": "6:03:41→6:13:46"
+    },
+    {
+      "question": "You're delivering a project to a functional area in your organization. The project is highly complex and there are many risks to project delivery. The functional manager would like to see the biggest risks that are assigned to her. What will you do next?",
+      "options": [
+        "A. Show the risk management plan",
+        "B. Show the risk register",
+        "C. Show her the qualitative risk assessment",
+        "D. Show the risk adjusted backlog"
+      ],
+      "answer": "B",
+      "explanation": "The risk register is the appropriate artifact to share. It is a repository that contains outputs of risk management processes and includes all pertinent information such as the person responsible for managing each risk, probability and impact, planned risk responses, and more. This gives the functional manager a comprehensive view of all risks and who is assigned to manage them. The risk management plan describes the process itself, and the qualitative risk assessment only shows impact and likelihood ratings without the full context.",
+      "difficulty": "expert",
+      "topic": "Risk Register and Risk Documentation",
+      "domain": 2,
+      "source_id": "yt_005",
+      "chunk_index": 36,
+      "video_segment": "6:03:41→6:13:46"
+    },
+    {
+      "question": "Your project has been in progress for the past 6 months. Someone you have not met before approaches you and says they've not been engaged sufficiently, even though he believes his team is highly impacted by the change. He advises he may block the project as a result. What are you going to do next about this?",
+      "options": [
+        "A. Perform stakeholder engagement assessment with your stakeholder",
+        "B. Add him to the stakeholder register including his salary and interest information",
+        "C. Replan the project to account for the additional stakeholder requirements",
+        "D. Escalate the concern to executive management immediately"
+      ],
+      "answer": "A",
+      "explanation": "The correct action is to perform a stakeholder engagement assessment. This stakeholder has high impact on the project and now you are aware that he has not been sufficiently engaged, which is a critical engagement gap. By performing an engagement assessment, you can understand his needs, interests, and concerns, then develop a strategy to engage him appropriately moving forward. This prevents him from becoming a blocker and ensures his team's concerns are addressed. Simply adding him to a register after the fact is insufficient; you need to actively engage him and manage his involvement.",
+      "difficulty": "expert",
+      "topic": "Stakeholder Engagement and Management",
+      "domain": 1,
+      "source_id": "yt_005",
+      "chunk_index": 36,
+      "video_segment": "6:03:41→6:13:46"
+    }
+  ]
+}

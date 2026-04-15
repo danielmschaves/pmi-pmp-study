@@ -1,0 +1,145 @@
+{
+  "source_id": "yt_001",
+  "chunk_index": 24,
+  "start_label": "6:02:19",
+  "end_label": "6:17:26",
+  "mode": "extract",
+  "questions": [
+    {
+      "question": "A project manager discovers a potential unforeseen delay on a project involving an external contractor. What should the project manager do?",
+      "options": [
+        "A. Delay the discussion until stakeholders notice the delay themselves",
+        "B. Record a delay in the project risk register and discuss it openly in the stakeholder meeting",
+        "C. Compare the situation with documented outcomes from similar incidents in all their projects",
+        "D. Perform a detailed assessment of how the delay will impact the project"
+      ],
+      "answer": "B",
+      "explanation": "The key word in the scenario is 'potential,' which indicates this is a risk, not yet an issue. The correct approach is to record it in the risk register and discuss it openly with stakeholders. Option A is passive and avoids proactive management. Option C focuses on comparison rather than assessment. Option D is a necessary step, but recording it in the risk register and discussing it with stakeholders (Option B) encompasses the complete first action a PM should take.",
+      "difficulty": "expert",
+      "topic": "Risk Management and Stakeholder Communication",
+      "domain": 2,
+      "source_id": "yt_001",
+      "chunk_index": 24,
+      "video_segment": "6:02:19→6:17:26"
+    },
+    {
+      "question": "At the conclusion of an enterprise software implementation project, a department head suggests the addition of a new analytics feature to improve data visualization capabilities. The feature was not covered in the project's initial scope but is considered by the department head to be a straightforward enhancement that can be managed by the current IT staff. What action should the project manager take in response to the department head's suggestion?",
+      "options": [
+        "A. Assess the feasibility of incorporating the new analytics feature within the existing project without formalizing it",
+        "B. Consult with the finance team to assess the potential financial implications and budget adjustments required for the additional feature",
+        "C. Coordinate a meeting with key stakeholders to evaluate the added value versus the effort and risk of incorporating the feature",
+        "D. Draft a supplemental charter for the analytics feature addition pending executive approval"
+      ],
+      "answer": "A",
+      "explanation": "Any change to scope in a traditional project requires formal change control approval. However, the first step is to assess feasibility without immediately formalizing it. Option B focuses only on budget, ignoring quality and risk. Option C evaluates the entire feature impact rather than initial feasibility. Option D is inappropriate because drafting a supplemental charter formalizes the change prematurely, and the project is already underway so this doesn't require a new charter.",
+      "difficulty": "expert",
+      "topic": "Scope Management and Change Control",
+      "domain": 2,
+      "source_id": "yt_001",
+      "chunk_index": 24,
+      "video_segment": "6:02:19→6:17:26"
+    },
+    {
+      "question": "As part of an initiative to upgrade an educational institution's digital infrastructure, a department head proposes the integration of an AI-based learning assistant which was not included in the initial project scope. The department is also unsure if the project's investors would agree to the necessary budget increase. What initial action should the project manager take regarding the proposed integration?",
+      "options": [
+        "A. Assess feasibility to explore the technical and financial aspects of adding the AI-based learning system",
+        "B. Estimate the potential impact on the project budget and timelines for incorporating the AI learning assistant",
+        "C. Consult with the team to assess how the integration could affect the overall project",
+        "D. Conduct an assessment of the proposed addition's impact on the project"
+      ],
+      "answer": "C",
+      "explanation": "The team members are the experts who understand how a proposed change will affect the overall project across all dimensions—quality, risk, timeline, budget, and vendor/procurement considerations. Option A focuses only on technical and financial aspects, missing quality and risk. Option B addresses only budget and time, ignoring other critical project areas. Option D is vague and doesn't emphasize the team's involvement, which is essential to understanding comprehensive project impact.",
+      "difficulty": "expert",
+      "topic": "Stakeholder and Team Engagement in Change Assessment",
+      "domain": 1,
+      "source_id": "yt_001",
+      "chunk_index": 24,
+      "video_segment": "6:02:19→6:17:26"
+    },
+    {
+      "question": "In the rollout of a critical update to an e-commerce platform, the project manager is presented with several pressing issues: an immediate need for expertise in cybersecurity due to new threats, significant personnel shortages on the horizon including the exit of the product owner, and a new data security law that has been passed. What should the project manager's direct focus be to ensure the project remains on course?",
+      "options": [
+        "A. Initiate a search for a cybersecurity expert to fortify the platform against threats",
+        "B. Begin the transition process for a new product owner to ensure strategic project oversight continues",
+        "C. Initiate the process to secure a new IT support contractor or renew the existing one for uninterrupted services",
+        "D. Identify regulatory compliance issues to prevent any legal or operational setbacks"
+      ],
+      "answer": "D",
+      "explanation": "When facing multiple competing issues, regulatory compliance is the paramount concern. No project should progress if it violates the law. This falls within the business environment domain and is non-negotiable. While cybersecurity expertise (Option A), product owner transition (Option B), and contractor support (Option C) are all important, they are secondary to ensuring the project meets legal and compliance requirements. A non-compliant project must be halted or redirected regardless of other pressures.",
+      "difficulty": "expert",
+      "topic": "Regulatory Compliance and Legal Risk Management",
+      "domain": 3,
+      "source_id": "yt_001",
+      "chunk_index": 24,
+      "video_segment": "6:02:19→6:17:26"
+    },
+    {
+      "question": "As a project unfolds for a global health initiative, the project manager identifies that the current online collaboration tools are hindering effective communications across time zones, affecting the project's progress. The team suggests that a change in digital tools could significantly improve project dynamics and cross-team interactions. What should the project manager do to ensure the selection of the most effective tools for the team?",
+      "options": [
+        "A. Trial several top-rated collaboration tools on a small scale to gauge effectiveness before a full team rollout",
+        "B. Delegate the decision to the organization's technology advisory board for expert recommendations",
+        "C. Organize a series of workshops aimed at maximizing the current tools' capabilities before considering alternatives",
+        "D. Organize a meeting with the entire team to assess needs, evaluate alternatives, and decide on the best collaboration tool"
+      ],
+      "answer": "D",
+      "explanation": "The team using the tools is the best source of input on what will work for them. Different team members have different preferences and working styles. Option A focuses on testing without team input. Option B delegates authority away from team involvement and empowerment. Option C attempts to maximize existing tools without exploring whether they are the right solution. Engaging the entire team in needs assessment and decision-making (Option D) ensures buy-in and selection of the most appropriate solution.",
+      "difficulty": "expert",
+      "topic": "Team Engagement and Collaborative Decision-Making",
+      "domain": 1,
+      "source_id": "yt_001",
+      "chunk_index": 24,
+      "video_segment": "6:02:19→6:17:26"
+    },
+    {
+      "question": "For the implementation of sophisticated security software across multiple departments, the selected external provider asserts that their solution is plug-and-play, negating the need for any in-depth involvement or validation activities from the company. The project manager, aiming to ensure the solution's capability and effectiveness, decides to confirm these assertions with the organization's stakeholders. What initial step should the project manager take to guarantee alignment and meet the organizational standards?",
+      "options": [
+        "A. Convey a comprehensive briefing with key stakeholders consolidating on standards and setting unified expectations for the project",
+        "B. Draft a contingency plan to address potential gaps that might emerge post-implementation",
+        "C. Propose a preliminary phase of collaboration between the vendor's technical team and the organization's IT department",
+        "D. Send out a survey to department heads to collect initial impressions and concerns regarding the vendor's claim"
+      ],
+      "answer": "A",
+      "explanation": "A comprehensive briefing with key stakeholders is necessary to align expectations and consolidate organizational standards, especially when a vendor makes claims that bypass validation. Option B addresses contingency before understanding actual risks. Option C involves only IT, not the broader stakeholder community including sponsors and department heads. Option D via survey is passive and less effective than direct, comprehensive communication to establish shared understanding and expectations.",
+      "difficulty": "expert",
+      "topic": "Stakeholder Management and Vendor Communication",
+      "domain": 1,
+      "source_id": "yt_001",
+      "chunk_index": 24,
+      "video_segment": "6:02:19→6:17:26"
+    },
+    {
+      "question": "A technology firm is transitioning its software development practice to agile methodologies to improve its product development lifecycle. The move aims to make progress more dynamic and responsive to customer needs and market turns. What is the principal advantage of adopting agile methodologies in this context?",
+      "options": [
+        "A. Enhance the efficiency of the development cycle to reduce time to market for new features",
+        "B. Implement a structured risk management approach to significantly decrease project uncertainties",
+        "C. Prioritize and deliver product features in alignment with their value to customer demand",
+        "D. Reduce operational overhead by optimizing team workflows and resources"
+      ],
+      "answer": "C",
+      "explanation": "The core value of agile is prioritizing development of the most valuable features first, not necessarily getting to market fastest. Option A focuses on speed to market, which is a benefit but not the principal advantage. Option B is incorrect because agile does not necessarily implement structured risk management as a primary focus. Option D addresses cost reduction, which is not agile's primary principle. Agile's fundamental advantage is value-driven delivery through feature prioritization aligned with customer demand (Option C).",
+      "difficulty": "expert",
+      "topic": "Agile Methodologies and Value-Driven Delivery",
+      "domain": 2,
+      "source_id": "yt_001",
+      "chunk_index": 24,
+      "video_segment": "6:02:19→6:17:26"
+    },
+    {
+      "question": "During the critical phase of a green energy plant construction project, it becomes evident that the project may not adhere to the initially planned schedule. This situation arises even as the project team has been performing efficiently and has completed several important phases. What is the first course of action for the project manager to address the looming schedule delay?",
+      "options": [
+        "A. Inform senior management and key stakeholders about the potential delay and suggest a reassessment of the project timeline",
+        "B. Summarize the project achievements to date and expected impact of the delay in a detailed briefing for the project board",
+        "C. Revise the project timeline with lead engineers to pinpoint specific tasks that are causing the delay and their potential remedies",
+        "D. Review the current project timeline with the entire team to identify causes and potential solutions"
+      ],
+      "answer": "D",
+      "explanation": "The first action must be to assess and understand the problem before taking corrective steps. Reviewing with the entire team provides comprehensive understanding of causes across all perspectives before informing management or revising timelines. Option A informs stakeholders before a full assessment is complete. Option B summarizes without first understanding the root causes. Option C premature revises the timeline without full team input and understanding. Also, timeline revision requires formal change control, not just engineering input. Option D establishes the foundation for all subsequent actions.",
+      "difficulty": "expert",
+      "topic": "Schedule Management and Problem Assessment",
+      "domain": 2,
+      "source_id": "yt_001",
+      "chunk_index": 24,
+      "video_segment": "6:02:19→6:17:26"
+    }
+  ]
+}

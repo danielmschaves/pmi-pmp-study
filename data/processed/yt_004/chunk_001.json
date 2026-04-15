@@ -1,0 +1,213 @@
+{
+  "source_id": "yt_004",
+  "chunk_index": 1,
+  "start_label": "10:06",
+  "end_label": "20:14",
+  "mode": "generate",
+  "questions": [
+    {
+      "question": "A project manager learns that new environmental regulations will require significant changes to the project scope during initiation. What should the project manager do first?",
+      "options": [
+        "A. Proceed with planning and address compliance requirements in the execution phase",
+        "B. Update the business case to incorporate compliance requirements and assess feasibility",
+        "C. Reject the regulations if they exceed the original budget",
+        "D. Request an extension from the sponsor to accommodate regulatory changes"
+      ],
+      "answer": "B",
+      "explanation": "Updating the business case during initiation ensures that compliance requirements are integrated into project planning from the start, reflecting their impact on value and feasibility. Proceeding without addressing compliance early (Option A) creates risk and rework. Rejecting regulations (Option C) is not within project authority. Requesting extension before assessment (Option D) is premature without understanding the true impact.",
+      "difficulty": "medium",
+      "topic": "Compliance and Business Case Integration",
+      "domain": 3,
+      "source_id": "yt_004",
+      "chunk_index": 1,
+      "video_segment": "10:06→20:14"
+    },
+    {
+      "question": "Your team is struggling to adapt to newly implemented compliance policies. What is the first action you should take?",
+      "options": [
+        "A. Assign a compliance officer to monitor all team activities and enforce adherence",
+        "B. Conduct a workshop to train the team on compliance requirements and expectations",
+        "C. Update the risk register to document potential compliance violations",
+        "D. Report the issue to the compliance department and wait for their guidance"
+      ],
+      "answer": "B",
+      "explanation": "Proactive training ensures the team understands and can align with compliance needs from the start, building capability rather than just monitoring. Assigning a compliance officer (Option A) creates an external control rather than building team capability. Updating the risk register (Option C) documents the problem but doesn't solve it. Reporting to compliance (Option D) abdicates the project manager's responsibility to develop team competence.",
+      "difficulty": "easy",
+      "topic": "Organizational Change and Compliance Adoption",
+      "domain": 3,
+      "source_id": "yt_004",
+      "chunk_index": 1,
+      "video_segment": "10:06→20:14"
+    },
+    {
+      "question": "A new tax law will increase project costs significantly. Before taking any corrective action, what should the project manager do?",
+      "options": [
+        "A. Immediately notify stakeholders about the increased costs and request additional funding",
+        "B. Assess the full impact of the tax law on project objectives and strategic value",
+        "C. Update the project budget baseline to reflect the new tax requirements",
+        "D. Consult with the finance department to determine cost allocation options"
+      ],
+      "answer": "B",
+      "explanation": "Assessing impact ensures informed decision-making about how the change affects project value, feasibility, and strategic alignment before taking corrective actions. Notifying stakeholders first (Option A) without understanding scope creates alarm. Updating baselines (Option C) before understanding impact wastes effort. Consulting finance (Option D) is premature without understanding the project-level implications.",
+      "difficulty": "easy",
+      "topic": "Strategic Alignment and Impact Analysis",
+      "domain": 3,
+      "source_id": "yt_004",
+      "chunk_index": 1,
+      "video_segment": "10:06→20:14"
+    },
+    {
+      "question": "Your project sponsor demands rapid implementation of deliverables due to an emerging competitive threat. How should you respond?",
+      "options": [
+        "A. Adjust the project schedule immediately to meet the sponsor's demand and maintain stakeholder confidence",
+        "B. Analyze the feasibility of delivering high-value components earlier while assessing constraints and risks",
+        "C. Escalate the demand to the steering committee for approval before making any schedule changes",
+        "D. Implement the sponsor's demand without adjustment to avoid conflict and maintain the relationship"
+      ],
+      "answer": "B",
+      "explanation": "Feasibility analysis ensures that acceleration aligns with project goals, resource constraints, and quality standards, enabling informed decisions rather than reactive changes. Adjusting schedules immediately (Option A) risks poor decisions. Escalating without analysis (Option C) delays necessary evaluation. Implementing without assessment (Option D) invites project failure and is poor stewardship.",
+      "difficulty": "medium",
+      "topic": "Strategic Responsiveness and Schedule Management",
+      "domain": 3,
+      "source_id": "yt_004",
+      "chunk_index": 1,
+      "video_segment": "10:06→20:14"
+    },
+    {
+      "question": "In a hybrid project, stakeholders request additional features that may impact compliance requirements. What should you prioritize?",
+      "options": [
+        "A. Reject the request outright to maintain compliance standards",
+        "B. Evaluate the compliance implications of the additional features before deciding",
+        "C. Add the features to the backlog for later review and defer compliance assessment",
+        "D. Seek consensus on removing non-compliant features from the current scope"
+      ],
+      "answer": "B",
+      "explanation": "Evaluating compliance implications ensures that deliverables meet both stakeholder needs and regulatory requirements. Rejecting without evaluation (Option A) may eliminate valuable features. Deferring assessment (Option C) risks delivering non-compliant work. Seeking consensus on removal (Option D) assumes non-compliance before evaluation.",
+      "difficulty": "medium",
+      "topic": "Compliance Evaluation in Hybrid Delivery",
+      "domain": 3,
+      "source_id": "yt_004",
+      "chunk_index": 1,
+      "video_segment": "10:06→20:14"
+    },
+    {
+      "question": "A supplier informs you of a significant delay in critical materials. What should be your first action?",
+      "options": [
+        "A. Immediately notify all stakeholders of the delay and request guidance",
+        "B. Identify alternative suppliers or procurement strategies to mitigate supply chain risk",
+        "C. Update the procurement management plan with contingency language",
+        "D. Escalate the issue to the project sponsor for resolution and direction"
+      ],
+      "answer": "B",
+      "explanation": "Identifying alternatives is a proactive risk mitigation strategy that addresses the problem at its source and maintains project continuity. Notifying stakeholders first (Option A) creates alarm without a solution. Updating plans (Option C) documents the issue but doesn't solve it. Escalating immediately (Option D) abdicates project manager responsibility for risk response.",
+      "difficulty": "easy",
+      "topic": "Risk Mitigation and Procurement",
+      "domain": 3,
+      "source_id": "yt_004",
+      "chunk_index": 1,
+      "video_segment": "10:06→20:14"
+    },
+    {
+      "question": "While managing an agile project, you discover that a new corporate policy requires adherence to specific cyber security standards. What should you do next?",
+      "options": [
+        "A. Update the sprint backlog with cyber security tasks and incorporate them into iterative delivery",
+        "B. Communicate the policy changes to the team and stakeholders immediately",
+        "C. Escalate the issue to the product owner to determine if policy compliance is a priority",
+        "D. Delay current sprints until comprehensive cyber security requirements are fully defined"
+      ],
+      "answer": "A",
+      "explanation": "In agile, compliance requirements are incorporated into the backlog and addressed iteratively, allowing continuous adaptation while maintaining delivery momentum. Communicating first (Option B) should happen concurrently but doesn't drive implementation. Escalating to product owner (Option C) abdicates the project manager's responsibility. Delaying sprints (Option D) is inefficient in agile where adaptation is expected.",
+      "difficulty": "medium",
+      "topic": "Agile Compliance Integration",
+      "domain": 3,
+      "source_id": "yt_004",
+      "chunk_index": 1,
+      "video_segment": "10:06→20:14"
+    },
+    {
+      "question": "A competitor announces a product launch that may significantly reduce the market value of your current project. What should you prioritize?",
+      "options": [
+        "A. Accelerate the project schedule immediately to meet the competitor's market window",
+        "B. Conduct a market impact analysis and propose strategic adjustments to maintain value delivery",
+        "C. Enhance project features to increase market competitiveness without scope change",
+        "D. Notify stakeholders of the competitive threat and await their direction"
+      ],
+      "answer": "B",
+      "explanation": "Market impact analysis enables strategic decision-making about scope, schedule, or feature adjustments that protect project value in light of competitive dynamics. Accelerating without analysis (Option A) may waste resources on the wrong priorities. Unplanned feature enhancement (Option C) creates scope creep. Notifying without analysis (Option D) creates uncertainty without options.",
+      "difficulty": "hard",
+      "topic": "Strategic Alignment and Market Response",
+      "domain": 3,
+      "source_id": "yt_004",
+      "chunk_index": 1,
+      "video_segment": "10:06→20:14"
+    },
+    {
+      "question": "You are managing a waterfall project and identify a conflict between current project objectives and newly introduced environmental regulations. What should you do first?",
+      "options": [
+        "A. Update the risk management plan to document the regulatory risk",
+        "B. Immediately revise the project scope to align with the new regulations",
+        "C. Notify key stakeholders of potential delays caused by regulatory changes",
+        "D. Conduct a compliance impact analysis to understand regulatory implications"
+      ],
+      "answer": "D",
+      "explanation": "Understanding the full scope and impact of regulatory requirements is essential before making changes to baselines or scope in a waterfall environment. Updating the risk plan (Option A) documents the issue but doesn't address it. Revising scope immediately (Option B) risks making unnecessary or incomplete changes. Notifying without analysis (Option C) creates alarm without information.",
+      "difficulty": "medium",
+      "topic": "Regulatory Compliance Analysis",
+      "domain": 3,
+      "source_id": "yt_004",
+      "chunk_index": 1,
+      "video_segment": "10:06→20:14"
+    },
+    {
+      "question": "In an agile project, stakeholders demand faster delivery to counter a competitive threat. How should you balance speed and control?",
+      "options": [
+        "A. Prioritize backlog items that deliver immediate market value and adjust sprint planning accordingly",
+        "B. Escalate the stakeholder demand to the product owner without making changes to current sprints",
+        "C. Implement changes immediately in the current sprint without formal reprioritization",
+        "D. Request additional resources to maintain quality while accelerating delivery timelines"
+      ],
+      "answer": "A",
+      "explanation": "Agile emphasizes delivering high-value components iteratively, so reprioritizing the backlog to focus on competitive differentiators balances speed with controlled delivery. Escalating without action (Option B) delays response. Implementing without reprioritization (Option C) creates chaos and risks quality. Adding resources (Option D) may not address the core issue of prioritization.",
+      "difficulty": "hard",
+      "topic": "Agile Prioritization Under Competitive Pressure",
+      "domain": 3,
+      "source_id": "yt_004",
+      "chunk_index": 1,
+      "video_segment": "10:06→20:14"
+    },
+    {
+      "question": "Your local government introduces tariffs on imported materials critical to your project, significantly increasing costs. What is your best action?",
+      "options": [
+        "A. Reallocate existing budget to absorb the increased costs",
+        "B. Identify local alternatives to imported materials that meet quality and timeline requirements",
+        "C. Update the stakeholder engagement plan to communicate cost impacts",
+        "D. Escalate the issue to the project sponsor and request additional funding"
+      ],
+      "answer": "B",
+      "explanation": "Identifying alternatives proactively minimizes the impact of external tariffs on project costs and timeline, reducing dependency on external factors. Reallocating budget (Option A) reduces funds available for other needs. Updating communication (Option C) documents the problem without solving it. Escalating for funds (Option D) should follow unsuccessful mitigation efforts.",
+      "difficulty": "medium",
+      "topic": "External Compliance and Risk Mitigation",
+      "domain": 3,
+      "source_id": "yt_004",
+      "chunk_index": 1,
+      "video_segment": "10:06→20:14"
+    },
+    {
+      "question": "A hybrid project is impacted by conflicting requirements from compliance mandates and agile delivery expectations. As the project manager, what strategic approach should you take?",
+      "options": [
+        "A. Prioritize agile delivery speed and address compliance gaps in a final verification phase",
+        "B. Halt agile iterations until all compliance requirements are fully documented and integrated",
+        "C. Integrate compliance requirements into the definition of ready and acceptance criteria, adjusting delivery approach as needed",
+        "D. Separate compliance work into a distinct waterfall stream while running agile for feature delivery"
+      ],
+      "answer": "C",
+      "explanation": "Integrating compliance into agile ceremonies and definitions of ready ensures compliance is built in iteratively rather than added later or separated, maintaining hybrid efficiency. Prioritizing speed over compliance (Option A) risks delivery of non-compliant work. Halting iterations (Option B) defeats agile benefits. Separating streams (Option D) creates coordination complexity and misses feedback loops.",
+      "difficulty": "expert",
+      "topic": "Hybrid Delivery and Compliance Integration",
+      "domain": 3,
+      "source_id": "yt_004",
+      "chunk_index": 1,
+      "video_segment": "10:06→20:14"
+    }
+  ]
+}

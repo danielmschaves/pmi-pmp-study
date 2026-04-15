@@ -1,0 +1,145 @@
+{
+  "source_id": "yt_001",
+  "chunk_index": 15,
+  "start_label": "3:46:27",
+  "end_label": "4:01:31",
+  "mode": "extract",
+  "questions": [
+    {
+      "question": "You are a project manager overseeing a project with a team across diverse geographical locations. What action should you take to ensure project effectiveness?",
+      "options": [
+        "A. Organize intermediate gatherings for collaborative problem solving and team integration exercises",
+        "B. Have members meet in one time zone to ensure everyone can attend",
+        "C. Initiate a buddy system pairing remote team members to foster cross-regional collaboration and knowledge sharing",
+        "D. Utilize a flexible work schedule allowing team members to choose their work hours"
+      ],
+      "answer": "A",
+      "explanation": "Option A is the best answer because it directly addresses team cohesion across geographical locations through collaborative activities. Option B fails because not everyone can attend if they work in different time zones. Option C only creates isolated pairs rather than team-wide integration. Option D may actually separate team members further if they choose completely different work hours. Remember: choose the best of four options, not necessarily a perfect answer.",
+      "difficulty": "expert",
+      "topic": "Team Development and Integration",
+      "domain": 1,
+      "source_id": "yt_001",
+      "chunk_index": 15,
+      "video_segment": "3:46:27→4:01:31"
+    },
+    {
+      "question": "As a project manager of a new healthcare software implementation project, you are leading a team that has decided to embrace a hybrid approach combining elements of both agile and waterfall methodologies. The project success hinges on your ability to unify the team towards a common goal amidst the complexities of the healthcare sector. What steps should you take to ensure the team functions effectively as a cohesive unit?",
+      "options": [
+        "A. Schedule regular one-on-one meetings with team members to tailor communication and task management to individual preferences",
+        "B. Create a conflict resolution protocol that emphasizes empathy and understanding to address disagreements quickly",
+        "C. Designate clear roles and responsibilities to each team member to streamline project execution and accountability",
+        "D. Foster a culture of open communication and establish shared norms to guide effective collaborative efforts"
+      ],
+      "answer": "D",
+      "explanation": "Option D is the best answer because it encompasses and enables the benefits of all other options. Open communication and shared norms form the foundation for effective collaboration in a hybrid environment. Option A, while valuable, becomes impractical on large hybrid projects with vastly different communication needs between agile and traditional members. Option B is important but is included within the framework of option D. Option C is also necessary but is enabled by the open communication culture in option D. When multiple answers sound good, select the one that includes the others.",
+      "difficulty": "expert",
+      "topic": "Hybrid Project Management and Team Cohesion",
+      "domain": 1,
+      "source_id": "yt_001",
+      "chunk_index": 15,
+      "video_segment": "3:46:27→4:01:31"
+    },
+    {
+      "question": "As a project manager overseeing a large-scale renewable energy project, you are confronted with a sudden need to transition your traditionally onsite team to remote work due to environmental regulations affecting access to the project site. Several team members have expressed concern about their inexperience with remote work and the potential challenges of maintaining their usual level of productivity and communication in a remote environment. What step should you take to ensure the team remains productive and cohesive while working remotely?",
+      "options": [
+        "A. Arrange for ergonomic home office setups for all members to enhance their work environment",
+        "B. Partner with IT to provide customized technology solutions for each team member based on their specific remote work needs",
+        "C. Arrange for comprehensive training on remote communications and project management to improve team adaptability",
+        "D. Implement a more flexible project timeline to account for the learning curve associated with adapting to remote work"
+      ],
+      "answer": "C",
+      "explanation": "Option C directly addresses the core concern stated in the question: maintaining productivity and communication. The team members' primary concern is their inexperience with remote work and communication challenges, not ergonomics, technology, or timeline flexibility. Training on remote communications and project management directly tackles the root cause of their concerns. Read carefully—one word can change an entire question. The key phrase is 'potential challenges of maintaining productivity and communication,' which points to a need for communication and adaptability training.",
+      "difficulty": "expert",
+      "topic": "Remote Team Management and Communication",
+      "domain": 1,
+      "source_id": "yt_001",
+      "chunk_index": 15,
+      "video_segment": "3:46:27→4:01:31"
+    },
+    {
+      "question": "You are facing the challenge of rolling out a critical Disaster Response application as a project manager leading a multi-disciplinary team under tight deadlines. The application needs to be operational in a third of the standard timeline to effectively respond to an ongoing crisis. What action should you take to ensure timely delivery while maintaining essential functionality?",
+      "options": [
+        "A. Accelerate all phases of the timeline",
+        "B. Streamline communication channels to enhance team efficiency",
+        "C. Focus on team delivery and MVP (Minimum Viable Product)",
+        "D. Increase working hours to cover more tasks in less time"
+      ],
+      "answer": "C",
+      "explanation": "Option C is the best answer because an MVP allows rapid release of the most critical features to meet the compressed timeline. In agile methodology, you build the most valuable and most requested features first, allowing the application to become operational quickly with essential functionality. Option A is impractical because you cannot accelerate activities like coding and testing beyond certain limits. Option B improves efficiency but doesn't solve the timeline compression challenge. Option D is poor practice—overworking employees is never the right answer on the PMP exam and leads to decreased quality and team morale.",
+      "difficulty": "expert",
+      "topic": "Agile Delivery and MVP Strategy",
+      "domain": 2,
+      "source_id": "yt_001",
+      "chunk_index": 15,
+      "video_segment": "3:46:27→4:01:31"
+    },
+    {
+      "question": "During the execution phase of a large-scale environmental restoration project, you as the project manager encounter a debate among team members regarding a necessary extension of the timeline due to unforeseen regulatory changes. How should you proceed?",
+      "options": [
+        "A. Stick to the stakeholder communications plan for systematic engagement and decision-making",
+        "B. Analyze the impact of the timeline extension on the project, then consult with the team for guidance",
+        "C. Organize an urgent team meeting to vote on the timeline extension, aiming for a democratic decision",
+        "D. Directly implement the timeline extension, prioritizing regulatory compliance"
+      ],
+      "answer": "B",
+      "explanation": "Option B is the best answer because it addresses the issue systematically and collaboratively. First, you must analyze the impact on the project (scope, budget, resources, risks) before making decisions or consulting the team. Option A rigidly follows the communications plan without addressing the actual problem. Option C puts a decision to a team vote when the project manager is accountable for the decision. Option D implements the change without proper impact analysis or stakeholder consultation. The correct sequence is: analyze impact → consult with team → make informed decision.",
+      "difficulty": "expert",
+      "topic": "Change Management and Stakeholder Engagement",
+      "domain": 2,
+      "source_id": "yt_001",
+      "chunk_index": 15,
+      "video_segment": "3:46:27→4:01:31"
+    },
+    {
+      "question": "Halfway through a software development project, you identify that an important security feature was omitted. This feature is essential for the software to meet industry security guidelines, and you understand that integrating this feature promptly is critical to prevent potential security breaches. What is the most effective course of action you should take next?",
+      "options": [
+        "A. Schedule an urgent meeting with stakeholders to discuss the implications of incorporating the security feature",
+        "B. Conduct an impact analysis to understand the impact of adding this feature at this stage of the project",
+        "C. Prioritize the security feature in the project backlog, ensuring that it addresses the next phase",
+        "D. Seek additional resources to include the security feature without altering the current project milestones"
+      ],
+      "answer": "B",
+      "explanation": "Option B is the best answer because before taking any action, you must understand how adding this feature will affect the project—specifically its impact on budget, schedule, resources, and risks. You already know the feature must be added (regulatory/security requirement), so option A is unnecessary. Option C is incorrect because the project manager cannot unilaterally prioritize the backlog without proper analysis and approval processes. Option D (seeking additional resources) is premature without first knowing the actual impact. Conduct impact analysis first, then use those findings to guide further decisions.",
+      "difficulty": "expert",
+      "topic": "Scope Change and Impact Analysis",
+      "domain": 2,
+      "source_id": "yt_001",
+      "chunk_index": 15,
+      "video_segment": "3:46:27→4:01:31"
+    },
+    {
+      "question": "During a healthcare facility upgrade project, you are informed by a key stakeholder that certain advanced technological features expected by the stakeholders are not visible in the preliminary designs. What should you do to address the stakeholder's concerns?",
+      "options": [
+        "A. Review the project plan and update the stakeholders",
+        "B. Confirm with the stakeholders that their expectations will be integrated in the design provisioning process",
+        "C. Organize a detailed presentation on the current project status and future milestones",
+        "D. Have the team include the design and the project scope"
+      ],
+      "answer": "A",
+      "explanation": "Option A is the best answer because your first step must be to verify whether these features are actually missing or simply not visible in the preliminary designs. The stakeholder may be unaware that features are planned but not yet shown in the current design phase. You cannot confirm expectations will be integrated (option B) without first checking the plan. Option C addresses status but not the specific concern. Option D is vague and bypasses proper change control. Review the plan first to establish facts, then communicate findings to the stakeholder. Any new requirements would need to go through formal change control procedures.",
+      "difficulty": "expert",
+      "topic": "Stakeholder Communications and Scope Verification",
+      "domain": 1,
+      "source_id": "yt_001",
+      "chunk_index": 15,
+      "video_segment": "3:46:27→4:01:31"
+    },
+    {
+      "question": "Following a corporate restructuring, you notice that the newly assembled team is having difficulty adapting to their collective role, with members often preferring to work in isolation rather than as a unified team. This behavior is affecting the synergy and efficiency of project work. What should you do to enhance team dynamics?",
+      "options": [
+        "A. Organize a workshop to focus on team integration and collaborative problem solving",
+        "B. Implement a flexible work policy to accommodate individual work preferences",
+        "C. Establish regular one-on-one check-ins to address any personal concerns affecting teamwork",
+        "D. Initiate a competitive incentive program to encourage collaboration"
+      ],
+      "answer": "A",
+      "explanation": "Option A is the best answer because the core problem is that team members are working in silos and need to be brought together to develop team cohesion. Workshops focused on integration and collaborative problem solving directly address this issue. Option B is counterproductive because flexible work policies would further separate team members who are already isolating themselves. Option C addresses individual concerns but does not promote the team interaction needed to solve the fundamental isolation problem. Option D may increase competition rather than collaboration. The solution is to bring the team together through structured integration activities.",
+      "difficulty": "expert",
+      "topic": "Team Development and Conflict Resolution",
+      "domain": 1,
+      "source_id": "yt_001",
+      "chunk_index": 15,
+      "video_segment": "3:46:27→4:01:31"
+    }
+  ]
+}

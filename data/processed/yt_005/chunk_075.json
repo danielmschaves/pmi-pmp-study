@@ -1,0 +1,77 @@
+{
+  "source_id": "yt_005",
+  "chunk_index": 75,
+  "start_label": "12:37:37",
+  "end_label": "12:47:45",
+  "mode": "extract",
+  "questions": [
+    {
+      "question": "You are working on an agile project and have gathered feature ideas from various parts of your organization including frontline staff, executives, and direct customer research. You have many feature ideas to work with. What should you do next?",
+      "options": [
+        "A. Break down each feature into epics and user stories, then size the work with your team to determine effort level",
+        "B. Add all items into your product backlog and work on the ones requested by managers first",
+        "C. Work with the requesters and your technical experts to create a business model canvas for each feature",
+        "D. Perform precedence diagramming on each feature to determine their dependencies"
+      ],
+      "answer": "C",
+      "explanation": "Working with requesters and technical experts to create a business model canvas for each feature provides a one-page visual summary describing the value proposition, infrastructure, customers, and finances. This gives the information needed to prioritize effectively based on benefit and cost. While breaking down into epics and stories could work, it's premature before prioritization. Adding all items and working on manager-requested items first ignores the need to prioritize by benefit and cost. Precedence diagramming requires more detailed information about the solution and dependencies, which you don't have at this stage.",
+      "difficulty": "expert",
+      "topic": "Product Backlog Prioritization, Agile Planning",
+      "domain": 2,
+      "source_id": "yt_005",
+      "chunk_index": 75,
+      "video_segment": "12:37:37→12:47:45"
+    },
+    {
+      "question": "You are working in a new agile team where the work has started to slow and there is uncertainty and low team engagement. You have set time to create a team charter with your team and have agreed on roles, responsibilities, and team cadence. What should you do next?",
+      "options": [
+        "A. Set a team goal for the team to be more engaged in the work over the next 3 months",
+        "B. Create a product vision statement showing the value you are bringing and the why behind the work",
+        "C. Ask the team to contribute more to all pieces of work during each team meeting",
+        "D. Raise it as a people issue for your project and manage it with the project steering committee"
+      ],
+      "answer": "B",
+      "explanation": "Creating a product vision statement that describes the purpose and why behind the work is a key component of the team charter that will inspire team engagement. This vision statement addresses the root cause of low engagement by helping the team understand the value and purpose of their work. While setting goals could help, it is less foundational than establishing the vision. Asking for more contribution without clarity on purpose is unlikely to be effective. Escalating to the steering committee prematurely bypasses the project manager's responsibility to manage this first at the team level.",
+      "difficulty": "expert",
+      "topic": "Team Engagement, Team Charter, Project Vision Statement",
+      "domain": 1,
+      "source_id": "yt_005",
+      "chunk_index": 75,
+      "video_segment": "12:37:37→12:47:45"
+    },
+    {
+      "question": "You are integrating a third-party system as part of your project. The developers on your project team have not worked on this system before but believe the language and layout are the same and should be able to implement it. Adding time for the uncertainty, they give a high-level estimate of 5 weeks. What will you do next?",
+      "options": [
+        "A. Note the estimate of 5 weeks and update the assumption log with the technical assumption that the languages and layout are the same",
+        "B. Break down the integration into user stories and use a bottom-up approach to estimate",
+        "C. Check the estimate using parametric estimating to increase its accuracy",
+        "D. Gather your whole team and customers together and estimate using wideband Delphi or planning poker"
+      ],
+      "answer": "A",
+      "explanation": "Recording the estimate and documenting the underlying technical assumption in the assumption log is the appropriate next step when estimates are based on assumptions. This captures the assumption so that if it proves false, you can adjust the estimate. The assumption log is critical for tracking factors considered to be true without proof. While user story breakdown, parametric estimating, and wideband Delphi are all valid estimation techniques, they are not the priority here since you already have a reasonable estimate and need to capture the assumption underlying it first.",
+      "difficulty": "expert",
+      "topic": "Estimation, Assumption Log, Risk Management",
+      "domain": 2,
+      "source_id": "yt_005",
+      "chunk_index": 75,
+      "video_segment": "12:37:37→12:47:45"
+    },
+    {
+      "question": "Your agile project has delivered three features so far and is halfway through delivering the latest improvement. During a brainstorming session, one of your customers comes up with a new feature idea. You check the benefit and find it is high; the complexity is also low. What should you do next?",
+      "options": [
+        "A. Add money to your budget to accommodate the additional feature as soon as possible",
+        "B. Elaborate on the feature, break it down into user stories, and estimate them",
+        "C. Place the item in the backlog and reprioritize it to be next",
+        "D. Create a business case for the new feature outlining the benefit and costs involved"
+      ],
+      "answer": "C",
+      "explanation": "On an agile project with fixed budget and fixed time, scope is variable. When a high-benefit, low-complexity feature is identified, it should be placed in the product backlog and reprioritized based on the prioritization criteria—in this case, the high benefit and low cost make it a strong candidate to move up in priority. You do not need to add budget since agile projects operate within fixed budgets with variable scope. Breaking down into stories is premature before prioritization decisions are made. Creating a business case is a waterfall approach; agile projects prioritize items in the backlog instead.",
+      "difficulty": "expert",
+      "topic": "Product Backlog Prioritization, Agile Scope Management",
+      "domain": 2,
+      "source_id": "yt_005",
+      "chunk_index": 75,
+      "video_segment": "12:37:37→12:47:45"
+    }
+  ]
+}

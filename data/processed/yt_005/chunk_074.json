@@ -1,0 +1,77 @@
+{
+  "source_id": "yt_005",
+  "chunk_index": 74,
+  "start_label": "12:27:31",
+  "end_label": "12:37:37",
+  "mode": "extract",
+  "questions": [
+    {
+      "question": "A product owner prioritizes features to improve usability and profitability of a product. Which measure would best help the product owner understand customer satisfaction and loyalty?",
+      "options": [
+        "A. Net promoter score",
+        "B. Cost versus benefit analysis",
+        "C. Average app availability and uptime",
+        "D. Lowest cost with highest potential benefit"
+      ],
+      "answer": "A",
+      "explanation": "Net promoter score (NPS) is a customer-focused measure that gauges the willingness of customers to recommend a product or service to others, directly measuring overall customer satisfaction and loyalty. While cost-benefit analysis, app availability, and cost-benefit prioritization are useful project management tools, they do not specifically measure customer satisfaction and loyalty from a product owner's perspective.",
+      "difficulty": "expert",
+      "topic": "Product Owner Responsibilities and Agile Metrics",
+      "domain": 2,
+      "source_id": "yt_005",
+      "chunk_index": 74,
+      "video_segment": "12:27:31→12:37:37"
+    },
+    {
+      "question": "You are a project manager in an agile team developing new features for an app. An executive stakeholder with high influence in the organization approaches you and asks you to add a feature that they like. Their friends also think it's a good idea. How should you proceed?",
+      "options": [
+        "A. Place the feature in the product backlog and prioritize it using cost versus benefit",
+        "B. Raise a change request to add the new feature into the scope baseline",
+        "C. Gather the requirements for the new feature and ask your team to elaborate on it",
+        "D. Analyze the impact to your project schedule and cost and add the feature to your project scope"
+      ],
+      "answer": "A",
+      "explanation": "Before making any scope changes, the feature should be analyzed objectively using a prioritization method like cost versus benefit analysis rather than relying on opinion or confirmation bias. This ensures critical thinking and data-driven decision-making. Raising a change request, gathering requirements, or analyzing impact should only occur after determining whether the feature should actually be pursued.",
+      "difficulty": "expert",
+      "topic": "Prioritization Schema and Stakeholder Management",
+      "domain": 1,
+      "source_id": "yt_005",
+      "chunk_index": 74,
+      "video_segment": "12:27:31→12:37:37"
+    },
+    {
+      "question": "Your project team are gathering solution ideas for a particular customer requirement which is prioritized to be worked on next. The item is complicated and they have been trying to find a way forward for the past 3 weeks. There is not enough work for the upcoming sprint. What should you do?",
+      "options": [
+        "A. Start work on the item in the next sprint anyway and elaborate as the sprint begins",
+        "B. Arrange the right people to elaborate the issue with a spike",
+        "C. Deprioritize the item until the team can figure out the issue",
+        "D. Adjust the project schedule to reflect the extra time taken on elaboration"
+      ],
+      "answer": "B",
+      "explanation": "A spike is a time-boxed research activity to clarify requirements and figure out a path forward. By arranging the right people and time-boxing it (typically 2 days), you create a deadline that prevents scope creep and ensures the requirement is elaborated before development work begins. This keeps work flowing in agile by having some team members work on the spike while others continue development work.",
+      "difficulty": "expert",
+      "topic": "Agile Elaboration, Spikes, and Time Boxing",
+      "domain": 2,
+      "source_id": "yt_005",
+      "chunk_index": 74,
+      "video_segment": "12:27:31→12:37:37"
+    },
+    {
+      "question": "Your project team have planned the requirements, scope, schedule, and cost for constructing a new building in your organization. An executive from another area approaches you as your project is funded and about to begin execution and asks if you can help them deliver a website as part of your work. What will you do next?",
+      "options": [
+        "A. Raise the request as an issue in your project's issue log",
+        "B. Add the website to your project scope and adjust your project scope, schedule, and cost",
+        "C. Raise a change request for the added scope and review the impact to your project schedule and cost",
+        "D. Offer to help them create a business case for the new idea and get funding for a new project"
+      ],
+      "answer": "D",
+      "explanation": "Building a website is fundamentally different from constructing a physical building and requires different resources, expertise, and potentially different funding. This represents a separate project that needs its own business case, project charter, and funding rather than being added to an existing construction project. A business case provides a value proposition and financial analysis necessary for formal project approval and kickoff.",
+      "difficulty": "expert",
+      "topic": "Scope Management and Business Case Development",
+      "domain": 3,
+      "source_id": "yt_005",
+      "chunk_index": 74,
+      "video_segment": "12:27:31→12:37:37"
+    }
+  ]
+}

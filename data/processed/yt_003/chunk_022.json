@@ -1,0 +1,111 @@
+{
+  "source_id": "yt_003",
+  "chunk_index": 22,
+  "start_label": "5:32:13",
+  "end_label": "5:47:18",
+  "mode": "extract",
+  "questions": [
+    {
+      "question": "As a product owner, you want to measure the effect of the features you are delivering to ensure they are having the desired impact. Which of the following would be the best measure to use?",
+      "options": [
+        "A. Ask them to gather the team velocity and throughput over the past 3 months",
+        "B. Ask them to gather the cost benefit ratio over the past 6 months",
+        "C. Ask them to gather the NPS over the past 6 months",
+        "D. Ask them to gather the average app availability and uptime"
+      ],
+      "answer": "C",
+      "explanation": "Net Promoter Score (NPS) is a customer measure that gauges overall customer satisfaction and loyalty by asking customers how likely they would be to recommend the product to others on a scale of 1 to 10. Since the product owner represents the customer voice, NPS is the best measure of whether features are having the desired effect on customer satisfaction. Team velocity and throughput are internal team measures, cost-benefit ratio is used for prioritization, and app availability is an operational measure unrelated to feature effectiveness.",
+      "difficulty": "hard",
+      "topic": "Product Owner Responsibilities and Metrics",
+      "domain": 2,
+      "source_id": "yt_003",
+      "chunk_index": 22,
+      "video_segment": "5:32:13→5:47:18"
+    },
+    {
+      "question": "You are a project manager in an agile team developing new features for an app. An executive stakeholder with high influence in the organization approaches you and asks you to add a feature that they like. They mention that their friends also think it is a good idea. How should you proceed?",
+      "options": [
+        "A. Place the feature in the product backlog and prioritize it using cost versus benefit",
+        "B. Raise a change request to add the new feature into the scope baseline",
+        "C. Gather the requirements for the new feature and ask your team to elaborate on it",
+        "D. Analyze the impact to your project schedule and cost and add the feature to your project scope"
+      ],
+      "answer": "A",
+      "explanation": "Before committing to work on a feature requested by an influential stakeholder, you should use a prioritization method such as cost versus benefit analysis to evaluate it objectively. This prevents confirmation bias and ensures decisions are based on data rather than the stakeholder's role or title. While you may eventually raise a change request, gather requirements, and analyze impacts, the first step should be to objectively prioritize the feature using a formal method to determine if it should be added to the backlog at all.",
+      "difficulty": "hard",
+      "topic": "Agile Prioritization and Stakeholder Management",
+      "domain": 1,
+      "source_id": "yt_003",
+      "chunk_index": 22,
+      "video_segment": "5:32:13→5:47:18"
+    },
+    {
+      "question": "Your project team is gathering solution ideas for a particular customer requirement which is prioritized to be worked on next. The item is complicated and the team has been trying to find a way forward for the past 3 weeks. There is not enough work for the upcoming sprint. What should you do?",
+      "options": [
+        "A. Start work on the item in the next sprint anyway and elaborate as the sprint begins",
+        "B. Arrange the right people to elaborate on the issue with a spike",
+        "C. Adjust the project schedule to reflect the extra time taken on elaboration",
+        "D. Deprioritize the item until the team can figure out the issue"
+      ],
+      "answer": "B",
+      "explanation": "A spike is a time-boxed research activity to investigate and resolve a complex requirement. By bringing the right people together and time-boxing the spike to a fixed period (such as 2 days), you create a deadline that prevents endless analysis while still allowing the team to elaborate the requirements before the sprint begins. This keeps work flowing and prevents the team from starting development on fuzzy requirements. Time-boxing is critical to avoid student syndrome and ensure progress.",
+      "difficulty": "hard",
+      "topic": "Agile Requirements Elaboration and Spike Activities",
+      "domain": 2,
+      "source_id": "yt_003",
+      "chunk_index": 22,
+      "video_segment": "5:32:13→5:47:18"
+    },
+    {
+      "question": "Your project team has planned the requirements, scope, schedule, and cost for constructing a new building in your organization. An executive from another area approaches you as your project is funded and about to begin execution and asks if you can help them deliver a website as part of your work. What will you do next?",
+      "options": [
+        "A. Raise the request as an issue in your project's issue log",
+        "B. Add the website to your project scope and adjust your project scope, schedule, and cost",
+        "C. Raise a change request for the added scope and review the impact to your project schedule and cost",
+        "D. Offer to help them create a business case for the new idea and get funding for a new project"
+      ],
+      "answer": "D",
+      "explanation": "A website project is fundamentally different from a building construction project in terms of scope, team skills, and resource requirements. Rather than adding it to your existing project, the website should be established as a separate project with its own business case, project charter, and funding. A business case is a value proposition for a proposed project that precedes formal approval and kickoff. This prevents scope creep and ensures the website project receives appropriate planning and resources.",
+      "difficulty": "hard",
+      "topic": "Project Scope Management and Business Case Development",
+      "domain": 3,
+      "source_id": "yt_003",
+      "chunk_index": 22,
+      "video_segment": "5:32:13→5:47:18"
+    },
+    {
+      "question": "You are working on an agile project and planning your product backlog for the next 3 to 6 months. You have high-level feature ideas from various parts of your organization, including frontline staff, executives, and direct customer research. What will you do next?",
+      "options": [
+        "A. Break down each feature into epics and user stories and size the work with your team",
+        "B. Add all of the items into your product backlog and work on the ones from the managers first",
+        "C. Work with the requesters and your technical experts to create a business model canvas for each feature",
+        "D. Perform precedence diagramming on each feature to determine their dependencies"
+      ],
+      "answer": "C",
+      "explanation": "Creating a business model canvas for each feature is an effective way to capture all relevant information on one page, including the value proposition, cost, infrastructure, and customer impact. This information allows you to prioritize the features effectively based on benefits and effort. A business model canvas feeds into subsequent activities like sizing and breaking down features into epics and user stories. Prioritization must come before detailed breakdown and dependency analysis. Working with requesters and technical experts ensures you have the right perspectives to evaluate each feature.",
+      "difficulty": "hard",
+      "topic": "Agile Product Backlog Planning and Business Model Canvas",
+      "domain": 2,
+      "source_id": "yt_003",
+      "chunk_index": 22,
+      "video_segment": "5:32:13→5:47:18"
+    },
+    {
+      "question": "You are working in a new agile team where the work has started to slow and there is uncertainty and low team engagement. You set time to create a team charter with your team and agree on roles, responsibilities, and team cadence. What will you do next to improve team engagement?",
+      "options": [
+        "A. Set a team goal for them to be more engaged in the work over the next 3 months",
+        "B. Create a product vision statement showing the value you are bringing and the why behind the work",
+        "C. Ask the team to contribute more to all pieces of work during each team meeting",
+        "D. Raise it as a people issue for your project and manage it with the project steering committee"
+      ],
+      "answer": "B",
+      "explanation": "A product vision statement is a critical component of the team charter that articulates the value the team is bringing and the purpose behind the work. This helps teams understand the 'why' behind what they are doing, which directly addresses low engagement and uncertainty. By clarifying the vision and value proposition, team members gain clarity on purpose and motivation. While setting goals, getting broader input, and escalating are options, the product vision statement as part of the team charter is the most direct and effective way to address uncertainty and improve engagement.",
+      "difficulty": "hard",
+      "topic": "Team Charter and Agile Team Engagement",
+      "domain": 1,
+      "source_id": "yt_003",
+      "chunk_index": 22,
+      "video_segment": "5:32:13→5:47:18"
+    }
+  ]
+}

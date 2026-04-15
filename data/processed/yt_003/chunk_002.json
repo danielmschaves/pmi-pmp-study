@@ -1,0 +1,111 @@
+{
+  "source_id": "yt_003",
+  "chunk_index": 2,
+  "start_label": "30:13",
+  "end_label": "45:21",
+  "mode": "extract",
+  "questions": [
+    {
+      "question": "Project stakeholders have determined that a risk is within their risk appetite, provided that you meet a risk threshold of 10%. Your project budget is $2 million. What will you do next?",
+      "options": [
+        "A. Note the acceptable risk level as a threat of $200,000, which is 10%.",
+        "B. Note the acceptable risk level as a threat of $1.8 million to $2.2 million, which is a 10% variance.",
+        "C. Note the impact as outside the acceptable risk level of $2 million.",
+        "D. Note the impact as an opportunity of $200,000, which is 10%."
+      ],
+      "answer": "B",
+      "explanation": "Risk appetite describes the level of uncertainty or risk stakeholders are willing to accept. Risk threshold is the measure of acceptable variation around an objective that reflects the risk appetite. At 10% variation around $2 million, the acceptable range is $1.8 million to $2.2 million. This correctly matches the stakeholders' risk tolerance and budget parameters.",
+      "difficulty": "hard",
+      "topic": "Risk Appetite and Risk Threshold",
+      "domain": 2,
+      "source_id": "yt_003",
+      "chunk_index": 2,
+      "video_segment": "30:13→45:21"
+    },
+    {
+      "question": "A risk has been raised in your project around insufficient building materials. A risk response assigned to the functional manager suggests using a brand new material which has not been fully tested before in a building project. However, half of your stakeholder group is happy with this risk response, but the other half refuses to sign off on it. What will you do next?",
+      "options": [
+        "A. Suggest a quantitative risk approach to give a more accurate financial impact.",
+        "B. Suggest they proceed with the proposed risk response and ensure it is followed through.",
+        "C. Suggest a different risk owner as an executive may have more power to respond to the risk.",
+        "D. Suggest a different risk response as it should be timely, cost-effective, realistic, and agreed to by relevant stakeholders."
+      ],
+      "answer": "D",
+      "explanation": "Risk responses should be appropriate and timely to the significance of the risk, cost-effective, realistic within the project context, agreed to by relevant stakeholders, and owned by a responsible person. Since 50% of stakeholders are disagreeing with the proposed response and a brand new untested material poses additional risk, the best course of action is to suggest a different risk response that can be agreed upon by all relevant stakeholders.",
+      "difficulty": "hard",
+      "topic": "Risk Response Planning",
+      "domain": 2,
+      "source_id": "yt_003",
+      "chunk_index": 2,
+      "video_segment": "30:13→45:21"
+    },
+    {
+      "question": "Your project is starting to go off track due to a large amount of uncertainty in requirements and resources. You have managed to address these issues at significant cost. Your project management office would like you to brainstorm ways to improve with your team so that it does not happen again. What will you do next?",
+      "options": [
+        "A. Ask your team to increase the project contingency reserve to allow for these impacts.",
+        "B. Ask your team to change the project methodology from waterfall to Agile.",
+        "C. Ask your team to use short feedback loops, continuous improvement, and transparent planning.",
+        "D. Ask your team to check their work twice before sending it to the next part of the process."
+      ],
+      "answer": "C",
+      "explanation": "To improve adaptability and resiliency, project teams should embrace methods such as using short feedback loops to gather feedback and improve, continuous learning and improvement, and transparent planning so that everyone can see whether the project is on or off track at any moment. These practices help manage uncertainty and complexity better than simply changing methodology or increasing contingency reserves.",
+      "difficulty": "hard",
+      "topic": "Embrace Adaptability and Resiliency",
+      "domain": 2,
+      "source_id": "yt_003",
+      "chunk_index": 2,
+      "video_segment": "30:13→45:21"
+    },
+    {
+      "question": "As your project progresses, many of the business stakeholders are starting to voice their concerns, question some of the changes, and miss key meetings while trying to sabotage your efforts. What will you do next?",
+      "options": [
+        "A. Communicate the vision and benefits for the change clearly along with the impact to their work.",
+        "B. Create an impact and influence chart to determine who should be engaged appropriately.",
+        "C. Escalate the matter to your project sponsor and arrange for different stakeholders.",
+        "D. Map the current state and the proposed future state of the change for the stakeholders."
+      ],
+      "answer": "A",
+      "explanation": "Change management is a structured approach to transitioning groups to a future state. Methods include communicating the vision, goals, and benefits of the change early along with the impact to work processes. Effective communication addresses resistance and change fatigue. This direct engagement and transparent communication of the value proposition is key to gaining stakeholder buy-in and preventing sabotage.",
+      "difficulty": "hard",
+      "topic": "Change Management and Stakeholder Engagement",
+      "domain": 1,
+      "source_id": "yt_003",
+      "chunk_index": 2,
+      "video_segment": "30:13→45:21"
+    },
+    {
+      "question": "You are analyzing your stakeholders through an impact and influence chart and have found more than 100 different groups of people and over 3,000 impacted stakeholders. Other parts of your project are starting to fall behind as you try to keep up with a large amount of people. What will you do next?",
+      "options": [
+        "A. Ask your project team to engage different groups of stakeholders so everyone is covered.",
+        "B. Clearly prioritize the stakeholders based on impact and influence.",
+        "C. Engage and communicate with the highly impacted and influential groups early and often.",
+        "D. Monitor the stakeholders for signs of stress and respond to the groups most stressed about the project."
+      ],
+      "answer": "B",
+      "explanation": "The stakeholder engagement process includes identifying, understanding, analyzing, prioritizing, engaging, and monitoring stakeholders. When you have too many stakeholders to engage effectively, prioritization becomes the key. Impact and influence are two ways to prioritize, along with power, beliefs, expectations, and proximity to the project. Prioritization allows the project manager to focus resources effectively rather than attempting to engage all 3,000+ stakeholders equally.",
+      "difficulty": "hard",
+      "topic": "Stakeholder Engagement and Prioritization",
+      "domain": 1,
+      "source_id": "yt_003",
+      "chunk_index": 2,
+      "video_segment": "30:13→45:21"
+    },
+    {
+      "question": "You are managing a project which communicates to the customer using mostly pull communication. When monitoring the engagement of your stakeholders, you notice that they are not clear on the impacts or benefits of the project. You decide to add push communication to your communication plan. What will you do next?",
+      "options": [
+        "A. Create a web page using SharePoint with all the project information that your stakeholders can access.",
+        "B. Push additional funding for your project to your stakeholders and communicate this to the project sponsor.",
+        "C. Push your stakeholders to engage in more two-way communication.",
+        "D. Send emails and hold meetings to directly communicate the impacts and benefits to stakeholders."
+      ],
+      "answer": "D",
+      "explanation": "Push communication involves actively sending information to stakeholders through direct channels such as emails, meetings, or telephone calls. Unlike pull communication, which allows stakeholders to access information at their convenience, push communication ensures that critical information about project impacts and benefits reaches stakeholders proactively. This is the appropriate response when stakeholders are not clear on key project information.",
+      "difficulty": "hard",
+      "topic": "Stakeholder Communication Methods",
+      "domain": 1,
+      "source_id": "yt_003",
+      "chunk_index": 2,
+      "video_segment": "30:13→45:21"
+    }
+  ]
+}

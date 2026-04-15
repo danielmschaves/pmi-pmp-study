@@ -1,0 +1,60 @@
+{
+  "source_id": "yt_005",
+  "chunk_index": 11,
+  "start_label": "1:50:59",
+  "end_label": "2:01:06",
+  "mode": "extract",
+  "questions": [
+    {
+      "question": "You are working on a project using a flow-based (Kanban) approach where you are moving user stories across a Kanban board. You want to get an estimate on how much work can be completed in the next three months based on the team's existing process. What will you do next?",
+      "options": [
+        "A. Multiply the velocity by the number of remaining user stories",
+        "B. Multiply the cycle time by the throughput",
+        "C. Multiply the lead time by the schedule performance index",
+        "D. Multiply the planned value by the actual value"
+      ],
+      "answer": "B",
+      "explanation": "For Kanban or flow-based approaches, cycle time (the total elapsed time it takes one unit to get through a process) is multiplied by throughput (the number of items that can complete a process in a given amount of time) to estimate work completion. Option A (velocity multiplied by remaining user stories) is a Scrum approach. Option C mixes lead time with schedule performance index, which is a distractor. Option D refers to earned value management, which is not relevant for this scenario.",
+      "difficulty": "expert",
+      "topic": "Flow-Based Scheduling and Kanban Estimation",
+      "domain": 2,
+      "source_id": "yt_005",
+      "chunk_index": 11,
+      "video_segment": "1:50:59→2:01:06"
+    },
+    {
+      "question": "Your product owner wants to bring the next feature forward so that it is done in parallel to the current feature, while still maintaining the same release order. You have adjusted the product backlog and visualized the product roadmap as a Gantt chart. The current approach has items scheduled in sequence. What will you do next to enable parallel work?",
+      "options": [
+        "A. Use a schedule lead",
+        "B. Use a schedule lag",
+        "C. Change the dependency relationship from finish-to-start to start-to-start",
+        "D. Resource level the tasks"
+      ],
+      "answer": "C",
+      "explanation": "Using the precedence diagramming method, changing from finish-to-start to start-to-start allows the second item to start before the first item finishes while still maintaining the delivery order (the second item cannot finish before the first item finishes). This enables parallel work while preserving sequence constraints. Option A (schedule lead) is a technique but less specific than changing the dependency method. Option B (schedule lag) moves items backward, which is the opposite of what is needed. Option D (resource leveling) converts parallel work to sequential, which is the opposite of the goal.",
+      "difficulty": "expert",
+      "topic": "Schedule Compression and Precedence Diagramming",
+      "domain": 2,
+      "source_id": "yt_005",
+      "chunk_index": 11,
+      "video_segment": "1:50:59→2:01:06"
+    },
+    {
+      "question": "You are working on a project where you have been completing the deliverables in sequence and the project work is starting to fall behind. The project sponsor asks you to speed up the work and reduce the time for the project to be delivered, but also makes it very clear that there is no more money to use when speeding up the work. What will you do next?",
+      "options": [
+        "A. Use schedule crashing to compress the schedule",
+        "B. Use schedule fast tracking to perform activities in parallel",
+        "C. Use resource leveling to optimize resource allocation",
+        "D. Request additional budget from the sponsor"
+      ],
+      "answer": "B",
+      "explanation": "Schedule fast tracking is a schedule compression technique in which activities or tasks that are normally done in sequence are performed in parallel at the same time. This allows schedule acceleration without additional cost. Option A (schedule crashing) requires adding people, overtime, or expedited deliveries—all of which cost money that is not available. Option C (resource leveling) moves activities from parallel to sequential, which worsens the schedule delay. Option D is not viable given the sponsor's clear statement about budget constraints.",
+      "difficulty": "expert",
+      "topic": "Schedule Compression Techniques",
+      "domain": 2,
+      "source_id": "yt_005",
+      "chunk_index": 11,
+      "video_segment": "1:50:59→2:01:06"
+    }
+  ]
+}

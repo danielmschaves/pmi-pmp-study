@@ -1,0 +1,128 @@
+{
+  "source_id": "yt_002",
+  "chunk_index": 9,
+  "start_label": "2:16:03",
+  "end_label": "2:31:11",
+  "mode": "extract",
+  "questions": [
+    {
+      "question": "A product owner started the day with a sprint planning meeting to discuss and define the goal and backlog of the new sprint. Which of the following options is correct regarding the sprint planning meeting?",
+      "options": [
+        "A. Discussion between the product owner, the scrum master and the cross functional team",
+        "B. Discussion between cross functional team members only",
+        "C. Discussion between the product owner and the scrum master",
+        "D. Discussion between the scrum master and the cross functional team members"
+      ],
+      "answer": "A",
+      "explanation": "Sprint planning meetings should include all three roles: the product owner, scrum master, and cross functional team. Option B is incorrect because standup meetings can be with cross functional team members only. Option C is incorrect because there is no meeting with only the product owner and scrum master. Option D describes retrospective meetings, not sprint planning.",
+      "difficulty": "hard",
+      "topic": "Scrum Framework - Sprint Planning",
+      "domain": 2,
+      "source_id": "yt_002",
+      "chunk_index": 9,
+      "video_segment": "2:16:03→2:31:11"
+    },
+    {
+      "question": "A project manager is leading a construction project in a foreign country where corruption is widely spread. After facing trouble obtaining the required construction permits from local authorities, a team member suggested giving a bribe to the local officials to get things going and execute the project without issues. What should the project manager do?",
+      "options": [
+        "A. Refuse to give the bribe",
+        "B. Give the smallest amount of money possible",
+        "C. Negotiate a non-monetary bribe",
+        "D. Ask the team member to give the bribe on their behalf"
+      ],
+      "answer": "A",
+      "explanation": "The project manager must refuse to give any bribe, whether monetary or non-monetary. This is required by the PMI Code of Ethics. Option B negotiates the bribe amount, which is still unethical. Option C substitutes a non-monetary bribe, which is still a bribe. Option D delegates the unethical action to a team member, which does not absolve the project manager of responsibility. The correct approach is to escalate the issue to the organization and follow legal processes.",
+      "difficulty": "hard",
+      "topic": "Ethics and Professional Responsibility",
+      "domain": 3,
+      "source_id": "yt_002",
+      "chunk_index": 9,
+      "video_segment": "2:16:03→2:31:11"
+    },
+    {
+      "question": "A project manager was assigned to a park redevelopment project which consists of cleaning and equipping the park for local families and residents. The project involves a really big number of stakeholders since it includes multiple phases and different types of tasks to execute. What should the project manager do?",
+      "options": [
+        "A. Disregard low power stakeholders",
+        "B. Only engage high power stakeholders",
+        "C. Analyze all stakeholders and prioritize engagement according to their levels",
+        "D. Report the issue to the project sponsor"
+      ],
+      "answer": "C",
+      "explanation": "The project manager must identify and analyze all stakeholders regardless of their number or power level, then prioritize engagement at different levels (low, medium, high engagement). Option A is wrong because disregarding any stakeholders is poor practice. Option B is wrong because engaging only one category of stakeholders while ignoring others is not appropriate. Option D is wrong because stakeholder communication and engagement is the responsibility of the project manager, not something to delegate to the sponsor.",
+      "difficulty": "hard",
+      "topic": "Stakeholder Engagement and Analysis",
+      "domain": 1,
+      "source_id": "yt_002",
+      "chunk_index": 9,
+      "video_segment": "2:16:03→2:31:11"
+    },
+    {
+      "question": "A project manager is leading an iterative project. The project owner calls for a meeting with the project team and other permanent stakeholders to review a demonstration of the produced deliverable. When should the project manager organize this meeting?",
+      "options": [
+        "A. At the start of the project",
+        "B. At the end of every iteration",
+        "C. At the end of the project",
+        "D. At the beginning of each iteration"
+      ],
+      "answer": "B",
+      "explanation": "In iterative projects, review meetings and demonstrations of deliverables take place at the end of each iteration. This allows the project team to obtain feedback from the product owner and stakeholders on a regular basis. Starting the project, ending the project, or beginning each iteration would not provide the regular feedback cycles necessary in iterative development.",
+      "difficulty": "hard",
+      "topic": "Iterative and Incremental Development",
+      "domain": 2,
+      "source_id": "yt_002",
+      "chunk_index": 9,
+      "video_segment": "2:16:03→2:31:11"
+    },
+    {
+      "question": "A project manager is assigned to an accounting software development project in its beta version. Some users reported that the software freezes one to three times a day. Since the project manager needs more information to fix the problem, he asked the users to fill in a document whenever the issue occurs. Which quality tool should be used?",
+      "options": [
+        "A. Check sheet",
+        "B. Checklist",
+        "C. Cheat sheet",
+        "D. Survey"
+      ],
+      "answer": "A",
+      "explanation": "A check sheet is a tool used to record the frequency of occurrences of events or defects organized by categories. It allows users to mark when an issue occurs (in this case, software freezes), showing frequency and patterns over time. A checklist is used to verify whether required steps have been performed. A survey is not appropriate for this data collection. A cheat sheet is not a quality management tool.",
+      "difficulty": "hard",
+      "topic": "Quality Management Tools - Check Sheets",
+      "domain": 2,
+      "source_id": "yt_002",
+      "chunk_index": 9,
+      "video_segment": "2:16:03→2:31:11"
+    },
+    {
+      "question": "During the risk identification phase, the project manager and her team identified more than 100 risks. The project manager believes that quantitative evaluation of each of these risks will take a lot of time, and not all of these identified risks are important enough to justify such a measure. What should the project manager do?",
+      "options": [
+        "A. Identify risk triggers, then perform quantitative analysis of risks that have no triggers",
+        "B. Use qualitative risk analysis to qualify and prioritize risks for quantitative risk analysis",
+        "C. Conduct a qualitative assessment of each risk's probability, then perform quantitative analysis of risks with high probability",
+        "D. Conduct a qualitative assessment of each risk's potential impact, then perform quantitative analysis of risks with high impact"
+      ],
+      "answer": "B",
+      "explanation": "Qualitative risk analysis uses probability and impact assessment to prioritize risks for quantitative analysis. This allows the project manager to focus quantitative efforts only on high-priority risks. Option A is incorrect because triggers are used during execution to determine if a risk will occur, not for prioritization. Option C is wrong because it considers only probability, not impact. Option D is wrong because it considers only impact, not probability. Prioritization should consider both probability and impact together.",
+      "difficulty": "hard",
+      "topic": "Risk Analysis - Qualitative vs. Quantitative",
+      "domain": 2,
+      "source_id": "yt_002",
+      "chunk_index": 9,
+      "video_segment": "2:16:03→2:31:11"
+    },
+    {
+      "question": "A project manager is leading an agile project for the last 9 months. When should the project manager stop tailoring the process?",
+      "options": [
+        "A. When the product owner decides",
+        "B. When the project manager decides",
+        "C. When the cross functional team members decide",
+        "D. The tailoring process should never be stopped"
+      ],
+      "answer": "D",
+      "explanation": "In agile projects, tailoring the process through continuous retrospectives and process improvements should never stop. Tailoring is a continuous activity that supports ongoing learning and adaptation. Stopping tailoring would mean stopping retrospective meetings and ceasing process improvement, which contradicts the agile principle of continuous improvement. The decision to stop should never be made by any single role or group.",
+      "difficulty": "hard",
+      "topic": "Agile Process Tailoring and Continuous Improvement",
+      "domain": 2,
+      "source_id": "yt_002",
+      "chunk_index": 9,
+      "video_segment": "2:16:03→2:31:11"
+    }
+  ]
+}

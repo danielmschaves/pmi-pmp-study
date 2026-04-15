@@ -1,0 +1,2552 @@
+[
+  {
+    "question": "The project manager is facing some struggles after joining a new company. Her superiors noted that during a kickoff meeting, she had difficulty answering questions about how the project fits in with the organization's objectives. What critical skill is the project manager lacking?",
+    "options": [
+      "A. Business acumen",
+      "B. Ways of working",
+      "C. Communication skills",
+      "D. Power skills"
+    ],
+    "answer": "A",
+    "explanation": "According to PMI's triangle of talent, business acumen is the skill needed to explain the business value of a project and how it aligns with the organization's goals. Communication skills are part of power skills, and ways of working is a separate skill category. The project manager's difficulty in understanding organizational objectives directly relates to business acumen.",
+    "difficulty": "hard",
+    "topic": "Talent Management and PMI Competencies",
+    "domain": 1,
+    "source_id": "yt_002",
+    "chunk_index": 0,
+    "video_segment": "0:00→15:07"
+  },
+  {
+    "question": "A project manager is assigned to an eco-friendly packaging project. In order to manage involved stakeholders, the project manager starts by analyzing their power, urgency, and legitimacy. Which analysis method is the project manager applying?",
+    "options": [
+      "A. Stakeholder cube",
+      "B. Salience model",
+      "C. Power interest grid",
+      "D. Power influence grid"
+    ],
+    "answer": "B",
+    "explanation": "The salience model classifies stakeholders based on three parameters: power, urgency, and legitimacy. The stakeholder cube uses interest, power, and attitude. The power interest grid uses only power and interest. The power influence grid uses power and influence. Since the project manager is specifically using power, urgency, and legitimacy, the salience model is the correct method.",
+    "difficulty": "hard",
+    "topic": "Stakeholder Analysis and Management",
+    "domain": 1,
+    "source_id": "yt_002",
+    "chunk_index": 0,
+    "video_segment": "0:00→15:07"
+  },
+  {
+    "question": "A project manager notices that his colleague, who is a fellow project manager, shows up at the office with new high-tech gadgets every day. This raises his suspicion that his colleague might be accepting gifts from hardware vendors who will be bidding on one of their company's upcoming multi-million dollar contracts. What should the project manager do next?",
+    "options": [
+      "A. Warn the concerned colleague that such gifts aren't appropriate and leave it at that",
+      "B. Convince his colleague to return the items and stop accepting any gifts from vendors",
+      "C. Verify whether these items were gifts from vendors or he purchased them himself",
+      "D. Report his colleague to the organization so that a conflict of interest investigation can take place"
+    ],
+    "answer": "C",
+    "explanation": "Since the project manager only has suspicions and no confirmed facts, verification is the appropriate next step before taking action. Warning the colleague (A) assumes guilt without proof. Convincing the colleague to return items (B) also assumes they are gifts. Reporting directly to the organization (D) is premature without confirmed facts. The project manager should verify the facts first by asking the colleague directly, and then take appropriate steps based on the answer.",
+    "difficulty": "hard",
+    "topic": "Professional Ethics and Conflict of Interest",
+    "domain": 1,
+    "source_id": "yt_002",
+    "chunk_index": 0,
+    "video_segment": "0:00→15:07"
+  },
+  {
+    "question": "A project manager is working on a contract. Now that she completed the contract and closed the project, the project manager is out of work. What type of organizational structure does the project manager work in?",
+    "options": [
+      "A. Strong matrix",
+      "B. Projectized",
+      "C. Functional",
+      "D. Weak matrix"
+    ],
+    "answer": "B",
+    "explanation": "In a projectized organization, resources are brought together specifically for the purpose of a project and are released or transitioned to another project when the project is complete. The project manager has high to almost total authority and works full-time. In functional organizations, project managers work part-time with little authority. In matrix organizations, project managers share authority with functional managers.",
+    "difficulty": "hard",
+    "topic": "Organizational Structures",
+    "domain": 3,
+    "source_id": "yt_002",
+    "chunk_index": 0,
+    "video_segment": "0:00→15:07"
+  },
+  {
+    "question": "After deciding to invest more in the project management capabilities of the organization, a PMO is established to ensure compliance with a set of project management standards. What type of PMO is the organization implementing?",
+    "options": [
+      "A. Supportive",
+      "B. Controlling",
+      "C. Directive",
+      "D. Agile"
+    ],
+    "answer": "B",
+    "explanation": "A controlling PMO focuses on supporting the organization in applying project management practices and requiring compliance with these practices. A supportive PMO provides consultative support without enforcement. A directive PMO takes over projects and controls them directly rather than just requiring compliance. Agile is a project management approach, not a PMO type, though agile organizations may have value delivery offices.",
+    "difficulty": "hard",
+    "topic": "Project Management Office (PMO) Functions",
+    "domain": 3,
+    "source_id": "yt_002",
+    "chunk_index": 0,
+    "video_segment": "0:00→15:07"
+  },
+  {
+    "question": "In an interior design project for a library, the client asks the project team to increase the number of bookshelves beyond what was agreed on. Since the project is unscheduled and adding additional shelves will not cause any delay, the project manager consents to the client's request. This is an example of either gold plating, customer obsession, scope creep, or successful project management. Which is it?",
+    "options": [
+      "A. Gold plating",
+      "B. Customer obsession",
+      "C. Scope creep",
+      "D. Successful project"
+    ],
+    "answer": "C",
+    "explanation": "This is scope creep because the project manager accepted a change request without following the integrated change control process. Gold plating occurs when the project team makes unauthorized improvements on their own, not when the client requests changes. Scope creep is the uncontrolled expansion of project scope, which is what occurred here despite the lack of schedule impact. The project manager should have assessed the change from all perspectives and followed the change control process rather than making the decision based solely on schedule impact. This is not successful project management because proper change control was not followed.",
+    "difficulty": "hard",
+    "topic": "Scope Management and Change Control",
+    "domain": 2,
+    "source_id": "yt_002",
+    "chunk_index": 0,
+    "video_segment": "0:00→15:07"
+  },
+  {
+    "question": "A risk manager is collaborating with the project manager to perform a risk analysis to determine the most likely project completion date based on known risks. They conduct a simulation using a tool to go through thousands of possible scenarios. Which analysis technique is being used?",
+    "options": [
+      "A. Monte Carlo analysis",
+      "B. Sensitivity analysis",
+      "C. Probability and impact matrix",
+      "D. Expected monetary value analysis"
+    ],
+    "answer": "A",
+    "explanation": "Monte Carlo analysis is the only method used when conducting thousands of possible scenarios through simulation using advanced software and powerful machines. The other techniques do not iterate through thousands of scenarios.",
+    "difficulty": "hard",
+    "topic": "Risk Analysis and Quantification",
+    "domain": 2,
+    "source_id": "yt_002",
+    "chunk_index": 1,
+    "video_segment": "15:07→30:14"
+  },
+  {
+    "question": "A project manager who follows the servant leadership style is onboarding a new team member who he believes can help fill skill level gaps in the current project team. The project manager provides the new team member with a copy of the project charter and commits to sending a copy of which document that addresses team values, ground rules, and working agreements?",
+    "options": [
+      "A. Resource management plan",
+      "B. Team charter",
+      "C. Communication management plan",
+      "D. Employment contract"
+    ],
+    "answer": "B",
+    "explanation": "The team charter is the document developed in a group setting to clarify team direction while establishing boundaries. It specifically addresses team values, ground rules, and working agreements. The other documents do not contain this information.",
+    "difficulty": "hard",
+    "topic": "Team Development and Servant Leadership",
+    "domain": 1,
+    "source_id": "yt_002",
+    "chunk_index": 1,
+    "video_segment": "15:07→30:14"
+  },
+  {
+    "question": "A project manager is leading a project that has become so large with multiple teams, long duration, and huge budget that the sponsor has been replaced by a steering committee. What should the project manager do to accommodate this new change?",
+    "options": [
+      "A. Acknowledge that the stakeholder structure has changed and tailor communication accordingly",
+      "B. Work according to the original plan",
+      "C. Hold a meeting with the new steering committee and continue working on the project",
+      "D. Share an updated status report with the new steering committee"
+    ],
+    "answer": "A",
+    "explanation": "On large projects, a steering committee is established when the project involves multiple business units, organizations, or individuals with substantial stakes in project success. The project manager must be proactive and acknowledge this change, then adjust the communication plan accordingly. The initial communication plan for a single sponsor will not work for a steering committee; the project manager must understand the committee's communication requirements and preferences.",
+    "difficulty": "hard",
+    "topic": "Stakeholder Communication and Governance",
+    "domain": 1,
+    "source_id": "yt_002",
+    "chunk_index": 1,
+    "video_segment": "15:07→30:14"
+  },
+  {
+    "question": "Pre-manufacturing lines are producing 5 mm diameter cylindrical steel bars. To perform quality inspection, the project manager takes 10 random bars from each line. Line one measurements consistently average around 4.45 mm, sometimes less and sometimes more. How can the results of line one be described?",
+    "options": [
+      "A. Accurate",
+      "B. Precise",
+      "C. Both accurate and precise",
+      "D. Neither accurate nor precise"
+    ],
+    "answer": "B",
+    "explanation": "The results are precise because all measurements are close to 4.45 mm, showing consistency. However, they are not accurate because 4.45 mm is not close to the required 5 mm target. Precision entails delivering products with similar dimensions, which may or may not be close to the required dimensions. Accuracy means the measurements are close to the target value.",
+    "difficulty": "hard",
+    "topic": "Quality Control and Inspection",
+    "domain": 2,
+    "source_id": "yt_002",
+    "chunk_index": 1,
+    "video_segment": "15:07→30:14"
+  },
+  {
+    "question": "A government contractor wants to keep the costs of building a public school under control while putting the risk on the vendor's side. The contractor also wants to ensure that the seller is legally obliged to complete the contract, or the seller may face financial liabilities. Which type of contract represents the least risk for the government contractor?",
+    "options": [
+      "A. Fixed price contract",
+      "B. Time and material contract",
+      "C. Cost plus incentive fee contract",
+      "D. Cost reimbursable contract"
+    ],
+    "answer": "A",
+    "explanation": "A fixed price contract represents the least risk for the government contractor because the price is known in advance and the contractor can legally obligate the seller to complete the contract. If the seller fails to complete the contract, they may face financial liabilities. In fixed price contracts, the risk is shifted to the vendor.",
+    "difficulty": "hard",
+    "topic": "Procurement and Contract Types",
+    "domain": 2,
+    "source_id": "yt_002",
+    "chunk_index": 1,
+    "video_segment": "15:07→30:14"
+  },
+  {
+    "question": "In an effort to increase agile knowledge, a project manager has been paired with other agile project managers to observe how they lead their teams. The project manager notices that many project decisions are the responsibility of the project team while project managers are more facilitative than authoritarian as they share a common vision and allow the team to focus on their work. What leadership approach does this depict?",
+    "options": [
+      "A. Participative leadership",
+      "B. Servant leadership",
+      "C. Transformational leadership",
+      "D. Autocratic leadership"
+    ],
+    "answer": "B",
+    "explanation": "This describes servant leadership, which consists of leading through serving the team. Servant leadership focuses on capturing and addressing the needs of team members to achieve good team performance. The facilitative approach, sharing common vision, and allowing the team to focus on their work are characteristics of servant leadership, not participative (democratic), transformational, or autocratic leadership.",
+    "difficulty": "hard",
+    "topic": "Servant Leadership and Team Motivation",
+    "domain": 1,
+    "source_id": "yt_002",
+    "chunk_index": 1,
+    "video_segment": "15:07→30:14"
+  },
+  {
+    "question": "A project manager closed the first phase of the project and launched the second phase. The project manager meets with the sponsor to check if any potential stakeholders were left out in the first phase and to discuss these new stakeholders' influence. Which process is the project manager carrying out?",
+    "options": [
+      "A. Planning stakeholder engagement",
+      "B. Identifying stakeholders",
+      "C. Planning resource management",
+      "D. Identifying risks"
+    ],
+    "answer": "B",
+    "explanation": "The project manager is identifying stakeholders by checking if any potential stakeholders were left out and discussing new stakeholders' influence. This is the process of identifying stakeholders, not planning their engagement, planning resources, or identifying risks.",
+    "difficulty": "hard",
+    "topic": "Stakeholder Identification",
+    "domain": 1,
+    "source_id": "yt_002",
+    "chunk_index": 1,
+    "video_segment": "15:07→30:14"
+  },
+  {
+    "question": "A project manager is assigned to lead an industrial project. In the second phase of the project, the project manager will need to hire dozens of remote workers. What is the best way for the project manager to quickly collect data from candidates?",
+    "options": [
+      "A. Video recordings",
+      "B. Workshops",
+      "C. Questionnaires and surveys",
+      "D. Live interviews"
+    ],
+    "answer": "C",
+    "explanation": "Questionnaires and surveys are the most effective for quickly collecting data from dozens of remote workers because they allow for filtering and statistical analysis without the time investment required by workshops or live interviews. Video recordings may require several minutes per candidate, while live interviews can take 30 minutes to 1 hour each, making these options impractical for dozens of candidates.",
+    "difficulty": "hard",
+    "topic": "Resource Acquisition and Staffing",
+    "domain": 2,
+    "source_id": "yt_002",
+    "chunk_index": 1,
+    "video_segment": "15:07→30:14"
+  },
+  {
+    "question": "A project manager is running a project with remote and local resources. The remote team complains that they are not getting enough information about what's going on with the project, which has caused them to do some rework. The project manager facilitates a conference call with the two teams in which they decide to switch to a sophisticated enterprise chat platform to optimize communications. Which conflict resolution technique did the project manager use?",
+    "options": [
+      "A. Collaborate",
+      "B. Compromise",
+      "C. Force",
+      "D. Smooth"
+    ],
+    "answer": "A",
+    "explanation": "Collaboration is the correct conflict resolution technique because the project manager brought the two teams together, facilitated a meeting, and reached a solution that incorporates multiple viewpoints. In compromise, each party would have to sacrifice or give concessions, which did not occur here. Force would mean imposing a solution on both teams, which did not happen. Smoothing would lower the impact of the conflict rather than solve it. Collaboration aims for a win-win situation where all parties agree to the solution.",
+    "difficulty": "hard",
+    "topic": "Conflict Resolution",
+    "domain": 1,
+    "source_id": "yt_002",
+    "chunk_index": 2,
+    "video_segment": "30:14→45:20"
+  },
+  {
+    "question": "To better understand how the project system flows, depicting the scope in abstraction and enabling stakeholders to communicate about it and what lies beyond its boundaries, a project manager uses a visual representation of how people and other systems interact with the new system. Which of the following tools does the project manager use?",
+    "options": [
+      "A. Affinity diagram",
+      "B. Flowchart",
+      "C. Context diagram",
+      "D. Influence diagram"
+    ],
+    "answer": "C",
+    "explanation": "A context diagram is the correct answer because it is a visual depiction of the product scope that displays the business system and how it connects and interacts with other systems. It shows how different users and external systems interact with the new system and what lies beyond its boundaries. Affinity diagrams are used for organizing and categorizing ideas. Flowcharts show sequential processes. Influence diagrams show relationships between variables.",
+    "difficulty": "hard",
+    "topic": "Scope Definition and Visualization",
+    "domain": 2,
+    "source_id": "yt_002",
+    "chunk_index": 2,
+    "video_segment": "30:14→45:20"
+  },
+  {
+    "question": "Realizing that her project is not going according to estimations, a project manager suspects that it might be due to student syndrome. What does this syndrome imply?",
+    "options": [
+      "A. People who proceed with their studies during their professional careers",
+      "B. People who begin to apply themselves only at the last possible moment before the deadline",
+      "C. People who lack formal training in project management",
+      "D. People who resist organizational change"
+    ],
+    "answer": "B",
+    "explanation": "Student syndrome refers to the habit of putting off work until the last minute while initially working at a very relaxed pace. This causes schedule delays and increased pressure at the end of the project. It is not about formal studies or training. Understanding student syndrome helps project managers recognize when team members may be procrastinating and adjust their schedule management or motivation strategies accordingly.",
+    "difficulty": "hard",
+    "topic": "Schedule Management and Team Behavior",
+    "domain": 1,
+    "source_id": "yt_002",
+    "chunk_index": 2,
+    "video_segment": "30:14→45:20"
+  },
+  {
+    "question": "A project manager is managing a project using the scrum framework. The project manager receives a call from the product owner asking for a meeting with the team to discuss the possible approaches to implement user stories and make some initial size estimations. What type of meeting is the product owner referring to?",
+    "options": [
+      "A. Sprint planning",
+      "B. Story mapping",
+      "C. Backlog refinement",
+      "D. Brainstorming"
+    ],
+    "answer": "C",
+    "explanation": "Backlog refinement is the correct answer because it is the meeting where the product owner discusses and addresses story requirements with the team, including discussing requirements, potential approaches, and estimations. Sprint planning occurs at the beginning of each sprint with a fixed schedule and produces final estimations before work begins. Story mapping involves decomposing epics and user stories into tasks. Brainstorming is a general meeting for finding ideas and collecting insights, not for discussing specific user story implementation approaches.",
+    "difficulty": "hard",
+    "topic": "Agile/Scrum Ceremonies and Backlog Management",
+    "domain": 2,
+    "source_id": "yt_002",
+    "chunk_index": 2,
+    "video_segment": "30:14→45:20"
+  },
+  {
+    "question": "A project manager is leading a software project using a hybrid approach. During a lessons learned meeting, one of the team members complained that every time she submits a new piece of code, she finds many errors caused by the code changes made by her fellow developers. The project manager suggested testing, updating, and integrating new software code more frequently in order to reduce such errors. Which of the following techniques did the project manager suggest?",
+    "options": [
+      "A. Constant integration",
+      "B. Consecutive integration",
+      "C. Consistent integration",
+      "D. Continuous integration"
+    ],
+    "answer": "D",
+    "explanation": "Continuous integration is the correct technique because it dictates that all changes to the application source code base be frequently tested and integrated to reduce risks, improve quality, and establish a quick, reliable, and sustainable development base. The other options (constant, consecutive, and consistent integration) are made-up terms. Continuous integration directly addresses the problem of errors arising from code changes by ensuring frequent testing and integration of new code.",
+    "difficulty": "hard",
+    "topic": "Software Development and Quality Management",
+    "domain": 2,
+    "source_id": "yt_002",
+    "chunk_index": 2,
+    "video_segment": "30:14→45:20"
+  },
+  {
+    "question": "A project manager is leading a project to implement a new enterprise resource planning (ERP) system for a local customer. The project manager guides the team to define the project requirements and details before moving to execution. The project will be delivered after 4 months. The customer will pay the organization in monthly installments. Which of the following project development approaches is the project manager adopting?",
+    "options": [
+      "A. Predictive",
+      "B. Adaptive",
+      "C. Iterative",
+      "D. Incremental"
+    ],
+    "answer": "A",
+    "explanation": "Predictive is the correct approach because the project involves defining requirements and details upfront before moving to execution, and deliverables will only be shipped at the end of the project. The fact that the customer will pay in monthly installments does not affect the development approach decision. Adaptive, iterative, and incremental approaches involve delivering value incrementally throughout the project. In a predictive approach with fixed requirements and a single final delivery, the payment structure is separate from the methodology used.",
+    "difficulty": "hard",
+    "topic": "Project Development Approaches and Lifecycle Selection",
+    "domain": 2,
+    "source_id": "yt_002",
+    "chunk_index": 2,
+    "video_segment": "30:14→45:20"
+  },
+  {
+    "question": "A project manager is assigned to a 12-month project that has a $100,000 budget. 6 months have passed and $60,000 has been spent. On closer inspection, the project manager finds out that so far only 40% of the work has been completed. What is the value of the completed work referred to as?",
+    "options": [
+      "A. Actual cost",
+      "B. Earned value",
+      "C. Planned value",
+      "D. Budget at completion"
+    ],
+    "answer": "B",
+    "explanation": "The value of completed work is definitionally known as earned value (EV) in earned value management. This is a fundamental concept in project management metrics.",
+    "difficulty": "hard",
+    "topic": "Earned Value Management",
+    "domain": 2,
+    "source_id": "yt_002",
+    "chunk_index": 3,
+    "video_segment": "45:20→1:00:27"
+  },
+  {
+    "question": "A project manager is carrying out initial planning activities for a gas pipeline construction project. When estimating the activity of installing 1,000 m of pipes, one team member states that they can run the same length of pipe in 14 hours on a previous similar project. Another team member claims that according to current project conditions, it is possible to run 100 m of gas pipes per hour. Using the analogous estimating technique, how many hours will it take the team to run the gas pipelines?",
+    "options": [
+      "A. 10 hours",
+      "B. 11 hours",
+      "C. 12 hours",
+      "D. 14 hours"
+    ],
+    "answer": "D",
+    "explanation": "Analogous estimation uses historical data from similar past projects to estimate current project activities. The first team member's statement of 14 hours from a previous similar project is the analogous estimate. The 100 m per hour approach would be parametric estimation, not analogous estimation.",
+    "difficulty": "hard",
+    "topic": "Estimation Techniques",
+    "domain": 2,
+    "source_id": "yt_002",
+    "chunk_index": 3,
+    "video_segment": "45:20→1:00:27"
+  },
+  {
+    "question": "A project manager is leading a construction project of a shopping center. During the execution phase, the project manager received an approved change request from the client to modify the partition of the center. After checking the change request, the project manager realized that the budget allocated for its implementation might not be sufficient. What should the project manager do next?",
+    "options": [
+      "A. Discuss the budget of the change with the client",
+      "B. Implement the change since it is already approved",
+      "C. Reject the change request due to its inadequate budget",
+      "D. Disregard the change request since the project follows a predictive approach"
+    ],
+    "answer": "A",
+    "explanation": "Although the change request is approved, the project manager discovered a critical issue—insufficient budget allocation. The appropriate action is to discuss this impact with the client before implementation. The project manager cannot unilaterally reject or disregard an approved change request, as these are not within their authority. The predictive approach does not prevent change requests or discussion of their impacts.",
+    "difficulty": "hard",
+    "topic": "Integrated Change Control",
+    "domain": 2,
+    "source_id": "yt_002",
+    "chunk_index": 3,
+    "video_segment": "45:20→1:00:27"
+  },
+  {
+    "question": "A project manager decides to obtain her PMP certification in two months. She creates an exam preparation plan: weeks one to four watch preparation course, weeks five and six take mock practice tests, week seven time off, and week eight sit for the exam. However, in week five, the project manager had to attend a 7-day international conference. To make up for lost time, she cancelled her week off and worked on mock tests during weeks six and seven instead of weeks five and six. This is an example of what?",
+    "options": [
+      "A. Adaptability",
+      "B. Risk mitigation",
+      "C. Workaround",
+      "D. Corrective action"
+    ],
+    "answer": "C",
+    "explanation": "A workaround is an unplanned response to a problem or event that occurs during project execution. The international conference was an unplanned incident, and the project manager's decision to cancel her time off and reschedule mock tests to recover the lost time is a workaround—a response to an issue that was not previously identified or mitigated.",
+    "difficulty": "hard",
+    "topic": "Risk Response Strategies",
+    "domain": 2,
+    "source_id": "yt_002",
+    "chunk_index": 3,
+    "video_segment": "45:20→1:00:27"
+  },
+  {
+    "question": "During project execution, a team member reaches out to the project manager to inquire about the work they need to accomplish in this phase of the project. Which of these documents comprises thorough descriptions of work packages?",
+    "options": [
+      "A. Work Breakdown Structure (WBS)",
+      "B. WBS dictionary",
+      "C. Activity list",
+      "D. Scope management plan"
+    ],
+    "answer": "B",
+    "explanation": "The WBS dictionary is the artifact that includes thorough, detailed descriptions of work packages. The WBS itself shows only the hierarchical structure and names. The activity list contains names of activities but not detailed work package descriptions. The scope management plan is a process document that defines how to manage scope, not detailed work package descriptions.",
+    "difficulty": "hard",
+    "topic": "Scope Definition and WBS",
+    "domain": 2,
+    "source_id": "yt_002",
+    "chunk_index": 3,
+    "video_segment": "45:20→1:00:27"
+  },
+  {
+    "question": "While traditional project management follows predefined phases and sticks to the predetermined scope, which of the following is a characteristic of agile project management approaches?",
+    "options": [
+      "A. Encapsulate analysis, design, implementation and test within an iteration",
+      "B. Involve documenting, estimating, and sequencing each planned activity in detail",
+      "C. Use Gantt charts to track project activities",
+      "D. Map the iteration backlog into the work breakdown structure (WBS)"
+    ],
+    "answer": "A",
+    "explanation": "In agile project management, each iteration must encapsulate analysis, design, implementation, and testing to deliver a potentially shippable product increment by the end of the iteration. Options B, C, and D are characteristics of traditional predictive project management, which involves detailed upfront planning, Gantt charts, and WBS creation.",
+    "difficulty": "hard",
+    "topic": "Agile Project Management Characteristics",
+    "domain": 2,
+    "source_id": "yt_002",
+    "chunk_index": 4,
+    "video_segment": "1:00:27→1:15:34"
+  },
+  {
+    "question": "A project manager is leading a construction project. Throughout its execution, the project was influenced by both enterprise environmental factors and organizational process assets. Which of the following is an example of an enterprise environmental factor (external)?",
+    "options": [
+      "A. Construction work requires a building permit from the city council",
+      "B. Workers who do not obey safety rules will be penalized",
+      "C. Only authorized personnel are allowed on site",
+      "D. Workers have expertise in infrastructure construction"
+    ],
+    "answer": "A",
+    "explanation": "A building permit from the city council is an external enterprise environmental factor because it originates outside the organization. Options B and C are organizational process assets as they represent internal organizational processes and policies. Option D is an internal enterprise environmental factor (the expertise of internal workers), not an external one.",
+    "difficulty": "hard",
+    "topic": "Enterprise Environmental Factors and Organizational Process Assets",
+    "domain": 2,
+    "source_id": "yt_002",
+    "chunk_index": 4,
+    "video_segment": "1:00:27→1:15:34"
+  },
+  {
+    "question": "For a museum construction project, concrete is poured after the completion of rebar and formwork. Workers must wait 14 days before removing the formwork as the concrete must be strong enough for this operation. The 14-day period is an example of which of the following?",
+    "options": [
+      "A. Lead time",
+      "B. Lag time",
+      "C. Cycle time",
+      "D. Free float"
+    ],
+    "answer": "B",
+    "explanation": "Lag time is a purposeful delay between activities where you must wait a predetermined amount of time after completing one task before starting or completing another task. In this scenario, there is a mandatory 14-day wait after pouring concrete before the formwork can be removed. Lead time refers to task overlap or the time between task creation and completion. Cycle time is the duration to complete a task. Free float is the amount of delay a task can have without affecting successor tasks.",
+    "difficulty": "hard",
+    "topic": "Precedence Relationships and Activity Sequencing",
+    "domain": 2,
+    "source_id": "yt_002",
+    "chunk_index": 4,
+    "video_segment": "1:00:27→1:15:34"
+  },
+  {
+    "question": "An organization operating in the oil and gas industry tends to sign an agreement with a contractor to obtain provided experts, technical knowledge, and mechanical spare parts. Since the organization's projects consist of building innovative high-tech machines, the exact description of the work involved is not clear. What type of contract should the organization sign with the contractor?",
+    "options": [
+      "A. Fixed price incentive fee",
+      "B. Cost plus award fee",
+      "C. Time and materials",
+      "D. Firm fixed price"
+    ],
+    "answer": "C",
+    "explanation": "When the scope of work is unclear, time and materials contracts are most appropriate because they allow flexibility as the scope becomes clearer. The contractor is paid based on actual time spent (hourly, daily rates) and reimbursed for materials, providing cost control mechanisms. Fixed-price contracts (both A and D) are unsuitable for unclear scopes as they expose the contractor to excessive risk. Cost plus award fee (B) can be risky for the organization because costs may increase significantly when scope is undefined.",
+    "difficulty": "hard",
+    "topic": "Contract Types and Procurement",
+    "domain": 2,
+    "source_id": "yt_002",
+    "chunk_index": 4,
+    "video_segment": "1:00:27→1:15:34"
+  },
+  {
+    "question": "A project manager is in the phase of planning the redesign of a commercial building. The project team includes one carpenter who is only available to work part-time. Since the carpenter's work is on the critical path, the project manager has to push back the project's planned completion date to accommodate the carpenter's availability. What technique did the project manager use?",
+    "options": [
+      "A. Load balancing",
+      "B. Resource loading",
+      "C. Resource leveling",
+      "D. Resource smoothing"
+    ],
+    "answer": "C",
+    "explanation": "Resource leveling is used to optimize resource allocation by adjusting activity start and finish dates to accommodate resource constraints, often resulting in changes to the original critical path and project schedule. Load balancing is an IT concept unrelated to project management. Resource loading is used when distributing work among multiple resources with different workloads. Resource smoothing attempts to accommodate constraints without changing the schedule by rearranging non-critical activities. Since the project manager must push back the completion date to accommodate the carpenter's part-time availability, resource leveling is the correct technique.",
+    "difficulty": "hard",
+    "topic": "Resource Management and Leveling",
+    "domain": 2,
+    "source_id": "yt_002",
+    "chunk_index": 5,
+    "video_segment": "1:15:34→1:30:41"
+  },
+  {
+    "question": "A project manager is carrying out a project using the agile approach with two-week sprints. One week into the current sprint, the team hasn't completed any of the sprint backlog items, making it impossible to achieve the sprint goal. What should the project manager do?",
+    "options": [
+      "A. Cancel the sprint, hold an early retrospective meeting, and start over with a new energy",
+      "B. Discuss with the team the root cause of their poor performance during the stand-up meeting",
+      "C. Discuss with the product owner the possibility of updating the sprint goal to make it more achievable",
+      "D. Invite the product owner and the team to renegotiate the sprint backlog and help the team overcome the encountered problems"
+    ],
+    "answer": "D",
+    "explanation": "Only the product owner can cancel a sprint, not the project manager. Stand-up meetings are for brief daily synchronization and capturing blockers, not for conducting root cause analysis or lengthy discussions about performance issues. Lowering the sprint goal undermines team motivation and does not resolve the underlying problems. The correct approach is to renegotiate the sprint backlog with the product owner and team to prioritize items that contribute most to the sprint goal, remove less critical items, and help the team overcome obstacles. This proactively maximizes the value delivered and achievement of the sprint goal.",
+    "difficulty": "hard",
+    "topic": "Agile/Scrum Sprint Management",
+    "domain": 2,
+    "source_id": "yt_002",
+    "chunk_index": 5,
+    "video_segment": "1:15:34→1:30:41"
+  },
+  {
+    "question": "A project manager is facilitating a meeting to define the user stories of the next iteration. Two team members, Charlotte and Sam, get too vocal during the meeting. Charlotte believes that user story 2 is clear enough while Sam thinks it's ambiguous and needs further elaboration. The team moves on to the next user story, ignoring Sam's point of view. Sam accepts the team's decision and remains quiet for the rest of the meeting. At the end of the meeting, the project manager tells Sam that user story 2 could be reviewed during the iteration's first week when more information is available. Which of the following conflict resolution techniques did Sam use in this scenario?",
+    "options": [
+      "A. Smoothing",
+      "B. Compromising",
+      "C. Forcing",
+      "D. Withdrawal"
+    ],
+    "answer": "D",
+    "explanation": "Smoothing was used by the project manager to lower the impact of the conflict by reassuring Sam that the issue could be addressed later. Compromising requires both parties to give something up and reach a mutual agreement, which did not occur. Forcing was used by Charlotte, who pushed her decision forward without addressing Sam's concerns. Withdrawal is what Sam used—he conceded his position, remained quiet, and accepted the team's decision to maintain harmony. This results in a lose-lose situation where Sam's valid concern is not addressed.",
+    "difficulty": "hard",
+    "topic": "Conflict Resolution",
+    "domain": 1,
+    "source_id": "yt_002",
+    "chunk_index": 5,
+    "video_segment": "1:15:34→1:30:41"
+  },
+  {
+    "question": "A project manager is leading a small team of developers using project management software that includes a kanban board. After receiving many questions from team members on how to create, review and validate tasks or issues, the project manager decides to create a chart showing the workflow from to-do list, in progress, functional review, to done. What type of chart is this?",
+    "options": [
+      "A. Pareto chart",
+      "B. Flowchart",
+      "C. Context diagram",
+      "D. Scatter diagram"
+    ],
+    "answer": "B",
+    "explanation": "A flowchart, also referred to as a process map, progress flow, and progress flow diagram, graphically displays the logical order of a process. The chart shows how work flows from the beginning to the end, which is the definition of a flowchart, not a Pareto chart, context diagram, or scatter diagram.",
+    "difficulty": "hard",
+    "topic": "Process Documentation and Visualization",
+    "domain": 2,
+    "source_id": "yt_002",
+    "chunk_index": 6,
+    "video_segment": "1:30:41→1:45:48"
+  },
+  {
+    "question": "A project manager intends to talk to her manager about obtaining additional resources for complex activities that her team is unable to perform. These resources will roll off the project as soon as the activities are completed. Which of the following skills does the project manager need the most in this situation?",
+    "options": [
+      "A. Planning skills to identify resource requirements",
+      "B. Interpersonal skills to convince her manager of her need for additional resources",
+      "C. Interviewing skills to hire the required resources",
+      "D. Technical skills to respond to the risk associated with adding more resources"
+    ],
+    "answer": "B",
+    "explanation": "In a functional organization, the project manager needs to convince the functional manager to release additional resources. Trying to convince upper management requires the use of interpersonal skills, which are often needed when acquiring resources. While planning skills are important for identifying resource requirements, the primary challenge in this situation is persuading management to approve the additional resources.",
+    "difficulty": "hard",
+    "topic": "Resource Management and Interpersonal Skills",
+    "domain": 1,
+    "source_id": "yt_002",
+    "chunk_index": 6,
+    "video_segment": "1:30:41→1:45:48"
+  },
+  {
+    "question": "After baselining the scope and during project execution, a key stakeholder who is a member of the change control board requested a new requirement. The project manager is convinced that this new requirement can add value to the project. What should the project manager do?",
+    "options": [
+      "A. Implement the change request since the key stakeholder is a member of the CCB",
+      "B. Implement the change request since it will add value to the project",
+      "C. Submit a change request according to the change control system",
+      "D. Record the change request in the change log"
+    ],
+    "answer": "C",
+    "explanation": "Regardless of the fact that the change was requested by a member of the CCB, the project manager should submit a change request according to the procedures defined in the change control system. All CCB members must review and approve the change request, not just the requesting member. While recording in the change log may also occur, submitting through the formal change control system is the primary correct action.",
+    "difficulty": "hard",
+    "topic": "Change Control and Integrated Change Control",
+    "domain": 2,
+    "source_id": "yt_002",
+    "chunk_index": 6,
+    "video_segment": "1:30:41→1:45:48"
+  },
+  {
+    "question": "The project manager has just joined a new organization. A majority of the organization's projects are conducted by experienced project managers. What should be the primary focus of the new project manager?",
+    "options": [
+      "A. Acquire a skillful team",
+      "B. Learn about the organization's culture",
+      "C. Get to know the organization's executive managers",
+      "D. Get to know the organization's project managers"
+    ],
+    "answer": "B",
+    "explanation": "When joining a new organization, it is very important that the project manager grasps the organization's culture. Understanding the culture, how the organization operates, its policies, and its appetite for risk among other things should be the project manager's first priority when joining a new organization. Although talking to executive managers and project managers may help, learning the organization's culture provides the foundation for all other interactions and decisions.",
+    "difficulty": "hard",
+    "topic": "Organizational Awareness and Cultural Integration",
+    "domain": 3,
+    "source_id": "yt_002",
+    "chunk_index": 6,
+    "video_segment": "1:30:41→1:45:48"
+  },
+  {
+    "question": "After completing the creation of the scope statement, a project manager wanted to make sure that all of the project deliverables were identified and could be managed effectively. She opted for one of these methods to develop the WBS in order to capture all of the project's details. Which method should she use?",
+    "options": [
+      "A. Scope decomposition",
+      "B. Analogous estimation",
+      "C. Parametric analysis",
+      "D. Rolling wave planning"
+    ],
+    "answer": "A",
+    "explanation": "Scope decomposition is a planning method used to decompose and subdivide the project scope and deliverables into more manageable small work units. This is the technique specifically used to develop a WBS from the scope statement. The decomposition level depends on the complexity and size of the project. Analogous estimation uses previous projects, parametric analysis uses units of measurement, and rolling wave planning is for progressive elaboration.",
+    "difficulty": "hard",
+    "topic": "Work Breakdown Structure Development",
+    "domain": 2,
+    "source_id": "yt_002",
+    "chunk_index": 6,
+    "video_segment": "1:30:41→1:45:48"
+  },
+  {
+    "question": "Adopting a predictive approach to plan an agriculture project, a project manager chooses a method to estimate the cost by using the work breakdown structure. The project manager estimates the cost for each work package at the lowest level of the WBS and then aggregates these estimates upward to arrive at the total project cost. Which cost estimation method is being used?",
+    "options": [
+      "A. Analogous estimation",
+      "B. Parametric estimation",
+      "C. Top-down estimation",
+      "D. Bottom-up estimation"
+    ],
+    "answer": "D",
+    "explanation": "The bottom-up method can be used as an estimation technique for the project's overall cost by estimating the approximate value of smaller components at the lowest levels of the WBS and using the total sum of these values to find the overall cost. This approach starts from the detailed work packages and aggregates upward. Analogous estimation uses historical projects, parametric uses unit-based calculations, and top-down is a high-level estimate that works downward from the total.",
+    "difficulty": "hard",
+    "topic": "Cost Estimation Techniques",
+    "domain": 2,
+    "source_id": "yt_002",
+    "chunk_index": 6,
+    "video_segment": "1:30:41→1:45:48"
+  },
+  {
+    "question": "The project manager is assigned to an industrial project that follows a predictive approach. During the risk planning phase, the project manager decided to create a contingency reserve. A contingency reserve is typically created for which type of risks?",
+    "options": [
+      "A. Passive risk acceptance",
+      "B. Active risk acceptance",
+      "C. Workaround or unidentified risks",
+      "D. Unidentified risks only"
+    ],
+    "answer": "B",
+    "explanation": "A contingency reserve is created for identified risks that have been analyzed and for which active risk responses have been planned. When risks are actively accepted, the project team prepares a plan and allocates resources (contingency reserve) to respond if the risk occurs. Contingency reserves are not used for unidentified risks, which are handled through management reserve and workarounds. Passive acceptance means doing nothing, which would not require a contingency reserve.",
+    "difficulty": "hard",
+    "topic": "Risk Response Planning and Reserves",
+    "domain": 2,
+    "source_id": "yt_002",
+    "chunk_index": 6,
+    "video_segment": "1:30:41→1:45:48"
+  },
+  {
+    "question": "A project manager is leading a project outside of her expertise field. During a planning meeting, two team members engage in a heated debate concerning the suitable way to implement a certain project requirement. What should the project manager do?",
+    "options": [
+      "A. Put an end to the discussion to avoid getting the meeting out of control",
+      "B. Help team members decide the best way to implement the concerned requirement",
+      "C. Inform team members that the final decision should be taken by her after listening to their opinions",
+      "D. Let the most experienced team member decide"
+    ],
+    "answer": "B",
+    "explanation": "The project manager should facilitate the discussion by helping team members reach a collaborative decision. Since the PM lacks technical expertise, she should not make the decision herself (C is wrong). Simply ending the discussion (A) does not resolve the issue. Forcing the most experienced member to decide (D) is an authoritarian approach that does not encourage collaboration. The PM's role is to facilitate problem-solving among subject matter experts on the team.",
+    "difficulty": "hard",
+    "topic": "Conflict Resolution and Facilitation",
+    "domain": 1,
+    "source_id": "yt_002",
+    "chunk_index": 7,
+    "video_segment": "1:45:48→2:00:56"
+  },
+  {
+    "question": "A project manager is assigned to manage a software development project. When she came across one of the project's key stakeholders in the company's hallway, the project manager seized the opportunity to get his feedback. The key stakeholder was impressed with the project's progress and requested from the project manager to urgently add a new user story to improve the product's user interface. What should the project manager do next?",
+    "options": [
+      "A. Welcome the stakeholder's request and add the user story to the sprint backlog",
+      "B. Add the user story to the product backlog and schedule it for the next sprint to protect the team from disruption",
+      "C. Add the user story to the product backlog and let the product owner decide its priority",
+      "D. Refuse to create the user story since it is the product owner's responsibility to maintain and refine the product backlog"
+    ],
+    "answer": "C",
+    "explanation": "The correct approach is to add the user story to the product backlog and allow the product owner to prioritize it. Option A is incorrect because adding it directly to the sprint backlog disrupts the current sprint without product owner approval. Option B is wrong because the project manager should not make prioritization decisions—that is the product owner's responsibility. Option D is incorrect because anyone can submit user stories; the product owner's responsibility is to prioritize and refine them. The product owner maintains final authority over the product backlog.",
+    "difficulty": "hard",
+    "topic": "Agile/Scrum Project Management",
+    "domain": 2,
+    "source_id": "yt_002",
+    "chunk_index": 7,
+    "video_segment": "1:45:48→2:00:56"
+  },
+  {
+    "question": "A project involved dozens of stakeholders. Most of them need high-level information and updates about the project status, while the rest need more detailed information and frequent updates. Therefore, the project manager decides to set up an action plan to respond to these different requirements. What should the project manager create?",
+    "options": [
+      "A. Power interest grid",
+      "B. Stakeholder register",
+      "C. Stakeholder engagement plan",
+      "D. Stakeholder engagement assessment metrics"
+    ],
+    "answer": "C",
+    "explanation": "A stakeholder engagement plan is the appropriate document that sets up strategies and actions to ensure positive and effective involvement of all stakeholders based on their specific needs. A power interest grid is merely a mapping technique and does not include action plans. A stakeholder register is a list of stakeholders with contact information but lacks detailed engagement strategies. Stakeholder engagement assessment metrics assess stakeholder support levels (supportive, neutral, resistant) but do not provide an action plan for responding to different information requirements.",
+    "difficulty": "hard",
+    "topic": "Stakeholder Engagement Planning",
+    "domain": 1,
+    "source_id": "yt_002",
+    "chunk_index": 7,
+    "video_segment": "1:45:48→2:00:56"
+  },
+  {
+    "question": "A project manager joins a company which has recently gone through major organizational changes. The new project manager is very concerned about the team's lack of motivation and closely monitors when they arrive and leave work. What type of management style does the new project manager exhibit?",
+    "options": [
+      "A. Theory X",
+      "B. Theory Y",
+      "C. Theory Z",
+      "D. Theory XY"
+    ],
+    "answer": "A",
+    "explanation": "The project manager is exhibiting Theory X management style, which is characterized by authoritarian, repressive control with tight oversight and no development opportunities for team members. The close monitoring of arrival and departure times reflects a command-and-control approach typical of Theory X. Theory Y, by contrast, is a liberating and open style that empowers team members and supports their continuous improvement. Theory Z focuses on long-term fulfillment and retention through collaboration, which is not reflected in this scenario.",
+    "difficulty": "hard",
+    "topic": "Leadership Styles and Motivation",
+    "domain": 1,
+    "source_id": "yt_002",
+    "chunk_index": 7,
+    "video_segment": "1:45:48→2:00:56"
+  },
+  {
+    "question": "The project manager has developed the project schedule using the network diagramming method and has calculated the overall project duration. However, the project manager was surprised to find three critical paths. What should the project manager do next?",
+    "options": [
+      "A. Approve the network diagram and closely monitor all three critical paths",
+      "B. Approve the network diagram and closely monitor the longest path among the three",
+      "C. Re-examine the network diagram since it is supposed to only have one critical path",
+      "D. Re-examine the network diagram since it is not supposed to have more than two critical paths"
+    ],
+    "answer": "A",
+    "explanation": "It is possible and acceptable to have multiple critical paths in a network diagram. When three critical paths exist, they all have the same duration and any delay in any task on any of these paths will delay the project. Multiple critical paths increase project risk because there are more tasks that are critical. Option B is incorrect because if there are three critical paths, they must have equal length by definition. Options C and D are incorrect because having multiple critical paths is a valid scenario—the diagram does not need to be re-examined. The project manager should approve the diagram and monitor all critical paths carefully due to increased risk.",
+    "difficulty": "hard",
+    "topic": "Network Diagramming and Critical Path Analysis",
+    "domain": 2,
+    "source_id": "yt_002",
+    "chunk_index": 7,
+    "video_segment": "1:45:48→2:00:56"
+  },
+  {
+    "question": "A project manager is assigned to lead a construction project for the first time. Three months in, the project manager notes that the running cost is higher than expected. He decides to assess the project's financial status by calculating the difference between the earned value and the actual cost. What is the project manager calculating?",
+    "options": [
+      "A. Cost performance index",
+      "B. Cost variance",
+      "C. Planned value",
+      "D. To-complete performance index"
+    ],
+    "answer": "B",
+    "explanation": "Cost variance is calculated as the difference between earned value and actual cost (EV − AC). Cost performance index is a ratio, not a difference, so it is incorrect. Planned value is a baseline metric defined during planning and is not calculated from a difference. The to-complete performance index projects future performance and is not a simple difference calculation. The question specifically asks for a calculation of the difference, which defines variance, not an index or a single value.",
+    "difficulty": "hard",
+    "topic": "Earned Value Management",
+    "domain": 2,
+    "source_id": "yt_002",
+    "chunk_index": 7,
+    "video_segment": "1:45:48→2:00:56"
+  },
+  {
+    "question": "A project manager noted that multiple interpersonal conflicts are arising among team members. What is the best way to handle such conflicts?",
+    "options": [
+      "A. The project manager should always smooth conflicts since they distract the team and hinder work progress.",
+      "B. The project manager should address conflicts in open meetings so that the entire team can contribute to finding a solution.",
+      "C. The project manager should address conflicts proactively and privately using collaborative and direct approaches.",
+      "D. The project manager should be firm and use coercive power to quickly resolve conflicts."
+    ],
+    "answer": "C",
+    "explanation": "Smoothing (A) merely postpones the problem without resolving it. Addressing interpersonal conflicts in open meetings (B) is inappropriate; while technical conflicts benefit from open discussion, interpersonal conflicts should be handled privately to understand team members' motivations and characters. Coercive power (D) creates fear and does not improve interpersonal skills—team members will only behave differently when the manager is present. The correct approach (C) is to proactively address conflicts early using collaborative and direct approaches in private settings to achieve genuine resolution.",
+    "difficulty": "hard",
+    "topic": "Conflict Resolution",
+    "domain": 1,
+    "source_id": "yt_002",
+    "chunk_index": 8,
+    "video_segment": "2:00:56→2:16:03"
+  },
+  {
+    "question": "The project manager is responsible for running the project quality assurance report while reviewing a control chart. The project manager observes nine data points in a row on one side of the mean. What should the project manager do?",
+    "options": [
+      "A. Carry out a design of experiments.",
+      "B. Make the necessary changes to the chart to reflect the new mean.",
+      "C. Identify the assignable cause.",
+      "D. This is the rule of seven, meaning it can be disregarded."
+    ],
+    "answer": "C",
+    "explanation": "Nine consecutive data points on one side of the mean violates the rule of seven (seven or more consecutive points on one side of the mean), which indicates an assignable cause that requires investigation. Design of experiments (A) is not the appropriate corrective action for this situation. The chart should not be changed (B); instead, the process or product should be fixed to bring data closer to the mean. The rule of seven should never be disregarded (D); it must be analyzed to find and address the root cause of the process variation.",
+    "difficulty": "hard",
+    "topic": "Quality Control and Control Charts",
+    "domain": 2,
+    "source_id": "yt_002",
+    "chunk_index": 8,
+    "video_segment": "2:00:56→2:16:03"
+  },
+  {
+    "question": "A project manager gives the project team members the freedom to make decisions expecting them to solve issues on their own. Which of the following leadership approaches does the project manager adopt?",
+    "options": [
+      "A. Autocratic leadership",
+      "B. Democratic leadership",
+      "C. Laissez-faire leadership",
+      "D. Situational leadership"
+    ],
+    "answer": "C",
+    "explanation": "Laissez-faire leadership (a French term meaning 'let them do') is characterized by a hands-off approach where the project manager gives the team freedom to make decisions without direct involvement. This style is ideal for highly skilled teams and is appropriate when the project manager has high confidence in the team's abilities. The other leadership styles involve greater degrees of manager involvement in decision-making.",
+    "difficulty": "hard",
+    "topic": "Leadership Styles",
+    "domain": 1,
+    "source_id": "yt_002",
+    "chunk_index": 8,
+    "video_segment": "2:00:56→2:16:03"
+  },
+  {
+    "question": "A project manager is managing an online e-learning platform. The project team is following the Scrum framework and every few weeks they release a new version that includes more features, user interface changes, bug fixes, security patches, etc. In order to avoid confusing users with the continuous changes, the project manager decides to make all release information accessible to the platform members under a new section of the website. What type of communication is the project manager intends to use?",
+    "options": [
+      "A. Push communication",
+      "B. Interactive communication",
+      "C. Pull communication",
+      "D. Proactive communication"
+    ],
+    "answer": "C",
+    "explanation": "Pull communication allows stakeholders to access information when they need it, without being forced to receive it. In this scenario, users must proactively go to the website's news section to retrieve release information. Interactive communication (B) involves real-time discussion (phone, meetings, video conferences) and is not applicable here. Push communication (A) delivers information directly to the receiver without requiring them to seek it out. Proactive communication (D) is not a standard PMBOK communication type. Pull communication is appropriate for non-critical information that does not require immediate action.",
+    "difficulty": "hard",
+    "topic": "Stakeholder Communication Methods",
+    "domain": 1,
+    "source_id": "yt_002",
+    "chunk_index": 8,
+    "video_segment": "2:00:56→2:16:03"
+  },
+  {
+    "question": "After introducing a new foreign developer to the team, the project manager noted that a certain senior team member seems to be avoiding any interaction with him. What should the project manager do?",
+    "options": [
+      "A. Talk to the senior team member privately to try and find out the reason behind this behavior while making it clear that discrimination is not acceptable.",
+      "B. Notify the functional manager and escalate the issue.",
+      "C. Ignore the situation and let it resolve on its own.",
+      "D. Address the issue in front of all team members to demonstrate zero tolerance for discrimination."
+    ],
+    "answer": "A",
+    "explanation": "The project manager should proactively address the issue by speaking privately with the senior team member to understand the root cause of the avoidance behavior while clearly stating that discrimination is unacceptable. This approach allows for a confidential discussion and focuses on understanding motivations before considering escalation. Escalating to the functional manager (B) is premature without first attempting direct resolution. Ignoring the situation (C) allows the problem to persist and negatively affect team dynamics. Addressing it publicly (D) may embarrass the team member and escalate tensions unnecessarily.",
+    "difficulty": "hard",
+    "topic": "Team Dynamics and Conflict Management",
+    "domain": 1,
+    "source_id": "yt_002",
+    "chunk_index": 8,
+    "video_segment": "2:00:56→2:16:03"
+  },
+  {
+    "question": "A product owner started the day with a sprint planning meeting to discuss and define the goal and backlog of the new sprint. Which of the following options is correct regarding the sprint planning meeting?",
+    "options": [
+      "A. Discussion between the product owner, the scrum master and the cross functional team",
+      "B. Discussion between cross functional team members only",
+      "C. Discussion between the product owner and the scrum master",
+      "D. Discussion between the scrum master and the cross functional team members"
+    ],
+    "answer": "A",
+    "explanation": "Sprint planning meetings should include all three roles: the product owner, scrum master, and cross functional team. Option B is incorrect because standup meetings can be with cross functional team members only. Option C is incorrect because there is no meeting with only the product owner and scrum master. Option D describes retrospective meetings, not sprint planning.",
+    "difficulty": "hard",
+    "topic": "Scrum Framework - Sprint Planning",
+    "domain": 2,
+    "source_id": "yt_002",
+    "chunk_index": 9,
+    "video_segment": "2:16:03→2:31:11"
+  },
+  {
+    "question": "A project manager is leading a construction project in a foreign country where corruption is widely spread. After facing trouble obtaining the required construction permits from local authorities, a team member suggested giving a bribe to the local officials to get things going and execute the project without issues. What should the project manager do?",
+    "options": [
+      "A. Refuse to give the bribe",
+      "B. Give the smallest amount of money possible",
+      "C. Negotiate a non-monetary bribe",
+      "D. Ask the team member to give the bribe on their behalf"
+    ],
+    "answer": "A",
+    "explanation": "The project manager must refuse to give any bribe, whether monetary or non-monetary. This is required by the PMI Code of Ethics. Option B negotiates the bribe amount, which is still unethical. Option C substitutes a non-monetary bribe, which is still a bribe. Option D delegates the unethical action to a team member, which does not absolve the project manager of responsibility. The correct approach is to escalate the issue to the organization and follow legal processes.",
+    "difficulty": "hard",
+    "topic": "Ethics and Professional Responsibility",
+    "domain": 3,
+    "source_id": "yt_002",
+    "chunk_index": 9,
+    "video_segment": "2:16:03→2:31:11"
+  },
+  {
+    "question": "A project manager was assigned to a park redevelopment project which consists of cleaning and equipping the park for local families and residents. The project involves a really big number of stakeholders since it includes multiple phases and different types of tasks to execute. What should the project manager do?",
+    "options": [
+      "A. Disregard low power stakeholders",
+      "B. Only engage high power stakeholders",
+      "C. Analyze all stakeholders and prioritize engagement according to their levels",
+      "D. Report the issue to the project sponsor"
+    ],
+    "answer": "C",
+    "explanation": "The project manager must identify and analyze all stakeholders regardless of their number or power level, then prioritize engagement at different levels (low, medium, high engagement). Option A is wrong because disregarding any stakeholders is poor practice. Option B is wrong because engaging only one category of stakeholders while ignoring others is not appropriate. Option D is wrong because stakeholder communication and engagement is the responsibility of the project manager, not something to delegate to the sponsor.",
+    "difficulty": "hard",
+    "topic": "Stakeholder Engagement and Analysis",
+    "domain": 1,
+    "source_id": "yt_002",
+    "chunk_index": 9,
+    "video_segment": "2:16:03→2:31:11"
+  },
+  {
+    "question": "A project manager is leading an iterative project. The project owner calls for a meeting with the project team and other permanent stakeholders to review a demonstration of the produced deliverable. When should the project manager organize this meeting?",
+    "options": [
+      "A. At the start of the project",
+      "B. At the end of every iteration",
+      "C. At the end of the project",
+      "D. At the beginning of each iteration"
+    ],
+    "answer": "B",
+    "explanation": "In iterative projects, review meetings and demonstrations of deliverables take place at the end of each iteration. This allows the project team to obtain feedback from the product owner and stakeholders on a regular basis. Starting the project, ending the project, or beginning each iteration would not provide the regular feedback cycles necessary in iterative development.",
+    "difficulty": "hard",
+    "topic": "Iterative and Incremental Development",
+    "domain": 2,
+    "source_id": "yt_002",
+    "chunk_index": 9,
+    "video_segment": "2:16:03→2:31:11"
+  },
+  {
+    "question": "A project manager is assigned to an accounting software development project in its beta version. Some users reported that the software freezes one to three times a day. Since the project manager needs more information to fix the problem, he asked the users to fill in a document whenever the issue occurs. Which quality tool should be used?",
+    "options": [
+      "A. Check sheet",
+      "B. Checklist",
+      "C. Cheat sheet",
+      "D. Survey"
+    ],
+    "answer": "A",
+    "explanation": "A check sheet is a tool used to record the frequency of occurrences of events or defects organized by categories. It allows users to mark when an issue occurs (in this case, software freezes), showing frequency and patterns over time. A checklist is used to verify whether required steps have been performed. A survey is not appropriate for this data collection. A cheat sheet is not a quality management tool.",
+    "difficulty": "hard",
+    "topic": "Quality Management Tools - Check Sheets",
+    "domain": 2,
+    "source_id": "yt_002",
+    "chunk_index": 9,
+    "video_segment": "2:16:03→2:31:11"
+  },
+  {
+    "question": "During the risk identification phase, the project manager and her team identified more than 100 risks. The project manager believes that quantitative evaluation of each of these risks will take a lot of time, and not all of these identified risks are important enough to justify such a measure. What should the project manager do?",
+    "options": [
+      "A. Identify risk triggers, then perform quantitative analysis of risks that have no triggers",
+      "B. Use qualitative risk analysis to qualify and prioritize risks for quantitative risk analysis",
+      "C. Conduct a qualitative assessment of each risk's probability, then perform quantitative analysis of risks with high probability",
+      "D. Conduct a qualitative assessment of each risk's potential impact, then perform quantitative analysis of risks with high impact"
+    ],
+    "answer": "B",
+    "explanation": "Qualitative risk analysis uses probability and impact assessment to prioritize risks for quantitative analysis. This allows the project manager to focus quantitative efforts only on high-priority risks. Option A is incorrect because triggers are used during execution to determine if a risk will occur, not for prioritization. Option C is wrong because it considers only probability, not impact. Option D is wrong because it considers only impact, not probability. Prioritization should consider both probability and impact together.",
+    "difficulty": "hard",
+    "topic": "Risk Analysis - Qualitative vs. Quantitative",
+    "domain": 2,
+    "source_id": "yt_002",
+    "chunk_index": 9,
+    "video_segment": "2:16:03→2:31:11"
+  },
+  {
+    "question": "A project manager is leading an agile project for the last 9 months. When should the project manager stop tailoring the process?",
+    "options": [
+      "A. When the product owner decides",
+      "B. When the project manager decides",
+      "C. When the cross functional team members decide",
+      "D. The tailoring process should never be stopped"
+    ],
+    "answer": "D",
+    "explanation": "In agile projects, tailoring the process through continuous retrospectives and process improvements should never stop. Tailoring is a continuous activity that supports ongoing learning and adaptation. Stopping tailoring would mean stopping retrospective meetings and ceasing process improvement, which contradicts the agile principle of continuous improvement. The decision to stop should never be made by any single role or group.",
+    "difficulty": "hard",
+    "topic": "Agile Process Tailoring and Continuous Improvement",
+    "domain": 2,
+    "source_id": "yt_002",
+    "chunk_index": 9,
+    "video_segment": "2:16:03→2:31:11"
+  },
+  {
+    "question": "A project manager is leading a three-year project that involves upgrading and improving an electrical engine for industrial use. Since the majority of project activities are hazardous, the project team will receive extensive safety training. The training will ensure the safety of workers and prevent delays caused by unsatisfactory work. The cost of the conducted safety training falls under which of the following?",
+    "options": [
+      "A. Cost of regulations",
+      "B. Cost of quality",
+      "C. Cost of conformance",
+      "D. Cost of nonconformance"
+    ],
+    "answer": "C",
+    "explanation": "The cost of conformance includes proactive measures taken to ensure quality and prevent failures. Safety training is a proactive measure to improve worker skills and ensure quality work, making it a cost of conformance. Cost of regulations does not apply as no regulatory compliance is mentioned. Cost of nonconformance involves costs of failures, which is not applicable here. While cost of quality could technically apply, cost of conformance is the more accurate and specific answer.",
+    "difficulty": "hard",
+    "topic": "Cost of Quality",
+    "domain": 2,
+    "source_id": "yt_002",
+    "chunk_index": 10,
+    "video_segment": "2:31:11→2:46:17"
+  },
+  {
+    "question": "While working on a large project to develop a fingerprint voting system, a project manager notices that lately a senior developer in the project team missed two consecutive deadlines. What should the project manager do?",
+    "options": [
+      "A. Verify whether the developer is a shared resource with another project",
+      "B. Give the developer a formal warning via email so he can work on improving his work quality",
+      "C. Meet with the developer in person and offer support if needed",
+      "D. Escalate the issue to the developer's line manager and ask him to immediately address the issue"
+    ],
+    "answer": "C",
+    "explanation": "The project manager should follow a servant leadership approach by meeting with the developer in person to understand the root cause of missed deadlines and offer appropriate support. This demonstrates active listening and leadership. Option A assumes the issue without investigation. Option B jumps to formal warnings prematurely and uses email rather than face-to-face communication. Option D escalates too early when the project manager should first attempt to resolve the issue directly with the team member.",
+    "difficulty": "hard",
+    "topic": "Servant Leadership and Team Support",
+    "domain": 1,
+    "source_id": "yt_002",
+    "chunk_index": 10,
+    "video_segment": "2:31:11→2:46:17"
+  },
+  {
+    "question": "Even though two user stories were estimated consecutively at two and three story points, their implementation took two days each. By how many story points do these two user stories contribute to the team velocity when calculated at the end of the iteration?",
+    "options": [
+      "A. Two story points",
+      "B. Three story points",
+      "C. Four story points",
+      "D. Five story points"
+    ],
+    "answer": "D",
+    "explanation": "Velocity is calculated based on the sum of all story point estimations of user stories completed within a sprint or iteration, not on actual time spent. The two user stories estimated at two and three story points contribute five story points total to team velocity (2 + 3 = 5). The actual implementation time of two days each is irrelevant to velocity calculation, as velocity is based on estimates, not actual hours worked.",
+    "difficulty": "hard",
+    "topic": "Team Velocity in Agile",
+    "domain": 2,
+    "source_id": "yt_002",
+    "chunk_index": 10,
+    "video_segment": "2:31:11→2:46:17"
+  },
+  {
+    "question": "A project manager is leading a one-year agile project. After a couple of months, the sponsor wanted to learn about the big picture of the project progress. More specifically, the implemented versus the pending features. Which of the following tools should the project manager use to provide this information?",
+    "options": [
+      "A. Cumulative flow diagram",
+      "B. Iteration burndown chart",
+      "C. Feature chart",
+      "D. Kanban board"
+    ],
+    "answer": "A",
+    "explanation": "The cumulative flow diagram is a high-level visualization tool designed for executives and sponsors to understand the big picture of project progress, showing the overall flow of work across the entire project or release. An iteration burndown chart only shows progress within a single iteration, not the complete project picture. A feature chart can also show the big picture but is less commonly used for executive reporting. A Kanban board either resets with each sprint (in Scrum) or becomes unwieldy with long lists in pure Kanban, making it unsuitable for viewing the big picture of a large project.",
+    "difficulty": "hard",
+    "topic": "Agile Reporting and Dashboards",
+    "domain": 2,
+    "source_id": "yt_002",
+    "chunk_index": 10,
+    "video_segment": "2:31:11→2:46:17"
+  },
+  {
+    "question": "A project manager is leading a project that follows a hybrid approach. Even though the project manager made sure that all iterations have a balanced workload, he noticed that a particular team member was getting overwhelmed while other members seem to be doing fine. What should the project manager do?",
+    "options": [
+      "A. Inform upper management",
+      "B. Personally meet with the stressed team member to discuss ways to better manage their time",
+      "C. Raise the issue with the team in the daily standup meeting",
+      "D. Track the stressed team member's tasks in a separate backlog for additional analysis and reporting"
+    ],
+    "answer": "B",
+    "explanation": "The project manager should demonstrate servant leadership by personally meeting one-on-one with the overwhelmed team member to understand the root cause and offer guidance and support. This respects privacy and allows for open discussion. Option A (informing upper management) is premature escalation. Option C (raising in daily standup) is not an appropriate forum for addressing individual team member struggles. Option D (creating a separate backlog) is not a recommended agile practice and does not address the underlying issue.",
+    "difficulty": "hard",
+    "topic": "Team Management and Servant Leadership",
+    "domain": 1,
+    "source_id": "yt_002",
+    "chunk_index": 10,
+    "video_segment": "2:31:11→2:46:17"
+  },
+  {
+    "question": "Before starting the project and after identifying all of the individuals and groups involved or affected by the project, the project manager took a step further by classifying stakeholders according to their level of power, interest, and influence. This step is referred to as which of the following?",
+    "options": [
+      "A. Stakeholder analysis",
+      "B. Stakeholder identification",
+      "C. Stakeholder monitoring",
+      "D. Stakeholder engagement"
+    ],
+    "answer": "A",
+    "explanation": "Stakeholder analysis is the process of classifying and evaluating stakeholders based on their power, interest, influence, and impact on the project. This occurs early in the project lifecycle after stakeholders have been identified. Stakeholder identification is the process of determining who the stakeholders are. Stakeholder monitoring occurs during execution to observe stakeholder positions. Stakeholder engagement is the process of communicating with and involving stakeholders throughout the project.",
+    "difficulty": "hard",
+    "topic": "Stakeholder Analysis",
+    "domain": 1,
+    "source_id": "yt_002",
+    "chunk_index": 10,
+    "video_segment": "2:31:11→2:46:17"
+  },
+  {
+    "question": "A project manager is leading a predictive project. After identifying a risk, the project manager decides to transfer it to another party by buying insurance. Which risk response strategy is being used?",
+    "options": [
+      "A. Transfer",
+      "B. Acceptance",
+      "C. Escalation",
+      "D. Avoidance"
+    ],
+    "answer": "A",
+    "explanation": "Buying insurance is one of the most common ways to transfer risk to another party. Acceptance would involve accepting lower profit in case of cost overrun. Escalation would involve asking the sponsor to deal with the risk. Avoidance would involve eliminating the risk through beta testing.",
+    "difficulty": "hard",
+    "topic": "Risk Response Planning",
+    "domain": 2,
+    "source_id": "yt_002",
+    "chunk_index": 11,
+    "video_segment": "2:46:17→3:01:24"
+  },
+  {
+    "question": "Due to a financial crisis, an organization decides to pause all internal projects and define a termination date. A project manager within this organization has a weekly meeting with a subcontractor who provides the majority of the project's physical resources. What type of communication should the project manager use to inform the subcontractor of the contract discontinuation decision?",
+    "options": [
+      "A. Informal written",
+      "B. Formal written",
+      "C. Informal verbal",
+      "D. Formal verbal"
+    ],
+    "answer": "B",
+    "explanation": "When dealing with contracts and complex legal matters such as contract discontinuation, formal written communication is best to ensure all procedures are followed and there is documentation of the decision. Although the project manager has weekly meetings with the subcontractor, verbal communication is not appropriate for such significant decisions.",
+    "difficulty": "hard",
+    "topic": "Stakeholder Communication",
+    "domain": 1,
+    "source_id": "yt_002",
+    "chunk_index": 11,
+    "video_segment": "2:46:17→3:01:24"
+  },
+  {
+    "question": "During a workshop about the agile approach, the project manager stated that each member of the team should be cross-functional and self-organizing. Which statement best describes an agile team?",
+    "options": [
+      "A. Each team member is cross-functional and self-organizing",
+      "B. The agile team should have all the required skills to deliver the product on their own",
+      "C. The agile team should have complimentary skill sets and be able to organize the backlog by themselves",
+      "D. The agile team should self-organize to acquire the necessary skills to be cross-functional"
+    ],
+    "answer": "B",
+    "explanation": "Cross-functional refers to the team as a whole, not individual members. Self-organization refers to the team, not individuals. Option C is incorrect because the team organizes the sprint backlog, not the product backlog—that is the responsibility of the product owner. Option D does not make logical sense as written.",
+    "difficulty": "hard",
+    "topic": "Agile Team Structure",
+    "domain": 2,
+    "source_id": "yt_002",
+    "chunk_index": 11,
+    "video_segment": "2:46:17→3:01:24"
+  },
+  {
+    "question": "Despite creating an agenda and time boxing the meetings, the project manager struggles to engage all attendees. What should the project manager do?",
+    "options": [
+      "A. Make meetings shorter to prevent boredom",
+      "B. Limit the interventions of the most talkative attendees to allow others to participate",
+      "C. Change to remote meetings to make everyone feel more comfortable",
+      "D. Encourage all attendees to participate and share their thoughts by asking for their opinions on the discussed matters"
+    ],
+    "answer": "D",
+    "explanation": "The project manager should directly engage attendees by encouraging them to share ideas and opinions. Option A is already being done through time boxing. Option B only addresses talkative attendees and is not a direct engagement strategy. Option C changes the meeting format unnecessarily, as in-person meetings typically facilitate better engagement. Option D is the most direct and effective approach to ensure all attendees participate.",
+    "difficulty": "hard",
+    "topic": "Meeting Facilitation and Stakeholder Engagement",
+    "domain": 1,
+    "source_id": "yt_002",
+    "chunk_index": 11,
+    "video_segment": "2:46:17→3:01:24"
+  },
+  {
+    "question": "Two agile teams are working on developing the same product. Team A consists of five members and uses two-week sprints, completing all sprint backlog items with a velocity of 50 story points. Team B consists of four members and uses three-week sprints, reaching 70 story points without completing all of the sprint backlog items. Which team has better performance?",
+    "options": [
+      "A. Team A, since they completed all sprint backlog items",
+      "B. Team A, taking into consideration their velocity, they can achieve 57 story points in a 3-week sprint, which is better than what Team B achieved",
+      "C. Team B, since they have a better velocity",
+      "D. Team B, since they achieved more story points with fewer team members"
+    ],
+    "answer": "A",
+    "explanation": "Better performance is measured by fulfilling sprint commitments and completing all planned backlog items, not by velocity. Velocity cannot be used to compare different teams, as each team has its own velocity baseline. The number of story points depends on how each team estimates user stories, so achieving more points does not necessarily indicate better performance. Team A demonstrated better performance by completing their commitment.",
+    "difficulty": "hard",
+    "topic": "Agile Performance Metrics",
+    "domain": 2,
+    "source_id": "yt_002",
+    "chunk_index": 11,
+    "video_segment": "2:46:17→3:01:24"
+  },
+  {
+    "question": "A product owner and team members have different interpretations of a particular user story. To resolve the disagreement, the project manager suggests the creation of personas. What is the most probable reason for creating personas?",
+    "options": [
+      "A. To use it as a wireframe to help clarify project outcomes",
+      "B. To engage stakeholders who don't know much about the project",
+      "C. To help the development team empathize with the users of the solution",
+      "D. To identify and describe real users of the solution"
+    ],
+    "answer": "C",
+    "explanation": "Personas are fictional representations of target users designed to help team members understand and empathize with the end users and their needs. Option A is incorrect because personas do not clarify project outcomes. Option B is incorrect because personas are not an engagement tool. Option D is incorrect because personas are fictional, not real users.",
+    "difficulty": "hard",
+    "topic": "Agile Requirements and User Stories",
+    "domain": 2,
+    "source_id": "yt_002",
+    "chunk_index": 11,
+    "video_segment": "2:46:17→3:01:24"
+  },
+  {
+    "question": "A project manager created a high-level hierarchical list of human and physical resources of a project that consists of creating a bulk SMS platform for marketing campaigns. What does this visual illustration represent?",
+    "options": [
+      "A. A resource calendar",
+      "B. An organization breakdown structure",
+      "C. A resource breakdown structure",
+      "D. A RACI chart"
+    ],
+    "answer": "C",
+    "explanation": "A resource breakdown structure is a hierarchical breakdown of resources, including human resources, equipment, and materials, organized by type or category. A resource calendar tracks when resources are available. An organization breakdown structure shows the organizational hierarchy with roles like CEO and department heads. A RACI chart assigns responsibilities and accountability to team members.",
+    "difficulty": "hard",
+    "topic": "Resource Planning",
+    "domain": 2,
+    "source_id": "yt_002",
+    "chunk_index": 11,
+    "video_segment": "2:46:17→3:01:24"
+  },
+  {
+    "question": "A project manager discovers an issue with an unreliable vendor during project execution. Where should the project manager record this issue?",
+    "options": [
+      "A. Lessons learned register",
+      "B. Change log",
+      "C. Risk register",
+      "D. Issue log"
+    ],
+    "answer": "D",
+    "explanation": "The issue log is the project document where all information concerning faced issues is recorded and monitored. While lessons learned may also document future decisions about avoiding unreliable vendors, the question specifically asks where to record the issue itself, which belongs in the issue log. The change log and risk register are not applicable as there are no changes or risks mentioned in this scenario.",
+    "difficulty": "hard",
+    "topic": "Issue Management and Documentation",
+    "domain": 2,
+    "source_id": "yt_002",
+    "chunk_index": 12,
+    "video_segment": "3:01:24→3:16:30"
+  },
+  {
+    "question": "A PMP certified project manager has wide knowledge of project management and over 20 years of experience as a designer in the automotive industry. Her last assignment consisted of managing a group of designers to develop a new design of a futuristic car model. Knowing that the team trusts her decisions, which of the following powers does the project manager possess?",
+    "options": [
+      "A. Referent",
+      "B. Expert",
+      "C. Formal",
+      "D. Persuasive"
+    ],
+    "answer": "B",
+    "explanation": "Expert power is the correct answer because the team trusts her decisions specifically because of her extensive experience and knowledge in the automotive design field. Referent power involves admiration and identification with the leader, which is not indicated here. Persuasive power relates to persuasion skills, which are not mentioned. Formal power comes from the position held, not from experience. The scenario clearly establishes that trust is based on expertise.",
+    "difficulty": "hard",
+    "topic": "Project Manager Power and Influence",
+    "domain": 1,
+    "source_id": "yt_002",
+    "chunk_index": 12,
+    "video_segment": "3:01:24→3:16:30"
+  },
+  {
+    "question": "A project manager receives a document from the customer containing the new project's requirements. When going through the document, the project manager finds it difficult to understand certain requirements, outputs, and most importantly, the project's ultimate goal. What should the project manager do next?",
+    "options": [
+      "A. Ask the customer for clarification",
+      "B. Reject the new project as it involves a lot of ambiguity",
+      "C. Start planning the first iteration",
+      "D. Acquire a team to help analyze the project requirements"
+    ],
+    "answer": "A",
+    "explanation": "Asking the customer for clarification is the appropriate next step when facing ambiguous requirements and unclear project goals. Rejecting the project immediately is premature without first understanding the scope. Starting to plan iterations without understanding the project goal is impossible. Acquiring a team before even confirming the project or understanding its objectives is premature. The project manager must establish a clear vision and understanding of project requirements before proceeding with any other actions.",
+    "difficulty": "hard",
+    "topic": "Requirements Clarification and Stakeholder Communication",
+    "domain": 1,
+    "source_id": "yt_002",
+    "chunk_index": 12,
+    "video_segment": "3:01:24→3:16:30"
+  },
+  {
+    "question": "A company must select one of two projects that have the same budget but different returns and risk levels. Which tool or technique should be used in order to make the right decision?",
+    "options": [
+      "A. Decision tree",
+      "B. Tornado diagram",
+      "C. SWAT analysis",
+      "D. Sensitivity analysis"
+    ],
+    "answer": "A",
+    "explanation": "Decision tree analysis is the correct tool for selecting among alternatives when considering probabilities, returns, and risk levels. A decision tree supports identification and selection of the best course of action by calculating expected values based on different scenarios and their probabilities. Tornado diagrams are used for sensitivity analysis visualization. SWAT analysis is used for organizational strategic analysis. Sensitivity analysis examines how changes in variables affect outcomes but is not the primary tool for project selection decisions.",
+    "difficulty": "hard",
+    "topic": "Decision-Making and Project Selection",
+    "domain": 3,
+    "source_id": "yt_002",
+    "chunk_index": 12,
+    "video_segment": "3:01:24→3:16:30"
+  },
+  {
+    "question": "During the sprint review, the product owner informs the Scrum team that the meeting is being recorded in order to send it to a key stakeholder. A day later, the stakeholder contacts the product owner to express their disappointment with the product, claiming that it is nothing like what they had in mind. What should the project manager do next?",
+    "options": [
+      "A. Facilitate a meeting between the product owner and the concerned stakeholder",
+      "B. Meet the stakeholder to review the product backlog items",
+      "C. Ask the development team to have more frequent backlog refinement sessions with the product owner",
+      "D. Ask the development team to collaborate with the key stakeholder"
+    ],
+    "answer": "A",
+    "explanation": "Facilitating a meeting between the product owner and stakeholder is the correct approach because there is a misalignment between their vision and understanding of the product. The product owner is responsible for gathering and prioritizing requirements, and the stakeholder's disappointment indicates insufficient involvement in the process. Option B is incorrect because the project manager should not take over the product owner's responsibility. Option C does not address the root cause of misalignment. Option D is incorrect because the project manager's role in Scrum is to protect the team; the only point of contact for the development team should be the product owner, not stakeholders directly.",
+    "difficulty": "hard",
+    "topic": "Stakeholder Alignment and Communication in Agile",
+    "domain": 1,
+    "source_id": "yt_002",
+    "chunk_index": 12,
+    "video_segment": "3:01:24→3:16:30"
+  },
+  {
+    "question": "A project manager is leading an adaptive project using an online project management system that displays the real-time progress of the iterations and the overall project through different charts. However, a key stakeholder prefers to receive an email with the weekly status report instead. What should the project manager do?",
+    "options": [
+      "A. Add a small recurring task of one story point in the product backlog to send the weekly report",
+      "B. Take this in charge in order to let the team focus on achieving deliverables",
+      "C. Check if there is a way to automatically send the weekly report through the project management system",
+      "D. Ignore the stakeholder request"
+    ],
+    "answer": "B",
+    "explanation": "The project manager should take responsibility for sending the weekly status report to protect the team from non-value-adding work and allow them to focus on achieving iteration goals. Option A is incorrect because status reporting is not a product backlog item; the backlog should contain only product-related work. Option C is also valid and complementary, as automation can improve efficiency. Option D is incorrect because ignoring stakeholder requests damages relationships and engagement. The project manager should either send the report manually or automate the process, while also educating the stakeholder about real-time platform access. (Note: Both B and C were confirmed as correct in the explanation, but B is the primary answer for what the PM should do)",
+    "difficulty": "hard",
+    "topic": "Stakeholder Communication and Team Protection in Agile",
+    "domain": 1,
+    "source_id": "yt_002",
+    "chunk_index": 12,
+    "video_segment": "3:01:24→3:16:30"
+  },
+  {
+    "question": "Upon the client's request, a project manager of an e-commerce website development project agreed to extend the scope while committing to the same delivery date. In order to achieve that, the project team must work 24/7. What should the project manager do?",
+    "options": [
+      "A. Start a night shift for the collocated team members",
+      "B. Hire virtual teams that work in different time zones and schedules",
+      "C. Use fast tracking",
+      "D. Use the resource leveling technique"
+    ],
+    "answer": "B",
+    "explanation": "Hiring virtual teams that work in different time zones is a crashing technique that adds resources to complete the expanded scope within the same deadline. Option A is incorrect because shifting existing team members to night shifts does not increase overall resource capacity to handle double the scope. Option C (fast tracking) overlaps activities but does not resolve the fundamental issue of insufficient resources for the expanded scope. Option D (resource leveling) is used during the planning phase to address resource constraints, not during execution to handle scope expansion. The project manager must add resources through hiring virtual teams to crash the schedule and meet the new scope within the original deadline.",
+    "difficulty": "hard",
+    "topic": "Schedule Compression and Resource Management",
+    "domain": 2,
+    "source_id": "yt_002",
+    "chunk_index": 12,
+    "video_segment": "3:01:24→3:16:30"
+  },
+  {
+    "question": "A project manager is leading a project involving three stakeholders with high authority. By analyzing each of these stakeholders, the project manager identifies stakeholder A as the one who has the most interest in the project. What strategy should the project manager use for managing stakeholder A?",
+    "options": [
+      "A. Manage closely",
+      "B. Keep satisfied",
+      "C. Keep informed",
+      "D. Monitor"
+    ],
+    "answer": "A",
+    "explanation": "Stakeholder A has high authority and high interest in the project, placing them in the manage closely quadrant of the power-interest grid. The project manager must put forth the greatest effort to satisfy them and be aware that factors can cause them to change quadrants rapidly.",
+    "difficulty": "hard",
+    "topic": "Stakeholder Management",
+    "domain": 1,
+    "source_id": "yt_002",
+    "chunk_index": 13,
+    "video_segment": "3:16:30→3:31:36"
+  },
+  {
+    "question": "An agile coach was invited to assist an organization in its transition to the scrum framework. After examining the current situation, the agile coach finds out that the cross-functional team lacks a single point of contact to refer to in case they have any questions about the product. Which of the following roles is missing in this situation?",
+    "options": [
+      "A. Scrum Master",
+      "B. Sponsor",
+      "C. Product Owner",
+      "D. Project Manager"
+    ],
+    "answer": "C",
+    "explanation": "The Product Owner is the single point of contact for the cross-functional team and is known as the voice of the customer. The Product Owner is responsible for ensuring that product specifications are clearly communicated to the team through the definition of acceptance criteria and ensuring those criteria are met and satisfied.",
+    "difficulty": "hard",
+    "topic": "Agile Scrum Framework Roles",
+    "domain": 2,
+    "source_id": "yt_002",
+    "chunk_index": 13,
+    "video_segment": "3:16:30→3:31:36"
+  },
+  {
+    "question": "A project manager is managing a project using a hybrid approach. After one week of the first iteration, the customer informs the project manager that they were dissatisfied with the deliverables. What should the project manager do next?",
+    "options": [
+      "A. Ask the customer to submit a change request so that their dissatisfaction can be addressed",
+      "B. Use soft skills to convince the customer that the deliverables conform to the project specifications",
+      "C. Investigate the cause of dissatisfaction and verify the deliverables",
+      "D. Implement adjustments and improvements in the next iteration"
+    ],
+    "answer": "C",
+    "explanation": "The project manager should first listen to the customer, take note of the reasons behind their dissatisfaction, and verify deliverables. Once equipped with all the needed information, the project manager will be able to make the best decision on whether to pursue a change request, adjust deliverables, or use soft skills to explain conformance to specifications.",
+    "difficulty": "hard",
+    "topic": "Customer Satisfaction and Issue Resolution",
+    "domain": 1,
+    "source_id": "yt_002",
+    "chunk_index": 13,
+    "video_segment": "3:16:30→3:31:36"
+  },
+  {
+    "question": "The project team includes the following members. Member A is very excited about the project. Member B sometimes exceeds expectations. Member C often spends additional time working on the project. Member D consistently achieves the project requirements. Who is the most valuable resource to the project?",
+    "options": [
+      "A. Member A",
+      "B. Member B",
+      "C. Member C",
+      "D. Member D"
+    ],
+    "answer": "D",
+    "explanation": "Member D is the most valuable resource because they consistently achieve the project requirements. While Member A's excitement is good for morale, enthusiasm alone does not guarantee productivity. Member B is inconsistent (sometimes exceeds, sometimes does not). Member C's additional time does not guarantee delivering required quality or efficiency. Consistency in meeting project requirements is the most valuable trait.",
+    "difficulty": "hard",
+    "topic": "Team Member Performance and Value",
+    "domain": 1,
+    "source_id": "yt_002",
+    "chunk_index": 13,
+    "video_segment": "3:16:30→3:31:36"
+  },
+  {
+    "question": "At the end of the iteration, a team member informs the project manager that she wasn't able to finish one of her assigned tasks due to an issue with her laptop. What should the project manager do in order to prevent such a situation from occurring in the future?",
+    "options": [
+      "A. Discuss the issue during the demonstration session",
+      "B. Address the issue during the following iteration planning meeting",
+      "C. Handle the issue during the next daily stand-up meeting",
+      "D. Address the issue during the retrospective meeting"
+    ],
+    "answer": "D",
+    "explanation": "The retrospective meeting is where the team discusses what happened during the iteration and determines improvement areas for future iterations. This is the appropriate venue to capture lessons learned and prevent such situations from occurring in the future, such as implementing policies for equipment maintenance or backup systems.",
+    "difficulty": "hard",
+    "topic": "Agile Retrospectives and Lessons Learned",
+    "domain": 2,
+    "source_id": "yt_002",
+    "chunk_index": 13,
+    "video_segment": "3:16:30→3:31:36"
+  },
+  {
+    "question": "A project manager was assigned to organize a national event. The event project has been planned and approved for execution. Three months separate the project manager from the peak event during which they will follow the iterative approach with two-week-long iterations. Before starting any work, the project manager holds a meeting with the sponsor, project team, stakeholders, and key contractors. What kind of meeting did the project manager hold?",
+    "options": [
+      "A. Status meeting",
+      "B. Kickoff meeting",
+      "C. Planning meeting",
+      "D. Stakeholder engagement meeting"
+    ],
+    "answer": "B",
+    "explanation": "A project kickoff meeting is the formal announcement of the project approval for execution. This meeting gathers the sponsor, project team, stakeholders, and key contractors to officially launch the project and establish alignment before execution begins.",
+    "difficulty": "hard",
+    "topic": "Project Initiation and Kickoff Meeting",
+    "domain": 2,
+    "source_id": "yt_002",
+    "chunk_index": 13,
+    "video_segment": "3:16:30→3:31:36"
+  },
+  {
+    "question": "3 months into project execution, the sponsor gets into a financial crisis and asks the project manager to immediately end the project. What should the project manager do?",
+    "options": [
+      "A. Try to persuade the sponsor to complete the project",
+      "B. Talk to the management about the situation",
+      "C. Start the close procurement process",
+      "D. Start the close project process"
+    ],
+    "answer": "D",
+    "explanation": "When a project is closed or terminated for any reason, the project manager should start the close project process, which is comprehensive and includes closing procurements, releasing resources, conducting lessons learned, and documenting all project-related items. While talking to management (B) and closing procurement (C) are part of the overall closure, option D encompasses all necessary closure activities.",
+    "difficulty": "hard",
+    "topic": "Project Closure and Contract Closure",
+    "domain": 2,
+    "source_id": "yt_002",
+    "chunk_index": 14,
+    "video_segment": "3:31:36→3:46:44"
+  },
+  {
+    "question": "While examining their project progress, a project manager finds out that the scheduled variance is $0. Which of the following statements is true about this project?",
+    "options": [
+      "A. The project's CPI equals 1",
+      "B. The project's earned value equals its planned value",
+      "C. The project's cost variance is $0",
+      "D. The project's estimate at completion equals its budget at completion"
+    ],
+    "answer": "B",
+    "explanation": "Schedule variance is calculated as Earned Value minus Planned Value. Since the schedule variance equals $0, this means Earned Value equals Planned Value, indicating the project is on track. CPI (Cost Performance Index) relates to cost, not schedule variance. Cost variance and estimate at completion cannot be determined from schedule variance alone.",
+    "difficulty": "hard",
+    "topic": "Earned Value Management",
+    "domain": 2,
+    "source_id": "yt_002",
+    "chunk_index": 14,
+    "video_segment": "3:31:36→3:46:44"
+  },
+  {
+    "question": "A project manager is leading a project using a hybrid approach. Shortly after acquiring the resources, the project manager discovers that the team members are politically very engaged. Almost all of their meetings end with a political dispute between team members. The project manager has decided to put an end to this before it deteriorates team members' relationships by prohibiting any political discussions. Where should the project manager note this rule?",
+    "options": [
+      "A. Team charter",
+      "B. Project charter",
+      "C. Resource charter",
+      "D. Resource management plan"
+    ],
+    "answer": "A",
+    "explanation": "The team charter is the appropriate document to include rules and guidelines on how team members should interact with each other. The project charter focuses on project objectives, key stakeholders, and budget. The resource management plan addresses resource management but not team interaction rules. Resource charter is not a standard PMP document.",
+    "difficulty": "hard",
+    "topic": "Team Development and Team Charter",
+    "domain": 1,
+    "source_id": "yt_002",
+    "chunk_index": 14,
+    "video_segment": "3:31:36→3:46:44"
+  },
+  {
+    "question": "A project manager is leading a team of engineers to perform a 2-year project. After a few months, the project manager notices that the team is becoming less interested in the project. What can the project manager do to maintain motivation?",
+    "options": [
+      "A. Offer a bonus at the end of the project",
+      "B. Offer an immediate salary raise",
+      "C. Align work assignments with the team members' personal ambitions",
+      "D. Align the project with the organization's goals"
+    ],
+    "answer": "C",
+    "explanation": "Aligning work assignments with team members' personal ambitions directly connects their tasks to their individual goals, which maintains long-term motivation throughout the 2-year project. A bonus at the end is too distant and may not sustain motivation throughout the project. A salary raise provides only short-term motivation boost. Aligning with organizational goals benefits the organization but may not address individual team member motivation.",
+    "difficulty": "hard",
+    "topic": "Team Motivation and Leadership",
+    "domain": 1,
+    "source_id": "yt_002",
+    "chunk_index": 14,
+    "video_segment": "3:31:36→3:46:44"
+  },
+  {
+    "question": "To build a web application, a project manager referred to a freelancing platform to hire a remote team composed of a designer, a front-end developer, and a backend developer. One week after becoming acquainted with each other, the conflicts dramatically intensified between the two developers to the point that the project manager decided to terminate their contract and they have been both replaced. What is the current development stage of the team?",
+    "options": [
+      "A. Norming",
+      "B. Storming",
+      "C. Performing",
+      "D. Forming"
+    ],
+    "answer": "D",
+    "explanation": "The team was initially in the forming stage when they became acquainted. After one week, they entered the storming stage with intense conflicts. When the two developers were replaced, the team returned to the forming stage because the new members and remaining members must go through the forming stage again as they become acquainted and establish relationships.",
+    "difficulty": "hard",
+    "topic": "Tuckman's Stages of Team Development",
+    "domain": 1,
+    "source_id": "yt_002",
+    "chunk_index": 14,
+    "video_segment": "3:31:36→3:46:44"
+  },
+  {
+    "question": "A project team developed a detailed plan to update the operating system of all of the company's computers. Later on, the project team discovers that not every computer supports the new version of the operating system. Which of the following statements best describes this scenario?",
+    "options": [
+      "A. The project team made a wrong assumption",
+      "B. The project team didn't develop an appropriate project plan",
+      "C. The project team didn't establish an adequate risk response",
+      "D. The project team didn't consider the new version of the operating system as a constraint"
+    ],
+    "answer": "A",
+    "explanation": "The project team assumed that all computers are compatible with the new operating system. Despite developing a detailed plan, they failed to document this assumption in their assumption log. When the assumption proved untrue, it revealed a fundamental planning flaw. Option B is incorrect because they did develop a detailed plan. Option C is incorrect because this is an issue, not a risk that should have been anticipated through risk responses. Option D is incorrect because the new operating system is the deliverable, not a constraint.",
+    "difficulty": "hard",
+    "topic": "Assumption Analysis and Project Planning",
+    "domain": 2,
+    "source_id": "yt_002",
+    "chunk_index": 15,
+    "video_segment": "3:46:44→4:01:50"
+  },
+  {
+    "question": "The PMO is in the process of transitioning to an agile work approach. The team has shown high resistance to the changes since they are unaccustomed to adaptive approaches. What can the PMO leaders do to encourage adoption?",
+    "options": [
+      "A. Forge ahead and provide point in time training on the new methods",
+      "B. Train project managers on the adaptive approaches to help convince the team",
+      "C. Stick to the predictive approach to avoid any conflicts",
+      "D. Use a hybrid method that combines both adaptive and predictive practices"
+    ],
+    "answer": "D",
+    "explanation": "A hybrid approach combining both predictive and adaptive methods is the most effective transition strategy when teams are unfamiliar with agile. This allows teams to gradually become comfortable with adaptive approaches while still leveraging their existing predictive knowledge. Option A is flawed because point-in-time training is insufficient for continuous development. Option B is inadequate because training only project managers does not address the team's resistance; the entire team needs support. Option C is counterproductive because it abandons the transition initiative that presumably has strategic value.",
+    "difficulty": "hard",
+    "topic": "Organizational Change Management and Agile Transition",
+    "domain": 3,
+    "source_id": "yt_002",
+    "chunk_index": 15,
+    "video_segment": "3:46:44→4:01:50"
+  },
+  {
+    "question": "A project manager is assigned to lead a big project with a key activity requiring outsourcing to a service provider. To reduce risk, the project manager wants to ensure that the selected provider is well suited to the project and quality requirements before granting the whole project. What should the project manager do?",
+    "options": [
+      "A. Hire an auditor to continually check the quality of the provider's work",
+      "B. Make the contract flexible in order to be able to replace the provider easily if quality is not met",
+      "C. Carefully choose the selection criteria",
+      "D. Ask the service provider to do a trial engagement"
+    ],
+    "answer": "D",
+    "explanation": "A trial engagement allows the project manager to evaluate the service provider's performance and suitability before committing to the full contract. This directly addresses the need to verify provider quality before granting the whole project. Options A, B, and C address aspects of managing vendor relationships and selection, but they do not respond to the specific scenario of needing to test or trial the provider before full commitment. A trial engagement is the most direct way to evaluate potential partners before making complete commitment.",
+    "difficulty": "hard",
+    "topic": "Vendor Evaluation and Procurement",
+    "domain": 2,
+    "source_id": "yt_002",
+    "chunk_index": 15,
+    "video_segment": "3:46:44→4:01:50"
+  },
+  {
+    "question": "A project manager opts for planning poker to estimate user stories. After going through the details of the first user story, the project manager asks team members to choose a card to represent their estimations of ideal number of days required to complete the user story and then to reveal their cards. The estimates were vastly disparate. The project manager instantly asked team members to reestimate the user story in an attempt to converge their estimations. What did the project manager do wrong?",
+    "options": [
+      "A. The team used ideal days to estimate the user stories",
+      "B. The team reestimated the user story immediately after revealing their cards",
+      "C. The cards shouldn't be revealed",
+      "D. The project manager shouldn't waste time with multiple rounds of estimates"
+    ],
+    "answer": "B",
+    "explanation": "The project manager skipped the critical discussion phase of planning poker. After revealing estimates, team members should discuss the reasons behind their different estimations before reestimating. This discussion helps the team reach consensus and improves shared understanding. By immediately moving to reestimation without discussion, the team missed the key benefit of the planning poker technique. Option A is incorrect because ideal days are a valid estimation unit. Option C is incorrect because cards must be revealed to enable discussion. Option D is incorrect because multiple rounds of estimates are an integral part of planning poker methodology.",
+    "difficulty": "hard",
+    "topic": "Agile Estimation Techniques",
+    "domain": 2,
+    "source_id": "yt_002",
+    "chunk_index": 15,
+    "video_segment": "3:46:44→4:01:50"
+  },
+  {
+    "question": "A project manager discovers a serious threat to the project. One of the project contractors might declare bankruptcy. If that happens, the project will be delayed for another two months. What should the project manager do to mitigate the risk?",
+    "options": [
+      "A. Review the contract to check the consequences of any contract breach",
+      "B. Immediately stop working with the contractor",
+      "C. Contact an insurance company to secure coverage for potential losses",
+      "D. Contact other contractors who can supply the necessary materials"
+    ],
+    "answer": "D",
+    "explanation": "Mitigation involves taking action to reduce the probability or impact of a risk. Contacting alternative contractors and developing backup suppliers reduces the impact of contractor bankruptcy by ensuring ready replacements. This is true mitigation. Option A is just data collection without action. Option B is avoidance without a viable alternative, creating secondary risk. Option C represents risk transfer, not mitigation, as insurance shifts the financial burden but does not reduce project delay impact. Option D directly reduces the possibility of project delay by having alternatives ready.",
+    "difficulty": "hard",
+    "topic": "Risk Mitigation Strategy",
+    "domain": 2,
+    "source_id": "yt_002",
+    "chunk_index": 15,
+    "video_segment": "3:46:44→4:01:50"
+  },
+  {
+    "question": "A company provides an open space as a way of fostering team collaboration. However, while working on an agile software project, a senior developer approached the project manager to request a separate office where she can better focus on her work since she was unable to carry out some critical tasks in the common team area. What should the project manager do?",
+    "options": [
+      "A. Convince the senior developer of the advantages of working in the same space as her colleagues.",
+      "B. Move the senior developer to a separate cubicle.",
+      "C. Allow the senior developer to work in a separate area until her complex tasks are resolved.",
+      "D. Ask the whole team not to make noise as it might disturb others."
+    ],
+    "answer": "C",
+    "explanation": "The correct answer is C because it reflects the agile concept of 'caves and common space,' where team members can temporarily work in separate quiet areas when they need to concentrate on complex tasks, then return to the common team space once finished. Option A is incorrect because it dismisses the developer's valid concern. Option B is vague about whether the arrangement is temporary. Option D is not feasible because open space collaboration inherently involves discussion.",
+    "difficulty": "hard",
+    "topic": "Team Collaboration and Agile Practices",
+    "domain": 1,
+    "source_id": "yt_002",
+    "chunk_index": 16,
+    "video_segment": "4:01:50→4:16:57"
+  },
+  {
+    "question": "An organization has recently converted to agile. After a few months, the project manager's supervisors complained that team A was performing poorly because it always had lower velocity than team B. What should the project manager do?",
+    "options": [
+      "A. Move some of the team B's best performers to team A.",
+      "B. Set up a reward program to motivate team A.",
+      "C. Encourage team A to increase their velocity in the upcoming sprints.",
+      "D. Inform the supervisors that they can't compare the performance of different teams based on their velocity."
+    ],
+    "answer": "D",
+    "explanation": "The correct answer is D. Velocity cannot be used to compare the performance of different teams because each team has different composition, skills, and context. Option A is incorrect because it assumes team B's velocity is a valid benchmark for team A. Option B incorrectly assumes team A is underperforming. Option C is wrong because it accepts the flawed comparison and pushes the team to match an invalid benchmark.",
+    "difficulty": "hard",
+    "topic": "Agile Metrics and Team Performance",
+    "domain": 2,
+    "source_id": "yt_002",
+    "chunk_index": 16,
+    "video_segment": "4:01:50→4:16:57"
+  },
+  {
+    "question": "During the sprint retrospective meeting, the project team suggested improving communication and collaboration by using fishbowl windows and remote pairing. The project manager agrees to implement both tools in order to promote self-organization within the team, despite concerns that this might negatively impact productivity. What should the project manager do next?",
+    "options": [
+      "A. At the end of the following sprint, evaluate the impact of the new practices with the project team.",
+      "B. Frequently join the remote conferencing rooms to ensure the project team is actually working and not wasting time chatting.",
+      "C. Measure the team's velocity during the following sprint and discontinue the use of the new practices in case of any decrease.",
+      "D. Ask for the product owner's approval to use these two practices."
+    ],
+    "answer": "A",
+    "explanation": "The correct answer is A. Following implementation of new practices, the project manager and team should verify performance improvements or deteriorations during the next sprint retrospective so the team can further adjust and reflect on processes. Option B is incorrect because it reflects a lack of trust and excessive control, which contradicts self-organization. Option C is wrong because discontinuing practices based solely on velocity metrics is authoritarian and ignores the team's empirical learning process. Option D is incorrect because the product owner owns the product backlog, not agile process decisions.",
+    "difficulty": "hard",
+    "topic": "Agile Retrospectives and Process Improvement",
+    "domain": 1,
+    "source_id": "yt_002",
+    "chunk_index": 16,
+    "video_segment": "4:01:50→4:16:57"
+  },
+  {
+    "question": "A project manager is managing a project for a startup that needs to quickly deliver a minimum viable product (MVP) to capture an opportunity in the market. What should the project manager do?",
+    "options": [
+      "A. Deliver a perfect product to ensure end user satisfaction.",
+      "B. Opt for an iterative approach to follow early feedback.",
+      "C. Eliminate change requests to deliver fast.",
+      "D. Split deliverables into increments."
+    ],
+    "answer": "D",
+    "explanation": "The correct answer is D. An incremental approach with the goal of speed is what the project manager needs. Splitting deliverables into increments ensures the first increment contains the necessary features to launch and seize the market opportunity. Option A focuses on correctness rather than speed. Option B, while iterative can incorporate feedback, prioritizes iterative refinement over speed. Option C is incorrect because change requests cannot be eliminated, especially in agile contexts, and this doesn't address the need for quick delivery.",
+    "difficulty": "hard",
+    "topic": "Agile Approaches and MVP Delivery",
+    "domain": 2,
+    "source_id": "yt_002",
+    "chunk_index": 16,
+    "video_segment": "4:01:50→4:16:57"
+  },
+  {
+    "question": "When the sprint is almost over, one of the team members informs the project manager that they don't have enough time to properly prepare the demonstration for the sprint review since they are trying to complete the sprint backlog items. What could the project manager suggest in order to avoid such an issue in future sprints?",
+    "options": [
+      "A. Create a task for conducting the demonstration and make it part of the sprint.",
+      "B. Handle the demonstration instead of the team member.",
+      "C. Delaying the demonstration for a few days to allow the team to get properly prepared.",
+      "D. Reduce the number of sprint backlog items in future sprints."
+    ],
+    "answer": "A",
+    "explanation": "The correct answer is A. Creating a task for product demonstration and including it in sprint planning allows the team to dedicate the needed time to properly prepare. The task must be estimated and included as part of the sprint workload. Option B is incorrect because the team member who developed the solution should conduct the demonstration, not the project manager. Option C violates sprint boundaries—the demonstration must occur at the sprint review, not be delayed. Option D is a workaround that doesn't address the root cause of poor sprint planning.",
+    "difficulty": "hard",
+    "topic": "Sprint Planning and Sprint Review",
+    "domain": 2,
+    "source_id": "yt_002",
+    "chunk_index": 16,
+    "video_segment": "4:01:50→4:16:57"
+  },
+  {
+    "question": "The project manager oversees an agile project for developing a mobile application for a fast-paced startup. The project involves a cross-functional team comprising developers, designers, and testers. As the project progresses, the project manager encounters various challenges such as technological complexities, stakeholder communication gaps, and collaboration issues. What should the project manager's primary focus be to ensure the team remains aligned with agile principles?",
+    "options": [
+      "A. Ensuring the team delivers new features as frequently as possible",
+      "B. Establishing accurate and detailed plans",
+      "C. Implementing rigorous quality control measures to ensure the application meets the highest standards of performance and usability",
+      "D. Prioritizing the delivery of features that directly contribute to the client's goals and provide tangible value to end users"
+    ],
+    "answer": "D",
+    "explanation": "Delivering value should always be the agile team's top priority, as it represents one of the agile manifesto principles: working software over comprehensive documentation. Option A is too extreme with 'as frequently as possible' without value focus. Option B implies a predictive approach inconsistent with agile. Option C relates to rigorous quality control measures that align with predictive approaches rather than agile adaptability.",
+    "difficulty": "hard",
+    "topic": "Agile Principles and Values",
+    "domain": 2,
+    "source_id": "yt_002",
+    "chunk_index": 17,
+    "video_segment": "4:16:57→4:32:05"
+  },
+  {
+    "question": "Midway through the execution phase of a construction project, a key team member requests a two-month leave for personal reasons. What should the project manager do first?",
+    "options": [
+      "A. Find a replacement",
+      "B. Evaluate the impact of the team member's leave on the project",
+      "C. Persuade the team member to take several short leaves over the remaining project duration instead",
+      "D. Ask the team member to postpone their leave"
+    ],
+    "answer": "B",
+    "explanation": "The first thing the project manager should do is understand what impact this leave will have on the project. For instance, a two-month leave may not have a significant impact on a three-year project, but it will have a substantial impact on a six-month project, especially if this team member is a key player. Evaluation and assessment should always precede action.",
+    "difficulty": "hard",
+    "topic": "Resource Management and Team Planning",
+    "domain": 1,
+    "source_id": "yt_002",
+    "chunk_index": 17,
+    "video_segment": "4:16:57→4:32:05"
+  },
+  {
+    "question": "A senior team member expresses concerns to the project manager about a new member, believing that the new member lacks the technical proficiency to properly accomplish their assigned work. Having worked together for several years, the project manager has confidence in the senior team member's judgment. What should the project manager do?",
+    "options": [
+      "A. Release the new team member",
+      "B. Do nothing since the new team member has already been assigned",
+      "C. Provide the new team member with training and mentoring",
+      "D. Keep the new team member but reassign their tasks to someone else"
+    ],
+    "answer": "C",
+    "explanation": "A project manager should provide the new member with the needed training and mentoring. Option A is incorrect as releasing team members is not an appropriate first response. Option B is wrong because the project manager must intervene when issues are identified. Option D is incorrect because reassigning tasks prevents the new member from learning and developing their skills.",
+    "difficulty": "hard",
+    "topic": "Team Development and Coaching",
+    "domain": 1,
+    "source_id": "yt_002",
+    "chunk_index": 17,
+    "video_segment": "4:16:57→4:32:05"
+  },
+  {
+    "question": "A project manager is leading an agile project through two sprints. One week into the first sprint, the project manager got a request from the project owner to immediately cancel the sprint. What should the project manager do?",
+    "options": [
+      "A. Inform the project owner that the sprint is time-boxed and should continue till its predefined end date",
+      "B. Ask the team to just finish the work in progress and then terminate the sprint",
+      "C. Immediately cancel the sprint",
+      "D. Ask the product owner to provide a clear explanation of their decision in order to cancel the sprint"
+    ],
+    "answer": "C",
+    "explanation": "The product owner has the authority to cancel an ongoing sprint for any reason they think is valid. When a request comes from the product owner to cancel the sprint, the project manager should immediately comply. The product owner is the only one responsible for cancelling a sprint in agile frameworks, and the project manager must respect this authority.",
+    "difficulty": "hard",
+    "topic": "Agile Sprint Management and Product Owner Authority",
+    "domain": 2,
+    "source_id": "yt_002",
+    "chunk_index": 17,
+    "video_segment": "4:16:57→4:32:05"
+  },
+  {
+    "question": "In order to promote adaptability and minimize disruptions, a project manager decides to adopt an agile development approach that allows the project team to work in a continuous flow rather than using iteration-based cycles. What should the project manager do?",
+    "options": [
+      "A. Implement daily standup meetings to enhance communication and collaboration",
+      "B. Encourage self-organization and decision-making within the team",
+      "C. Break down project deliverables into smaller manageable increments",
+      "D. Use a Kanban framework to optimize workflow and identify bottlenecks"
+    ],
+    "answer": "D",
+    "explanation": "The Kanban method involves pulling work into the system only when the team is capable of handling it. Kanban prioritizes productivity and efficiency through its workflow approach and provides continuous flow rather than iteration-based cycles like Scrum. Option A addresses communication but doesn't respond to the continuous flow requirement. Option B addresses team empowerment but not workflow structure. Option C relates to iteration-based approaches, not continuous flow.",
+    "difficulty": "hard",
+    "topic": "Kanban Framework and Continuous Flow",
+    "domain": 2,
+    "source_id": "yt_002",
+    "chunk_index": 17,
+    "video_segment": "4:16:57→4:32:05"
+  },
+  {
+    "question": "At the end of a sprint retrospective, a team member stated that the meeting output is almost the same as the previous ones and suggested cancelling it or at least reducing its frequency. What should the project manager do?",
+    "options": [
+      "A. Extend the sprint time box in order to allow for more improvements to be discussed in the retrospective",
+      "B. Reduce the frequency of retrospectives to once every two sprints",
+      "C. Go with voting and if all team members agree then skip retrospectives",
+      "D. Keep the same frequency of retrospectives and reflect on how to make them more relevant and actionable"
+    ],
+    "answer": "D",
+    "explanation": "The project manager should maintain retrospective frequency but improve their facilitation and make the meetings more relevant and actionable. Options A, B, and C are incorrect because extending the time box doesn't address the issue, reducing or skipping retrospectives violates agile principles where continuous learning is fundamental. The project manager should list action items from discussions and implement improvements in the next sprint, then evaluate their impact in the following retrospective.",
+    "difficulty": "hard",
+    "topic": "Agile Retrospectives and Team Continuous Improvement",
+    "domain": 2,
+    "source_id": "yt_002",
+    "chunk_index": 18,
+    "video_segment": "4:32:05→4:47:13"
+  },
+  {
+    "question": "One year into managing a construction project and during the completion and closure process, the project manager faces a key stakeholder's refusal to sign off the deliverables due to non-compliance claims. What should the project manager do next?",
+    "options": [
+      "A. Issue a change request",
+      "B. Conduct a lessons learned meeting with the key stakeholder",
+      "C. Check the contract's dispute resolution clause",
+      "D. Conduct a variance analysis"
+    ],
+    "answer": "D",
+    "explanation": "The first step should be to conduct a variance analysis to understand why the stakeholder refused sign-off and identify the gap between what was delivered and what was requested. This analysis will determine the appropriate next course of action, which could then be a change request or other resolution. Lessons learned meetings occur after project closure, and consulting dispute resolution is premature before attempting to resolve the actual compliance issue.",
+    "difficulty": "hard",
+    "topic": "Project Closure and Variance Analysis",
+    "domain": 2,
+    "source_id": "yt_002",
+    "chunk_index": 18,
+    "video_segment": "4:32:05→4:47:13"
+  },
+  {
+    "question": "During the sprint planning, the development team estimated a task to be worth eight story points while the product owner's estimation for the same task was three story points. Therefore, the scrum master decided to assign this task five story points to bridge the gap between the two estimations. What did the scrum master do wrong in this scenario?",
+    "options": [
+      "A. The scrum master should provide their estimate before making a final decision",
+      "B. The scrum master should assign 5.5 story points as an average for both estimates",
+      "C. The scrum master should assign three story points to the task since the product owner is the one responsible for assigning estimates",
+      "D. The scrum master should assign eight story points since the development team is responsible for assigning estimates"
+    ],
+    "answer": "D",
+    "explanation": "In Scrum, the development team—not the product owner or scrum master—is responsible for estimating tasks, as they are the ones executing the work. The team's estimate of eight story points should be assigned to the task. The scrum master should not provide estimates (eliminating A), story point estimates are whole numbers not decimals (eliminating B), and the product owner does not assign estimates (eliminating C). The scrum master's role is to facilitate, not override the team's estimation.",
+    "difficulty": "hard",
+    "topic": "Agile Estimation and Scrum Roles",
+    "domain": 2,
+    "source_id": "yt_002",
+    "chunk_index": 18,
+    "video_segment": "4:32:05→4:47:13"
+  },
+  {
+    "question": "A project manager is assigned to a university complex project that consists of designing and producing 200 way finding and directional signs. These signs will be placed and installed near doors, exits, offices, elevators, etc. by another company. After getting the client's approval that the project scope is met, the project manager delivers the signs to the installation company. The installation company asks the project manager to help them with the signs installation. What should the project manager do?",
+    "options": [
+      "A. Submit a change request to assist with the signs installation",
+      "B. Do a favor for the installation company and help them out",
+      "C. Create a new separate project charter for the signs installation support to make it clear that it's not part of the initial project",
+      "D. Do nothing since the project scope has been officially fulfilled and approved by the client"
+    ],
+    "answer": "D",
+    "explanation": "The project manager's project is complete once the 200 signs have been designed, produced, and delivered with client approval. The installation is a separate project assigned to another company with its own project charter and project manager. The original project manager should not submit a change request (as the project scope is done), help informally (which is not authorized use of company resources), or create a new charter (the installation company should manage their own project). The project manager should formally close their project and not engage in work outside their authorized scope.",
+    "difficulty": "hard",
+    "topic": "Project Scope and Closure",
+    "domain": 2,
+    "source_id": "yt_002",
+    "chunk_index": 18,
+    "video_segment": "4:32:05→4:47:13"
+  },
+  {
+    "question": "A project manager is leading a big project with team members of different cultural backgrounds and nationalities. The multilingual team members use English in their day-to-day communication as they can speak it fluently. What should the project manager take into consideration?",
+    "options": [
+      "A. Due to cultural differences, the project manager should consider creating a separate code of conduct for each nationality",
+      "B. The project manager should accept that some team members may have some conflicts when working with colleagues of other nationalities",
+      "C. The project manager should take into account that spoken communication may give rise to certain misunderstandings that may not occur in written communications",
+      "D. The project manager should keep in mind that some team members won't mind late night meetings and video conferences"
+    ],
+    "answer": "C",
+    "explanation": "While team members may speak English fluently, cultural backgrounds influence communication styles, interpretations, examples, and word meanings differently across cultures. Spoken communication is more prone to misunderstandings in multicultural settings, making written communication clearer and more formal for important commitments. Option A is impractical (creating 20+ codes of conduct). Option B suggests accepting conflicts rather than preventing them. Option D inappropriately assumes team members' availability based on nationality. Clear written communication helps bridge cultural and linguistic nuances.",
+    "difficulty": "hard",
+    "topic": "Cross-Cultural Communication and Team Management",
+    "domain": 1,
+    "source_id": "yt_002",
+    "chunk_index": 18,
+    "video_segment": "4:32:05→4:47:13"
+  },
+  {
+    "question": "During the project planning phase, stakeholders insisted that their conflicting requirements should all be considered and consolidated. That made it hard for the project manager to create a plan that satisfies all stakeholders. What should the project manager do to establish a common ground?",
+    "options": [
+      "A. Build focus groups involving concerned stakeholders to discuss and resolve conflicting interests",
+      "B. Create a document explaining the different perspectives",
+      "C. Give each stakeholder the opportunity to write their requirements",
+      "D. Use the project manager's legitimate power to decide which requirements should be prioritized"
+    ],
+    "answer": "A",
+    "explanation": "Focus groups bring together stakeholders and subject matter experts to interactively discuss and learn about their expectations and attitudes. This approach directly establishes common ground through dialogue, rather than passive documentation or autocratic decision-making. The project manager should engage stakeholders in active discussion, not impose decisions unilaterally.",
+    "difficulty": "hard",
+    "topic": "Stakeholder Engagement and Conflict Resolution",
+    "domain": 1,
+    "source_id": "yt_002",
+    "chunk_index": 19,
+    "video_segment": "4:47:13→5:02:18"
+  },
+  {
+    "question": "A project manager is managing a project with a distributed team, limited budget, and tight deadlines. The project manager wants to avoid any scope creep and keep the team focused on delivering a product that meets requirements. What should the project manager do?",
+    "options": [
+      "A. Ask the project team to skip small requirements",
+      "B. Ensure that all alterations to the scope are authorized through a formal process",
+      "C. Prevent stakeholders from directly interacting",
+      "D. Recommend adopting an agile project management approach instead"
+    ],
+    "answer": "B",
+    "explanation": "Scope creep is managed by adhering to a formal, documented change management process. This ensures control and visibility over scope modifications. Skipping requirements is inappropriate, preventing stakeholder interaction is counterproductive, and changing the entire project approach based on one criterion is premature and risky without understanding organizational readiness.",
+    "difficulty": "hard",
+    "topic": "Scope Management and Change Control",
+    "domain": 2,
+    "source_id": "yt_002",
+    "chunk_index": 19,
+    "video_segment": "4:47:13→5:02:18"
+  },
+  {
+    "question": "All stakeholders are in a meeting to discuss a new project that is expected to start within one month and to last at least 10 iterations. One of the stakeholders mentions that someone should take the responsibility of developing and maintaining the product road map. Who should take this responsibility?",
+    "options": [
+      "A. The project manager",
+      "B. The development team",
+      "C. The scrum master",
+      "D. The product owner"
+    ],
+    "answer": "D",
+    "explanation": "In agile projects with iterations, the product owner is responsible for creating and maintaining the product roadmap. The product owner represents the client and is accountable for the product's success, including managing the vision and priorities reflected in the roadmap.",
+    "difficulty": "hard",
+    "topic": "Agile Roles and Responsibilities",
+    "domain": 2,
+    "source_id": "yt_002",
+    "chunk_index": 19,
+    "video_segment": "4:47:13→5:02:18"
+  },
+  {
+    "question": "A project manager works for a company that does not have an official archiving procedure. The project manager has just finished a project and got the client's official approval of the final deliverables. What should the project manager do with all the associated paperwork?",
+    "options": [
+      "A. Do nothing since the company does not require the archiving of completed projects",
+      "B. Archive the project documents following industry best practices",
+      "C. Discard the archive to comply with the company's policy",
+      "D. Ask the client to keep the project archive"
+    ],
+    "answer": "B",
+    "explanation": "Even without an official company archiving procedure in place, project records should be organized, indexed, and preserved for future use. The project manager should apply professional standards and industry best practices to ensure proper documentation retention. The absence of a company policy does not eliminate the need to archive; it means the project manager must use professional judgment to establish proper archiving practices.",
+    "difficulty": "hard",
+    "topic": "Project Documentation and Records Management",
+    "domain": 2,
+    "source_id": "yt_002",
+    "chunk_index": 19,
+    "video_segment": "4:47:13→5:02:18"
+  },
+  {
+    "question": "An agile team is demonstrating a recently developed product increment. Among the deliverables is the product's logo. After explaining the meaning behind their choice for the different elements of the logo, the senior graphic designer solicited feedback. The product owner appreciated the logo. While the majority of the cross-functional team noted that the logo icon would look better if it was 20% bigger. However, the scrum master thinks that a 10% size increase would be enough to make the logo look better. Which of the following decisions should be ultimately considered?",
+    "options": [
+      "A. The icon size should be increased by 20% as per the recommendation of the majority of the cross-functional team",
+      "B. The icon size should be increased by 10% as per the scrum master",
+      "C. It should not be increased as per the product owner",
+      "D. It should not be increased because the senior graphic designer is the decision maker"
+    ],
+    "answer": "C",
+    "explanation": "The product owner is the decision maker responsible for accepting or rejecting demonstrated product increments during iteration review meetings. Since the product owner is pleased with the logo as presented, their decision takes precedence over other team members' suggestions. The product owner represents the client's interests and has the authority to approve or reject deliverables.",
+    "difficulty": "hard",
+    "topic": "Agile Acceptance Criteria and Product Owner Authority",
+    "domain": 1,
+    "source_id": "yt_002",
+    "chunk_index": 19,
+    "video_segment": "4:47:13→5:02:18"
+  },
+  {
+    "question": "Two team members discuss an issue concerning server configuration. When the first member asks why this issue keeps happening, the second member says that server parameters are confusing, making it difficult for him to handle its configuration. The first team member suggests that he could be consulted the next few times the server is being configured, to which the second team member agrees and the problem is resolved. Which conflict resolution technique is being used in this situation?",
+    "options": [
+      "A. Collaborating",
+      "B. Confronting",
+      "C. Norming",
+      "D. Forcing"
+    ],
+    "answer": "B",
+    "explanation": "Confronting (also known as problem-solving) is the technique being used here. The two team members directly address the underlying issue—server parameter confusion—and work toward resolving it by identifying a practical solution. While collaborating involves negotiation between parties with different positions, confronting focuses on solving the specific problem at hand. This scenario demonstrates a direct, problem-focused approach rather than forcing (authoritative), norming (a team development stage, not a conflict resolution technique), or collaborating (which involves more negotiation).",
+    "difficulty": "hard",
+    "topic": "Conflict Resolution Techniques",
+    "domain": 1,
+    "source_id": "yt_002",
+    "chunk_index": 19,
+    "video_segment": "4:47:13→5:02:18"
+  },
+  {
+    "question": "A subcontractor is engaged to install the electrical wiring of a construction project. A stakeholder requests a modification in the project scope which will result in a change in the subcontractor's workload. Which of the following documents will address how the change in the subcontractor's workload will be handled?",
+    "options": [
+      "A. The change control system",
+      "B. The procurement management plan",
+      "C. The contract",
+      "D. The project scope"
+    ],
+    "answer": "C",
+    "explanation": "The contract is the document that defines the relationship between the subcontractor and the project manager, including the scope of work. Any changes to predetermined contract terms should be addressed in the contract through the change clause, which specifies how changes will be performed, negotiated, and their impact. While the change control system describes how modifications to project deliverables are managed, if modifications impact a subcontractor's work, the project manager must review the change clause in the corresponding contract. The procurement management plan addresses how subcontractors will be hired and selected, not how changes to their workload are handled. The project scope defines what is in and out of scope but does not address how changes affect a subcontractor's workload.",
+    "difficulty": "hard",
+    "topic": "Procurement Management and Change Management",
+    "domain": 2,
+    "source_id": "yt_002",
+    "chunk_index": 20,
+    "video_segment": "5:02:18→5:17:24"
+  },
+  {
+    "question": "Since switching to the agile approach, a project manager has been encouraging their team to be self-organizing by allowing them to decide on how to execute their assigned work. What is the main aspect of a self-organizing team?",
+    "options": [
+      "A. It gives more responsibility to the project manager",
+      "B. It gives more responsibility to the agile team",
+      "C. It allows the team to deliver a working product without external dependencies",
+      "D. It gives team members higher visibility to the product"
+    ],
+    "answer": "B",
+    "explanation": "A self-organizing team is characterized by the fact that team members do not wait for supervisors to assign tasks. Instead, they determine which tasks must be accomplished, prioritize those tasks, and manage their own schedules and deadlines. This means more responsibility and decision-making authority is given to the agile team rather than the project manager. Option A is incorrect because self-organizing teams reduce rather than increase the project manager's responsibility. Option C describes a cross-functional team, not a self-organizing team—cross-functional teams have all necessary skills without external dependencies. Option D about product visibility is not the defining characteristic of self-organizing teams.",
+    "difficulty": "hard",
+    "topic": "Agile Team Management and Self-Organization",
+    "domain": 1,
+    "source_id": "yt_002",
+    "chunk_index": 20,
+    "video_segment": "5:02:18→5:17:24"
+  },
+  {
+    "question": "One month into the project, the sponsor contacts the project manager to express dissatisfaction with the project work. The sponsor says that the deliverables do not match neither the requirements nor the set expectations. What should the project manager do?",
+    "options": [
+      "A. Continue working on the next deliverable to finish the project on time",
+      "B. Talk to management to discuss the sponsor's concerns",
+      "C. Ensure that the next deliverables have enough features to meet the client's expectations",
+      "D. Perform a scope control to verify if the deliverables meet the project objectives"
+    ],
+    "answer": "D",
+    "explanation": "The appropriate action is to perform scope control (or scope verification) to review and verify the deliverables against requirements and expectations. Scope control involves reviewing deliverables to ensure they are appropriately completed as per requirements, and any discovered inconsistencies should be rectified before seeking the sponsor's formal approval through the validate scope process. Option A is incorrect because ignoring the sponsor's concerns and continuing with the next deliverable does not address the problem. Option B is premature escalation—the project manager should first understand and verify the issue at the project management level before escalating to management. Option C attempts to deliver more in the future but does not address the already-delivered work or the root causes of the sponsor's dissatisfaction.",
+    "difficulty": "hard",
+    "topic": "Scope Verification and Control",
+    "domain": 2,
+    "source_id": "yt_002",
+    "chunk_index": 20,
+    "video_segment": "5:02:18→5:17:24"
+  },
+  {
+    "question": "After purchasing a new software needed for the project, a project manager identifies a potential risk. The bought version might be old. In case that risk occurs, the project manager will just need to go to the settings and update the software version. Therefore, the project manager decides to passively accept the risk. Why is passive risk acceptance the appropriate approach?",
+    "options": [
+      "A. Because the probability of risk occurrence is very low",
+      "B. Because the risk occurrence is difficult to identify",
+      "C. Because it is better to deal with trivial risks when they occur",
+      "D. Because the risk is not on the critical path"
+    ],
+    "answer": "C",
+    "explanation": "Passive risk acceptance is appropriate for trivial risks—those with very low impact. In this case, updating the software version is a simple and straightforward action with minimal consequence, making it a trivial risk that does not require elaborate risk response planning. Option A is incorrect because passive acceptance is not determined solely by low probability; even low-probability risks with high impact require risk responses. Option B is incorrect because risk by definition may or may not occur—the difficulty of identification is inherent to all risks and does not justify acceptance. Option D is incorrect because whether a risk is attached to an activity on the critical path or not is irrelevant to risk response strategy selection; what matters is the impact and importance of the risk itself.",
+    "difficulty": "hard",
+    "topic": "Risk Response Planning and Acceptance",
+    "domain": 2,
+    "source_id": "yt_002",
+    "chunk_index": 20,
+    "video_segment": "5:02:18→5:17:24"
+  },
+  {
+    "question": "The project manager recently learned that one of the senior team members will be promoted to manage a new project within the organization. When this happens, the project manager will lose a valuable member in the team. What should the project manager do next?",
+    "options": [
+      "A. Try to influence management to delay the team member's promotion until the project is completed",
+      "B. Inform the team member about the promotion and ask them to transfer their responsibilities to another team member",
+      "C. Ask the team member to prepare a transition plan once they get officially promoted",
+      "D. Acquire another resource to replace the team member"
+    ],
+    "answer": "C",
+    "explanation": "The appropriate action is to ask the team member to prepare a transition plan once they are officially promoted. This acknowledges that the promotion is not yet finalized and avoids premature action while ensuring a structured handover when the transition actually occurs. Option A is inappropriate because trying to delay a promotion is detrimental to the team member's career development and professional growth. Option B is premature because it assumes the team member should transfer responsibilities before the promotion has officially taken place; asking them to act on a future event that has not yet occurred is not appropriate. Option D is also premature and inefficient—acquiring a replacement before the person has actually left is wasteful and unnecessary. The correct approach respects the team member's opportunity while planning for transition only after the promotion is official.",
+    "difficulty": "hard",
+    "topic": "Team Management and Resource Planning",
+    "domain": 1,
+    "source_id": "yt_002",
+    "chunk_index": 20,
+    "video_segment": "5:02:18→5:17:24"
+  },
+  {
+    "question": "During a bidder conference, a supplier brought to the project manager's attention a missing requirement in the request for proposal. When checking the RFP, the project manager realized that the supplier was correct. The project manager then discussed this particular requirement and its acceptance criteria for 15 minutes to ensure that all attending suppliers were fully aware of it. When seller responses were received, only one prospective supplier addressed the missing requirement. What should the project manager do next?",
+    "options": [
+      "A. Retain the supplier who noted the missing requirement.",
+      "B. Retain the supplier who addressed the missing requirements in their response.",
+      "C. Extend the deadline to receive more proposals and have more choices.",
+      "D. Send an adjusted RFP comprising the missing requirement to all suppliers and give them the opportunity to resubmit their proposals."
+    ],
+    "answer": "D",
+    "explanation": "The correct answer is D because the project manager must correct the mistake by sending a formal written adjustment to the RFP to all prospective suppliers. While verbal communication was used during the bidder conference, formal written communication is necessary to ensure clarity and prevent misunderstandings. This gives all suppliers a fair opportunity to respond to the missing requirement and allows the project manager to make a selection based on complete and comparable proposals. Options A and B make premature selections based on incomplete information or a single criterion rather than evaluating all selection criteria. Option C, while addressing the extension, lacks the clarity of also sending the adjusted RFP.",
+    "difficulty": "hard",
+    "topic": "Procurement and Vendor Management",
+    "domain": 2,
+    "source_id": "yt_002",
+    "chunk_index": 21,
+    "video_segment": "5:17:24→5:32:30"
+  },
+  {
+    "question": "After sizing the selected product backlog items for the next release, the product owner estimated that five sprints are needed to complete the release. However, after two sprints, the project manager finds out that the velocity of the team has declined for various reasons, which means that the release deadline will not be met. What should the project manager do next?",
+    "options": [
+      "A. Reprioritize the backlog.",
+      "B. Add more members to the team.",
+      "C. Decompose user stories to increase the velocity of the team.",
+      "D. Discuss the issue with the product owner to find the appropriate solution."
+    ],
+    "answer": "D",
+    "explanation": "The correct answer is D because the project manager must collaborate with the product owner to determine the appropriate course of action. Option A is incorrect because only the product owner has the authority to prioritize product backlog items. Option B is incorrect because adding team members requires product owner approval and has financial implications that the project manager cannot decide alone. Option C is incorrect because decomposing user stories does not increase velocity; it simply breaks down larger stories into smaller ones with proportionally smaller story point estimates, yielding no net gain. The project manager should inform the product owner of the facts and work together to determine whether to adjust expectations, add resources, or take other corrective actions.",
+    "difficulty": "hard",
+    "topic": "Agile Project Management and Team Velocity",
+    "domain": 2,
+    "source_id": "yt_002",
+    "chunk_index": 21,
+    "video_segment": "5:17:24→5:32:30"
+  },
+  {
+    "question": "During a meeting with 15 stakeholders, the product owner was discussing and collecting ideas about the product requirements. Since there were a lot of suggested ideas, the product owner decided to vote. After voting, the product owner found that a particular idea received nine votes out of 15. What type of decision-making approach does this depict?",
+    "options": [
+      "A. Unanimity",
+      "B. Majority",
+      "C. Plurality",
+      "D. Dictatorship"
+    ],
+    "answer": "B",
+    "explanation": "The correct answer is B, majority. With 15 stakeholders and 9 votes for the selected idea, this represents more than 50% of the votes (9 out of 15), which is the definition of a majority decision. Option A, unanimity, would require all 15 votes. Option C, plurality, occurs when the winning option receives the most votes but does not constitute a majority (e.g., 6 votes out of 15 when multiple competing options exist). Option D, dictatorship, describes a decision made by a single person without input from others.",
+    "difficulty": "hard",
+    "topic": "Stakeholder Engagement and Decision-Making Techniques",
+    "domain": 1,
+    "source_id": "yt_002",
+    "chunk_index": 21,
+    "video_segment": "5:17:24→5:32:30"
+  },
+  {
+    "question": "A project manager is leading a software project. A team member is in charge of developing the user interface. Even though this member is doing a great job, their work pace is way slower than expected, which can cause the whole project to miss its deadline. What should the project manager do first in this situation?",
+    "options": [
+      "A. Delegate some of the team member's tasks to other team members.",
+      "B. Remove the team member from the project.",
+      "C. Find out the cause of the team member's slow work pace.",
+      "D. Give the concerned team member other non-critical tasks."
+    ],
+    "answer": "C",
+    "explanation": "The correct answer is C because the project manager should first investigate and understand the root cause of the problem before taking any corrective action. Option A, delegating tasks, is premature without understanding why the pace is slow. Option B, removing the team member, is extreme and inappropriate for a high-quality performer. Option D, reassigning to non-critical tasks, sends a negative message and does not address the underlying issue. By determining the cause first, the project manager can make an informed decision—whether the member is overallocated, facing technical challenges, or dealing with other constraints—and can collaborate with the team member to identify appropriate solutions.",
+    "difficulty": "hard",
+    "topic": "Team Performance Management and Coaching",
+    "domain": 1,
+    "source_id": "yt_002",
+    "chunk_index": 21,
+    "video_segment": "5:17:24→5:32:30"
+  },
+  {
+    "question": "A stakeholder is pressuring the project team to make some changes to the product. The project manager informs the stakeholder that the changes cannot be implemented immediately due to the established processes. What should the project manager refer the stakeholder to?",
+    "options": [
+      "A. The change control plan",
+      "B. The change control system",
+      "C. The organizational process assets",
+      "D. The scope management plan"
+    ],
+    "answer": "B",
+    "explanation": "The correct answer is B, the change control system. The change control system is the formal mechanism through which changes are reviewed, evaluated, approved, and implemented during project execution. It consists of the actual procedures and tools used to manage changes. Option A, the change control plan, is a planning document that describes how the change control system will be established and operated, not the system itself. Option C, organizational process assets, is too broad and refers to the general set of processes and documents an organization follows. Option D, the scope management plan, defines how scope will be collected and managed, but does not address the change control process. The project manager should refer the stakeholder to the change control system so they understand the established procedures for submitting and processing change requests.",
+    "difficulty": "hard",
+    "topic": "Change Management and Scope Control",
+    "domain": 2,
+    "source_id": "yt_002",
+    "chunk_index": 21,
+    "video_segment": "5:17:24→5:32:30"
+  },
+  {
+    "question": "A project manager must assign a complex task to one of the team members. The project manager had to choose between two members who were both equally capable of fulfilling the task. However, the project manager had a closer relationship with one of them than the other. What should the project manager do in this case?",
+    "options": [
+      "A. Disclose the situation to the appropriate stakeholders and solicit a joint decision",
+      "B. Choose the one that the project manager has a closer relationship with since that type of trust can benefit the project",
+      "C. Choose the member the project manager is not close to in order to avoid misunderstanding",
+      "D. Ask a third team member to take the decision in order to avoid a conflict of interest"
+    ],
+    "answer": "A",
+    "explanation": "According to the PMI code of ethics under the fairness chapter, a project manager should disclose any potential or real conflict of interest to stakeholders. Choosing based on the closer relationship could constitute a conflict of interest. Avoiding the closer person or delegating to a third party are not appropriate solutions.",
+    "difficulty": "hard",
+    "topic": "Conflict of Interest and Ethics",
+    "domain": 1,
+    "source_id": "yt_002",
+    "chunk_index": 22,
+    "video_segment": "5:32:30→5:47:38"
+  },
+  {
+    "question": "While reviewing the latest report of the project team's performance, a project manager notices a major drop in their output. What should the project manager do to raise the team's productivity?",
+    "options": [
+      "A. Increase the pressure on each team member",
+      "B. Conduct daily performance reviews to keep the team focused and motivated",
+      "C. Offer a special reward for the best performing team members",
+      "D. Improve and promote trust and cohesiveness among team members"
+    ],
+    "answer": "D",
+    "explanation": "Improving trust and cohesiveness among team members enhances productivity. Increasing pressure has negative connotations, daily performance reviews are impractical and waste time, and offering rewards only to top performers creates envy and a zero-sum environment that damages team morale.",
+    "difficulty": "hard",
+    "topic": "Team Motivation and Performance",
+    "domain": 1,
+    "source_id": "yt_002",
+    "chunk_index": 22,
+    "video_segment": "5:32:30→5:47:38"
+  },
+  {
+    "question": "A project manager is leading a software development project using an agile framework. In the current iteration, the team encounters a technical challenge related to integrating a third-party API into the system. To address this challenge, the team decided to allocate time for a spike to look into the issue. Based on the iteration burndown chart, at which period of the iteration did the team take the spike?",
+    "options": [
+      "A. Period A",
+      "B. Period B",
+      "C. Period C",
+      "D. Period D"
+    ],
+    "answer": "B",
+    "explanation": "A spike is a timeboxed activity aimed at addressing technical challenges or mitigating risks. During a spike, the team focuses on research and investigation rather than progressing on deliverables. On the burndown chart, period B shows no progress, indicating the team is working on the spike rather than completing story points.",
+    "difficulty": "hard",
+    "topic": "Agile and Scrum Practices",
+    "domain": 2,
+    "source_id": "yt_002",
+    "chunk_index": 22,
+    "video_segment": "5:32:30→5:47:38"
+  },
+  {
+    "question": "A project manager is leading the development of a new software project. The project manager wants to adopt an approach that produces key deliverables at various stages of the project. What should the project manager do?",
+    "options": [
+      "A. Create a detailed project schedule with key milestones to track progress against the plan",
+      "B. Deliver incremental results that can be added to the subsequent results",
+      "C. Organize frequent review meetings with project stakeholders to gather feedback and adjust project direction",
+      "D. Adopt an iterative approach to deliver the highest business value earlier"
+    ],
+    "answer": "B",
+    "explanation": "Delivering partial results at various intervals refers to the incremental approach, which produces multiple deliverables at different stages that build upon each other. The predictive approach focuses on milestones but not multiple deliverables. The iterative approach emphasizes correctness through iterations with feedback, but the incremental approach is specifically designed to deliver value through multiple intermediate deliverables.",
+    "difficulty": "hard",
+    "topic": "Incremental and Iterative Delivery",
+    "domain": 2,
+    "source_id": "yt_002",
+    "chunk_index": 22,
+    "video_segment": "5:32:30→5:47:38"
+  },
+  {
+    "question": "A project team discovered an error on the first day after project closure. The error was an omission in the main project regarding testing a contract feature on mobile. The project has a maintenance contract in place. How should the project manager handle this escaped defect?",
+    "options": [
+      "A. Reopen the project and fix the error since testing the contract feature on mobile was a method.",
+      "B. Ask the sponsor to submit a formal change request with a retroactive date in order to be considered as part of the project.",
+      "C. Request from the project team to fix the issue according to the maintenance contract.",
+      "D. Do nothing since the error is discovered after the formal closure of the project."
+    ],
+    "answer": "C",
+    "explanation": "An escaped defect is one that was not detected by the project team but discovered by the customer or end user after the product is released. These defects are usually covered by a maintenance contract. Reopening a closed project is not appropriate. Asking for a retroactive change request is unethical. Doing nothing would violate the terms of the maintenance contract. The project manager should request the project team to fix the issue according to the maintenance contract.",
+    "difficulty": "hard",
+    "topic": "Defect Management and Maintenance Contracts",
+    "domain": 2,
+    "source_id": "yt_002",
+    "chunk_index": 23,
+    "video_segment": "5:47:38→6:02:42"
+  },
+  {
+    "question": "A project manager is adopting the Scrum framework for the first time. One of the team members asks when a sprint is considered completed. What should be the project manager's response?",
+    "options": [
+      "A. When all product backlog items are completed.",
+      "B. When all the tasks in the sprint are completed.",
+      "C. When the sprint's defined time box ends.",
+      "D. When all product backlog items meet the definition of done."
+    ],
+    "answer": "C",
+    "explanation": "A sprint is a time-boxed duration, typically one to four weeks. It is considered complete when the time box duration ends, regardless of whether all assigned tasks are finished. Waiting to complete all tasks contradicts the time-boxed nature of sprints. Incomplete items can be moved to the next sprint or back to the product backlog based on the product owner's priorities. The sprint ends when its duration ends, not when work is completed.",
+    "difficulty": "hard",
+    "topic": "Scrum Sprint Management",
+    "domain": 2,
+    "source_id": "yt_002",
+    "chunk_index": 23,
+    "video_segment": "5:47:38→6:02:42"
+  },
+  {
+    "question": "A project manager is facing challenges with a key stakeholder who frequently changed requirements in previous projects and created trouble when requirements were not met. How should the project manager deal with this issue?",
+    "options": [
+      "A. Adopt an agile approach.",
+      "B. Involve the concerned stakeholder right from the start.",
+      "C. Ask the concerned stakeholder to mend their ways.",
+      "D. Inform management about the issue."
+    ],
+    "answer": "B",
+    "explanation": "The key to managing this stakeholder issue is stakeholder engagement. By involving the stakeholder from the very beginning of the project, the project manager can help reduce and uncover risks as well as increase their buy-in. While an agile approach might work, changing the entire development approach based on one stakeholder is not appropriate. You cannot simply ask stakeholders to change their behavior. Escalating to management should be a last resort when the project manager cannot handle the issue themselves.",
+    "difficulty": "hard",
+    "topic": "Stakeholder Management and Engagement",
+    "domain": 1,
+    "source_id": "yt_002",
+    "chunk_index": 23,
+    "video_segment": "5:47:38→6:02:42"
+  },
+  {
+    "question": "A project manager is managing a software development project planned to last three months. The project progress aligned with the planned schedule throughout. However, one day before the delivery deadline, a team member discovered a bug that could cause a one-week delay. What should the project manager do next?",
+    "options": [
+      "A. Inform the stakeholders that there is a bug that requires two to three days to fix.",
+      "B. Inform the stakeholders about the situation and that it may take a week to resolve the bug.",
+      "C. Update the lessons learned and add them to the project documentation.",
+      "D. Close the project since the project end date has been reached."
+    ],
+    "answer": "B",
+    "explanation": "The project manager must be ethical and transparent with stakeholders. Communicating a false timeline of two to three days when the actual estimate is one week is dishonest. The correct approach is to inform stakeholders about the situation and the realistic one-week timeline for resolving the bug. Updating lessons learned should be done after the issue is fixed. Closing the project without completing all scope items is inappropriate, especially since the bug was discovered before the end date.",
+    "difficulty": "hard",
+    "topic": "Stakeholder Communication and Ethics",
+    "domain": 1,
+    "source_id": "yt_002",
+    "chunk_index": 23,
+    "video_segment": "5:47:38→6:02:42"
+  },
+  {
+    "question": "A team member is confident that a personality test will reveal their pragmatic personality type because they only believe in facts and never rely on intuition. Based on the MBTI personality test, what should this team member's personality type be?",
+    "options": [
+      "A. Sensing.",
+      "B. Thinking.",
+      "C. Judging.",
+      "D. Perceiving."
+    ],
+    "answer": "A",
+    "explanation": "In the MBTI personality test, Sensing is the personality type characterized by paying close attention to reality, concentrating on facts and details, and taking advantage of practical experience. Since this team member only believes in facts and never relies on intuition, they demonstrate a Sensing personality type. Sensing is the opposite of intuition. The other options relate to different personality dimensions: Thinking vs. Feeling, and Judging vs. Perceiving.",
+    "difficulty": "hard",
+    "topic": "MBTI Personality Types and Team Dynamics",
+    "domain": 1,
+    "source_id": "yt_002",
+    "chunk_index": 23,
+    "video_segment": "5:47:38→6:02:42"
+  },
+  {
+    "question": "A product owner sends a document including all the product backlog items to the project manager. The project manager informs the product owner that these product backlog items should be prioritized throughout the project. What should the project manager recommend?",
+    "options": [
+      "A. The business analyst and project manager collaborate to define the priorities of the product backlog items.",
+      "B. The team prioritizes the product backlog items based on their size.",
+      "C. The product owner places the most valuable items at the top.",
+      "D. The sponsor decides the priority of product backlog items."
+    ],
+    "answer": "C",
+    "explanation": "In Agile/Scrum, the product owner is responsible for prioritizing product backlog items. Although the product owner may delegate this responsibility to others, they remain accountable for the prioritization. The product owner should place the most valuable items at the top of the backlog. The business analyst and project manager should not prioritize without the product owner. The team does not prioritize backlog items, and the sponsor should not be making prioritization decisions.",
+    "difficulty": "hard",
+    "topic": "Product Backlog Management and Product Owner Responsibilities",
+    "domain": 2,
+    "source_id": "yt_002",
+    "chunk_index": 23,
+    "video_segment": "5:47:38→6:02:42"
+  },
+  {
+    "question": "A project manager is leading a software development project using a hybrid approach. During project execution, the sponsor left the project and a new sponsor was assigned. When the project manager informed the new sponsor that the deliverables were produced using a hybrid project management approach, the sponsor asked for proof. How should the project manager address the new sponsor's request?",
+    "options": [
+      "A. Explain the hybrid approach to the new sponsor",
+      "B. Ask the new sponsor to reach out to the project team in order to get a clear explanation of how the product is being developed",
+      "C. Present the project charter to the new sponsor",
+      "D. Present the project management plan to the new sponsor"
+    ],
+    "answer": "D",
+    "explanation": "The project management plan is the formal document that includes the project development approach as one of its elements. Presenting it provides formal proof of the hybrid approach being used. The charter contains only high-level information and typically does not detail the development approach. Explaining or asking the team to explain does not provide formal proof as requested by the sponsor.",
+    "difficulty": "hard",
+    "topic": "Project Documentation and Sponsor Communication",
+    "domain": 2,
+    "source_id": "yt_002",
+    "chunk_index": 24,
+    "video_segment": "6:02:42→6:17:48"
+  },
+  {
+    "question": "During the sprint planning, the team decomposed a user story into four tasks. When working on the user story, a team member identified a fifth task. What should the team member do?",
+    "options": [
+      "A. Update the user story and work on the new task",
+      "B. Report the issue to the scrum master",
+      "C. Request approval from the product owner to approve the new task",
+      "D. Add the new task to the product backlog"
+    ],
+    "answer": "A",
+    "explanation": "If a new technical task is identified that contributes to the acceptance criteria and definition of done of the user story, the team member should update the user story and work on the new task immediately during the sprint. The team is responsible for determining how to do the work. However, if the new work is separate and does not contribute to the user story, then it should be added to the product backlog for the product owner to prioritize. In this case, since a fifth task was identified within the user story, it should be worked on immediately.",
+    "difficulty": "hard",
+    "topic": "Agile Sprint Planning and User Story Decomposition",
+    "domain": 2,
+    "source_id": "yt_002",
+    "chunk_index": 24,
+    "video_segment": "6:02:42→6:17:48"
+  },
+  {
+    "question": "A data science project manager is used to implementing projects with the hybrid approach. Her organization owns two servers for manipulating big data with one server being more performant than the other. After a meeting with a potential client, the project manager informed her superior that if this project is approved, she would like to use the organization's performance server and have the senior developer Adam as part of the project team. Does the project manager have the right to make such a request?",
+    "options": [
+      "A. Yes, project managers can reassign resources if they need to",
+      "B. Yes, competition over resources is common, so project managers should be proactive in reserving them",
+      "C. No, the project manager cannot preassign resources",
+      "D. No, in hybrid projects it is the product owner's responsibility to acquire and develop resources"
+    ],
+    "answer": "A",
+    "explanation": "Resources can be identified and preassigned as early as the initiation phase through preassignment or resource negotiations. The project manager has the right to identify required resources, whether human or physical, and request them early in the project. This is not about competition but about identifying adequate resources needed for project success. Options C and D are incorrect because preassignment is a valid practice, and responsibility for resource acquisition is not exclusively the product owner's in hybrid approaches.",
+    "difficulty": "hard",
+    "topic": "Resource Planning and Preassignment",
+    "domain": 2,
+    "source_id": "yt_002",
+    "chunk_index": 24,
+    "video_segment": "6:02:42→6:17:48"
+  },
+  {
+    "question": "While having a meeting with the organization's CEO, a project manager got a call from a team member asking for a 4-day leave to attend a religious celebration. The project manager immediately refused the team member's request since the project is already behind schedule and approaching its deadline. The CEO who was listening to the conversation intervened to discuss the matter with the team member. After a long call, the CEO decided to allow the team member to only get a two-day leave. What type of conflict management technique did the project manager use in this situation?",
+    "options": [
+      "A. Smoothing",
+      "B. Compromising",
+      "C. Forcing",
+      "D. Collaborating"
+    ],
+    "answer": "C",
+    "explanation": "The project manager used the forcing technique by immediately and firmly refusing the team member's request, attempting to impose a decision using their formal authority and coercive power. This is a win-lose situation. The CEO later used compromising when they negotiated a middle ground of two days instead of four. It is important to focus on who is being asked about in the question—the project manager used forcing, not the CEO's compromise.",
+    "difficulty": "hard",
+    "topic": "Conflict Resolution and Management Styles",
+    "domain": 1,
+    "source_id": "yt_002",
+    "chunk_index": 24,
+    "video_segment": "6:02:42→6:17:48"
+  },
+  {
+    "question": "During the first sprint of a new project, a scrum master had an important business meeting at the same time as the daily stand-up meeting. What should the scrum master do in this situation?",
+    "options": [
+      "A. Skip the stand-up meeting and attend the business meeting instead",
+      "B. Ask the cross-functional team to postpone the stand-up meeting",
+      "C. Cancel the stand-up meeting",
+      "D. Ask the cross-functional team to record the stand-up meeting in order to watch it later"
+    ],
+    "answer": "A",
+    "explanation": "The scrum master is not required to attend every daily stand-up meeting. If the scrum master has another important commitment, it is acceptable to skip the meeting since the stand-up is primarily for team members to synchronize their work and assess progress. The meeting should not be postponed, cancelled, or recorded just because the scrum master is unavailable. Such actions would impose unnecessary burden on the team.",
+    "difficulty": "hard",
+    "topic": "Scrum Master Responsibilities and Daily Stand-ups",
+    "domain": 2,
+    "source_id": "yt_002",
+    "chunk_index": 24,
+    "video_segment": "6:02:42→6:17:48"
+  },
+  {
+    "question": "An organization is used to following the scrum framework where sprints are four weeks long. One day the organization's chief technology officer (CTO) approached the scrum master and argued that a 4-week sprint is too long and it would be better to reduce it to 2 weeks. Convinced by the CTO's suggestion, how could the scrum master make this change?",
+    "options": [
+      "A. Announce to the entire scrum team that the CTO, who has formal power, has decided that the sprint should only last 2 weeks",
+      "B. Let the product owner and the team members know about the intention to reduce the sprint length and involve them in the decision",
+      "C. Inform the team of the sprint length change during the sprint retrospective and provide them with arguments",
+      "D. Engage an agile coach to assist in this transition since having someone external to the team will most likely reduce any resistance"
+    ],
+    "answer": "B",
+    "explanation": "The correct answer is B because the scrum master needs to involve the entire team and those impacted when tailoring a process. The CTO only made a suggestion, not a formal directive, so option A incorrectly assumes formal power. Option C is unilateral decision-making without team consultation. Option D inappropriately relies on external imposition rather than team involvement. Process changes in Scrum require collaborative decision-making with the product owner and development team.",
+    "difficulty": "hard",
+    "topic": "Scrum Master Responsibilities and Process Tailoring",
+    "domain": 2,
+    "source_id": "yt_002",
+    "chunk_index": 25,
+    "video_segment": "6:17:48→6:32:55"
+  },
+  {
+    "question": "The project manager is in charge of an educational project. After analyzing the power level of each of the project's stakeholders, the project manager finds out that Monica and Marcus have high power while Ravi and Sergio have low power. Using a stakeholder engagement assessment matrix, the project manager determines that Monica is neutral and Marcus is unaware. Based on this analysis, which stakeholder should be prioritized in terms of engagement?",
+    "options": [
+      "A. Monica",
+      "B. Marcus",
+      "C. Ravi",
+      "D. Sergio"
+    ],
+    "answer": "B",
+    "explanation": "The correct answer is B. Priority in engagement should be given to stakeholders with high levels of power. Marcus, who is both high power and unaware, is more dangerous than Monica, who is neutral. An unaware stakeholder with high power can cause significant trouble later in the project when they become aware. Early engagement and communication with unaware high-power stakeholders is critical to prevent late-stage project disruption. Low-power stakeholders (Ravi and Sergio) are not priorities for engagement.",
+    "difficulty": "hard",
+    "topic": "Stakeholder Engagement and Analysis",
+    "domain": 1,
+    "source_id": "yt_002",
+    "chunk_index": 25,
+    "video_segment": "6:17:48→6:32:55"
+  },
+  {
+    "question": "A project manager developed the work breakdown structure by decomposing the work into three levels. The supportive PMO points out that three levels are not enough and recommends breaking down the project into five levels. What should the project manager do?",
+    "options": [
+      "A. Take into consideration the PMO's recommendation and decompose work as needed",
+      "B. Establish common ground by decomposing the WBS into four levels instead",
+      "C. Since the PMO has a high level of control, follow the recommendation without question",
+      "D. Since the PMO has a low level of control, ignore the recommendation"
+    ],
+    "answer": "A",
+    "explanation": "The correct answer is A. A supportive PMO provides guidance, expertise, and recommendations without imposing control. The project manager should consider the PMO's recommendation and decompose the work as needed based on the project's size, complexity, and level of control required. There is no standard or predefined number of WBS decomposition levels. Option B inappropriately assumes compromise is necessary. Option C is incorrect because a supportive PMO does not have high control. Option D incorrectly suggests ignoring valuable recommendations. The project manager retains decision-making authority while considering PMO guidance.",
+    "difficulty": "hard",
+    "topic": "Work Breakdown Structure Development",
+    "domain": 2,
+    "source_id": "yt_002",
+    "chunk_index": 25,
+    "video_segment": "6:17:48→6:32:55"
+  },
+  {
+    "question": "A project manager is assigned to lead a project to construct a building extension within the organization. The project team has meticulously planned the project scope, schedule, and cost. The project is funded and about to start when an executive from another department asks the project manager to formally assist him in delivering a website as part of their rebranding project. What should the project manager do next?",
+    "options": [
+      "A. Explain to the executive that the website work is out of the project's scope because you are working on a construction project",
+      "B. Review the impact of the new task on the project schedule and cost",
+      "C. Ask the executive to submit a change request for the added scope",
+      "D. Assign a team member to help the executive create the website"
+    ],
+    "answer": "A",
+    "explanation": "The correct answer is A. The website development and building construction are two completely different projects. The project manager should clearly explain that the website work is out of the construction project's scope. Option B and C incorrectly treat the website as an added scope to the construction project. Option D is particularly problematic because it inappropriately uses project resources for work outside the project scope, which can have negative consequences even after project completion. Project resources and team members should only be used for work within the defined project scope.",
+    "difficulty": "hard",
+    "topic": "Scope Management and Boundary Definition",
+    "domain": 2,
+    "source_id": "yt_002",
+    "chunk_index": 25,
+    "video_segment": "6:17:48→6:32:55"
+  },
+  {
+    "question": "During a retrospective meeting, some agile team members stated that it sometimes gets confusing to check who is working on each work item and at what stage they are. What can the project manager do to solve this problem?",
+    "options": [
+      "A. Coach the team on how to be more attentive during the daily stand-up meeting",
+      "B. Guide the team on how to use the kanban board and update it regularly",
+      "C. Ask team members to memorize the status of all tasks",
+      "D. Implement a new project management software without team input"
+    ],
+    "answer": "B",
+    "explanation": "The correct answer is B. Using a kanban board with proper updates is the most effective solution for tracking work items and their status. A kanban board visually displays tasks in columns (to-do, in progress, testing, done) and shows who is working on each item, making it easy to track progress. Option A is ineffective because relying on team members to memorize all task statuses is impractical. Option C is unrealistic for large numbers of work items. Option D bypasses team collaboration and feedback. The kanban board is a visual management tool that provides real-time transparency into work item status and assignments.",
+    "difficulty": "hard",
+    "topic": "Agile Visual Management and Work Item Tracking",
+    "domain": 2,
+    "source_id": "yt_002",
+    "chunk_index": 25,
+    "video_segment": "6:17:48→6:32:55"
+  },
+  {
+    "question": "In order to ensure that the agile team is cross-functional, the project manager hires a new team member who is more inclined towards testing tasks. After a few days, the new member informs the project manager that he is unable to do his work properly because he doesn't have the necessary permission to access part of the code. What should the project manager do next?",
+    "options": [
+      "A. Ask the team member to raise the issue during the retrospective meeting",
+      "B. Tell the team member to adjust the acceptance criteria of the pending tasks and then inform the product owner",
+      "C. Explain to the team member that he cannot access the whole code due to security restrictions",
+      "D. Reach out to the appropriate stakeholder to either confirm or update the team member's privileges"
+    ],
+    "answer": "D",
+    "explanation": "As a servant leader, the project manager should proactively resolve impediments by reaching out to stakeholders to verify access issues. Option A is wrong because impediments should be resolved immediately, not postponed to retrospectives. Option B is incorrect because team members cannot adjust acceptance criteria without product owner approval. Option C may be true but doesn't take proactive action to resolve the blocker.",
+    "difficulty": "hard",
+    "topic": "Servant Leadership and Impediment Removal in Agile",
+    "domain": 1,
+    "source_id": "yt_002",
+    "chunk_index": 26,
+    "video_segment": "6:32:55→6:48:01"
+  },
+  {
+    "question": "During a sprint review meeting, a team member demonstrated a new feature and pointed out that it took longer than expected due to missing technical documentation. Then the team member asked a senior member how to avoid this in the future. What should the meeting facilitator do?",
+    "options": [
+      "A. Let the discussion flow naturally since it's important and only intervene if the side discussion continues for too long",
+      "B. Ask the team member to reflect on how to make such improvements at another meeting",
+      "C. Interrupt the team member because the product owner is not supposed to know that documentation is missing",
+      "D. Let the discussion continue and then ask the product owner to give feedback on potential improvements"
+    ],
+    "answer": "B",
+    "explanation": "The sprint review is for demonstrating completed work to stakeholders, not for process improvements. Discussions about how to prevent future problems belong in the retrospective meeting. Option A is incorrect because the facilitator should redirect off-topic discussions. Option C contradicts agile principles of transparency. Option D extends the discussion beyond the scope of a sprint review.",
+    "difficulty": "hard",
+    "topic": "Sprint Review Meeting Purpose and Scope",
+    "domain": 2,
+    "source_id": "yt_002",
+    "chunk_index": 26,
+    "video_segment": "6:32:55→6:48:01"
+  },
+  {
+    "question": "During the sprint, the scrum master asked two senior members whether the remaining work in the sprint backlog could be completed to achieve the sprint goal. The team members replied by saying that they were not supposed to track such data. What should the scrum master do next?",
+    "options": [
+      "A. Take disciplinary action against the two team members",
+      "B. Take charge of tracking the sprint backlog process",
+      "C. Inform the two team members that tracking sprint backlog is the responsibility of the development team and guide them through the process",
+      "D. Ask the two team members about the sprint backlog progress during the next standup instead"
+    ],
+    "answer": "C",
+    "explanation": "The scrum master's role is to coach the team on their responsibilities and guide them through agile processes. The development team is responsible for tracking remaining work in the sprint backlog. Option A is inappropriate as this is not a disciplinary matter. Option B violates the principle of self-organizing teams by having the scrum master take over tracking. Option D postpones addressing the knowledge gap.",
+    "difficulty": "hard",
+    "topic": "Scrum Master Coaching and Team Responsibilities",
+    "domain": 1,
+    "source_id": "yt_002",
+    "chunk_index": 26,
+    "video_segment": "6:32:55→6:48:01"
+  },
+  {
+    "question": "A stakeholder added a user story to the product backlog. The user story seemed clear to the scrum team. However, during execution, the assigned member gets confused about one of its implementation scenarios. What should the team member do in this case?",
+    "options": [
+      "A. Ask the stakeholder for clarification",
+      "B. Ask the product owner for clarification",
+      "C. Convey the confusion to the scrum master who will help get clarification from the product owner",
+      "D. Wait for the next standup meeting to report the issue"
+    ],
+    "answer": "B",
+    "explanation": "The product owner is the single point of contact for product-related clarifications and specifications in agile. The team should reach out directly to the product owner without intermediaries. Option A bypasses the product owner hierarchy. Option C unnecessarily involves the scrum master, whose role is to facilitate processes, not product specifications. Option D unnecessarily delays resolution of blocking issues.",
+    "difficulty": "hard",
+    "topic": "Product Owner Role and Single Point of Contact",
+    "domain": 1,
+    "source_id": "yt_002",
+    "chunk_index": 26,
+    "video_segment": "6:32:55→6:48:01"
+  },
+  {
+    "question": "Shortly after joining a new organization, a project manager noted a lack of collaboration within the team. What should the project manager do to create a cooperative work environment?",
+    "options": [
+      "A. Conduct soft skills development training",
+      "B. Opt for a pool based system for working assignments",
+      "C. Organize team building activities",
+      "D. Adopt an agile work approach"
+    ],
+    "answer": "C",
+    "explanation": "Team building activities directly foster collaboration and cooperation among team members. Option A addresses skills but may not immediately improve collaboration culture. Option B (pool-based systems like kanban) improves work efficiency but does not create a cooperative environment. Option D is not appropriate to implement based on a single criterion of lacking collaboration without understanding the project context.",
+    "difficulty": "hard",
+    "topic": "Team Building and Creating a Collaborative Environment",
+    "domain": 1,
+    "source_id": "yt_002",
+    "chunk_index": 26,
+    "video_segment": "6:32:55→6:48:01"
+  },
+  {
+    "question": "An organization hires an external agile coach as part of its transformation project. In the final report, the agile coach mentions that measures should be taken to enable agile teams to be cross-functional. How should the organization proceed with the agile coach recommendation?",
+    "options": [
+      "A. Allow individuals to collectively determine the best way to accomplish the goal of the sprint",
+      "B. Allow individuals to take part in guiding the product direction",
+      "C. Assign individuals who possess the necessary skills to produce a functioning product",
+      "D. Empower individuals to approve the potentially shippable product increment"
+    ],
+    "answer": "C",
+    "explanation": "A cross-functional team must possess the necessary competencies for creating a product or service independently without relying on other members outside of the team. Option A describes self-organizing teams, not cross-functional teams. Option B assigns the product owner's responsibility (guiding product direction) to the team. Option D assigns the product owner's approval responsibility to the team, which is incorrect—the product owner approves the potentially shippable product increment, not the team.",
+    "difficulty": "hard",
+    "topic": "Agile Team Structure and Cross-Functional Teams",
+    "domain": 1,
+    "source_id": "yt_002",
+    "chunk_index": 27,
+    "video_segment": "6:48:01→6:50:38"
+  }
+]

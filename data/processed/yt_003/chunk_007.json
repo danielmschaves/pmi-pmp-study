@@ -1,0 +1,94 @@
+{
+  "source_id": "yt_003",
+  "chunk_index": 7,
+  "start_label": "1:45:44",
+  "end_label": "2:00:51",
+  "mode": "extract",
+  "questions": [
+    {
+      "question": "You are working on a project where a competitor is also working on a similar feature and being first to the market will have a significant impact on this year's profit. Your product owner would like to measure how quickly story cards are being completed once they start being developed. What will you do next?",
+      "options": [
+        "A. Check the velocity of all story cards completed in a Sprint",
+        "B. Check the Gantt chart",
+        "C. Measure the cycle time",
+        "D. Check the schedule network and precedence diagram"
+      ],
+      "answer": "C",
+      "explanation": "Cycle time is the total elapsed time it takes one unit to get through a process, measured from when a developer starts picking up work until completion. Lead time is the full time from when the feature enters the backlog until it is released to production. Since the product owner wants to measure how quickly story cards are completed once development starts, cycle time is the appropriate metric. The Gantt chart and schedule network diagram would not directly measure the speed of individual story card completion.",
+      "difficulty": "hard",
+      "topic": "Flow-Based Estimating and Cycle Time",
+      "domain": 2,
+      "source_id": "yt_003",
+      "chunk_index": 7,
+      "video_segment": "1:45:44→2:00:51"
+    },
+    {
+      "question": "You are working on a project that has recently moved to a more agile way of work. The team has not completely taken on the scrum approach and are comfortable working with a more flow-based approach, moving user stories across a Kanban board. You want to get an estimate on how much work can be completed in the next 3 months based on the team's existing process progress. What will you do next?",
+      "options": [
+        "A. Multiply the velocity by the number of remaining user stories",
+        "B. Multiply the cycle time by the throughput",
+        "C. Multiply the lead time by the schedule performance index",
+        "D. Multiply the planned value by the actual value"
+      ],
+      "answer": "B",
+      "explanation": "In a flow-based or Kanban approach, estimates are developed by determining cycle time and throughput. Cycle time is the total elapsed time it takes one unit to get through a process, and throughput is the number of items that can complete a process in a given amount of time. Multiplying these together gives an estimate of how much work can be completed in a given timeframe. Velocity is a Scrum metric, not applicable to Kanban. Lead time multiplied by schedule performance index and planned value multiplied by actual value are earned value management concepts not relevant here.",
+      "difficulty": "hard",
+      "topic": "Flow-Based Estimating and Kanban Throughput",
+      "domain": 2,
+      "source_id": "yt_003",
+      "chunk_index": 7,
+      "video_segment": "1:45:44→2:00:51"
+    },
+    {
+      "question": "Your product owner wants to bring the next feature forward so that it is done in parallel to the current feature, still released in the existing feature order. You make the necessary adjustments to the product backlog and decide to adjust the product roadmap which you have visualized as a Gantt chart. What will you do next to accomplish this?",
+      "options": [
+        "A. Use a schedule lag",
+        "B. Change the feature to finish-to-start dependency",
+        "C. Use a schedule lead",
+        "D. Extend the timeline on the Gantt chart"
+      ],
+      "answer": "C",
+      "explanation": "A schedule lead brings an item forward in time, allowing work to start earlier. In this scenario, the second feature needs to start before the first one finishes so it is ready to go, but it still cannot finish before the first feature finishes (maintaining delivery order). This is accomplished by applying a schedule lead. A schedule lag moves an item back. Finish-to-start dependencies would keep items strictly sequential. The precedence diagramming method states that for finish-to-finish relationships, the next item cannot finish until the previous item has finished, which allows parallel work while maintaining delivery order.",
+      "difficulty": "hard",
+      "topic": "Schedule Leads, Lags, and Precedence Diagramming",
+      "domain": 2,
+      "source_id": "yt_003",
+      "chunk_index": 7,
+      "video_segment": "1:45:44→2:00:51"
+    },
+    {
+      "question": "You are working on a project where you have been completing the deliverables in sequence and the project work is starting to fall behind. The project sponsor asks you to speed up the work and reduce the time for the project to be delivered but also makes it very clear that there is no more money to use when speeding up the work. What will you do next?",
+      "options": [
+        "A. Use schedule crashing to compress the schedule",
+        "B. Use schedule fast tracking to perform activities in parallel",
+        "C. Apply resource leveling to sequence activities",
+        "D. Request additional budget from the sponsor"
+      ],
+      "answer": "B",
+      "explanation": "Schedule fast tracking is a schedule compression method in which activities or tasks that are normally done in sequence are performed in parallel. This allows you to compress the schedule without adding resources or budget. Schedule crashing includes adding people to activities, working overtime, or paying to expedite deliveries—all of which require additional budget that is unavailable. Resource leveling is used to resolve resource conflicts by moving activities to different times, which would not help compress the schedule. Since there is no additional budget available, fast tracking is the appropriate technique.",
+      "difficulty": "hard",
+      "topic": "Schedule Compression Techniques",
+      "domain": 2,
+      "source_id": "yt_003",
+      "chunk_index": 7,
+      "video_segment": "1:45:44→2:00:51"
+    },
+    {
+      "question": "After reviewing your project schedule you notice you are behind by 3 weeks and the schedule needs to be compressed. Your project does not have enough budget to crash the schedule. You check with the lead for each area and review the schedule as to whether they can fast track their deliverables. What will you do next?",
+      "options": [
+        "A. Fast track activities with discretionary dependencies",
+        "B. Fast track all mandatory dependencies",
+        "C. Fast track all external dependencies",
+        "D. Fast track all industry-regulated activities"
+      ],
+      "answer": "A",
+      "explanation": "A discretionary dependency is based on project preferences and may be modifiable, making activities with discretionary dependencies good candidates for fast tracking. External and mandatory dependencies are usually difficult or impossible to modify—external dependencies are outside your control, and mandatory dependencies are set in stone. Industry-regulated activities typically have strict constraints and regulatory oversight that prevent them from being fast tracked. Identifying which dependencies can be modified is key to successfully fast tracking without causing other issues.",
+      "difficulty": "hard",
+      "topic": "Schedule Compression and Dependency Analysis",
+      "domain": 2,
+      "source_id": "yt_003",
+      "chunk_index": 7,
+      "video_segment": "1:45:44→2:00:51"
+    }
+  ]
+}

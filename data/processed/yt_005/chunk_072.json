@@ -1,0 +1,94 @@
+{
+  "source_id": "yt_005",
+  "chunk_index": 72,
+  "start_label": "12:07:20",
+  "end_label": "12:17:26",
+  "mode": "extract",
+  "questions": [
+    {
+      "question": "Your team is working on estimating user stories for an upcoming sprint. Which approach would be most effective for helping the team perform relative estimating?",
+      "options": [
+        "A. Ask each team member to add their own estimates as they complete the acceptance criteria",
+        "B. Estimate the effort for the overall feature and reduce the need for individual story estimates",
+        "C. Have the team size stories in points relative to the smallest piece, often using a Fibonacci scale, with input from all team members including testers and developers",
+        "D. Base the estimates on cost per hour and add them up after the work is done to ensure accuracy"
+      ],
+      "answer": "C",
+      "explanation": "Relative estimating is the most common method for user stories where they are sized in comparison to the smallest piece, often in story points and frequently using a Fibonacci scale. This approach benefits from collaborative input from all team members involved in the work (developers, testers, etc.), which is a key advantage over individual estimating. The other options either miss the collaborative aspect, don't address the need for story-level estimates for sprint velocity calculation, or confuse estimating with actual cost tracking.",
+      "difficulty": "expert",
+      "topic": "Agile Estimation and Story Pointing",
+      "domain": 2,
+      "source_id": "yt_005",
+      "chunk_index": 72,
+      "video_segment": "12:07:20→12:17:26"
+    },
+    {
+      "question": "You are halfway through your current sprint of two weeks. The work is progressing well, however you notice that there is not enough work ready and elaborated for when the next sprint begins. What will you do next?",
+      "options": [
+        "A. Hold a backlog refinement meeting and work with the team to identify the work that could be accomplished",
+        "B. Raise the issue as a blocker in the daily standup and ask your team to swarm around the problem",
+        "C. Raise the issue in the next retrospective and take an action for the team",
+        "D. Place the cards on the kanban board so the team can see the work and get started"
+      ],
+      "answer": "A",
+      "explanation": "A backlog refinement meeting is the appropriate action to take during the current sprint to progressively elaborate and prioritize the backlog for the upcoming iteration. The team needs to identify work that meets the definition of ready before the next sprint begins. A retrospective occurs at the end of a sprint, making it too late to prepare for the upcoming sprint. The daily standup is not the appropriate forum for this type of planning, and work must be ready according to the definition of ready before being placed on a board.",
+      "difficulty": "expert",
+      "topic": "Agile Ceremonies and Backlog Management",
+      "domain": 2,
+      "source_id": "yt_005",
+      "chunk_index": 72,
+      "video_segment": "12:07:20→12:17:26"
+    },
+    {
+      "question": "You have completed a make-or-buy analysis in your project and found that part of your deliverable is best created by an external vendor. You work with your project team to create the procurement strategy, source selection criteria, and statement of work. What should you do next?",
+      "options": [
+        "A. Gather the seller proposals including technical details and price",
+        "B. Meet with prospective sellers to ensure all vendors have a common understanding of the procurement",
+        "C. Perform source selection analysis on what you want from prospective vendors",
+        "D. Create the procurement agreement for the third-party vendor to provide their specified services"
+      ],
+      "answer": "B",
+      "explanation": "A bidder conference (also called a contractor conference, vendor conference, or pre-bid conference) is an output of plan procurement management where you meet with prospective sellers prior to the preparation of a bid or proposal to ensure all prospective bidders have a clear and common understanding of the procurement. This meeting comes after you have established your procurement strategy and source selection criteria, but before you gather actual proposals. Source selection analysis occurs later, and the procurement agreement is created only after a seller has been selected.",
+      "difficulty": "expert",
+      "topic": "Procurement Planning and Seller Conferences",
+      "domain": 2,
+      "source_id": "yt_005",
+      "chunk_index": 72,
+      "video_segment": "12:07:20→12:17:26"
+    },
+    {
+      "question": "One of the stakeholders in your project has raised a change request after some of the deliverables contained defects and a missed requirement. Your project has a formal change control process in place. What will you do next?",
+      "options": [
+        "A. Gather feedback from other stakeholders to see if they also need the change",
+        "B. Note the change in the change log and place the requested item in the next sprint",
+        "C. Take it to the change control board and communicate the decision to approve or reject the change",
+        "D. Raise the request as an issue that will affect your project schedule and budget"
+      ],
+      "answer": "C",
+      "explanation": "In a formal change control process, the change request must be submitted to the change control board, which includes people who are accountable for reviewing, approving, or rejecting changes to the project. The decisions made at this meeting are recorded and communicated to appropriate stakeholders. Simply noting the change in a log or placing it in the next sprint bypasses the formal control process. While a change may affect schedule and budget, that is not the immediate next step—the change must first go through the formal review and approval process.",
+      "difficulty": "expert",
+      "topic": "Change Control and Formal Change Management",
+      "domain": 2,
+      "source_id": "yt_005",
+      "chunk_index": 72,
+      "video_segment": "12:07:20→12:17:26"
+    },
+    {
+      "question": "Your agile project has recently gained some new stakeholders after a department restructure. They complain to you that they are not seeing enough traction of work delivered through the project and they are worried that it will not meet their requirements. What should you do next?",
+      "options": [
+        "A. Invite them to the daily standup so they can see the work that happens on a daily basis",
+        "B. Invite them to iteration planning so they can choose what the team works on",
+        "C. Schedule a backlog refinement session to understand their specific requirements",
+        "D. Provide them with a detailed project schedule and budget forecast"
+      ],
+      "answer": "B",
+      "explanation": "Inviting new stakeholders to iteration planning (sprint planning) allows them to understand what work will be done in the upcoming sprint and ensures their requirements and priorities are being considered. This helps address their concerns about traction and requirements being met. While the daily standup can be open to stakeholders in some methodologies, iteration planning is the more appropriate venue for stakeholder involvement in prioritization decisions. The daily standup's primary purpose is for the development team to coordinate work, whereas iteration planning is where priorities and requirements are discussed. Backlog refinement may be helpful, but iteration planning more directly addresses their concerns about work selection and priority.",
+      "difficulty": "expert",
+      "topic": "Stakeholder Engagement in Agile",
+      "domain": 1,
+      "source_id": "yt_005",
+      "chunk_index": 72,
+      "video_segment": "12:07:20→12:17:26"
+    }
+  ]
+}

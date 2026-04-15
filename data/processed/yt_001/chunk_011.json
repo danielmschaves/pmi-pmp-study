@@ -1,0 +1,128 @@
+{
+  "source_id": "yt_001",
+  "chunk_index": 11,
+  "start_label": "2:46:04",
+  "end_label": "3:01:10",
+  "mode": "extract",
+  "questions": [
+    {
+      "question": "A software development project has just started, and the organization wants to see improvements implemented in the shortest time frame. What should the project manager do?",
+      "options": [
+        "A. Utilize agile methodologies to ensure rapid delivery of high-priority features",
+        "B. Implement a waterfall method to automate testing",
+        "C. Establish a dedicated task force focused on critical system upgrades first",
+        "D. Conduct a series of stakeholder workshops to prioritize software enhancements based on impact"
+      ],
+      "answer": "A",
+      "explanation": "Agile methodologies, particularly Scrum, are ideal for software development projects that need to deliver improvements rapidly. Agile prioritizes delivering the most important features first through iterative development, which achieves the shortest time frame. Waterfall takes the longest and is not suitable for rapid delivery. A dedicated task force and stakeholder workshops are useful but do not directly address the need for rapid delivery. Only the product owner can define what is critical, making agile the best approach.",
+      "difficulty": "expert",
+      "topic": "Agile and Scrum Methodologies",
+      "domain": 2,
+      "source_id": "yt_001",
+      "chunk_index": 11,
+      "video_segment": "2:46:04→3:01:10"
+    },
+    {
+      "question": "In the middle of an urban development project, the project manager faces a setback as a key engineer and an urban planner announce their imminent departure from the team. The project is already on a strict timeline with critical milestones approaching. The remaining team members are concerned about the increased workload and the potential impact on the project schedule. What should the project manager do?",
+      "options": [
+        "A. Increase the workload on team members to cover the tasks of the departed individuals",
+        "B. Outsource specific critical tasks to a specialized firm to keep the project on schedule",
+        "C. Work with the remaining team members to recruit new members to complete the workload and apply for a project timeline extension due to unforeseen staffing challenges",
+        "D. Develop a contingency plan to reassign tasks among the remaining team"
+      ],
+      "answer": "C",
+      "explanation": "Overworking team members (option A) is never an acceptable answer on the exam and violates good project management practice. Outsourcing (option B) requires a full procurement process and cannot be done right away. The best approach is to involve the team members in identifying and recruiting new team members and to formally request a timeline extension through the change management process to account for the staffing disruption. This demonstrates collaborative leadership and proper change control.",
+      "difficulty": "expert",
+      "topic": "Team Management and Change Control",
+      "domain": 1,
+      "source_id": "yt_001",
+      "chunk_index": 11,
+      "video_segment": "2:46:04→3:01:10"
+    },
+    {
+      "question": "A firm plans to transition to lean development techniques. The project manager encounters resistance from several worldwide stakeholders who are wary of the new processes. The project manager needs to build confidence in lean methodologies amongst the stakeholders. What should the project manager propose?",
+      "options": [
+        "A. Schedule meetings with stakeholders to address concerns",
+        "B. Introduce a reward system for early adopters of lean techniques",
+        "C. Accept that lean development will not work in all companies",
+        "D. Organize a company-wide seminar on the history and principles of lean"
+      ],
+      "answer": "A",
+      "explanation": "Never choose an option to do nothing (option C). While option D may seem helpful, it addresses theory rather than the specific concerns of resistant stakeholders. Option B (rewards) does not address underlying concerns when stakeholders are already skeptical. The best approach is to schedule meetings with stakeholders to understand their specific concerns and then explain the benefits of lean methodologies to address those concerns directly. This demonstrates stakeholder engagement and builds trust through dialogue.",
+      "difficulty": "expert",
+      "topic": "Stakeholder Management and Change Management",
+      "domain": 1,
+      "source_id": "yt_001",
+      "chunk_index": 11,
+      "video_segment": "2:46:04→3:01:10"
+    },
+    {
+      "question": "Leading a significant initiative to overhaul a corporation's IT infrastructure, the project manager has already navigated through several phases successfully with the CTO overseeing the initiative. The CTO departs unexpectedly, and the incoming CTO pauses the initiative pending a comprehensive review of the project's alignment with the company's revised technological direction. What is the most effective first step for the project manager?",
+      "options": [
+        "A. Arrange a meeting with the new CTO to outline the project benefits and strategic alignment",
+        "B. Prepare a detailed report comparing the current project status with industry standards and trends",
+        "C. Initiate a project audit to demonstrate compliance with best practices and regulatory requirements",
+        "D. Develop a contingency plan addressing potential changes requested by the new CTO"
+      ],
+      "answer": "A",
+      "explanation": "When a key stakeholder departs and a new stakeholder takes their place, the first action must be to meet with the new stakeholder to understand their priorities and expectations. This meeting allows the project manager to explain the project's benefits and demonstrate alignment with the new CTO's vision. While options B, C, and D may eventually be necessary, they are secondary to first understanding what the new stakeholder wants. Meeting first establishes the foundation for all subsequent actions.",
+      "difficulty": "expert",
+      "topic": "Stakeholder Management",
+      "domain": 1,
+      "source_id": "yt_001",
+      "chunk_index": 11,
+      "video_segment": "2:46:04→3:01:10"
+    },
+    {
+      "question": "In the midst of estimating tasks for a major upgrade to an application, a project manager finds that the development team has different views on the effort required for a particularly challenging feature. What should the project manager do to synchronize these variant estimates?",
+      "options": [
+        "A. Suggest implementing a quick prototype to better gauge the necessary effort",
+        "B. Allow the team additional time to research and independently reassess their estimates",
+        "C. Request each team member to detail their estimation process and foster a group consensus",
+        "D. Assign the task estimation to the most experienced developer to set a standard"
+      ],
+      "answer": "C",
+      "explanation": "When team members have different estimates, the best approach is to have them explain their estimation processes and work toward group consensus. This reveals the assumptions behind each estimate and allows the team to learn from one another. Option A (prototype) may be premature before understanding the estimates. Option B (independent research) does not foster collaboration and group learning. Option D (assigning to the most experienced developer) eliminates the rest of the team's input and is a forcing conflict resolution style that reduces team engagement. Collaborative estimation builds team understanding and ownership.",
+      "difficulty": "expert",
+      "topic": "Estimation and Team Collaboration",
+      "domain": 2,
+      "source_id": "yt_001",
+      "chunk_index": 11,
+      "video_segment": "2:46:04→3:01:10"
+    },
+    {
+      "question": "During the rollout of a new e-commerce platform, an agile project manager observes a trend of customers gravitating towards a competitor site which recently introduced a highly user-friendly checkout process. What is the first action the project manager should do?",
+      "options": [
+        "A. Engage in a detailed discussion with the product owner about any recent customer feedback or shifts in market trends",
+        "B. Intensify the development effort on refining the existing features to make them more competitive",
+        "C. Pause the introduction of additional features to prioritize a complete overhaul",
+        "D. Add a new user-friendly checkout process immediately"
+      ],
+      "answer": "A",
+      "explanation": "In agile projects, the product owner is responsible for prioritizing what goes into the product backlog based on business value and customer feedback. The project manager should bring the customer feedback and market trend to the product owner's attention but cannot unilaterally decide to add features, pause features, or intensify development. The product owner may already be aware of this trend and has the authority to reprioritize the backlog. Working with the product owner respects the agile governance structure and ensures decisions align with business strategy.",
+      "difficulty": "expert",
+      "topic": "Agile Project Management and Stakeholder Management",
+      "domain": 2,
+      "source_id": "yt_001",
+      "chunk_index": 11,
+      "video_segment": "2:46:04→3:01:10"
+    },
+    {
+      "question": "In the process of initiating an advanced analytical platform to enhance data-driven decision-making across its various functions, an organization is integrating a solution that is new to its technological landscape. What should the project manager emphasize?",
+      "options": [
+        "A. Evaluation of the platform's capability with legacy data systems and user adaptability",
+        "B. Precise needs analysis within the key business sectors to ensure the platform meets specific objectives",
+        "C. Broad consultation on future-proofing the platform against evolving data analytical technologies",
+        "D. Streamlining cross-functional workflows to minimize disruption during the platform implementation"
+      ],
+      "answer": "B",
+      "explanation": "During project initiation, the focus must be on clearly defining requirements and business objectives. Precise needs analysis ensures that the solution being built will actually meet the specific needs of the key business sectors it serves. This is fundamental to establishing a strong project charter and business case. While options A, C, and D address valid concerns for later phases, the initiation phase emphasizes validating that the project scope aligns with specific business objectives. Without precise requirements analysis upfront, the project risks building something that does not meet actual business needs.",
+      "difficulty": "expert",
+      "topic": "Project Initiation and Requirements Analysis",
+      "domain": 2,
+      "source_id": "yt_001",
+      "chunk_index": 11,
+      "video_segment": "2:46:04→3:01:10"
+    }
+  ]
+}

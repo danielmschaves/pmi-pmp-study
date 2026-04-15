@@ -1,0 +1,94 @@
+{
+  "source_id": "yt_002",
+  "chunk_index": 18,
+  "start_label": "4:32:05",
+  "end_label": "4:47:13",
+  "mode": "extract",
+  "questions": [
+    {
+      "question": "At the end of a sprint retrospective, a team member stated that the meeting output is almost the same as the previous ones and suggested cancelling it or at least reducing its frequency. What should the project manager do?",
+      "options": [
+        "A. Extend the sprint time box in order to allow for more improvements to be discussed in the retrospective",
+        "B. Reduce the frequency of retrospectives to once every two sprints",
+        "C. Go with voting and if all team members agree then skip retrospectives",
+        "D. Keep the same frequency of retrospectives and reflect on how to make them more relevant and actionable"
+      ],
+      "answer": "D",
+      "explanation": "The project manager should maintain retrospective frequency but improve their facilitation and make the meetings more relevant and actionable. Options A, B, and C are incorrect because extending the time box doesn't address the issue, reducing or skipping retrospectives violates agile principles where continuous learning is fundamental. The project manager should list action items from discussions and implement improvements in the next sprint, then evaluate their impact in the following retrospective.",
+      "difficulty": "hard",
+      "topic": "Agile Retrospectives and Team Continuous Improvement",
+      "domain": 2,
+      "source_id": "yt_002",
+      "chunk_index": 18,
+      "video_segment": "4:32:05→4:47:13"
+    },
+    {
+      "question": "One year into managing a construction project and during the completion and closure process, the project manager faces a key stakeholder's refusal to sign off the deliverables due to non-compliance claims. What should the project manager do next?",
+      "options": [
+        "A. Issue a change request",
+        "B. Conduct a lessons learned meeting with the key stakeholder",
+        "C. Check the contract's dispute resolution clause",
+        "D. Conduct a variance analysis"
+      ],
+      "answer": "D",
+      "explanation": "The first step should be to conduct a variance analysis to understand why the stakeholder refused sign-off and identify the gap between what was delivered and what was requested. This analysis will determine the appropriate next course of action, which could then be a change request or other resolution. Lessons learned meetings occur after project closure, and consulting dispute resolution is premature before attempting to resolve the actual compliance issue.",
+      "difficulty": "hard",
+      "topic": "Project Closure and Variance Analysis",
+      "domain": 2,
+      "source_id": "yt_002",
+      "chunk_index": 18,
+      "video_segment": "4:32:05→4:47:13"
+    },
+    {
+      "question": "During the sprint planning, the development team estimated a task to be worth eight story points while the product owner's estimation for the same task was three story points. Therefore, the scrum master decided to assign this task five story points to bridge the gap between the two estimations. What did the scrum master do wrong in this scenario?",
+      "options": [
+        "A. The scrum master should provide their estimate before making a final decision",
+        "B. The scrum master should assign 5.5 story points as an average for both estimates",
+        "C. The scrum master should assign three story points to the task since the product owner is the one responsible for assigning estimates",
+        "D. The scrum master should assign eight story points since the development team is responsible for assigning estimates"
+      ],
+      "answer": "D",
+      "explanation": "In Scrum, the development team—not the product owner or scrum master—is responsible for estimating tasks, as they are the ones executing the work. The team's estimate of eight story points should be assigned to the task. The scrum master should not provide estimates (eliminating A), story point estimates are whole numbers not decimals (eliminating B), and the product owner does not assign estimates (eliminating C). The scrum master's role is to facilitate, not override the team's estimation.",
+      "difficulty": "hard",
+      "topic": "Agile Estimation and Scrum Roles",
+      "domain": 2,
+      "source_id": "yt_002",
+      "chunk_index": 18,
+      "video_segment": "4:32:05→4:47:13"
+    },
+    {
+      "question": "A project manager is assigned to a university complex project that consists of designing and producing 200 way finding and directional signs. These signs will be placed and installed near doors, exits, offices, elevators, etc. by another company. After getting the client's approval that the project scope is met, the project manager delivers the signs to the installation company. The installation company asks the project manager to help them with the signs installation. What should the project manager do?",
+      "options": [
+        "A. Submit a change request to assist with the signs installation",
+        "B. Do a favor for the installation company and help them out",
+        "C. Create a new separate project charter for the signs installation support to make it clear that it's not part of the initial project",
+        "D. Do nothing since the project scope has been officially fulfilled and approved by the client"
+      ],
+      "answer": "D",
+      "explanation": "The project manager's project is complete once the 200 signs have been designed, produced, and delivered with client approval. The installation is a separate project assigned to another company with its own project charter and project manager. The original project manager should not submit a change request (as the project scope is done), help informally (which is not authorized use of company resources), or create a new charter (the installation company should manage their own project). The project manager should formally close their project and not engage in work outside their authorized scope.",
+      "difficulty": "hard",
+      "topic": "Project Scope and Closure",
+      "domain": 2,
+      "source_id": "yt_002",
+      "chunk_index": 18,
+      "video_segment": "4:32:05→4:47:13"
+    },
+    {
+      "question": "A project manager is leading a big project with team members of different cultural backgrounds and nationalities. The multilingual team members use English in their day-to-day communication as they can speak it fluently. What should the project manager take into consideration?",
+      "options": [
+        "A. Due to cultural differences, the project manager should consider creating a separate code of conduct for each nationality",
+        "B. The project manager should accept that some team members may have some conflicts when working with colleagues of other nationalities",
+        "C. The project manager should take into account that spoken communication may give rise to certain misunderstandings that may not occur in written communications",
+        "D. The project manager should keep in mind that some team members won't mind late night meetings and video conferences"
+      ],
+      "answer": "C",
+      "explanation": "While team members may speak English fluently, cultural backgrounds influence communication styles, interpretations, examples, and word meanings differently across cultures. Spoken communication is more prone to misunderstandings in multicultural settings, making written communication clearer and more formal for important commitments. Option A is impractical (creating 20+ codes of conduct). Option B suggests accepting conflicts rather than preventing them. Option D inappropriately assumes team members' availability based on nationality. Clear written communication helps bridge cultural and linguistic nuances.",
+      "difficulty": "hard",
+      "topic": "Cross-Cultural Communication and Team Management",
+      "domain": 1,
+      "source_id": "yt_002",
+      "chunk_index": 18,
+      "video_segment": "4:32:05→4:47:13"
+    }
+  ]
+}

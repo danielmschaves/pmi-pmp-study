@@ -1,0 +1,94 @@
+{
+  "source_id": "yt_003",
+  "chunk_index": 9,
+  "start_label": "2:15:56",
+  "end_label": "2:31:01",
+  "mode": "extract",
+  "questions": [
+    {
+      "question": "You put together a resource plan for a large amount of physical inventory to be purchased from overseas. You ordered the inventory during project execution; however, Global Supply chains were impacted and the shipment was delayed by 3 months, significantly impacting your project. What should you have done differently?",
+      "options": [
+        "A. Hired a resource manager to take care of the resource tasks on your project",
+        "B. Planned strategically about the timing from order to delivery to usage",
+        "C. Tracked the inventory from arrival on site to the delivery of an integrated product",
+        "D. Sourced the inventory locally to reduce the impact of global supply chains"
+      ],
+      "answer": "B",
+      "explanation": "Planning strategically about the timing from order to delivery to usage is the correct answer because it addresses the root cause of the delay. This includes evaluating bulk ordering versus storage costs and global logistics considerations. Tracking inventory after it arrives does not manage the risks that led to the delay. While sourcing locally is a possibility, the question specifies the inventory had to be purchased overseas. Hiring a resource manager does not address the supply chain risk planning needed.",
+      "difficulty": "hard",
+      "topic": "Resource Management and Risk Planning",
+      "domain": 2,
+      "source_id": "yt_003",
+      "chunk_index": 9,
+      "video_segment": "2:15:56→2:31:01"
+    },
+    {
+      "question": "You are halfway through your agile project when there is a significant change to the project scope after it was found that the project would not be able to deliver the benefits that it had promised. You check your project budget and there are contingency and management reserves available. What will you do next?",
+      "options": [
+        "A. Take the project scope change to the Change Control Board for approval",
+        "B. Use the available contingency reserves to make the appropriate change to the project scope",
+        "C. Review the change management plan for the Change Control process",
+        "D. Reprioritize the backlog and begin work on the highest priority item straight away"
+      ],
+      "answer": "D",
+      "explanation": "In an agile project, changes are handled through reprioritizing the backlog rather than a formal Change Control Board process. The team simply reprioritizes work to include the new scope requirement, and lower-priority items may not get completed. Contingency reserves are for project risks, not scope changes, and management reserves are for unforeseen scope—but in agile, the backlog prioritization replaces formal reserve management and change control processes.",
+      "difficulty": "hard",
+      "topic": "Agile Change Management and Backlog Prioritization",
+      "domain": 2,
+      "source_id": "yt_003",
+      "chunk_index": 9,
+      "video_segment": "2:15:56→2:31:01"
+    },
+    {
+      "question": "You have recently taken over a project that is behind schedule and slightly over budget. You raise an issue at the steering committee meeting where they advise that there is no additional funding available for the project and the project must finish on time. You believe that you can optimize the project process to bring it back on track. What will you do next?",
+      "options": [
+        "A. Use additional people and resources to speed up the project",
+        "B. Utilize the project's contingency reserve to source the resources you need",
+        "C. Perform project activities in parallel, completing multiple items at once instead of one at a time",
+        "D. Use lean production methods and retrospectives to reduce non-value-added activities and improve processes"
+      ],
+      "answer": "D",
+      "explanation": "Using lean production methods and retrospectives focuses on genuine process optimization by eliminating non-value-added activities and improving team performance. Adding more resources does not optimize the process and increases communication channels and complexity. Contingency reserves are for project risks, not funding gaps. While fast-tracking (performing activities in parallel) could speed the schedule, it does not optimize processes. Lean and retrospectives directly address process improvement and are the best path to bringing the project back on track without additional budget.",
+      "difficulty": "hard",
+      "topic": "Process Optimization and Lean Methods",
+      "domain": 2,
+      "source_id": "yt_003",
+      "chunk_index": 9,
+      "video_segment": "2:15:56→2:31:01"
+    },
+    {
+      "question": "Your project management office is optimizing all the projects within their portfolio. They ask for your advice in tracking the type of work each team member is doing and how long it takes, suggesting that they categorize and record their work in addition to the work itself. What will you do next?",
+      "options": [
+        "A. Ask your team to record and categorize their work as it is important",
+        "B. Recommend an automated reporting tool where possible, as categorizing their work is non-value-added",
+        "C. Ask your team to ignore the request and focus on delivering customer value only",
+        "D. Create a manual tracking system to ensure accurate work categorization"
+      ],
+      "answer": "B",
+      "explanation": "Recording and categorizing work is a non-value-added activity that does not directly benefit the end customer. While the PMO request should be respected, the best approach is to recommend automation to minimize the administrative burden on team members so they can focus on actual value-added delivery work. Ignoring the PMO request could damage relationships. Manual tracking increases the burden on the team without solving the non-value-added nature of the task.",
+      "difficulty": "hard",
+      "topic": "Non-Value-Added Activities and Process Efficiency",
+      "domain": 2,
+      "source_id": "yt_003",
+      "chunk_index": 9,
+      "video_segment": "2:15:56→2:31:01"
+    },
+    {
+      "question": "You are working on an agile project as a Scrum Master. The functional manager from the business has worked with some people in your development team before. She approaches them directly to see if they can add a feature to the product in their current Sprint. What will you do next?",
+      "options": [
+        "A. Adjust the Sprint backlog to allow for the additional feature",
+        "B. Adjust the product backlog to add the customer requirement",
+        "C. Ask the manager to speak with the product owner about product priorities, then protect the team from direct requests in the future",
+        "D. Ask the manager to create a change request so it can go through the proper process"
+      ],
+      "answer": "C",
+      "explanation": "As Scrum Master, you must protect the team from outside interference and ensure all prioritization decisions go through the product owner, who is the single point of decision for the team. By directing the manager to the product owner, you maintain proper agile governance and shield the team from distractions. The product owner will evaluate whether this feature should be prioritized. Adjusting the Sprint backlog directly bypasses prioritization. Formal change requests are not the agile approach. This protects team focus and productivity while respecting organizational hierarchy.",
+      "difficulty": "hard",
+      "topic": "Agile Team Protection and Product Owner Authority",
+      "domain": 1,
+      "source_id": "yt_003",
+      "chunk_index": 9,
+      "video_segment": "2:15:56→2:31:01"
+    }
+  ]
+}

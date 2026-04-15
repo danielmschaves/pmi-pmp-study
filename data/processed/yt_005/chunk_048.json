@@ -1,0 +1,77 @@
+{
+  "source_id": "yt_005",
+  "chunk_index": 48,
+  "start_label": "8:04:51",
+  "end_label": "8:14:57",
+  "mode": "extract",
+  "questions": [
+    {
+      "question": "You are initiating a project for a sales team where the process will change significantly, even though the outcome of a completed sale will remain the same. The functional manager is concerned about the change and any disruption that it might bring. What will you do next?",
+      "options": [
+        "A. Kick off the project with multiple deliveries to deliver small parts and reduce the change impact",
+        "B. Kick off the project with a single delivery at the end of the project when the process change is complete",
+        "C. Kick off the project with continuous delivery in mind to ensure fast delivery to the business",
+        "D. Kick off the project using periodic deliveries as delivering value as it's ready"
+      ],
+      "answer": "B",
+      "explanation": "For process re-engineering projects, a single delivery approach is preferred because you are changing one complete process all at once. A process re-engineering project may not have any deliveries until near the end of the project when the new process is rolled out and ready. This is covered in the PMBOK Guide, 7th Edition, page 34, under Delivery Cadence.",
+      "difficulty": "expert",
+      "topic": "Delivery Cadence and Process Re-engineering",
+      "domain": 2,
+      "source_id": "yt_005",
+      "chunk_index": 48,
+      "video_segment": "8:04:51→8:14:57"
+    },
+    {
+      "question": "You are working on a project where the requirements are clear but the solution ideas are uncertain. The product owner and technical experts cannot be sure which ideas will work in practice and which ones will not. The organization cannot afford to get this project wrong because they have previously made mistakes and customers are starting to leave. What will you do next?",
+      "options": [
+        "A. Use an incremental approach so we deliver increments of value progressively",
+        "B. Use an iterative approach so we iterate towards success while delivering in one release",
+        "C. Use a predictive development approach that will plan everything up front and then deliver in one go",
+        "D. Use a hybrid approach that is part agile and part waterfall"
+      ],
+      "answer": "B",
+      "explanation": "An iterative approach is used when you need to capture ideas that might change while still delivering in one release. Since the organization cannot afford customer-facing incremental releases but needs feedback to validate which solutions work, an iterative approach allows you to refine ideas through feedback loops while maintaining a single final release. This is covered in the PMBOK Guide, 7th Edition, page 37, under Development Approaches.",
+      "difficulty": "expert",
+      "topic": "Development Approaches and Iterative Methods",
+      "domain": 2,
+      "source_id": "yt_005",
+      "chunk_index": 48,
+      "video_segment": "8:04:51→8:14:57"
+    },
+    {
+      "question": "You are working on a new product for your organization where the requirements are complex and are likely to change a few times as the project progresses. The organization also needs usable parts of the product to be released as fast as possible to capture market share away from competitors. What will you do next?",
+      "options": [
+        "A. Use an iterative approach with one big bang release but with feedback",
+        "B. Use a predictive approach with planned releases",
+        "C. Use an adaptive or agile approach that delivers increments plus iterations with feedback",
+        "D. Use a hybrid approach that is a combination of agile and waterfall"
+      ],
+      "answer": "C",
+      "explanation": "Adaptive approaches are useful when requirements are subject to uncertainty and change and a clear vision is established at the start of the project. Initial known requirements are refined or replaced in accordance with user feedback as you progress and unexpected events occur. This combines incremental delivery of usable product parts with iterative refinement based on feedback. This is covered in the PMBOK Guide, 7th Edition, page 35, under Adaptive Approach.",
+      "difficulty": "expert",
+      "topic": "Adaptive Development Approaches",
+      "domain": 2,
+      "source_id": "yt_005",
+      "chunk_index": 48,
+      "video_segment": "8:04:51→8:14:57"
+    },
+    {
+      "question": "A new project has been kicked off in your organization due to a recent government inquiry into your industry which found multiple processes with significant regulatory oversight that need to change. The inquiry has given you a due date of 10 months before you start incurring penalties. What will you do next?",
+      "options": [
+        "A. Proceed with an agile development approach to deliver change as quickly as possible",
+        "B. Proceed with a hybrid development approach to respond to changes while planning up front",
+        "C. Proceed with a predictive development approach due to the required process documentation and demonstration needs",
+        "D. Proceed with an iterative methodology to improve using feedback"
+      ],
+      "answer": "C",
+      "explanation": "Environments that have significant regulatory oversight may need to use a predictive approach due to the required process documentation and demonstration needs. When dealing with government regulations and compliance requirements, planning everything up front and demonstrating adherence to regulatory requirements is more important than rapid iteration. This is covered in the PMBOK Guide, 7th Edition, page 40, under Considerations for Selecting a Development Approach.",
+      "difficulty": "expert",
+      "topic": "Development Approach Selection for Regulated Environments",
+      "domain": 2,
+      "source_id": "yt_005",
+      "chunk_index": 48,
+      "video_segment": "8:04:51→8:14:57"
+    }
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "source_id": "yt_005",
+  "chunk_index": 50,
+  "start_label": "8:25:01",
+  "end_label": "8:35:09",
+  "mode": "extract",
+  "questions": [
+    {
+      "question": "You are working on an agile project where the functional manager you are delivering to only has a high level idea of the system requirements that they will need. The functional manager suggests a work breakdown structure; however, your team feels that is more for a predictive or waterfall delivery approach. What will you do next?",
+      "options": [
+        "A. Create and use a work breakdown structure anyway as it is just a tool",
+        "B. Use rolling wave planning and keep the work at a high level until you are ready to work on it, then you can plan in detail",
+        "C. Note the high level themes or epics, decompose them into features and again into user stories",
+        "D. Use the functional area for more detailed requirements before the project begins"
+      ],
+      "answer": "C",
+      "explanation": "In agile projects, decomposition is still applied but in an agile-centric way. Breaking down work from epics into features to user stories is a form of decomposition that fits the incremental delivery approach. While rolling wave planning is also valid, decomposing into user stories is more specifically aligned with agile methodology and represents a work breakdown structure in agile terms. The question references page 54 under delivery in the PMBOK Guide 7th Edition.",
+      "difficulty": "expert",
+      "topic": "Agile Decomposition and Work Breakdown",
+      "domain": 2,
+      "source_id": "yt_005",
+      "chunk_index": 50,
+      "video_segment": "8:25:01→8:35:09"
+    },
+    {
+      "question": "You are at the beginning of planning a new project and have researched and gathered the requirements from the area, broken them down into deliverables and activities, which you believe could take 26 weeks to deliver. The project sponsor is asking you for an estimate on how long the project will take. What will you do next?",
+      "options": [
+        "A. Tell the project sponsor 26 weeks",
+        "B. Tell the project sponsor you will use an iterative approach where value is delivered until the project stops",
+        "C. Tell the project sponsor approximately 24 to 28 weeks",
+        "D. Tell the project sponsor approximately 20 to 45 weeks"
+      ],
+      "answer": "D",
+      "explanation": "At the beginning of a project when there is limited information, estimates should have a broad range. The appropriate range at project initiation is approximately minus 25% to plus 75%, which corresponds to the 20 to 45 weeks range. As the project progresses and the team gains more knowledge, the range narrows. Early estimates without significant detail warrant wider ranges to account for uncertainty. This concept is referenced on page 55 under estimating and range in the PMBOK Guide 7th Edition.",
+      "difficulty": "expert",
+      "topic": "Estimation and Range Estimates",
+      "domain": 2,
+      "source_id": "yt_005",
+      "chunk_index": 50,
+      "video_segment": "8:25:01→8:35:09"
+    }
+  ]
+}

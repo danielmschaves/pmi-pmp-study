@@ -1,0 +1,128 @@
+{
+  "source_id": "yt_001",
+  "chunk_index": 8,
+  "start_label": "2:00:50",
+  "end_label": "2:15:54",
+  "mode": "extract",
+  "questions": [
+    {
+      "question": "As a critical update to an e-commerce platform nears completion, the project manager receives a last-minute request from stakeholders for additional features that would significantly enhance customer experience but require extensive extra work from the team and potentially affect the launch timeline. What should the project manager do?",
+      "options": [
+        "A. Expedite the process by incorporating the new features into the plan",
+        "B. Calculate the additional cost and request an immediate increase in budget",
+        "C. Reject the request outright",
+        "D. Discuss the implementation of the request for development and present feasible solutions to the stakeholders"
+      ],
+      "answer": "D",
+      "explanation": "The correct answer is D because the project manager should analyze the change request collaboratively with the team and stakeholders before making any decisions. Rejecting outright (C) is never the right answer on the exam when there is stakeholder value involved. Simply expediting (A) or requesting budget increases (B) without proper analysis ignores the need to understand the full impact on the project. The best approach is to discuss, analyze, and present feasible solutions.",
+      "difficulty": "expert",
+      "topic": "Stakeholder Communication and Change Request Management",
+      "domain": 1,
+      "source_id": "yt_001",
+      "chunk_index": 8,
+      "video_segment": "2:00:50→2:15:54"
+    },
+    {
+      "question": "In the development phase of an international public health project, a project manager faces skepticism from government partners about the project duration achievement due to limited visibility into the project progress. What action should the project manager take to address this?",
+      "options": [
+        "A. Initiate a monthly newsletter focusing on project milestones and challenges",
+        "B. Arrange for a series of workshops with the project beneficiaries to directly showcase the project's impact",
+        "C. Organize a virtual meeting with government partners to discuss how they would like project updates to be done and yield to any questions",
+        "D. Compile an extensive report on project outcomes and planned activities to be distributed quarterly"
+      ],
+      "answer": "C",
+      "explanation": "The correct answer is C because the root cause of the problem is limited visibility into project progress. Rather than determining what is best for stakeholders unilaterally (A, B, D), the project manager should be collaborative and ask the stakeholders how they prefer to receive updates. This addresses the core issue by involving them in determining the communication approach that will work best for them.",
+      "difficulty": "expert",
+      "topic": "Stakeholder Communication and Engagement",
+      "domain": 1,
+      "source_id": "yt_001",
+      "chunk_index": 8,
+      "video_segment": "2:00:50→2:15:54"
+    },
+    {
+      "question": "During the implementation phase of an innovative mobile banking application, a significant update from regulatory bodies requires adjustment to several key features of the app. The agile project manager arranges a meeting with the responsible regulatory officer who is new to the project to discuss these required changes. What action should the project manager take to ensure these updates are efficiently integrated into the scope?",
+      "options": [
+        "A. Request that the compliance officer formalize the regulatory updates and submit them for approval from the Change Control Board",
+        "B. Encourage the compliance officer to detail the regulatory changes for inclusion in the product backlog",
+        "C. Instruct the compliance officer to immediately communicate the changes to the development team in the next daily scrum",
+        "D. Ask the compliance officer to assess the plan and suggest modifications to accommodate the new regulations"
+      ],
+      "answer": "B",
+      "explanation": "The correct answer is B because in agile projects, all work must be in the product backlog to be executed. Unlike traditional projects (A), agile projects do not use formal change control boards. The daily scrum is not the venue to introduce new scope (C). The compliance officer should not assess the plan as they are not a project manager (D). The best approach is to have the compliance officer detail the regulatory changes so they can be added to and prioritized in the product backlog.",
+      "difficulty": "expert",
+      "topic": "Scope Management in Agile Projects",
+      "domain": 2,
+      "source_id": "yt_001",
+      "chunk_index": 8,
+      "video_segment": "2:00:50→2:15:54"
+    },
+    {
+      "question": "A project manager notices that the integration process is more cumbersome than anticipated, significantly slowing down project progress. This issue is primarily due to a newly implemented IT protocol that was designed to enhance security. What should you do next?",
+      "options": [
+        "A. Introduce additional training sessions for the team on the new IT protocol",
+        "B. Require the team to double their efforts to meet the deadline despite the protocol",
+        "C. Organize a workshop to identify workarounds to the IT protocol that do not compromise security",
+        "D. Initiate a discussion with IT leadership and the team to understand the protocol implementation and how best to facilitate the project"
+      ],
+      "answer": "D",
+      "explanation": "The correct answer is D because when facing a problem, the project manager should first assess and understand the situation before taking action. Option B is negative and unethical (overworking people). Option C (finding workarounds) should only come after understanding the protocol. Option A (training) may be necessary but should follow understanding the core issue. The first action should be collaborative discussion to understand the problem and identify solutions.",
+      "difficulty": "expert",
+      "topic": "Problem-Solving and Collaborative Leadership",
+      "domain": 1,
+      "source_id": "yt_001",
+      "chunk_index": 8,
+      "video_segment": "2:00:50→2:15:54"
+    },
+    {
+      "question": "As a project manager for an app development project, you are approached by a stakeholder with a request to add a feature that mirrors the functionality of something developed in a previous sprint. The stakeholder is looking for a quick estimation on how this addition might affect schedule and cost. What steps should you take to accurately provide this estimate?",
+      "options": [
+        "A. Calculate the new feature impact by comparing it with the total budget and adjust based on the proportion of work already completed",
+        "B. Meet with the product owner to help you with the estimate",
+        "C. Review the agile user stories and velocity metrics from previous sprints related to similar features to estimate the effort required for the new addition",
+        "D. Initiate a detailed risk analysis on incorporating the new feature focused on potential schedule overruns and budget impacts"
+      ],
+      "answer": "C",
+      "explanation": "The correct answer is C because when estimating similar work in agile projects, the most reliable approach is to use historical velocity metrics and user stories from previous sprints. The team uses velocity to determine how fast they can complete work; if the new work is similar to previous stories, those metrics provide the best estimate. Option A is not the standard approach for estimation. Option B is incorrect because the team, not just the product owner, estimates effort. Option D (risk analysis) is comprehensive but not the best first step for a quick estimate.",
+      "difficulty": "expert",
+      "topic": "Agile Estimation and Velocity Metrics",
+      "domain": 2,
+      "source_id": "yt_001",
+      "chunk_index": 8,
+      "video_segment": "2:00:50→2:15:54"
+    },
+    {
+      "question": "During a complex software development project, the project manager notices significant variances between the plan and actual performance metrics. The key deliverables are at risk of being delayed due to these discrepancies. What should the project manager do first to ensure the project's objectives are being met?",
+      "options": [
+        "A. Adjust the timeline and communicate the changes to all stakeholders",
+        "B. Conduct a detailed analysis of the performance data to identify root causes",
+        "C. Request additional resources to accelerate project work and meet scheduled targets",
+        "D. Reassess the project management strategies to better align with current challenges"
+      ],
+      "answer": "B",
+      "explanation": "The correct answer is B because when a problem exists on a project, the project manager must first assess, review, and analyze the situation before taking corrective actions. Adjusting the timeline (A) without understanding the root cause is premature. Requesting additional resources (C) without knowing the actual problem is wasteful. Reassessing strategies (D) is appropriate but only after understanding what caused the variance. The first action must always be to analyze the data and understand the root causes.",
+      "difficulty": "expert",
+      "topic": "Performance Monitoring and Analysis",
+      "domain": 2,
+      "source_id": "yt_001",
+      "chunk_index": 8,
+      "video_segment": "2:00:50→2:15:54"
+    },
+    {
+      "question": "In a large infrastructure project, the project manager is faced with sudden regulatory changes that could potentially impact the scope and cost. The project is currently on track, but these changes might require adjustment in project execution. What should you do first?",
+      "options": [
+        "A. Update the budget and timeline",
+        "B. Initiate a stakeholder meeting to discuss the impacts and adjustments",
+        "C. Conduct a comprehensive review and implement the regulatory changes",
+        "D. Assess and analyze the regulatory changes to understand their impact on scope, cost, and schedule"
+      ],
+      "answer": "D",
+      "explanation": "The correct answer is D because the regulatory changes are described as 'could potentially' impact the project, meaning the full extent of impact is unknown. Before updating budgets, timelines, or taking any other action, the project manager must first conduct a comprehensive assessment to understand exactly how these changes will affect the project. Never update project baselines or timelines without first conducting a preliminary impact analysis.",
+      "difficulty": "expert",
+      "topic": "Change Impact Analysis and Regulatory Compliance",
+      "domain": 3,
+      "source_id": "yt_001",
+      "chunk_index": 8,
+      "video_segment": "2:00:50→2:15:54"
+    }
+  ]
+}

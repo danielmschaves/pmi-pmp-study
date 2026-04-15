@@ -1,0 +1,22 @@
+[project]
+name = "pmi-pmp-study"
+version = "0.1.0"
+requires-python = ">=3.11"
+dependencies = [
+    # Jupyter
+    "jupyter",
+    "notebook",
+    "ipywidgets",
+    "matplotlib",
+    # Ingestion — YouTube
+    "youtube-transcript-api",
+    "yt-dlp",
+    # Ingestion — PDF
+    "pypdf",
+    "pdfplumber",
+    # Claude API
+    "anthropic",
+    # Utilities
+    "pyyaml",
+    "python-dotenv",
+]

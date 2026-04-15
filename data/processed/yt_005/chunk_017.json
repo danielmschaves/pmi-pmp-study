@@ -1,0 +1,60 @@
+{
+  "source_id": "yt_005",
+  "chunk_index": 17,
+  "start_label": "2:51:38",
+  "end_label": "3:01:47",
+  "mode": "extract",
+  "questions": [
+    {
+      "question": "Your agile team has created a scope statement and work breakdown structure for your project. You are now using Sprints and user stories to manage the work. What should you do next to effectively organize the work for agile delivery?",
+      "options": [
+        "A. Assign activities to each of the scope items in the work breakdown structure and place them on a Gantt chart",
+        "B. Create a product roadmap with the team using the lowest, most detailed part of the work breakdown structure",
+        "C. Group the work by large themes of customer value such as epics, and then break them down into smaller user stories to complete in each Sprint",
+        "D. Ask the team to trace the requirements properly using a requirements traceability matrix"
+      ],
+      "answer": "C",
+      "explanation": "In agile projects, work is organized by grouping requirements into epics (large themes of customer value) which are then decomposed into smaller user stories that can be completed within a single Sprint. This approach aligns with agile decomposition practices and allows for iterative delivery. While a Gantt chart and requirements traceability matrix are valid in traditional projects, they are not the best approach for organizing work in an agile Sprint-based delivery model. The product roadmap typically works at the feature level, not at the most detailed (user story) level.",
+      "difficulty": "expert",
+      "topic": "Scope Decomposition in Agile",
+      "domain": 2,
+      "source_id": "yt_005",
+      "chunk_index": 17,
+      "video_segment": "2:51:38→3:01:47"
+    },
+    {
+      "question": "Your agile project team is trialing an agile way of working. The product owner has a clear vision for the product, but there is confusion in the team about how much work should be done on a user story before it is taken to review and how they will know that a story is complete. What will you do next?",
+      "options": [
+        "A. Refer to the user story acceptance criteria and your team's definition of done",
+        "B. Review the user story with multiple users to ensure it is correct",
+        "C. Ask the product owner to sign off on the completed user story",
+        "D. Ensure quality testing on the user story is completed and passed"
+      ],
+      "answer": "A",
+      "explanation": "The definition of done is a critical agile practice that establishes clear criteria for when work is complete. Combined with acceptance criteria defined in the user story, the definition of done provides the team with objective measures for completion. While product owner sign-off, testing, and stakeholder review are all valuable practices, they are typically components of the definition of done itself rather than standalone solutions. The acceptance criteria and definition of done directly address the confusion about what constitutes completion of a user story.",
+      "difficulty": "expert",
+      "topic": "Agile Completion Criteria and Definition of Done",
+      "domain": 2,
+      "source_id": "yt_005",
+      "chunk_index": 17,
+      "video_segment": "2:51:38→3:01:47"
+    },
+    {
+      "question": "You have been working closely with the quality manager of your project planning the budget for the project phase that is due to begin in the next two months. The quality manager mentions the need to budget for appraisal costs to avoid quality issues in the future. What will you do next?",
+      "options": [
+        "A. Ensure there is enough budget for training to prevent quality issues",
+        "B. Ensure there is enough budget for a quality tester to verify the deliverables against the agreed specifications",
+        "C. Ensure there is enough budget to create a quality assurance plan",
+        "D. Ensure there is enough budget to allow for rework or rectification when defects are found"
+      ],
+      "answer": "B",
+      "explanation": "Appraisal costs are the costs associated with verification and audits—specifically the cost of quality testing and inspection to verify deliverables against specifications. This directly addresses the need to budget for appraisal activities. Prevention costs include training and quality planning (not the best fit). Internal failure costs cover rework and rectification when defects are found internally. While creating a quality assurance plan is important, it is not specifically an appraisal cost. The correct answer focuses on the verification and testing activities that characterize appraisal costs according to the cost of quality framework.",
+      "difficulty": "expert",
+      "topic": "Cost of Quality - Appraisal Costs",
+      "domain": 2,
+      "source_id": "yt_005",
+      "chunk_index": 17,
+      "video_segment": "2:51:38→3:01:47"
+    }
+  ]
+}

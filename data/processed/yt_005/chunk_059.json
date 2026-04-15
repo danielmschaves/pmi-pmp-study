@@ -1,0 +1,60 @@
+{
+  "source_id": "yt_005",
+  "chunk_index": 59,
+  "start_label": "9:55:55",
+  "end_label": "10:05:59",
+  "mode": "extract",
+  "questions": [
+    {
+      "question": "You're working in an agile team where executives in the team you're delivering to are asking for a large display of reports to be created every two weeks showing how the project is tracking and updating them on the cost and benefits. What will you do next?",
+      "options": [
+        "A. Collect the planned value versus earned value to show the executives any variance in the plan",
+        "B. Collocate the team with the executives so they can answer any questions as they arise",
+        "C. Suggest a demonstration of the feature developed during each Sprint instead and a burndown chart of future product releases",
+        "D. Create the desired reports for the executives to keep them happy"
+      ],
+      "answer": "C",
+      "explanation": "In agile projects, the best approach is to demonstrate actual value and features delivered through Sprint reviews and use live information radiators instead of large reports. This focuses on demonstrating the real customer value and using actual working software rather than just creating reports for reporting's sake. While collocation is good for osmosis learning, demonstrating features with a burndown chart of future product releases is more agile-centric and better addresses the need to show progress and value.",
+      "difficulty": "expert",
+      "topic": "Agile Communication and Performance Measurement",
+      "domain": 2,
+      "source_id": "yt_005",
+      "chunk_index": 59,
+      "video_segment": "9:55:55→10:05:59"
+    },
+    {
+      "question": "Multiple features have been released but they are not having the effect that the product owner believes they should. Your team are using some key performance indicators (KPIs) to track performance and you agree to move to more leading indicators. What could you use as examples of leading indicators on your project?",
+      "options": [
+        "A. An increase in customer usage once the feature is released, such as sales and repeat purchasing",
+        "B. Stakeholders who are not engaged and a lack of a risk management process",
+        "C. Velocity of the work completed in each Sprint and cycle time of the user stories",
+        "D. Variance in the schedule between planned and actual time taken"
+      ],
+      "answer": "B",
+      "explanation": "Leading indicators predict changes or trends in the project and include factors like lack of a risk management process, stakeholders who are not engaged, and poorly defined project success criteria. These are predictive in nature and will affect future performance. Options A, C, and D are all lagging indicators because they measure work or results that have already happened. Disengaged stakeholders and inadequate risk management processes are indicators that will lead to poor project performance in the future.",
+      "difficulty": "expert",
+      "topic": "Leading and Lagging Performance Indicators",
+      "domain": 2,
+      "source_id": "yt_005",
+      "chunk_index": 59,
+      "video_segment": "9:55:55→10:05:59"
+    },
+    {
+      "question": "You're working in an agile project team that has increased in size and complexity since the project began. In reviewing the throughput of work with your team you notice fewer and fewer user stories being completed, and the roadmap of features scheduled to go live is being pushed out. What are you going to do next?",
+      "options": [
+        "A. Place a limit on the work in progress and work with the team to reduce the cycle time",
+        "B. Increase meetings with the team",
+        "C. Ask the team to work overtime until the number of features reduces",
+        "D. Put a pull system in place where the team can pull work only when they are ready"
+      ],
+      "answer": "A",
+      "explanation": "Limiting work in progress (WIP) helps prevent context switching and multitasking, which are the likely causes of decreased throughput in a larger, more complex team. By focusing on fewer concurrent tasks, the team can complete work faster and reduce cycle time. Option B (more meetings) reduces productivity. Option C (overtime) is anti-agile and unsustainable, leading to burnout. Option D (pull system without WIP limits) could lead to too much work in progress if team members get blocked and pull additional work rather than focusing on unblocking current work.",
+      "difficulty": "expert",
+      "topic": "Agile Team Capacity and Work In Progress Management",
+      "domain": 2,
+      "source_id": "yt_005",
+      "chunk_index": 59,
+      "video_segment": "9:55:55→10:05:59"
+    }
+  ]
+}

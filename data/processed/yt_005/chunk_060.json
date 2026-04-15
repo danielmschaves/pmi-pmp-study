@@ -1,0 +1,77 @@
+{
+  "source_id": "yt_005",
+  "chunk_index": 60,
+  "start_label": "10:05:59",
+  "end_label": "10:16:06",
+  "mode": "extract",
+  "questions": [
+    {
+      "question": "You are working on an agile project where the project customer wants a reliable way to measure the project performance. You first need to establish a baseline. What measures will you show to your customer as part of your agile project?",
+      "options": [
+        "A. Team velocity",
+        "B. Start and finish dates",
+        "C. Rate of features completed",
+        "D. Schedule and cost variance"
+      ],
+      "answer": "C",
+      "explanation": "In agile projects, the primary measure shown to customers is the rate of features completed, which demonstrates actual value delivered. Team velocity is an internal team measure not shared with customers. Schedule and cost variance are waterfall concepts; in agile, the schedule and cost are typically fixed while scope is variable. Start and finish dates are less relevant than demonstrating feature delivery.",
+      "difficulty": "expert",
+      "topic": "Agile Performance Measurement",
+      "domain": 2,
+      "source_id": "yt_005",
+      "chunk_index": 60,
+      "video_segment": "10:05:59→10:16:06"
+    },
+    {
+      "question": "The product owner has worked with a team of senior users to gather feature ideas. They now have a list of more than 50 ideas for your team to develop, which is far too many to complete in the time frame that you have. What will you do next?",
+      "options": [
+        "A. Ask the new product owner to prioritize the features using cost-to-benefit analysis and deliver in their priority order until the time or money runs out",
+        "B. Start work on the smallest features first",
+        "C. Ask the product owner to return and ask for a shortened list",
+        "D. Workshop the features with a wider audience"
+      ],
+      "answer": "A",
+      "explanation": "The correct approach is to have the product owner prioritize features using business value metrics such as cost-to-benefit ratio, and then deliver in priority order until time or budget is exhausted. Starting with smallest features ignores business value. Asking for a shortened list avoids the prioritization process. Workshopping with a wider audience dilutes the product owner's decision-making authority and slows the process; the product owner should own the prioritization decision.",
+      "difficulty": "expert",
+      "topic": "Agile Product Backlog Prioritization",
+      "domain": 2,
+      "source_id": "yt_005",
+      "chunk_index": 60,
+      "video_segment": "10:05:59→10:16:06"
+    },
+    {
+      "question": "Your agile project team has only recently formed, the product is still unclear, and there have been disagreements and minor conflicts over the past two weeks as the team finds their rhythm. You would like things to improve but you cannot quite pinpoint or address the problem. What will you do next?",
+      "options": [
+        "A. Have the team complete a net promoter score with comments",
+        "B. Have the team complete a net promoter score with comments and ask for improvement ideas at the next retrospective",
+        "C. Hold a workshop with your team and ask them why they are unhappy",
+        "D. Have the team pair up together so they can learn from each other"
+      ],
+      "answer": "B",
+      "explanation": "The best approach is to use a net promoter score to measure stakeholder satisfaction, gather comments, and then use the retrospective to capture improvement ideas and address root causes. While pairing is an agile practice, it may not address the underlying issues. Workshops focused on complaints without a structured improvement process can be counterproductive. A net promoter score alone without follow-up retrospective action is incomplete.",
+      "difficulty": "expert",
+      "topic": "Agile Team Performance and Retrospectives",
+      "domain": 1,
+      "source_id": "yt_005",
+      "chunk_index": 60,
+      "video_segment": "10:05:59→10:16:06"
+    },
+    {
+      "question": "Your project has faced serious impacts in obtaining materials due to supply chain disruptions from a global pandemic and is currently 3 weeks behind schedule. You take this information to the next project steering committee meeting where they advise they need more information on how much the project will end up costing. What will you do next?",
+      "options": [
+        "A. Use the current budget with no deviations until it runs out",
+        "B. Use the project burndown chart to see the burn rate of accounting funds",
+        "C. Use regression analysis to see the current rate of spending and forecast the final cost",
+        "D. Use the project's estimate at completion (EAC)"
+      ],
+      "answer": "D",
+      "explanation": "Estimate at Completion (EAC) is the most appropriate forecast metric to show the steering committee the likely final project cost. EAC is calculated using the formula: Budget at Completion (BAC) ÷ Cost Performance Index (CPI), where CPI is earned value divided by actual cost. This reflects current performance trends. Regression analysis may work but EAC is the standard earned value forecasting technique. Burndown charts measure feature completion, not cost. Using the current budget with no adjustments does not address the variance caused by delays.",
+      "difficulty": "expert",
+      "topic": "Earned Value Management and Budget Forecasting",
+      "domain": 2,
+      "source_id": "yt_005",
+      "chunk_index": 60,
+      "video_segment": "10:05:59→10:16:06"
+    }
+  ]
+}

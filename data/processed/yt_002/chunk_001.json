@@ -1,0 +1,145 @@
+{
+  "source_id": "yt_002",
+  "chunk_index": 1,
+  "start_label": "15:07",
+  "end_label": "30:14",
+  "mode": "extract",
+  "questions": [
+    {
+      "question": "A risk manager is collaborating with the project manager to perform a risk analysis to determine the most likely project completion date based on known risks. They conduct a simulation using a tool to go through thousands of possible scenarios. Which analysis technique is being used?",
+      "options": [
+        "A. Monte Carlo analysis",
+        "B. Sensitivity analysis",
+        "C. Probability and impact matrix",
+        "D. Expected monetary value analysis"
+      ],
+      "answer": "A",
+      "explanation": "Monte Carlo analysis is the only method used when conducting thousands of possible scenarios through simulation using advanced software and powerful machines. The other techniques do not iterate through thousands of scenarios.",
+      "difficulty": "hard",
+      "topic": "Risk Analysis and Quantification",
+      "domain": 2,
+      "source_id": "yt_002",
+      "chunk_index": 1,
+      "video_segment": "15:07→30:14"
+    },
+    {
+      "question": "A project manager who follows the servant leadership style is onboarding a new team member who he believes can help fill skill level gaps in the current project team. The project manager provides the new team member with a copy of the project charter and commits to sending a copy of which document that addresses team values, ground rules, and working agreements?",
+      "options": [
+        "A. Resource management plan",
+        "B. Team charter",
+        "C. Communication management plan",
+        "D. Employment contract"
+      ],
+      "answer": "B",
+      "explanation": "The team charter is the document developed in a group setting to clarify team direction while establishing boundaries. It specifically addresses team values, ground rules, and working agreements. The other documents do not contain this information.",
+      "difficulty": "hard",
+      "topic": "Team Development and Servant Leadership",
+      "domain": 1,
+      "source_id": "yt_002",
+      "chunk_index": 1,
+      "video_segment": "15:07→30:14"
+    },
+    {
+      "question": "A project manager is leading a project that has become so large with multiple teams, long duration, and huge budget that the sponsor has been replaced by a steering committee. What should the project manager do to accommodate this new change?",
+      "options": [
+        "A. Acknowledge that the stakeholder structure has changed and tailor communication accordingly",
+        "B. Work according to the original plan",
+        "C. Hold a meeting with the new steering committee and continue working on the project",
+        "D. Share an updated status report with the new steering committee"
+      ],
+      "answer": "A",
+      "explanation": "On large projects, a steering committee is established when the project involves multiple business units, organizations, or individuals with substantial stakes in project success. The project manager must be proactive and acknowledge this change, then adjust the communication plan accordingly. The initial communication plan for a single sponsor will not work for a steering committee; the project manager must understand the committee's communication requirements and preferences.",
+      "difficulty": "hard",
+      "topic": "Stakeholder Communication and Governance",
+      "domain": 1,
+      "source_id": "yt_002",
+      "chunk_index": 1,
+      "video_segment": "15:07→30:14"
+    },
+    {
+      "question": "Pre-manufacturing lines are producing 5 mm diameter cylindrical steel bars. To perform quality inspection, the project manager takes 10 random bars from each line. Line one measurements consistently average around 4.45 mm, sometimes less and sometimes more. How can the results of line one be described?",
+      "options": [
+        "A. Accurate",
+        "B. Precise",
+        "C. Both accurate and precise",
+        "D. Neither accurate nor precise"
+      ],
+      "answer": "B",
+      "explanation": "The results are precise because all measurements are close to 4.45 mm, showing consistency. However, they are not accurate because 4.45 mm is not close to the required 5 mm target. Precision entails delivering products with similar dimensions, which may or may not be close to the required dimensions. Accuracy means the measurements are close to the target value.",
+      "difficulty": "hard",
+      "topic": "Quality Control and Inspection",
+      "domain": 2,
+      "source_id": "yt_002",
+      "chunk_index": 1,
+      "video_segment": "15:07→30:14"
+    },
+    {
+      "question": "A government contractor wants to keep the costs of building a public school under control while putting the risk on the vendor's side. The contractor also wants to ensure that the seller is legally obliged to complete the contract, or the seller may face financial liabilities. Which type of contract represents the least risk for the government contractor?",
+      "options": [
+        "A. Fixed price contract",
+        "B. Time and material contract",
+        "C. Cost plus incentive fee contract",
+        "D. Cost reimbursable contract"
+      ],
+      "answer": "A",
+      "explanation": "A fixed price contract represents the least risk for the government contractor because the price is known in advance and the contractor can legally obligate the seller to complete the contract. If the seller fails to complete the contract, they may face financial liabilities. In fixed price contracts, the risk is shifted to the vendor.",
+      "difficulty": "hard",
+      "topic": "Procurement and Contract Types",
+      "domain": 2,
+      "source_id": "yt_002",
+      "chunk_index": 1,
+      "video_segment": "15:07→30:14"
+    },
+    {
+      "question": "In an effort to increase agile knowledge, a project manager has been paired with other agile project managers to observe how they lead their teams. The project manager notices that many project decisions are the responsibility of the project team while project managers are more facilitative than authoritarian as they share a common vision and allow the team to focus on their work. What leadership approach does this depict?",
+      "options": [
+        "A. Participative leadership",
+        "B. Servant leadership",
+        "C. Transformational leadership",
+        "D. Autocratic leadership"
+      ],
+      "answer": "B",
+      "explanation": "This describes servant leadership, which consists of leading through serving the team. Servant leadership focuses on capturing and addressing the needs of team members to achieve good team performance. The facilitative approach, sharing common vision, and allowing the team to focus on their work are characteristics of servant leadership, not participative (democratic), transformational, or autocratic leadership.",
+      "difficulty": "hard",
+      "topic": "Servant Leadership and Team Motivation",
+      "domain": 1,
+      "source_id": "yt_002",
+      "chunk_index": 1,
+      "video_segment": "15:07→30:14"
+    },
+    {
+      "question": "A project manager closed the first phase of the project and launched the second phase. The project manager meets with the sponsor to check if any potential stakeholders were left out in the first phase and to discuss these new stakeholders' influence. Which process is the project manager carrying out?",
+      "options": [
+        "A. Planning stakeholder engagement",
+        "B. Identifying stakeholders",
+        "C. Planning resource management",
+        "D. Identifying risks"
+      ],
+      "answer": "B",
+      "explanation": "The project manager is identifying stakeholders by checking if any potential stakeholders were left out and discussing new stakeholders' influence. This is the process of identifying stakeholders, not planning their engagement, planning resources, or identifying risks.",
+      "difficulty": "hard",
+      "topic": "Stakeholder Identification",
+      "domain": 1,
+      "source_id": "yt_002",
+      "chunk_index": 1,
+      "video_segment": "15:07→30:14"
+    },
+    {
+      "question": "A project manager is assigned to lead an industrial project. In the second phase of the project, the project manager will need to hire dozens of remote workers. What is the best way for the project manager to quickly collect data from candidates?",
+      "options": [
+        "A. Video recordings",
+        "B. Workshops",
+        "C. Questionnaires and surveys",
+        "D. Live interviews"
+      ],
+      "answer": "C",
+      "explanation": "Questionnaires and surveys are the most effective for quickly collecting data from dozens of remote workers because they allow for filtering and statistical analysis without the time investment required by workshops or live interviews. Video recordings may require several minutes per candidate, while live interviews can take 30 minutes to 1 hour each, making these options impractical for dozens of candidates.",
+      "difficulty": "hard",
+      "topic": "Resource Acquisition and Staffing",
+      "domain": 2,
+      "source_id": "yt_002",
+      "chunk_index": 1,
+      "video_segment": "15:07→30:14"
+    }
+  ]
+}

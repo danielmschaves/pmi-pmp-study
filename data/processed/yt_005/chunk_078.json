@@ -1,0 +1,77 @@
+{
+  "source_id": "yt_005",
+  "chunk_index": 78,
+  "start_label": "13:07:58",
+  "end_label": "13:18:04",
+  "mode": "extract",
+  "questions": [
+    {
+      "question": "You are planning your project and have captured the requirements from the project customer. You ask your team to plan the project scope, but they need to see exactly what needs to be delivered and how each part relates to each other. What will you do next?",
+      "options": [
+        "A. Create a product breakdown structure with your team",
+        "B. Create the requirements traceability matrix with your project team",
+        "C. Create the risk breakdown structure with your project team",
+        "D. Create a scope management plan with your project team"
+      ],
+      "answer": "A",
+      "explanation": "A product breakdown structure is a hierarchical structure reflecting a product's components and deliverables. It provides an exhaustive hierarchical tree structure of deliverables arranged in whole-to-part relationships, showing how each part relates to each other. While a requirements traceability matrix traces requirements to scope, testing criteria, and deliverables, it does not show how the parts interrelate. A risk breakdown structure and scope management plan are not designed to show the relationships between deliverables.",
+      "difficulty": "expert",
+      "topic": "Scope Planning and Work Breakdown Structure",
+      "domain": 2,
+      "source_id": "yt_005",
+      "chunk_index": 78,
+      "video_segment": "13:07:58→13:18:04"
+    },
+    {
+      "question": "You have just finished breaking down the scope with your project team that will meet your customer's requirements. Your program manager wishes to control the project scope so any changes go through the proper process. What will you do next?",
+      "options": [
+        "A. Create the change management plan to see how changes will be managed",
+        "B. Baseline the project scope and note it in the configuration management plan",
+        "C. Create the scope management plan with a rule minimizing changes",
+        "D. Create a resource assignment matrix limiting roles and responsibilities"
+      ],
+      "answer": "B",
+      "explanation": "A baseline is the approved version of a work product or plan against which actual performance is compared to identify variances. Baselined items are noted in the configuration management plan. This establishes the control baseline needed for scope control. While a change management plan describes the process, the configuration management plan with the baseline is what actually controls scope changes by establishing the approved baseline that all changes must be compared against.",
+      "difficulty": "expert",
+      "topic": "Scope Control and Baseline Management",
+      "domain": 2,
+      "source_id": "yt_005",
+      "chunk_index": 78,
+      "video_segment": "13:07:58→13:18:04"
+    },
+    {
+      "question": "You have planned and begun the current sprint where the project team has committed to delivering and releasing a particular feature. You need to see how the team is tracking towards their sprint goal. What will you do next?",
+      "options": [
+        "A. Show them the kanban board",
+        "B. Review the team velocity chart",
+        "C. Review the sprint burndown chart",
+        "D. Perform a sprint review with the team"
+      ],
+      "answer": "C",
+      "explanation": "A sprint burndown chart is a graphical representation of work remaining in a sprint. It compares the ideal trend line with items actually completed, allowing you to see how the team is tracking towards completing all sprint goal items by the end of the sprint. While a kanban board shows cards by phase for a sprint, a velocity chart measures average velocity across sprints rather than real-time progress. A sprint review demonstrates completed work but occurs at the end of the sprint, not during it.",
+      "difficulty": "expert",
+      "topic": "Agile Metrics and Sprint Tracking",
+      "domain": 2,
+      "source_id": "yt_005",
+      "chunk_index": 78,
+      "video_segment": "13:07:58→13:18:04"
+    },
+    {
+      "question": "Your agile project has recently been merged into a larger program and the program manager is reviewing how the project is tracking. She asks you how much has been completed in design, but also how much has been completed in development, testing, and sign-off. What will you do next?",
+      "options": [
+        "A. Show her the sprint kanban board",
+        "B. Take her through the team product backlog",
+        "C. Show her the team cumulative flow diagram",
+        "D. Show her the team velocity chart"
+      ],
+      "answer": "C",
+      "explanation": "A cumulative flow diagram is a line graph that shows each phase of work (design, development, testing, sign-off) and how much has been completed in each phase. It provides visibility across the entire project or product lifecycle, not just a single sprint, making it ideal for program-level review of completion status across multiple phases. A kanban board typically shows only current sprint items; a product backlog shows work items but not their completion status by phase; a velocity chart shows average points completed per sprint, not phase completion status.",
+      "difficulty": "expert",
+      "topic": "Agile Metrics and Program Visibility",
+      "domain": 2,
+      "source_id": "yt_005",
+      "chunk_index": 78,
+      "video_segment": "13:07:58→13:18:04"
+    }
+  ]
+}

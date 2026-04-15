@@ -1,0 +1,77 @@
+{
+  "source_id": "yt_005",
+  "chunk_index": 66,
+  "start_label": "11:06:37",
+  "end_label": "11:16:43",
+  "mode": "extract",
+  "questions": [
+    {
+      "question": "You have been planning a project for the last 2 months, gathering requirements, scope, and assigning tasks to a schedule. As you get closer to the execution phase of your project, you decide what delivery approach you will use. The requirements are likely to change, require a medium amount of compliance, but can be released in one go. What delivery approach will you use?",
+      "options": [
+        "A. Predictive",
+        "B. Incremental",
+        "C. Agile or adaptive",
+        "D. Iterative"
+      ],
+      "answer": "D",
+      "explanation": "An iterative delivery approach involves gathering feedback and improving over time while delivering in one release. Incremental releases deliver increments of value like features over time. Predictive plans everything up front and then delivers in one go. Agile gathers feedback and releases incrementally. This scenario describes iterating towards success with a single release, which is the defining characteristic of an iterative approach.",
+      "difficulty": "expert",
+      "topic": "Delivery Approaches and Tailoring",
+      "domain": 2,
+      "source_id": "yt_005",
+      "chunk_index": 66,
+      "video_segment": "11:06:37→11:16:43"
+    },
+    {
+      "question": "You have been asked to make a process improvement in the accounting area for your organization. You have been assigned a small team of nine people, each with all the skills you need to complete the project. The team is collocated and has unlimited access to the project customer. What delivery approach will you use?",
+      "options": [
+        "A. Predictive",
+        "B. Agile or adaptive",
+        "C. Incremental",
+        "D. Hybrid"
+      ],
+      "answer": "B",
+      "explanation": "An agile or adaptive delivery approach works best when the team is small (fewer than 9 to 12 people), has close access to the customer, is cross-functional (everyone has the required skills), and is collocated in the same space. Predictive is best when lots of planning is needed. Hybrid is best when two different approaches are needed. Incremental delivers features over time but is not the best fit for this scenario.",
+      "difficulty": "expert",
+      "topic": "Delivery Approaches and Tailoring",
+      "domain": 2,
+      "source_id": "yt_005",
+      "chunk_index": 66,
+      "video_segment": "11:06:37→11:16:43"
+    },
+    {
+      "question": "You have been working as a project manager in an organization for some time where an agile-centric delivery approach and way of work has been selected and tailored for the organization. Over the past few months, you notice several things are not working and could be improved as you begin new projects. What will you do next?",
+      "options": [
+        "A. Review the product backlog to see the flow of features going through the teams",
+        "B. Look into issues, threats, and quality assurance statistics",
+        "C. Hold a retrospective with your PMO leaders to determine ongoing improvement opportunities",
+        "D. Review a control chart and value stream map to see non-value-added activities and remove waste"
+      ],
+      "answer": "C",
+      "explanation": "In an agile environment, holding a retrospective together to discuss what is working well and what is challenging or could be improved is the best way to find ongoing improvements. This involves going directly to the source and asking for feedback from the team. While reviewing control charts and value stream maps can be part of problem-solving, a retrospective is the primary agile practice for continuous improvement. This approach is found in the PBOK Guide 7th Edition, page 151, under Tailoring Diagnostics for Agile Teams.",
+      "difficulty": "expert",
+      "topic": "Agile Practices and Retrospectives",
+      "domain": 2,
+      "source_id": "yt_005",
+      "chunk_index": 66,
+      "video_segment": "11:06:37→11:16:43"
+    },
+    {
+      "question": "You have been working on a project to deliver a new customer data system and have noticed that the work is starting to slow down. Fewer user stories are appearing in your sprint backlog as they are not ready. You hold a retrospective with your team and discover that there are long delays waiting for requirements and acceptance criteria approvals. What will you do next?",
+      "options": [
+        "A. Streamline approval decisions through fewer people, such as a product owner authorized to make decisions up to certain value thresholds",
+        "B. Ask your team to place the user stories in the sprint backlog, reducing the need for customer approval",
+        "C. Note the long delays as a risk to your project with high likelihood",
+        "D. Escalate the issue to the functional manager to ensure approvals are happening quickly"
+      ],
+      "answer": "A",
+      "explanation": "When there are long delays waiting for approvals, the tailoring suggestion is to streamline decisions through fewer people authorized to make decisions up to certain value thresholds. This empowers the product owner to make timely decisions without excessive bureaucracy. Asking the team to bypass customer approval would compromise quality. While escalating may be an option, it does not directly solve the root problem. This tailoring guidance comes directly from the PBOK Guide 7th Edition, page 151, under Common Situations and Tailoring Suggestions.",
+      "difficulty": "expert",
+      "topic": "Agile Tailoring and Process Improvement",
+      "domain": 2,
+      "source_id": "yt_005",
+      "chunk_index": 66,
+      "video_segment": "11:06:37→11:16:43"
+    }
+  ]
+}

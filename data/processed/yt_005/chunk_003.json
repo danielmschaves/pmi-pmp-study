@@ -1,0 +1,77 @@
+{
+  "source_id": "yt_005",
+  "chunk_index": 3,
+  "start_label": "30:14",
+  "end_label": "40:19",
+  "mode": "extract",
+  "questions": [
+    {
+      "question": "You are working on a project where you discover a certain negative risk with a potential impact of two million dollars. You meet with your project stakeholders who determine that this is within their risk appetite provided that you meet a risk threshold of 10 percent. What will you do next?",
+      "options": [
+        "A. Note the acceptable risk level as a threat of two hundred thousand dollars, which is ten percent",
+        "B. Note the acceptable risk level as a threat of 1.8 million to 2.2 million, which is a ten percent variance",
+        "C. Note the impact as outside the acceptable risk level of two million dollars",
+        "D. Note the impact as an opportunity of two hundred thousand dollars, which is ten percent"
+      ],
+      "answer": "B",
+      "explanation": "Risk appetite describes the level of uncertainty or risk your stakeholders are willing to accept. Risk threshold is the measure of acceptable variation around an objective that reflects the risk appetite. In this scenario, a 10 percent variation around 2 million is 1.8 to 2.2 million. The stakeholders have accepted the risk within their appetite, and the threshold of plus or minus 10 percent (200,000) creates the acceptable range of 1.8 to 2.2 million.",
+      "difficulty": "expert",
+      "topic": "Risk Appetite and Risk Threshold",
+      "domain": 2,
+      "source_id": "yt_005",
+      "chunk_index": 3,
+      "video_segment": "30:14→40:19"
+    },
+    {
+      "question": "A risk has been raised in your project around insufficient building materials. A risk response assigned to the functional manager suggests using a brand new material which has not been fully tested before in a building project. Half of your stakeholder group are happy with this risk response, but the other half are not and refuse to sign off on it. What will you do next?",
+      "options": [
+        "A. Suggest a quantitative risk approach to give a more accurate financial impact",
+        "B. Suggest they proceed with the proposed risk response and ensure it is followed through",
+        "C. Suggest a different risk owner, as an executive may have more power to respond to the risk",
+        "D. Suggest a different risk response as it should be timely, cost-effective, realistic, and agreed to by relevant stakeholders"
+      ],
+      "answer": "D",
+      "explanation": "Risk responses should be appropriate and timely to the significance of the risk, cost-effective, realistic within the project context, agreed to by relevant stakeholders, and owned by a responsible person. Since half of the stakeholders are disagreeing and the proposed response involves an untested material, a different risk response that is agreed upon by all relevant stakeholders is needed. Simply proceeding despite disagreement or forcing an executive decision would not address the fundamental lack of agreement and the realistic concerns about the untested material.",
+      "difficulty": "expert",
+      "topic": "Risk Response Planning",
+      "domain": 2,
+      "source_id": "yt_005",
+      "chunk_index": 3,
+      "video_segment": "30:14→40:19"
+    },
+    {
+      "question": "Your project is starting to go off track due to a large amount of uncertainty in the requirements and resources. You manage to rein in these issues at significant cost. However, your project management office would like you to brainstorm ways to improve with your team so that it does not happen again. What will you do next?",
+      "options": [
+        "A. Ask your team to increase the project contingency reserve to allow for these impacts",
+        "B. Ask your team to change the project methodology from waterfall to Agile",
+        "C. Ask your team to use short feedback loops, continuous improvement, and transparent planning",
+        "D. Ask your team to check their work twice before sending it to the next part of the process"
+      ],
+      "answer": "C",
+      "explanation": "To embrace adaptability and resiliency and prevent similar issues in the future, the project team should use methods such as short feedback loops to get regular feedback, continuous learning and improvement to adapt based on that feedback, and transparent planning so that everyone can see the project status at any moment. These tools enable the team to detect and address uncertainty and requirement changes early rather than reactively. While changing methodology might seem like a solution, the core issue is the need for better visibility, feedback, and adaptation—principles that apply across methodologies.",
+      "difficulty": "expert",
+      "topic": "Adaptability and Resiliency",
+      "domain": 2,
+      "source_id": "yt_005",
+      "chunk_index": 3,
+      "video_segment": "30:14→40:19"
+    },
+    {
+      "question": "As your project progresses, many of the business stakeholders are starting to voice their concerns, question some of the changes, and even miss key meetings while trying to sabotage your efforts. What will you do next?",
+      "options": [
+        "A. Communicate the vision and benefits for the change clearly along with the impact to their work",
+        "B. Create an impact and influence chart to determine who should be engaged appropriately",
+        "C. Escalate the matter to your project sponsor and arrange for different stakeholders",
+        "D. Map the current state and the proposed future state of the change for the stakeholders"
+      ],
+      "answer": "A",
+      "explanation": "When stakeholders are voicing concerns and resisting change, the primary action is to communicate clearly the vision, benefits of the change, and its impact to their work. Effective communication goes both ways and includes listening to their concerns. This addresses the root cause of resistance by ensuring stakeholders understand the rationale and implications of the change. While other tools like impact-influence charts and state mapping may be helpful, they do not directly address the immediate need for clear, two-way communication about the vision and benefits. Escalating and replacing stakeholders is not a viable solution as stakeholders are typically embedded in the organization.",
+      "difficulty": "expert",
+      "topic": "Stakeholder Engagement and Change Management",
+      "domain": 1,
+      "source_id": "yt_005",
+      "chunk_index": 3,
+      "video_segment": "30:14→40:19"
+    }
+  ]
+}

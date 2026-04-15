@@ -1,0 +1,60 @@
+{
+  "source_id": "yt_005",
+  "chunk_index": 18,
+  "start_label": "3:01:47",
+  "end_label": "3:11:51",
+  "mode": "extract",
+  "questions": [
+    {
+      "question": "Your agile project has recently had multiple quality issues. Project features have been prioritized by the product owner and broken down into user stories. What will you do to help reduce the cost of quality issues the most?",
+      "options": [
+        "A. Quality test each user story according to its acceptance criteria before release",
+        "B. Advise the team that any quality defects will come out of their bonus",
+        "C. Perform testing all in one go at the end to reduce the cost of testing resources",
+        "D. Ensure a triad of developer, tester, and customer is involved during the requirements and design"
+      ],
+      "answer": "D",
+      "explanation": "The cost of quality is least during requirements and design, then increases exponentially through build (20x), test (50x), and production (150x). Involving developers, testers, and customers early in requirements and design catches defects before they become costly to fix, reducing the overall cost of quality the most. While quality testing each user story is good practice, it is appraisal cost occurring later in the process. Testing at the end is wasteful and allows defects to propagate. Penalizing the team harms engagement without addressing root causes.",
+      "difficulty": "expert",
+      "topic": "Cost of Quality",
+      "domain": 2,
+      "source_id": "yt_005",
+      "chunk_index": 18,
+      "video_segment": "3:01:47→3:11:51"
+    },
+    {
+      "question": "You are working in an agile team where executives in the team you are delivering to are asking for a large display of reports to be created every two weeks showing how the project is tracking and updating them on the cost and benefits. What will you do next?",
+      "options": [
+        "A. Collect the planned value versus earned value to show the executives any variance in the plan",
+        "B. Collocate the team with the executives so they can answer any questions as they arise",
+        "C. Suggest a demonstration of the features developed during each sprint instead and a burndown chart of future product releases",
+        "D. Create the desired reports for the executives to keep them happy"
+      ],
+      "answer": "C",
+      "explanation": "In agile environments, the value of measurements is not in the collection and dissemination of data, but in using that data to take appropriate action. Instead of creating large static reports, agile projects use live information radiators and demonstrate actual value and features delivered through sprint reviews and burndown charts. This approach is more agile-centric, provides real-time visibility, and demonstrates tangible customer value rather than just reporting metrics. While earned value and collocation have merit, they do not address the inefficiency of creating large reports every two weeks.",
+      "difficulty": "expert",
+      "topic": "Agile Communication and Reporting",
+      "domain": 2,
+      "source_id": "yt_005",
+      "chunk_index": 18,
+      "video_segment": "3:01:47→3:11:51"
+    },
+    {
+      "question": "Multiple features have been released but they are not having the effect that the product owner believes they should. Your team is using some key performance indicators (KPIs) to track performance and you agree to move to more leading indicators. What could you use as examples of leading indicators on your project?",
+      "options": [
+        "A. An increase in customer usage once the feature is released, such as sales and repeat purchasing",
+        "B. Stakeholders who are not engaged and a lack of a risk management process",
+        "C. Velocity of the work completed in each sprint and cycle time of the user stories",
+        "D. Variance in the schedule between planned and actual time taken"
+      ],
+      "answer": "B",
+      "explanation": "Leading indicators predict changes or trends in the project and include factors such as lack of a risk management process, stakeholders who are not engaged, and poorly defined project success criteria. These are predictive of future performance issues. Lagging indicators are measurements of work already completed, such as increased customer usage (option A), velocity (option C), and schedule variance (option D). Leading indicators are forward-looking and help prevent problems before they occur, whereas lagging indicators measure past results.",
+      "difficulty": "expert",
+      "topic": "Leading and Lagging Indicators",
+      "domain": 2,
+      "source_id": "yt_005",
+      "chunk_index": 18,
+      "video_segment": "3:01:47→3:11:51"
+    }
+  ]
+}

@@ -1,0 +1,179 @@
+{
+  "source_id": "yt_001",
+  "chunk_index": 18,
+  "start_label": "4:31:45",
+  "end_label": "4:46:50",
+  "mode": "extract",
+  "questions": [
+    {
+      "question": "A project manager is leading the development of a new public park in a densely populated urban area. Community leaders have written concerns about the project's approach to maintaining the natural habitat and promoting biodiversity. What should you do next?",
+      "options": [
+        "A. Organize your community leaders to detail their concerns about the project and its impact",
+        "B. Distribute information brochures detailing the environmental benefits",
+        "C. Host a virtual presentation with experts discussing the project's impact on local wildlife",
+        "D. Launch a community feedback initiative to get suggestions for further improvement"
+      ],
+      "answer": "A",
+      "explanation": "When stakeholders have concerns, the first step is to gather details about those concerns so you can address them. Providing information or discussing impacts before understanding their specific concerns is premature. Meeting with community leaders to detail their concerns gets to the core of the problem first.",
+      "difficulty": "expert",
+      "topic": "Stakeholder Engagement and Communication",
+      "domain": 1,
+      "source_id": "yt_001",
+      "chunk_index": 18,
+      "video_segment": "4:31:45→4:46:50"
+    },
+    {
+      "question": "To counteract the issue of certain team members disproportionately influencing the outcome of project scope discussions, the project team decided to implement a nominal group technique session. What is the significant benefit of utilizing this approach?",
+      "options": [
+        "A. Enables the sequential voting process to prioritize tasks",
+        "B. Encourages equal contributions from all team members",
+        "C. Prevents any single viewpoint from dominating",
+        "D. Stimulates creative solutions through group synergy"
+      ],
+      "answer": "C",
+      "explanation": "While nominal group technique does involve voting and encourages participation, its primary benefit in this context is preventing one or two people from dominating discussions. It ensures that everyone's viewpoint is heard, not necessarily that contributions are equal in amount, but that no single person dominates the outcome.",
+      "difficulty": "expert",
+      "topic": "Team Decision-Making and Conflict Management",
+      "domain": 1,
+      "source_id": "yt_001",
+      "chunk_index": 18,
+      "video_segment": "4:31:45→4:46:50"
+    },
+    {
+      "question": "During an environmental impact review of an energy project, the project manager discovers that the environmental plan does not adequately address potential impacts on local wildlife. What should the PM do?",
+      "options": [
+        "A. Encourage the environmental specialist to assess the environmental impact on wildlife protection",
+        "B. Suggest the team create a new environmental plan",
+        "C. Continue with the project as planned, adjusted based on regulatory feedback",
+        "D. Pause the project to reassess all environmental impact aspects"
+      ],
+      "answer": "A",
+      "explanation": "Before stopping a project or creating a completely new plan based on potential concerns, meet with the right specialists to assess whether the concern is valid and fully understood. This allows you to gather proper information before making major decisions. Do not continue without addressing potential impacts, but do not pause unnecessarily either—first confirm the concern through assessment.",
+      "difficulty": "expert",
+      "topic": "Risk Management and Environmental Compliance",
+      "domain": 2,
+      "source_id": "yt_001",
+      "chunk_index": 18,
+      "video_segment": "4:31:45→4:46:50"
+    },
+    {
+      "question": "As a new software development project kicks off, when is it most appropriate for the project manager to conduct the first project status meeting?",
+      "options": [
+        "A. Shortly after the project kickoff meeting to align on early objectives",
+        "B. After two development sprints are completed",
+        "C. Once the first version of the project is ready",
+        "D. As soon as the team demonstrates progress and collaboration"
+      ],
+      "answer": "D",
+      "explanation": "A kickoff meeting establishes alignment on objectives, but a status meeting should occur once there is actual status to report. You cannot report meaningful status without work having been done. Waiting for sprints to complete or a full version ready takes too long. The appropriate time is when the team has made tangible progress and you have something reportable.",
+      "difficulty": "expert",
+      "topic": "Project Monitoring and Status Reporting",
+      "domain": 2,
+      "source_id": "yt_001",
+      "chunk_index": 18,
+      "video_segment": "4:31:45→4:46:50"
+    },
+    {
+      "question": "Team members lack enthusiasm for participating in essential project planning sessions, with many arriving late or not contributing. What strategy should the project manager employ first?",
+      "options": [
+        "A. Introduce a structured agenda with allocated times for each speaker to ensure focused discussion",
+        "B. Develop a rotating leadership model for the planning sessions, allowing different members to lead",
+        "C. Encourage team members to contribute their insights and suggestions on improvement of the plan and process",
+        "D. Transition to a digital collaboration platform for planning sessions to provide flexibility and participation"
+      ],
+      "answer": "C",
+      "explanation": "Rather than imposing structure, telling people what to do, or redesigning the process, effective servant leadership involves engaging the team to identify the problem and involve them in the solution. Encouraging them to contribute ideas and suggestions empowers them and addresses the root issue—lack of engagement. This collaborative approach is preferable to top-down directives.",
+      "difficulty": "expert",
+      "topic": "Team Motivation and Servant Leadership",
+      "domain": 1,
+      "source_id": "yt_001",
+      "chunk_index": 18,
+      "video_segment": "4:31:45→4:46:50"
+    },
+    {
+      "question": "When the project manager of a software development project finds the specifications provided by the client are ambiguous, what is the most appropriate initial action?",
+      "options": [
+        "A. Initiate development based on the existing specifications while waiting for further clarification",
+        "B. Inform the project's key stakeholders about the potential for delays and scope clarification",
+        "C. Reach out to the client for clarification and confirmation",
+        "D. Adjust the timeline to accommodate potential changes in the project scope"
+      ],
+      "answer": "C",
+      "explanation": "You should never execute a project if you do not understand the scope. Proceeding without clarification guarantees failure. Reaching out to the client first for confirmation prevents scope delays and cost overruns. While timeline adjustments and stakeholder communication may follow, they cannot happen until you have clarified the requirements.",
+      "difficulty": "expert",
+      "topic": "Scope Definition and Clarification",
+      "domain": 2,
+      "source_id": "yt_001",
+      "chunk_index": 18,
+      "video_segment": "4:31:45→4:46:50"
+    },
+    {
+      "question": "Upon noticing the primary technology provider for a digital transformation project will not meet the deadline for delivering essential software components—a risk previously noted to the provider due to the provider's historical performance issues—what should you do next?",
+      "options": [
+        "A. Negotiate with alternative technology vendors to ensure timely delivery and update the financial plan to reflect any changes",
+        "B. Report the situation and potential impact to the project steering committee for immediate guidance",
+        "C. Consult the risk register with the team to organize a strategy session to identify viable immediate solutions",
+        "D. Organize a strategy session with the project team to identify viable immediate solutions"
+      ],
+      "answer": "C",
+      "explanation": "Since this was a previously identified risk, it should already be documented in the risk register with mitigation strategies. Consult the risk register first to see what was already planned. Do not immediately negotiate with vendors without understanding your existing mitigation strategy. The steering committee is for approvals and direction, not for solving operational project issues that are within the PM's control.",
+      "difficulty": "expert",
+      "topic": "Risk Response and Mitigation Execution",
+      "domain": 2,
+      "source_id": "yt_001",
+      "chunk_index": 18,
+      "video_segment": "4:31:45→4:46:50"
+    },
+    {
+      "question": "Discovering that one team member feels their efforts are undervalued compared to others, leading to a decline in participation and overall team spirit, what should the PM do to mend the situation?",
+      "options": [
+        "A. Schedule individual performance reviews to provide personal feedback and growth plans",
+        "B. Conduct a project milestone celebration to acknowledge all team members' contributions equally",
+        "C. Highlight the project's collective achievements, emphasizing the success is attributed to the team as a whole, not individuals",
+        "D. Implement a peer recognition program where team members can acknowledge each other's contributions"
+      ],
+      "answer": "C",
+      "explanation": "While this involves one team member, the real issue is team morale and spirit. Addressing the team collectively and reinforcing that success belongs to everyone helps the struggling member feel valued as part of the whole. Individual performance reviews are secondary. Milestone celebrations should acknowledge varied contributions appropriately, not equally. Peer recognition programs that exclude PM involvement can undermine team cohesion.",
+      "difficulty": "expert",
+      "topic": "Team Morale and Recognition",
+      "domain": 1,
+      "source_id": "yt_001",
+      "chunk_index": 18,
+      "video_segment": "4:31:45→4:46:50"
+    },
+    {
+      "question": "Faced with a constrained budget and tight deadline for launching a new product development project, the project manager discovers that current financial resources will not suffice to cover all projected activities. What should the project manager do next?",
+      "options": [
+        "A. Propose a phased project approach to stakeholders focusing on critical development phases first",
+        "B. Document the financial shortfall in the project status report highlighting potential impacts on the timeline",
+        "C. Have the PMO identify priority areas and allocate budget to critical stages",
+        "D. Engage with the team to explore options for reallocating budget items to cover key tasks"
+      ],
+      "answer": "D",
+      "explanation": "When facing resource constraints, the project manager should work collaboratively with the team to explore solutions first. Engaging the team leverages their insights and builds buy-in. While phased approaches or PMO involvement may follow, the initial action should be team engagement. Documentation and escalation come after understanding options.",
+      "difficulty": "expert",
+      "topic": "Budget Management and Team Collaboration",
+      "domain": 2,
+      "source_id": "yt_001",
+      "chunk_index": 18,
+      "video_segment": "4:31:45→4:46:50"
+    },
+    {
+      "question": "During a significant landscape redesign project, the project manager finds a cutting-edge irrigation system that could drastically reduce water usage and maintenance costs. Introducing the system would necessitate a modest increase in both project budget and timeline. What should the project manager take first?",
+      "options": [
+        "A. Assess the project's existing budget and timeline",
+        "B. Initiate a pilot project with the current scope",
+        "C. Draft detailed analysis comparing the long-term savings and environmental benefits of the new system against the initial increase in budget and timeline",
+        "D. Present the option to stakeholders for approval before proceeding with further analysis"
+      ],
+      "answer": "C",
+      "explanation": "Before making any decision about adopting this new system, you need to conduct a thorough cost-benefit analysis comparing long-term savings and environmental benefits against the upfront increases in budget and timeline. This analysis provides the data needed to make an informed decision and communicate with stakeholders. Assessment and pilot projects should follow once you understand the full impact.",
+      "difficulty": "expert",
+      "topic": "Value Analysis and Project Change Evaluation",
+      "domain": 2,
+      "source_id": "yt_001",
+      "chunk_index": 18,
+      "video_segment": "4:31:45→4:46:50"
+    }
+  ]
+}

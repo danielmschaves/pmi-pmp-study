@@ -1,0 +1,77 @@
+{
+  "source_id": "yt_005",
+  "chunk_index": 26,
+  "start_label": "4:22:41",
+  "end_label": "4:32:49",
+  "mode": "extract",
+  "questions": [
+    {
+      "question": "You have been working as a project manager in an organization for some time where an agile-centric delivery approach and way of work has been selected and tailored for the organization. Over the past few months you notice several things are not working and could be improved as you begin new projects. What will you do next?",
+      "options": [
+        "A. Review the product backlog to see the flow of features going through the teams",
+        "B. Look into issues, threats and quality assurance statistics so defects and things like that",
+        "C. Hold a retrospective with your PMO leaders to determine ongoing improvement opportunities",
+        "D. Review a control chart and value stream map to see non-value-added activities and remove waste in the process"
+      ],
+      "answer": "C",
+      "explanation": "In an agile environment, holding a retrospective together to assess what is working well and what is challenging or could be improved is the best way to find ongoing improvements. This brings the team together in close, personal collaboration to gather feedback and identify solutions. While value stream mapping and control charts can be useful tools, the retrospective approach directly engages the source—the team—and aligns with agile principles. This is referenced in PMBOK Guide 7th edition, page 151, under Tailoring Diagnostics for Agile Teams.",
+      "difficulty": "expert",
+      "topic": "Agile Retrospectives and Continuous Improvement",
+      "domain": 2,
+      "source_id": "yt_005",
+      "chunk_index": 26,
+      "video_segment": "4:22:41→4:32:49"
+    },
+    {
+      "question": "You have been working on a project to deliver a new customer data system and have noticed that the work is starting to slow down with fewer user stories appearing in your sprint backlog as they are not ready. You hold a retrospective with your team and discover that there are long delays waiting for requirements and acceptance criteria approvals. What will you do next?",
+      "options": [
+        "A. Streamline approval decisions through fewer people, such as a product owner authorized to make decisions up to certain value thresholds",
+        "B. Ask your team to place the user stories in the sprint backlog, reducing the need for customer approval",
+        "C. Note the long delays as a risk to your project with a high likelihood as it is already happening",
+        "D. Escalate the issue to the functional manager to ensure approvals are happening quickly"
+      ],
+      "answer": "A",
+      "explanation": "When there are long delays waiting for approvals, the tailoring suggestion is to streamline decisions through fewer people authorized to make decisions up to certain value thresholds. This keeps the customer involved while reducing bottlenecks in the approval process. Removing customer approval altogether (option B) contradicts agile principles of continuous collaboration. Escalating to management (option D) does not solve the underlying problem. Noting it as a risk (option C) does not address the issue proactively. This is directly from PMBOK Guide 7th edition, page 151, under Common Situations and Tailoring Suggestions.",
+      "difficulty": "expert",
+      "topic": "Agile Decision-Making and Approval Process Improvement",
+      "domain": 2,
+      "source_id": "yt_005",
+      "chunk_index": 26,
+      "video_segment": "4:22:41→4:32:49"
+    },
+    {
+      "question": "You have been assigned to take over an existing project as the previous project manager leaves for another opportunity. In working with your team you notice that there is a large amount of work currently in progress all at once, with team members working on multiple items at a time and constantly context switching between tasks. What will you do next?",
+      "options": [
+        "A. Add more people to the project to help complete the work faster",
+        "B. Use value stream mapping and kanban boards to visualize the work and brainstorm solutions with your team",
+        "C. Ask your team to work overtime or to cover the extra work and bring it all back in line",
+        "D. Review the scope of the project and reduce items with low customer impact and low impact to customer satisfaction"
+      ],
+      "answer": "B",
+      "explanation": "Using value stream mapping and kanban boards helps visualize work in progress and enables the team to limit WIP, reducing context switching and improving flow. Adding more people (option A) complicates communication channels and processes. Working overtime (option C) is unsustainable and violates the principle of a sustainable pace. While reducing low-impact scope (option D) is a valid practice, it does not directly address the root cause of context switching and excessive WIP. The best answer uses lean tools to identify and solve the problem. This is referenced in PMBOK Guide 7th edition, page 151, under Common Situations and Tailoring Suggestions.",
+      "difficulty": "expert",
+      "topic": "Work-in-Progress Limitation and Lean Flow Management",
+      "domain": 2,
+      "source_id": "yt_005",
+      "chunk_index": 26,
+      "video_segment": "4:22:41→4:32:49"
+    },
+    {
+      "question": "The product owner has prioritized the product backlog of features and the team creates user stories with estimates and places enough of them to fill a two-week sprint. You notice that the pieces being completed are being rejected by the customer due to defects and missed requirements. What will you do next?",
+      "options": [
+        "A. Create the project scope from scratch with the project team and customers",
+        "B. Have an iteration zero planning sprint with your project team to set it up for success",
+        "C. Add more feedback loops, such as shoulder checks",
+        "D. Work with the product owner to refine acceptance criteria and implement daily or continuous reviews with the customer"
+      ],
+      "answer": "C",
+      "explanation": "Adding more feedback loops, such as shoulder checks and continuous customer reviews, ensures that requirements are understood correctly and work is verified throughout the sprint rather than at the end. This prevents the rejection of completed work. Starting from scratch (option A) is unnecessary and inefficient. An iteration zero (option B) delays productive work and creates an artificial planning phase that slows the team's ability to enter a flow state and deliver value. Working with the product owner alone (option D), while helpful, may not address the frequency of feedback loops needed. More frequent touchpoints with the customer are essential to catch missed requirements and defects early.",
+      "difficulty": "expert",
+      "topic": "Customer Feedback Loops and Quality Assurance in Agile",
+      "domain": 2,
+      "source_id": "yt_005",
+      "chunk_index": 26,
+      "video_segment": "4:22:41→4:32:49"
+    }
+  ]
+}

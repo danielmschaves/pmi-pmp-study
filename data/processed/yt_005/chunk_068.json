@@ -1,0 +1,77 @@
+{
+  "source_id": "yt_005",
+  "chunk_index": 68,
+  "start_label": "11:26:49",
+  "end_label": "11:36:57",
+  "mode": "extract",
+  "questions": [
+    {
+      "question": "You are working as a project manager on a regulatory change for your organization. You notice that the team is not communicating as well as they could be and you put together a plan to improve team communication by increasing its effectiveness and richness. What will you do?",
+      "options": [
+        "A. Include methods that will handle multiple information cues such as body language, voice, and words",
+        "B. Facilitate rapid feedback to ensure everyone is on the same page",
+        "C. Utilize natural language avoiding jargon or other complicated language",
+        "D. Include ways to get sign-off in writing so it can be recorded and reviewed later when needed"
+      ],
+      "answer": "A",
+      "explanation": "According to Alistair Cockburn's Crystal method and media richness theory, effectiveness and richness of communication is achieved through methods that handle multiple information cues (body language, voice, words), facilitate rapid feedback, establish personal focus, and utilize natural language. Option A directly addresses the core principle of media richness by including methods to handle multiple information cues, which is the foundation of effective communication channels.",
+      "difficulty": "expert",
+      "topic": "Team Communication and Media Richness",
+      "domain": 1,
+      "source_id": "yt_005",
+      "chunk_index": 68,
+      "video_segment": "11:26:49→11:36:57"
+    },
+    {
+      "question": "Your deliverables have been signed off by the product owner and they are ready to be released to the customer, which is the financial analytics team of your organization. The new system will be quite a change from their normal day-to-day work. The team already has the desire to use the new system. What will you do next?",
+      "options": [
+        "A. Develop a vision and explain the why behind the change",
+        "B. Use training and education to show them the new processes and systems",
+        "C. Give them unlimited hands-on practice so they can get used to the new system",
+        "D. Include rewards, recognition, feedback, and measurement once the system is released"
+      ],
+      "answer": "B",
+      "explanation": "According to the ADCAR model for change management (Awareness, Desire, Knowledge, Ability, Reinforcement), once people have the desire for change, the next step is knowledge, which includes training and education for the new processes and systems. Since the team already has the desire to use the system, the appropriate next step is to provide training and education rather than building desire or providing rewards after release.",
+      "difficulty": "expert",
+      "topic": "Change Management and ADCAR Model",
+      "domain": 3,
+      "source_id": "yt_005",
+      "chunk_index": 68,
+      "video_segment": "11:26:49→11:36:57"
+    },
+    {
+      "question": "You are leading a large organizational change that affects more than a thousand people across multiple teams. You have engaged with the senior managers of that area, created a brief vision statement that summarizes the change, and created a strategy to realize the vision. You are communicating the vision throughout the change process. What will you do next?",
+      "options": [
+        "A. Release multiple usable features to the affected teams so they can get used to it gradually",
+        "B. Anchor the changes into corporate culture and recognize people for their efforts",
+        "C. Address any obstacles to the change, including outdated processes and people resistance",
+        "D. Set goals for continued improvement on the change throughout the organization"
+      ],
+      "answer": "C",
+      "explanation": "According to Kotter's Eight-Step Process for Leading Change, after communicating the vision comes the step of removing obstacles. This includes addressing outdated processes and people resistance before proceeding with implementation. Anchoring changes into corporate culture comes later in the process after short-term wins have been achieved. Releasing features or setting improvement goals should come after obstacles have been addressed.",
+      "difficulty": "expert",
+      "topic": "Organizational Change and Kotter's Eight-Step Process",
+      "domain": 3,
+      "source_id": "yt_005",
+      "chunk_index": 68,
+      "video_segment": "11:26:49→11:36:57"
+    },
+    {
+      "question": "You are a project manager assessing the risk of future releases with your team. You have a clear set of requirements from your customer; however, there are a range of possible correct solutions. There are also a range of known unknowns where you know that risks exist but the impact is uncertain. How are you going to approach this situation?",
+      "options": [
+        "A. Use current best practices to make decisions",
+        "B. Use emergent practices that will allow you to probe the environment, sense the situation, and respond with action",
+        "C. Assess the facts, analyze the situation, and apply known good practices",
+        "D. Sense where there is some stability and take steps to try and stabilize the situation"
+      ],
+      "answer": "C",
+      "explanation": "This situation describes the Cynefin framework's complicated domain, where there is a set of known unknowns and a range of correct answers. In the complicated domain, the appropriate approach is to assess the facts, analyze the situation, and apply known good practices. Option B (emergent practices and probing) applies to the complex domain, while Option D applies to the chaotic domain. Option A alone is insufficient because analysis is needed to determine which best practices are most appropriate.",
+      "difficulty": "expert",
+      "topic": "Complexity Frameworks and Risk Assessment",
+      "domain": 2,
+      "source_id": "yt_005",
+      "chunk_index": 68,
+      "video_segment": "11:26:49→11:36:57"
+    }
+  ]
+}

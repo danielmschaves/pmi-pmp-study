@@ -1,0 +1,60 @@
+{
+  "source_id": "yt_005",
+  "chunk_index": 22,
+  "start_label": "3:42:10",
+  "end_label": "3:52:24",
+  "mode": "extract",
+  "questions": [
+    {
+      "question": "You are working on a project with a vendor where there is significant ambiguity involved. There are many possible outcomes with varying degrees of impact. How should you proceed to improve the situation?",
+      "options": [
+        "A. Use experiments and prototypes and progressive elaboration to work your way through it",
+        "B. Ask your team for additional reporting around different options so you can make an informed decision",
+        "C. Add all the different options into your project scope so all your bases are covered",
+        "D. Work more closely with your senior users so they can inform you of the product requirements"
+      ],
+      "answer": "A",
+      "explanation": "Progressive elaboration through experiments and prototypes is the best way to handle situational ambiguity where multiple outcomes are possible. This allows the team to gather feedback iteratively and adjust course. While reporting on options, expanding scope, and engaging stakeholders are good practices, they do not directly address the core challenge of navigating ambiguity.",
+      "difficulty": "expert",
+      "topic": "Ambiguity and VUCA - Situational Ambiguity Response",
+      "domain": 2,
+      "source_id": "yt_005",
+      "chunk_index": 22,
+      "video_segment": "3:42:10→3:52:24"
+    },
+    {
+      "question": "You are working on a project to improve software that has been in production for over 17 years and has been modified extensively over that time. The software also integrates with many other systems within your organization. You cannot decide which features to deliver first. How will you deal with the complexity?",
+      "options": [
+        "A. List out the possible features you can deliver and prioritize them by cost over benefit",
+        "B. Simulate decoupling connecting parts to simplify the number of variables",
+        "C. Reframe your view by brainstorming with a diverse set of stakeholders",
+        "D. Provide an incentive for your project team for whoever can solve this complex problem"
+      ],
+      "answer": "B",
+      "explanation": "Simulation-based decoupling is a systems-based method that reduces complexity by simplifying the number of variables the team must consider. This allows you to test what happens if parts are decoupled without physically implementing changes. While prioritization, stakeholder engagement, and incentives are useful practices, simulation and decoupling directly address the root cause of complexity in interconnected systems.",
+      "difficulty": "expert",
+      "topic": "Complexity and VUCA - Systems-Based Complexity Reduction",
+      "domain": 2,
+      "source_id": "yt_005",
+      "chunk_index": 22,
+      "video_segment": "3:42:10→3:52:24"
+    },
+    {
+      "question": "You are working on a project that requires a very particular and uncommon programming skill set. It is also the hottest job market the industry has seen in two decades, people are hard to come by and they leave often, and the programming language is also evolving at a quick pace. What will you do next?",
+      "options": [
+        "A. Develop the product from scratch in a more common programming language",
+        "B. Ask your whole team to learn the programming skill set to cover the risk",
+        "C. Use alternatives analysis to gather different options and ensure a sufficient cost reserve to help complete your project",
+        "D. Raise a risk to your project completion regarding the threat of project team member skill sets"
+      ],
+      "answer": "C",
+      "explanation": "This scenario describes volatility—an environment subject to rapid and unpredictable change, including fluctuations in available skill sets. Alternative analysis and cost reserves are pragmatic methods to address volatility by preparing multiple contingency options and financial buffers. While the other options may be reasonable practices, alternative analysis combined with cost reserves represents the most mature and comprehensive approach to handling the volatile environment described.",
+      "difficulty": "expert",
+      "topic": "Volatility and VUCA - Volatility Response Planning",
+      "domain": 2,
+      "source_id": "yt_005",
+      "chunk_index": 22,
+      "video_segment": "3:42:10→3:52:24"
+    }
+  ]
+}

@@ -1,0 +1,60 @@
+{
+  "source_id": "yt_005",
+  "chunk_index": 67,
+  "start_label": "11:16:43",
+  "end_label": "11:26:49",
+  "mode": "extract",
+  "questions": [
+    {
+      "question": "Your agile team is experiencing too much work in progress and high rates of scrap. What is the best recommendation to address this issue?",
+      "options": [
+        "A. Add more people to the project to complete the work faster",
+        "B. Use value stream mapping and Kanban boards to visualize the work and identify issues",
+        "C. Ask your team to work overtime to cover the extra work",
+        "D. Review the scope of the project and reduce items with low customer impact"
+      ],
+      "answer": "B",
+      "explanation": "When there is too much work in progress or high rates of scrap, the recommended approach is to use techniques like value stream mapping and Kanban boards to visualize the work, identify the issues, and propose solutions. This allows teams to limit work in progress and reduce context switching. Adding more people can complicate communication and processes. Asking for overtime is unsustainable and leads to disengagement. While scope review is a decent practice, it is not the best answer for addressing work-in-progress issues. This guidance is found in the PMBOK Guide, 7th Edition, page 151 under common situations and tailoring suggestions.",
+      "difficulty": "expert",
+      "topic": "Agile Work Management and Process Improvement",
+      "domain": 2,
+      "source_id": "yt_005",
+      "chunk_index": 67,
+      "video_segment": "11:16:43→11:26:49"
+    },
+    {
+      "question": "Your product owner has prioritized the product backlog and the team has created user stories with estimates filling a two-week Sprint. However, you notice that pieces being completed are being rejected by the customer due to defects and missed requirements. What should you do next?",
+      "options": [
+        "A. Create the project scope from scratch with the project team and customers",
+        "B. Have an iteration zero planning Sprint with your project team to set it up for success",
+        "C. Add more feedback loops such as shoulder checks, peer review, unit testing, and system testing",
+        "D. Have less frequent customer demonstrations so they only see the product when it is correct"
+      ],
+      "answer": "C",
+      "explanation": "When a product is facing poor quality deliverables, the recommended tailoring suggestion is to add more feedback loops and quality assurance steps. These include demonstrations and reviews, peer review of items, shoulder checks, pair programming, quality audits, and various levels of testing such as unit testing, system testing, user acceptance testing, regression testing, and automated testing. By catching issues earlier through multiple feedback loops, especially at the requirements stage, costs are minimized. Creating scope from scratch is excessive, iteration zero delays value delivery, and less frequent demonstrations reduce customer feedback opportunities. This guidance is found in the PMBOK Guide, 7th Edition, page 151.",
+      "difficulty": "expert",
+      "topic": "Quality Assurance and Feedback Loops in Agile",
+      "domain": 2,
+      "source_id": "yt_005",
+      "chunk_index": 67,
+      "video_segment": "11:16:43→11:26:49"
+    },
+    {
+      "question": "Your project team has started to find their rhythm, but you notice they seem disengaged and are dragging their feet on normal tasks. You check the budget and confirm the team is paid fairly for the market and within the same range for the role. What is the best way to improve engagement?",
+      "options": [
+        "A. Look for ways to reward team members with bonuses above their normal pay rate",
+        "B. Move team members around to different roles frequently so they experience job variety",
+        "C. Give the team a paid day off",
+        "D. Establish ways for the team to grow and advance"
+      ],
+      "answer": "D",
+      "explanation": "According to Herzberg's motivational theory, once hygiene factors such as fair compensation and physical environment are satisfied, people are motivated by factors such as achievement, growth, and advancement. While bonuses, role variety, and paid time off may provide temporary relief, they wear off quickly. The most effective long-term approach is to establish career paths, learning pathways, and opportunities for growth and advancement that give team members a sense of progress. This taps into the intrinsic motivational factors that sustain engagement beyond basic compensation.",
+      "difficulty": "expert",
+      "topic": "Team Motivation and Herzberg's Motivational Theory",
+      "domain": 1,
+      "source_id": "yt_005",
+      "chunk_index": 67,
+      "video_segment": "11:16:43→11:26:49"
+    }
+  ]
+}

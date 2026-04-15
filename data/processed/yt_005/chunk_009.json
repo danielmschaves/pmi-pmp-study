@@ -1,0 +1,60 @@
+{
+  "source_id": "yt_005",
+  "chunk_index": 9,
+  "start_label": "1:30:48",
+  "end_label": "1:40:54",
+  "mode": "extract",
+  "questions": [
+    {
+      "question": "You are working on a project where part of the project delivers a high value, high risk component, and another part of the project delivers a routine change to the system. Your project sponsor wants to gain business value quickly, but your project team wants to start with the work that they are familiar with first. What will you do next?",
+      "options": [
+        "A. Prioritize the higher risk items at the end of the project",
+        "B. Prioritize the high risk items at the start of the project",
+        "C. Use an incremental approach and deliver part of the routine and higher risk work in each sprint",
+        "D. Plan out the work in detail and secure a scope baseline with formal change controls to reduce the uncertainty"
+      ],
+      "answer": "B",
+      "explanation": "High risk items should be prioritized at the start of the project to reduce uncertainty before a large investment has been made. This removes risk early in the project lifecycle. As the project progresses toward completion, the impact of undelivered risky items becomes greater. Routine work can be delayed using the last responsible moment principle until the cost of further delay would exceed the benefit of completing it later. This approach aligns with both the sponsor's desire for business value and the practical risk management principle of addressing novel or risky work first.",
+      "difficulty": "expert",
+      "topic": "Risk Prioritization and Delivery Sequencing",
+      "domain": 2,
+      "source_id": "yt_005",
+      "chunk_index": 9,
+      "video_segment": "1:30:48→1:40:54"
+    },
+    {
+      "question": "You are working on an agile project where the functional manager you are delivering to only has a high level idea of the system requirements. The functional manager suggests using a work breakdown structure, however your team feels that is more for a predictive or waterfall delivery approach. What will you do next?",
+      "options": [
+        "A. Create and use a work breakdown structure anyway, as it is just a tool",
+        "B. Use rolling wave planning and keep the work at a high level until you are ready to work on it, then plan in detail",
+        "C. Note the high level themes or epics, then decompose them into features, and again into multiple user stories",
+        "D. Ask the functional manager for more detailed requirements before the project begins"
+      ],
+      "answer": "C",
+      "explanation": "Decomposition is a principle that applies to both predictive and agile delivery approaches. In agile projects, this decomposition follows a specific pattern: breaking down high-level themes or epics into features, and then further into user stories. This approach is more agile-centric than a traditional work breakdown structure while still accomplishing the same goal of breaking down work into manageable pieces. This method aligns with incremental delivery and allows the team to collaborate and extract requirements iteratively rather than requiring detailed specifications upfront.",
+      "difficulty": "expert",
+      "topic": "Work Decomposition and Agile Planning",
+      "domain": 2,
+      "source_id": "yt_005",
+      "chunk_index": 9,
+      "video_segment": "1:30:48→1:40:54"
+    },
+    {
+      "question": "You are at the beginning of planning a new project and have researched and gathered the requirements from the area, broken them down into deliverables and activities, which you believe could take 26 weeks to deliver. The project sponsor is asking you for an estimate on how long the project will take. What will you do next?",
+      "options": [
+        "A. Tell the project sponsor that 26 weeks is your estimate",
+        "B. Tell the project sponsor approximately 24 to 28 weeks",
+        "C. Tell the project sponsor that you will use an iterative approach where value is delivered until the project stops",
+        "D. Tell the project sponsor approximately 20 to 45 weeks"
+      ],
+      "answer": "D",
+      "explanation": "At the beginning of a new project, there is not much information available, and estimation uncertainty is high. Range estimates should reflect this broad uncertainty using ranges such as minus 25 to plus 75 percent. As the project progresses and the team gains more experience and knowledge, the range narrows—eventually to minus 5 to plus 10 percent when the team has a smooth delivery cadence. A single-point estimate of 26 weeks or a narrow range of 24 to 28 weeks both suggest false precision given the early stage of planning. The range of 20 to 45 weeks appropriately reflects the uncertainty inherent in early project estimation.",
+      "difficulty": "expert",
+      "topic": "Estimation and Range Estimates",
+      "domain": 2,
+      "source_id": "yt_005",
+      "chunk_index": 9,
+      "video_segment": "1:30:48→1:40:54"
+    }
+  ]
+}

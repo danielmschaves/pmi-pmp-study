@@ -1,0 +1,60 @@
+{
+  "source_id": "yt_005",
+  "chunk_index": 31,
+  "start_label": "5:13:11",
+  "end_label": "5:23:17",
+  "mode": "extract",
+  "questions": [
+    {
+      "question": "You have been asked to help facilitate a senior planning meeting in your organization. High-level executives have made a presentation on the strengths and opportunities of the organization, painting a rosy picture. Revenue has fallen recently and the chief executive asks you to level out their analysis with a more complete view. What will you do next?",
+      "options": [
+        "A. Add your organization's competitors and compare their products",
+        "B. Showcase the pipeline of upcoming work to be delivered in the next quarter",
+        "C. Add the background and abilities of the executive team that will allow the organization to deliver",
+        "D. Brainstorm and capture the weaknesses and threats to the organization"
+      ],
+      "answer": "D",
+      "explanation": "This question refers to SWAT analysis (strengths, weaknesses, opportunities, threats). Once strengths and opportunities have been captured, a complete picture also requires identifying weaknesses and threats. The executives presented only the positive aspects; to balance this, you need to capture the negative aspects as well. This is found on page 175 of the PMBOK Guide 7th Edition under SWAT analysis.",
+      "difficulty": "expert",
+      "topic": "SWAT Analysis and Strategic Planning",
+      "domain": 3,
+      "source_id": "yt_005",
+      "chunk_index": 31,
+      "video_segment": "5:13:11→5:23:17"
+    },
+    {
+      "question": "You are adding an essential feature to your product roadmap. Your team believes they can complete the feature in 6 weeks; however, the feature is quite large and a bit more complicated than normal. One of your lead developers says they worked on a similar feature in another company and it took around 4 months to complete. What will you do next?",
+      "options": [
+        "A. Use relative estimating",
+        "B. Use analogous estimating and place the feature with around 4 months to complete",
+        "C. Use parametric estimating",
+        "D. Use function point estimating to show the amount of business functionality in the feature"
+      ],
+      "answer": "B",
+      "explanation": "When the effort on a feature or deliverable needs to be estimated and there are people who have experience delivering a similar item, you can use analogous estimating. This is based on an analogy with something similar that has been done before, allowing you to estimate effort quickly and with medium-level accuracy based on past experience. This is found on page 178 of the PMBOK Guide 7th Edition under analogous estimating.",
+      "difficulty": "expert",
+      "topic": "Analogous Estimating",
+      "domain": 2,
+      "source_id": "yt_005",
+      "chunk_index": 31,
+      "video_segment": "5:13:11→5:23:17"
+    },
+    {
+      "question": "You have a prioritized backlog of features. You have decomposed the next feature to be delivered into user stories for a two-week sprint. The team would like to estimate the effort involved on those user stories but are unsure on how to proceed. What will you do next?",
+      "options": [
+        "A. Ask each team member to add their own estimates as they complete the acceptance criteria",
+        "B. Estimate the effort for the overall feature and reduce the need for individual story estimates",
+        "C. Help the team perform relative estimating",
+        "D. Base the estimates on cost per hour and add them after the work is done to ensure it is correct"
+      ],
+      "answer": "C",
+      "explanation": "Relative estimating is the most common method for user stories where they are sized in comparison to the smallest piece, often in story points and frequently on a Fibonacci scale. This approach allows the team to estimate together, getting input from testers, developers, and everyone involved in doing the work, which provides better accuracy than individual estimates. This is found on page 178 of the PMBOK Guide under relative estimating.",
+      "difficulty": "expert",
+      "topic": "Relative Estimating and User Story Estimation",
+      "domain": 2,
+      "source_id": "yt_005",
+      "chunk_index": 31,
+      "video_segment": "5:13:11→5:23:17"
+    }
+  ]
+}

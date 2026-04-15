@@ -1,0 +1,94 @@
+{
+  "source_id": "yt_002",
+  "chunk_index": 16,
+  "start_label": "4:01:50",
+  "end_label": "4:16:57",
+  "mode": "extract",
+  "questions": [
+    {
+      "question": "A company provides an open space as a way of fostering team collaboration. However, while working on an agile software project, a senior developer approached the project manager to request a separate office where she can better focus on her work since she was unable to carry out some critical tasks in the common team area. What should the project manager do?",
+      "options": [
+        "A. Convince the senior developer of the advantages of working in the same space as her colleagues.",
+        "B. Move the senior developer to a separate cubicle.",
+        "C. Allow the senior developer to work in a separate area until her complex tasks are resolved.",
+        "D. Ask the whole team not to make noise as it might disturb others."
+      ],
+      "answer": "C",
+      "explanation": "The correct answer is C because it reflects the agile concept of 'caves and common space,' where team members can temporarily work in separate quiet areas when they need to concentrate on complex tasks, then return to the common team space once finished. Option A is incorrect because it dismisses the developer's valid concern. Option B is vague about whether the arrangement is temporary. Option D is not feasible because open space collaboration inherently involves discussion.",
+      "difficulty": "hard",
+      "topic": "Team Collaboration and Agile Practices",
+      "domain": 1,
+      "source_id": "yt_002",
+      "chunk_index": 16,
+      "video_segment": "4:01:50→4:16:57"
+    },
+    {
+      "question": "An organization has recently converted to agile. After a few months, the project manager's supervisors complained that team A was performing poorly because it always had lower velocity than team B. What should the project manager do?",
+      "options": [
+        "A. Move some of the team B's best performers to team A.",
+        "B. Set up a reward program to motivate team A.",
+        "C. Encourage team A to increase their velocity in the upcoming sprints.",
+        "D. Inform the supervisors that they can't compare the performance of different teams based on their velocity."
+      ],
+      "answer": "D",
+      "explanation": "The correct answer is D. Velocity cannot be used to compare the performance of different teams because each team has different composition, skills, and context. Option A is incorrect because it assumes team B's velocity is a valid benchmark for team A. Option B incorrectly assumes team A is underperforming. Option C is wrong because it accepts the flawed comparison and pushes the team to match an invalid benchmark.",
+      "difficulty": "hard",
+      "topic": "Agile Metrics and Team Performance",
+      "domain": 2,
+      "source_id": "yt_002",
+      "chunk_index": 16,
+      "video_segment": "4:01:50→4:16:57"
+    },
+    {
+      "question": "During the sprint retrospective meeting, the project team suggested improving communication and collaboration by using fishbowl windows and remote pairing. The project manager agrees to implement both tools in order to promote self-organization within the team, despite concerns that this might negatively impact productivity. What should the project manager do next?",
+      "options": [
+        "A. At the end of the following sprint, evaluate the impact of the new practices with the project team.",
+        "B. Frequently join the remote conferencing rooms to ensure the project team is actually working and not wasting time chatting.",
+        "C. Measure the team's velocity during the following sprint and discontinue the use of the new practices in case of any decrease.",
+        "D. Ask for the product owner's approval to use these two practices."
+      ],
+      "answer": "A",
+      "explanation": "The correct answer is A. Following implementation of new practices, the project manager and team should verify performance improvements or deteriorations during the next sprint retrospective so the team can further adjust and reflect on processes. Option B is incorrect because it reflects a lack of trust and excessive control, which contradicts self-organization. Option C is wrong because discontinuing practices based solely on velocity metrics is authoritarian and ignores the team's empirical learning process. Option D is incorrect because the product owner owns the product backlog, not agile process decisions.",
+      "difficulty": "hard",
+      "topic": "Agile Retrospectives and Process Improvement",
+      "domain": 1,
+      "source_id": "yt_002",
+      "chunk_index": 16,
+      "video_segment": "4:01:50→4:16:57"
+    },
+    {
+      "question": "A project manager is managing a project for a startup that needs to quickly deliver a minimum viable product (MVP) to capture an opportunity in the market. What should the project manager do?",
+      "options": [
+        "A. Deliver a perfect product to ensure end user satisfaction.",
+        "B. Opt for an iterative approach to follow early feedback.",
+        "C. Eliminate change requests to deliver fast.",
+        "D. Split deliverables into increments."
+      ],
+      "answer": "D",
+      "explanation": "The correct answer is D. An incremental approach with the goal of speed is what the project manager needs. Splitting deliverables into increments ensures the first increment contains the necessary features to launch and seize the market opportunity. Option A focuses on correctness rather than speed. Option B, while iterative can incorporate feedback, prioritizes iterative refinement over speed. Option C is incorrect because change requests cannot be eliminated, especially in agile contexts, and this doesn't address the need for quick delivery.",
+      "difficulty": "hard",
+      "topic": "Agile Approaches and MVP Delivery",
+      "domain": 2,
+      "source_id": "yt_002",
+      "chunk_index": 16,
+      "video_segment": "4:01:50→4:16:57"
+    },
+    {
+      "question": "When the sprint is almost over, one of the team members informs the project manager that they don't have enough time to properly prepare the demonstration for the sprint review since they are trying to complete the sprint backlog items. What could the project manager suggest in order to avoid such an issue in future sprints?",
+      "options": [
+        "A. Create a task for conducting the demonstration and make it part of the sprint.",
+        "B. Handle the demonstration instead of the team member.",
+        "C. Delaying the demonstration for a few days to allow the team to get properly prepared.",
+        "D. Reduce the number of sprint backlog items in future sprints."
+      ],
+      "answer": "A",
+      "explanation": "The correct answer is A. Creating a task for product demonstration and including it in sprint planning allows the team to dedicate the needed time to properly prepare. The task must be estimated and included as part of the sprint workload. Option B is incorrect because the team member who developed the solution should conduct the demonstration, not the project manager. Option C violates sprint boundaries—the demonstration must occur at the sprint review, not be delayed. Option D is a workaround that doesn't address the root cause of poor sprint planning.",
+      "difficulty": "hard",
+      "topic": "Sprint Planning and Sprint Review",
+      "domain": 2,
+      "source_id": "yt_002",
+      "chunk_index": 16,
+      "video_segment": "4:01:50→4:16:57"
+    }
+  ]
+}

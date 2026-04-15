@@ -1,0 +1,94 @@
+{
+  "source_id": "yt_003",
+  "chunk_index": 5,
+  "start_label": "1:15:33",
+  "end_label": "1:30:40",
+  "mode": "extract",
+  "questions": [
+    {
+      "question": "A new project has been kicked off in your organization due to a recent government inquiry into your industry which found multiple processes with significant regulatory oversight that need to change. The inquiry ordering these changes has given you a due date of 10 months before you start incurring penalties. What will you do next?",
+      "options": [
+        "A. Proceed with an agile development approach to deliver change as quickly as possible",
+        "B. Proceed with a hybrid development approach to respond to changes while planning up front",
+        "C. Proceed with a predictive development approach to satisfy regulatory requirements",
+        "D. Proceed with an iterative methodology to improve using feedback"
+      ],
+      "answer": "C",
+      "explanation": "Environments with significant regulatory oversight require a predictive (waterfall) approach due to the required process documentation and demonstration of compliance. While agile and iterative approaches could deliver quickly, they do not adequately satisfy the regulatory and government oversight requirements that demand comprehensive planning and documentation upfront.",
+      "difficulty": "hard",
+      "topic": "Development Approach Selection",
+      "domain": 2,
+      "source_id": "yt_003",
+      "chunk_index": 5,
+      "video_segment": "1:15:33→1:30:40"
+    },
+    {
+      "question": "Your organization is moving to an agile way of work. Your project team is strongly opposed to using agile because they have been burned using iterations when executives used the team velocity to force the team to work faster instead of keeping a sustainable pace. What will you do next?",
+      "options": [
+        "A. Add extra resources to your team to deliver faster and avoid executives getting involved",
+        "B. Proceed with a predictive development approach and deal with the consequences later",
+        "C. Ask your team to work with agile velocity and iterations despite their hesitations",
+        "D. Suggest the team uses flow-based scheduling with a kanban board approach"
+      ],
+      "answer": "D",
+      "explanation": "Flow-based scheduling with kanban boards is an agile principle that addresses the team's concerns about velocity being misused. Kanban uses visual management, work-in-progress limits, and flow-based scheduling to maintain sustainable pace without relying on velocity metrics or sprints. This approach optimizes delivery based on capacity and minimizes waste such as context switching and multitasking.",
+      "difficulty": "hard",
+      "topic": "Agile Methodologies and Team Management",
+      "domain": 1,
+      "source_id": "yt_003",
+      "chunk_index": 5,
+      "video_segment": "1:15:33→1:30:40"
+    },
+    {
+      "question": "Your team has not worked on projects before and does not know about waterfall, agile, or any of the different models. Your project may also have requirements that are certain or uncertain with varying levels of risk. You are not sure which approach to use as you begin this new project. What will you do next?",
+      "options": [
+        "A. Use waterfall and plan everything up front so the team has more stability",
+        "B. Use general phase definitions such as feasibility, design, build, test, deploy, and close",
+        "C. Use agile to ensure you can respond to change while your team's capability increases",
+        "D. Don't use any project approach as long as the work is getting done"
+      ],
+      "answer": "B",
+      "explanation": "All projects go through the general phases of feasibility, design, build, test, deploy, and close. Waterfall projects execute these sequentially in one pass, while agile projects execute them multiple times for each feature or increment. This universal framework provides a starting point regardless of uncertainty in requirements or risk levels, and works for any development approach.",
+      "difficulty": "hard",
+      "topic": "Development Approach Selection and Life Cycles",
+      "domain": 2,
+      "source_id": "yt_003",
+      "chunk_index": 5,
+      "video_segment": "1:15:33→1:30:40"
+    },
+    {
+      "question": "You are a project manager in an organization with a directive project management office and are currently between projects. The PMO asks you to prepare for an upcoming project in the accounting area by meeting with the functional manager. You have no team, no scope, no requirements, and no timeline as yet. What will you do next?",
+      "options": [
+        "A. Ask the functional manager for their wish list of improvements so you can take these to the PMO",
+        "B. Create a project management plan so the project scope, budget, and schedule are more clear",
+        "C. Create a small backlog of work and start your first sprint, then progressively update the backlog",
+        "D. Progressively elaborate the vision statement and project charter to define a coordinated approach"
+      ],
+      "answer": "D",
+      "explanation": "Before initiating any project, you must start with a vision statement, project charter, or business case to identify a coordinated path to achieve desired outcomes. A project charter establishes the project's direction and authority. Once the vision and charter are defined, other activities like creating a project management plan, building a backlog, or gathering improvement ideas can proceed.",
+      "difficulty": "hard",
+      "topic": "Project Initiation and Charter Development",
+      "domain": 2,
+      "source_id": "yt_003",
+      "chunk_index": 5,
+      "video_segment": "1:15:33→1:30:40"
+    },
+    {
+      "question": "You are working on a project where part of the project delivers a high-value, high-risk component and another part delivers routine change to the system. Your project sponsor wants to gain business value quickly, but your project team wants to start with the work that they are familiar with first. What will you do next?",
+      "options": [
+        "A. Prioritize the high-risk items at the end of the project",
+        "B. Prioritize the high-risk items at the start of the project",
+        "C. Allow the team to start with the routine work they are familiar with",
+        "D. Use an incremental approach to deliver parts of both the routine and high-risk work"
+      ],
+      "answer": "B",
+      "explanation": "High-risk items should be prioritized at the start of the project to mitigate risk early. Delaying high-risk work increases overall project risk, as unresolved risks can compound and potentially impact the entire project at critical moments near completion. Addressing high-risk items first reduces uncertainty and allows the team to adjust approach if needed.",
+      "difficulty": "hard",
+      "topic": "Risk Management and Project Prioritization",
+      "domain": 2,
+      "source_id": "yt_003",
+      "chunk_index": 5,
+      "video_segment": "1:15:33→1:30:40"
+    }
+  ]
+}

@@ -1,0 +1,60 @@
+{
+  "source_id": "yt_005",
+  "chunk_index": 63,
+  "start_label": "10:36:15",
+  "end_label": "10:46:21",
+  "mode": "extract",
+  "questions": [
+    {
+      "question": "You are working on a project that integrates with many other systems within your organization. The system is quite complex, and you cannot decide which features to deliver first. How will you deal with the complexity?",
+      "options": [
+        "A. List out the possible features you can deliver and prioritize them by cost over benefit",
+        "B. Simulate decoupling connecting parts to simplify the number of variables",
+        "C. Reframe your view by brainstorming with a diverse set of stakeholders",
+        "D. Provide an incentive for your project team for whoever can solve this complex problem"
+      ],
+      "answer": "B",
+      "explanation": "Methods for dealing with complexity include systems-based approaches such as decoupling and simulation. This allows you to test scenarios without physically implementing changes. While brainstorming with diverse stakeholders and prioritization are good practices, simulation of decoupling is the most direct technical approach to reducing complexity. Providing incentives alone does not address the systemic complexity. Reference: PMBOK Guide 7th Edition, page 121, Complexity section.",
+      "difficulty": "expert",
+      "topic": "Complexity Management and Systems Thinking",
+      "domain": 2,
+      "source_id": "yt_005",
+      "chunk_index": 63,
+      "video_segment": "10:36:15→10:46:21"
+    },
+    {
+      "question": "You are working on a project that requires a very particular programming skill set that is not very common. The job market is the hottest the industry has seen in two decades, people are hard to come by and leave often, and the programming language is evolving at a quick pace. What will you do next?",
+      "options": [
+        "A. Develop the product from scratch in a more common programming language",
+        "B. Ask your whole team to learn the programming skill set to cover the risk",
+        "C. Use alternatives analysis to gather different options and ensure a sufficient cost reserve to help complete your project",
+        "D. Raise a risk to your project completion with the threat of project team member skill sets"
+      ],
+      "answer": "C",
+      "explanation": "This scenario describes volatility, an environment subject to rapid and unpredictable change, including ongoing fluctuations in available skill sets. The best response to volatility is to use alternatives analysis to explore different options and establish cost reserves as contingencies. While raising the risk is appropriate, alternatives analysis combined with cost reserves represents a more mature and pragmatic approach to dealing with volatility. Reference: PMBOK Guide 7th Edition, page 122, Volatility section.",
+      "difficulty": "expert",
+      "topic": "Volatility Management and Risk Response Planning",
+      "domain": 2,
+      "source_id": "yt_005",
+      "chunk_index": 63,
+      "video_segment": "10:36:15→10:46:21"
+    },
+    {
+      "question": "Your project team has found a significant data vulnerability in one of the features planned in your product backlog where customer data is exposed without password access. The feature is partially made by a third-party vendor, and the relationship is owned by a functional manager in your organization. What will you do next?",
+      "options": [
+        "A. Avoid the risk and wait for the third-party vendor to fix the vulnerability",
+        "B. Transfer the risk by asking a different vendor to create a feature with no vulnerability in their design",
+        "C. Escalate the risk to the manager with the appropriate authority to act on the response",
+        "D. Accept the risk and move on to other features"
+      ],
+      "answer": "C",
+      "explanation": "Escalation is the appropriate risk response when the project team agrees that the threat is outside the scope of the project or exceeds the project manager's authority. In this case, the risk is severe, the vendor relationship is owned by a functional manager, and the project manager lacks direct authority. Escalation allows those with appropriate authority to manage this significant security threat. Accepting or avoiding such a critical vulnerability is inappropriate, and transferring the risk may take too long. Reference: PMBOK Guide 7th Edition, page 123, Overall Project Risks and Threats section.",
+      "difficulty": "expert",
+      "topic": "Risk Response Planning and Escalation",
+      "domain": 2,
+      "source_id": "yt_005",
+      "chunk_index": 63,
+      "video_segment": "10:36:15→10:46:21"
+    }
+  ]
+}

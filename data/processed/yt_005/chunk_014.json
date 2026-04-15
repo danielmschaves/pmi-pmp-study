@@ -1,0 +1,60 @@
+{
+  "source_id": "yt_005",
+  "chunk_index": 14,
+  "start_label": "2:21:16",
+  "end_label": "2:31:24",
+  "mode": "extract",
+  "questions": [
+    {
+      "question": "You have recently taken over a project that is behind schedule and slightly over budget. You raise an issue at the steering committee meeting where they advise that there is no additional funding available for the project and the project must finish on time. You believe that you can optimize the project process to bring it back on track. What will you do next?",
+      "options": [
+        "A. Use additional people and resources to speed it up",
+        "B. Utilize the project's contingency reserve to source the resources you need",
+        "C. Perform project activities in parallel, completing multiple items at once instead of one at a time",
+        "D. Use lean production methods to reduce non-value-added activities and conduct retrospectives for the team to suggest improvements"
+      ],
+      "answer": "D",
+      "explanation": "Optimizing project processes involves lean production methods and retrospectives to eliminate non-value-added activities and improve efficiency, not simply adding resources or using reserves. Lean methods and process improvement are the correct approach to optimization without additional funding.",
+      "difficulty": "expert",
+      "topic": "Process Optimization and Lean Methods",
+      "domain": 2,
+      "source_id": "yt_005",
+      "chunk_index": 14,
+      "video_segment": "2:21:16→2:31:24"
+    },
+    {
+      "question": "Your project management office is optimizing all the projects within their portfolio. They ask for your advice in tracking the type of work each team member is doing and how long it takes, suggesting that they categorize and record their work in addition to the work itself. What will you do next?",
+      "options": [
+        "A. Ask your team to record and categorize their work as it's important",
+        "B. Recommend an automated reporting tool where possible, as categorizing their work is non-value-added",
+        "C. Ask your team to ignore the request and focus on delivering customer value only",
+        "D. Implement a manual tracking system to ensure accuracy of data"
+      ],
+      "answer": "B",
+      "explanation": "Recording and categorizing work is non-value-added activity that does not directly benefit the customer. The best approach is to recommend automation to make the process efficient while minimizing the burden on team members, respecting the PMO request while eliminating wasted effort.",
+      "difficulty": "expert",
+      "topic": "Process Efficiency and Non-Value-Added Activities",
+      "domain": 2,
+      "source_id": "yt_005",
+      "chunk_index": 14,
+      "video_segment": "2:21:16→2:31:24"
+    },
+    {
+      "question": "You are halfway through your agile project when there is a significant change to the project's scope after it was found that the project would not be able to deliver the benefits that it had promised. You check your project budget and there are contingency and management reserves available. What will you do next?",
+      "options": [
+        "A. Take the project scope change to the Change Control Board for approval",
+        "B. Use the available contingency reserves to make the appropriate change to the project's scope",
+        "C. Review the change management plan for the Change Control process",
+        "D. Re-prioritize the backlog to include the new scope and begin work on the highest priority item straight away"
+      ],
+      "answer": "D",
+      "explanation": "In agile projects, scope changes are handled by re-prioritizing the backlog rather than formal Change Control Board processes. The team continues working on the highest priority items, and lower-value items may not be completed. This approach aligns with agile principles of adapting plans throughout the project rather than using formal baselines and reserves.",
+      "difficulty": "expert",
+      "topic": "Agile Scope Management and Backlog Prioritization",
+      "domain": 2,
+      "source_id": "yt_005",
+      "chunk_index": 14,
+      "video_segment": "2:21:16→2:31:24"
+    }
+  ]
+}

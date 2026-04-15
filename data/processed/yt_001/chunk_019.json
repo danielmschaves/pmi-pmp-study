@@ -1,0 +1,94 @@
+{
+  "source_id": "yt_001",
+  "chunk_index": 19,
+  "start_label": "4:46:50",
+  "end_label": "5:01:58",
+  "mode": "extract",
+  "questions": [
+    {
+      "question": "As a project manager in charge of a new sustainability initiative, you have introduced a groundbreaking environmental monitoring system. However, you notice that your project team is hesitant to adopt this technology, leading to delays in the implementation phase. What is the most effective measure to ensure team adaptation and project progress?",
+      "options": [
+        "A. Implement a reward system for early adopters of the technology",
+        "B. Arrange for a series of brief informative sessions on how the technology contributes to project goals",
+        "C. Conduct an extensive workshop with the team that examines the technology",
+        "D. Enlist the help of environmental experts to explain the importance of the technology to the team's work"
+      ],
+      "answer": "C",
+      "explanation": "When the team is hesitant about adopting technology, the most effective approach is to let them discover and examine the technology themselves rather than simply telling them about it. Option C allows the team to work with the technology directly and understand it firsthand, which builds better comprehension and reduces resistance. Option B merely informs them of the connection to goals without letting them explore. Option A uses rewards which doesn't address the underlying hesitation. Option D brings in external experts, which should only be a last resort after internal efforts.",
+      "difficulty": "expert",
+      "topic": "Change Management and Team Resistance",
+      "domain": 1,
+      "source_id": "yt_001",
+      "chunk_index": 19,
+      "video_segment": "4:46:50→5:01:58"
+    },
+    {
+      "question": "Launching a project to introduce a new healthcare system across multiple clinics, the project manager realizes that there are discrepancies between the project scope and the latest data protection regulations. While the project's leadership team advises proceeding as planned, anticipating that these discrepancies will be dissolved in due time, the project manager is concerned about potential compliance issues. What is the most appropriate initial step for the project manager?",
+      "options": [
+        "A. Conduct an in-depth analysis of the healthcare data protection regulations and outline a detailed compliance plan",
+        "B. Initiate a risk assessment session to evaluate the impact of potential non-compliance on the project",
+        "C. Arrange a consultation with a legal expert in healthcare data protection to advise on compliance strategies",
+        "D. Redesign the project scope to include only those elements currently in compliance with existing regulations"
+      ],
+      "answer": "A",
+      "explanation": "The most appropriate initial step is to conduct an in-depth analysis of the regulations first. Option A is the best answer because before conducting risk assessment (B) or seeking external legal consultation (C), the project manager must understand what the actual compliance requirements are. By performing a thorough analysis and developing a compliance plan, the manager will simultaneously address the risk assessment inherent in that process. Option D is inappropriate because changing scope requires formal change control procedures and stakeholder approval, and the PM should not unilaterally redesign scope. Option C should only be pursued after internal analysis reveals that external expertise is necessary.",
+      "difficulty": "expert",
+      "topic": "Compliance and Risk Management",
+      "domain": 2,
+      "source_id": "yt_001",
+      "chunk_index": 19,
+      "video_segment": "4:46:50→5:01:58"
+    },
+    {
+      "question": "At the beginning of a green building project, the project manager is tasked by the lead architect to engage a key supplier known for their sustainable materials. However, the supplier is reluctant to collaborate, believing the project's environmental goals do not align with their business model. What action should the project manager take to encourage supplier participation?",
+      "options": [
+        "A. Propose a trial period for the supplier to assess the project's commitment to sustainability",
+        "B. Refer the matter to the lead architect, suggesting the need for higher level negotiations",
+        "C. Initiate a campaign to highlight the project's sustainability achievements and future plans",
+        "D. Conduct a detailed presentation for the supplier outlining the environmental impact and mutual benefits"
+      ],
+      "answer": "D",
+      "explanation": "The supplier's concern is that the project's environmental goals do not align with their business model. Option D directly addresses this concern by presenting how the project aligns with their values and what mutual benefits they will gain. Option A proposes a trial without addressing their core concern about alignment. Option B escalates prematurely without attempting internal resolution first. Option C highlights project achievements but doesn't demonstrate relevance to the supplier's business model. The key is to show the supplier, through a detailed presentation, that their participation benefits both parties and aligns with their values.",
+      "difficulty": "expert",
+      "topic": "Stakeholder Engagement and Supplier Management",
+      "domain": 1,
+      "source_id": "yt_001",
+      "chunk_index": 19,
+      "video_segment": "4:46:50→5:01:58"
+    },
+    {
+      "question": "Following a directive to enhance operational efficiency within a multinational corporation, the executive team has requested an update on the progress and remaining tasks for all ongoing agile projects. What methodology should the project manager employ to accurately convey this information?",
+      "options": [
+        "A. Time tracking analysis",
+        "B. Resource allocation report",
+        "C. Progress milestone review",
+        "D. Sprint burnup chart"
+      ],
+      "answer": "D",
+      "explanation": "A sprint burnup chart is the appropriate agile methodology to show remaining work on ongoing projects. It visually represents work completed versus work remaining, which directly answers the executive team's request for progress and remaining tasks. Burnup and burndown charts are exclusive to agile methodologies. Time tracking analysis (A) and resource allocation reports (B) are more traditional project management tools. Progress milestone reviews (C) provide status but don't show the granular level of remaining work that a burnup chart displays.",
+      "difficulty": "expert",
+      "topic": "Agile Metrics and Reporting",
+      "domain": 2,
+      "source_id": "yt_001",
+      "chunk_index": 19,
+      "video_segment": "4:46:50→5:01:58"
+    },
+    {
+      "question": "During a complex software development project, the project manager notes that several technical and operational challenges are arising due to conflicting requirements from various stakeholders. What is the most efficient strategy for the manager to facilitate project advancement?",
+      "options": [
+        "A. Initiate a stakeholder analysis to better understand conflicting interests and address them systematically",
+        "B. Assign team leaders to negotiate solutions for each conflicting requirement directly with the stakeholders",
+        "C. Update the project communication plan to include more frequent stakeholder engagement sessions",
+        "D. Directly negotiate and reconcile the conflicting requirements to streamline project execution"
+      ],
+      "answer": "D",
+      "explanation": "The question asks for the most efficient strategy to facilitate project advancement, meaning to fix or resolve the problem. Option D provides a concrete solution by directly negotiating and reconciling the conflicts, which removes the obstacle to progress. Option A analyzes and understands conflicts but doesn't resolve them. Option B delegates negotiation to team leaders without PM involvement, diluting authority. Option C improves communication but doesn't actually solve the conflicting requirements. When a question asks how to fix a problem or facilitate advancement, the answer must be action-oriented and solution-focused, not analytical or preparatory.",
+      "difficulty": "expert",
+      "topic": "Conflict Resolution and Stakeholder Management",
+      "domain": 1,
+      "source_id": "yt_001",
+      "chunk_index": 19,
+      "video_segment": "4:46:50→5:01:58"
+    }
+  ]
+}

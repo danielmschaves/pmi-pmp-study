@@ -1,0 +1,94 @@
+{
+  "source_id": "yt_002",
+  "chunk_index": 25,
+  "start_label": "6:17:48",
+  "end_label": "6:32:55",
+  "mode": "extract",
+  "questions": [
+    {
+      "question": "An organization is used to following the scrum framework where sprints are four weeks long. One day the organization's chief technology officer (CTO) approached the scrum master and argued that a 4-week sprint is too long and it would be better to reduce it to 2 weeks. Convinced by the CTO's suggestion, how could the scrum master make this change?",
+      "options": [
+        "A. Announce to the entire scrum team that the CTO, who has formal power, has decided that the sprint should only last 2 weeks",
+        "B. Let the product owner and the team members know about the intention to reduce the sprint length and involve them in the decision",
+        "C. Inform the team of the sprint length change during the sprint retrospective and provide them with arguments",
+        "D. Engage an agile coach to assist in this transition since having someone external to the team will most likely reduce any resistance"
+      ],
+      "answer": "B",
+      "explanation": "The correct answer is B because the scrum master needs to involve the entire team and those impacted when tailoring a process. The CTO only made a suggestion, not a formal directive, so option A incorrectly assumes formal power. Option C is unilateral decision-making without team consultation. Option D inappropriately relies on external imposition rather than team involvement. Process changes in Scrum require collaborative decision-making with the product owner and development team.",
+      "difficulty": "hard",
+      "topic": "Scrum Master Responsibilities and Process Tailoring",
+      "domain": 2,
+      "source_id": "yt_002",
+      "chunk_index": 25,
+      "video_segment": "6:17:48→6:32:55"
+    },
+    {
+      "question": "The project manager is in charge of an educational project. After analyzing the power level of each of the project's stakeholders, the project manager finds out that Monica and Marcus have high power while Ravi and Sergio have low power. Using a stakeholder engagement assessment matrix, the project manager determines that Monica is neutral and Marcus is unaware. Based on this analysis, which stakeholder should be prioritized in terms of engagement?",
+      "options": [
+        "A. Monica",
+        "B. Marcus",
+        "C. Ravi",
+        "D. Sergio"
+      ],
+      "answer": "B",
+      "explanation": "The correct answer is B. Priority in engagement should be given to stakeholders with high levels of power. Marcus, who is both high power and unaware, is more dangerous than Monica, who is neutral. An unaware stakeholder with high power can cause significant trouble later in the project when they become aware. Early engagement and communication with unaware high-power stakeholders is critical to prevent late-stage project disruption. Low-power stakeholders (Ravi and Sergio) are not priorities for engagement.",
+      "difficulty": "hard",
+      "topic": "Stakeholder Engagement and Analysis",
+      "domain": 1,
+      "source_id": "yt_002",
+      "chunk_index": 25,
+      "video_segment": "6:17:48→6:32:55"
+    },
+    {
+      "question": "A project manager developed the work breakdown structure by decomposing the work into three levels. The supportive PMO points out that three levels are not enough and recommends breaking down the project into five levels. What should the project manager do?",
+      "options": [
+        "A. Take into consideration the PMO's recommendation and decompose work as needed",
+        "B. Establish common ground by decomposing the WBS into four levels instead",
+        "C. Since the PMO has a high level of control, follow the recommendation without question",
+        "D. Since the PMO has a low level of control, ignore the recommendation"
+      ],
+      "answer": "A",
+      "explanation": "The correct answer is A. A supportive PMO provides guidance, expertise, and recommendations without imposing control. The project manager should consider the PMO's recommendation and decompose the work as needed based on the project's size, complexity, and level of control required. There is no standard or predefined number of WBS decomposition levels. Option B inappropriately assumes compromise is necessary. Option C is incorrect because a supportive PMO does not have high control. Option D incorrectly suggests ignoring valuable recommendations. The project manager retains decision-making authority while considering PMO guidance.",
+      "difficulty": "hard",
+      "topic": "Work Breakdown Structure Development",
+      "domain": 2,
+      "source_id": "yt_002",
+      "chunk_index": 25,
+      "video_segment": "6:17:48→6:32:55"
+    },
+    {
+      "question": "A project manager is assigned to lead a project to construct a building extension within the organization. The project team has meticulously planned the project scope, schedule, and cost. The project is funded and about to start when an executive from another department asks the project manager to formally assist him in delivering a website as part of their rebranding project. What should the project manager do next?",
+      "options": [
+        "A. Explain to the executive that the website work is out of the project's scope because you are working on a construction project",
+        "B. Review the impact of the new task on the project schedule and cost",
+        "C. Ask the executive to submit a change request for the added scope",
+        "D. Assign a team member to help the executive create the website"
+      ],
+      "answer": "A",
+      "explanation": "The correct answer is A. The website development and building construction are two completely different projects. The project manager should clearly explain that the website work is out of the construction project's scope. Option B and C incorrectly treat the website as an added scope to the construction project. Option D is particularly problematic because it inappropriately uses project resources for work outside the project scope, which can have negative consequences even after project completion. Project resources and team members should only be used for work within the defined project scope.",
+      "difficulty": "hard",
+      "topic": "Scope Management and Boundary Definition",
+      "domain": 2,
+      "source_id": "yt_002",
+      "chunk_index": 25,
+      "video_segment": "6:17:48→6:32:55"
+    },
+    {
+      "question": "During a retrospective meeting, some agile team members stated that it sometimes gets confusing to check who is working on each work item and at what stage they are. What can the project manager do to solve this problem?",
+      "options": [
+        "A. Coach the team on how to be more attentive during the daily stand-up meeting",
+        "B. Guide the team on how to use the kanban board and update it regularly",
+        "C. Ask team members to memorize the status of all tasks",
+        "D. Implement a new project management software without team input"
+      ],
+      "answer": "B",
+      "explanation": "The correct answer is B. Using a kanban board with proper updates is the most effective solution for tracking work items and their status. A kanban board visually displays tasks in columns (to-do, in progress, testing, done) and shows who is working on each item, making it easy to track progress. Option A is ineffective because relying on team members to memorize all task statuses is impractical. Option C is unrealistic for large numbers of work items. Option D bypasses team collaboration and feedback. The kanban board is a visual management tool that provides real-time transparency into work item status and assignments.",
+      "difficulty": "hard",
+      "topic": "Agile Visual Management and Work Item Tracking",
+      "domain": 2,
+      "source_id": "yt_002",
+      "chunk_index": 25,
+      "video_segment": "6:17:48→6:32:55"
+    }
+  ]
+}

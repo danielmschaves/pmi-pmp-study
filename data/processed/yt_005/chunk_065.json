@@ -1,0 +1,77 @@
+{
+  "source_id": "yt_005",
+  "chunk_index": 65,
+  "start_label": "10:56:28",
+  "end_label": "11:06:37",
+  "mode": "extract",
+  "questions": [
+    {
+      "question": "Your project management office has no prescribed way of work so they're working with a vendor who supplies an extreme programming framework at a significant cost. However, projects are still running behind schedule, over budget, and with low customer satisfaction. What should you do next?",
+      "options": [
+        "A. Tailor the approach to suit the organization operating environment and project needs",
+        "B. Use a waterfall approach instead to ensure the proper planning",
+        "C. Switch to scrum instead as it's a more popular framework",
+        "D. Tighten the controls around the project environment with a more directive PMO approach"
+      ],
+      "answer": "A",
+      "explanation": "Tailoring is performed to better suit the organization operating environment and project needs. Projects operate in complex environments that need to balance competing demands. Simply switching frameworks or tightening controls without addressing the underlying fit between the framework and the organization's context will not solve the problem.",
+      "difficulty": "expert",
+      "topic": "Tailoring and Framework Selection",
+      "domain": 3,
+      "source_id": "yt_005",
+      "chunk_index": 65,
+      "video_segment": "10:56:28→11:06:37"
+    },
+    {
+      "question": "Your project management office is in the middle of a companywide ways of working transformation. They have taken a popular project framework and are tailoring it to the organization with branded templates and processes that meet their existing governance requirements. You've been asked to help finalize the process. What will you do next?",
+      "options": [
+        "A. Gather feedback from the functional business areas to ensure the process meets their needs",
+        "B. Roll out the new way of working to the PMO as a pilot then to the rest of the organization",
+        "C. Enable a process for tailoring based on size and complexity and implement ongoing improvement",
+        "D. Form a working group comprised of executives and project professionals"
+      ],
+      "answer": "C",
+      "explanation": "The tailoring process follows these steps: select the initial development approach, tailor for the organization, tailor for the project, and implement ongoing improvement. Enabling a process for tailoring based on size and complexity with ongoing improvement captures the complete iterative nature of organizational transformation.",
+      "difficulty": "expert",
+      "topic": "Tailoring Process and Organizational Transformation",
+      "domain": 3,
+      "source_id": "yt_005",
+      "chunk_index": 65,
+      "video_segment": "10:56:28→11:06:37"
+    },
+    {
+      "question": "You're a manager of a PMO in a large organization which has recently undertaken a companywide way of working transformation. You need to select an initial development approach for your project which you will then tailor to suit your organization and project needs. What will you do next?",
+      "options": [
+        "A. Use a framework that best engages your executive team through easy to use graphics and presentations",
+        "B. Select the most popular current framework to keep up with what other organizations are doing",
+        "C. Select multiple development approaches as a baseline for your organization",
+        "D. Use a suitability filter to assess the most appropriate development approach"
+      ],
+      "answer": "D",
+      "explanation": "A suitability filter helps project teams consider whether a project has characteristics that lend themselves towards a predictive, hybrid, or adaptive approach. This allows you to select one as a base and then enable the ability to tailor to your project or organization's circumstances. Relying on graphics, popularity, or multiple frameworks without a structured assessment will not result in the best fit for your organization.",
+      "difficulty": "expert",
+      "topic": "Selecting Initial Development Approach",
+      "domain": 3,
+      "source_id": "yt_005",
+      "chunk_index": 65,
+      "video_segment": "10:56:28→11:06:37"
+    },
+    {
+      "question": "Your organization is starting to move to an agile way of work and they're setting up a value delivery office (VDO) to complement the existing PMO. The executives in the area have begun working through what the function looks like and the roles and responsibilities that might exist. They approach you for help. What will you tell them about the VDO's primary focus?",
+      "options": [
+        "A. The VDO is responsible for the value delivered and owns the programs within the organization",
+        "B. The VDO focuses on coaching, building adaptive skills, growing team capabilities, and mentoring sponsors and product owners",
+        "C. The VDO is responsible for allocating agile resources such as scrum masters and product owners effectively to project teams",
+        "D. The VDO creates the organizational framework to be used on each project throughout the company"
+      ],
+      "answer": "B",
+      "explanation": "In an agile environment, a value delivery office focuses on coaching, facilitation, and mentoring rather than directing. It builds adaptive skills, grows team capabilities, and mentors sponsors and product owners to be more effective. This coaching and enabling approach is distinct from the more directive PMO functions described in the other options.",
+      "difficulty": "expert",
+      "topic": "Agile Organizational Roles and Value Delivery",
+      "domain": 1,
+      "source_id": "yt_005",
+      "chunk_index": 65,
+      "video_segment": "10:56:28→11:06:37"
+    }
+  ]
+}

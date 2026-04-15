@@ -1,0 +1,77 @@
+{
+  "source_id": "yt_002",
+  "chunk_index": 22,
+  "start_label": "5:32:30",
+  "end_label": "5:47:38",
+  "mode": "extract",
+  "questions": [
+    {
+      "question": "A project manager must assign a complex task to one of the team members. The project manager had to choose between two members who were both equally capable of fulfilling the task. However, the project manager had a closer relationship with one of them than the other. What should the project manager do in this case?",
+      "options": [
+        "A. Disclose the situation to the appropriate stakeholders and solicit a joint decision",
+        "B. Choose the one that the project manager has a closer relationship with since that type of trust can benefit the project",
+        "C. Choose the member the project manager is not close to in order to avoid misunderstanding",
+        "D. Ask a third team member to take the decision in order to avoid a conflict of interest"
+      ],
+      "answer": "A",
+      "explanation": "According to the PMI code of ethics under the fairness chapter, a project manager should disclose any potential or real conflict of interest to stakeholders. Choosing based on the closer relationship could constitute a conflict of interest. Avoiding the closer person or delegating to a third party are not appropriate solutions.",
+      "difficulty": "hard",
+      "topic": "Conflict of Interest and Ethics",
+      "domain": 1,
+      "source_id": "yt_002",
+      "chunk_index": 22,
+      "video_segment": "5:32:30→5:47:38"
+    },
+    {
+      "question": "While reviewing the latest report of the project team's performance, a project manager notices a major drop in their output. What should the project manager do to raise the team's productivity?",
+      "options": [
+        "A. Increase the pressure on each team member",
+        "B. Conduct daily performance reviews to keep the team focused and motivated",
+        "C. Offer a special reward for the best performing team members",
+        "D. Improve and promote trust and cohesiveness among team members"
+      ],
+      "answer": "D",
+      "explanation": "Improving trust and cohesiveness among team members enhances productivity. Increasing pressure has negative connotations, daily performance reviews are impractical and waste time, and offering rewards only to top performers creates envy and a zero-sum environment that damages team morale.",
+      "difficulty": "hard",
+      "topic": "Team Motivation and Performance",
+      "domain": 1,
+      "source_id": "yt_002",
+      "chunk_index": 22,
+      "video_segment": "5:32:30→5:47:38"
+    },
+    {
+      "question": "A project manager is leading a software development project using an agile framework. In the current iteration, the team encounters a technical challenge related to integrating a third-party API into the system. To address this challenge, the team decided to allocate time for a spike to look into the issue. Based on the iteration burndown chart, at which period of the iteration did the team take the spike?",
+      "options": [
+        "A. Period A",
+        "B. Period B",
+        "C. Period C",
+        "D. Period D"
+      ],
+      "answer": "B",
+      "explanation": "A spike is a timeboxed activity aimed at addressing technical challenges or mitigating risks. During a spike, the team focuses on research and investigation rather than progressing on deliverables. On the burndown chart, period B shows no progress, indicating the team is working on the spike rather than completing story points.",
+      "difficulty": "hard",
+      "topic": "Agile and Scrum Practices",
+      "domain": 2,
+      "source_id": "yt_002",
+      "chunk_index": 22,
+      "video_segment": "5:32:30→5:47:38"
+    },
+    {
+      "question": "A project manager is leading the development of a new software project. The project manager wants to adopt an approach that produces key deliverables at various stages of the project. What should the project manager do?",
+      "options": [
+        "A. Create a detailed project schedule with key milestones to track progress against the plan",
+        "B. Deliver incremental results that can be added to the subsequent results",
+        "C. Organize frequent review meetings with project stakeholders to gather feedback and adjust project direction",
+        "D. Adopt an iterative approach to deliver the highest business value earlier"
+      ],
+      "answer": "B",
+      "explanation": "Delivering partial results at various intervals refers to the incremental approach, which produces multiple deliverables at different stages that build upon each other. The predictive approach focuses on milestones but not multiple deliverables. The iterative approach emphasizes correctness through iterations with feedback, but the incremental approach is specifically designed to deliver value through multiple intermediate deliverables.",
+      "difficulty": "hard",
+      "topic": "Incremental and Iterative Delivery",
+      "domain": 2,
+      "source_id": "yt_002",
+      "chunk_index": 22,
+      "video_segment": "5:32:30→5:47:38"
+    }
+  ]
+}

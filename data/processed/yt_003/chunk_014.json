@@ -1,0 +1,94 @@
+{
+  "source_id": "yt_003",
+  "chunk_index": 14,
+  "start_label": "3:31:24",
+  "end_label": "3:46:32",
+  "mode": "extract",
+  "questions": [
+    {
+      "question": "You have been working on a project for the past 8 months. Your project team has been approached by multiple stakeholders for reporting on various performance measures about the project and the product area. A large amount of their time is spent on creating these reports for others, and they have escalated this issue to you. What will you do next?",
+      "options": [
+        "A. Ask the project stakeholders to stop interacting with your team",
+        "B. Spend a portion of your project budget to automate the reports for your stakeholders",
+        "C. Work with the team including the stakeholders to only measure things that will facilitate a decision, help avoid an issue, or increase project performance",
+        "D. Invite your stakeholders to your Sprint reviews so they can see a working feature in practice"
+      ],
+      "answer": "C",
+      "explanation": "The best answer is C because it addresses the root cause by ensuring that only meaningful measurements are collected and reported—those that facilitate decisions, help avoid issues, or improve performance. This approach maintains stakeholder engagement and collaboration while reducing unnecessary reporting burden. Answers A, B, and D may provide some relief but don't solve the core issue of measuring only what matters.",
+      "difficulty": "hard",
+      "topic": "Measurement and Reporting, Team Capacity Management",
+      "domain": 1,
+      "source_id": "yt_003",
+      "chunk_index": 14,
+      "video_segment": "3:31:24→3:46:32"
+    },
+    {
+      "question": "You are working on a project where there is a significant amount of uncertainty about the requirements. There is also a legislative change coming and no one knows what it will mean for your industry. As a project manager, how do you deal with this uncertainty?",
+      "options": [
+        "A. Perform additional planning for your project to improve your view on scope management",
+        "B. Hold additional retrospectives to capture challenges and improvements from your team",
+        "C. Create a risk assessment of all possible project risks with their risk ratings and owners",
+        "D. Gather information and prepare for multiple outcomes and build team resilience through processes and training"
+      ],
+      "answer": "D",
+      "explanation": "The best answer is D because it comprehensively addresses uncertainty by gathering information to reduce unknowns, preparing for multiple possible outcomes, and building team resilience so team members can effectively work through uncertain conditions. This approach tackles uncertainty from multiple angles. While C addresses risk, it doesn't fully address the broader uncertainty and team resilience aspects that are critical when dealing with general uncertainty.",
+      "difficulty": "hard",
+      "topic": "Uncertainty Management, Team Resilience",
+      "domain": 1,
+      "source_id": "yt_003",
+      "chunk_index": 14,
+      "video_segment": "3:31:24→3:46:32"
+    },
+    {
+      "question": "You are working on a project with a vendor where there is significant ambiguity involved. Multiple options are possible that have varying degrees of impact. How will you improve the situation?",
+      "options": [
+        "A. Use experiments and prototypes and Progressive elaboration to work your way through it",
+        "B. Ask your team for additional reporting around different options so you can make an informed decision",
+        "C. Add all the different options into your project scope so all your bases are covered",
+        "D. Work more closely with your senior users so they can inform you of the product requirements"
+      ],
+      "answer": "A",
+      "explanation": "The best answer is A because it directly addresses situational ambiguity by using Progressive elaboration and prototypes to work through multiple outcomes iteratively, gathering feedback and refining understanding as you go. This approach allows the team to explore different options in a controlled way rather than committing to all options or simply gathering more information. Experiments and prototypes reduce ambiguity through practical testing.",
+      "difficulty": "hard",
+      "topic": "Ambiguity Management, Progressive Elaboration",
+      "domain": 2,
+      "source_id": "yt_003",
+      "chunk_index": 14,
+      "video_segment": "3:31:24→3:46:32"
+    },
+    {
+      "question": "You are working on a project to improve software that has been in production for over 17 years and has been modified extensively over that time. It also integrates with many other systems within your organization. You cannot decide which features to deliver first. How will you deal with the complexity?",
+      "options": [
+        "A. List out the possible features you can deliver and prioritize them by cost over benefit",
+        "B. Simulate decoupling connecting parts to simplify the number of variables",
+        "C. Reframe your view by brainstorming with a diverse set of stakeholders",
+        "D. Provide an incentive for your project team for whoever can solve this complex problem"
+      ],
+      "answer": "B",
+      "explanation": "The best answer is B because simulation of decoupling allows you to reduce complexity by examining what happens when you separate interconnected systems, without physically implementing changes. This systems-based approach helps identify which dependencies are critical and which can be managed separately. While A, C, and D have merit, they don't directly address the systemic complexity caused by numerous interconnections.",
+      "difficulty": "hard",
+      "topic": "Complexity Management, Systems Thinking",
+      "domain": 2,
+      "source_id": "yt_003",
+      "chunk_index": 14,
+      "video_segment": "3:31:24→3:46:32"
+    },
+    {
+      "question": "You are working on a project that requires a very particular programming skill set that is not very common. It is also a very hot job market and the industry has seen in two decades, skilled people are hard to come by and they leave often. The programming language is also evolving at a quick pace. What will you do next?",
+      "options": [
+        "A. Develop the product from scratch in a more common programming language",
+        "B. Ask your whole team to learn the programming skill set to cover the risk",
+        "C. Use alternatives analysis and ensure a sufficient cost reserve to help complete your project",
+        "D. Raise a risk to your project completion with the threat of project team member skill sets"
+      ],
+      "answer": "C",
+      "explanation": "The best answer is C because it addresses volatility through a pragmatic, mature approach by exploring alternative options and maintaining a cost reserve for contingencies. This dual strategy prepares the project for multiple possible scenarios—such as team member turnover or skill gaps—while keeping flexibility and resources available. While D is also good practice, C provides a more comprehensive response to the volatile conditions described.",
+      "difficulty": "hard",
+      "topic": "Volatility Management, Risk Reserve Planning",
+      "domain": 2,
+      "source_id": "yt_003",
+      "chunk_index": 14,
+      "video_segment": "3:31:24→3:46:32"
+    }
+  ]
+}

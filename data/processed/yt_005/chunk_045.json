@@ -1,0 +1,60 @@
+{
+  "source_id": "yt_005",
+  "chunk_index": 45,
+  "start_label": "7:34:34",
+  "end_label": "7:44:40",
+  "mode": "extract",
+  "questions": [
+    {
+      "question": "You are analyzing your stakeholders through an impact over influence chart and have found more than 100 different groups of people and over 3,000 impacted stakeholders. Other parts of your project are starting to fall behind as you try to keep up with a large amount of people. What will you do next?",
+      "options": [
+        "A. Ask your project team to engage different groups of stakeholders so everyone is covered",
+        "B. Clearly prioritize the stakeholders",
+        "C. Engage and communicate with the highly impacted and influential groups early and often",
+        "D. Create a SharePoint page for the changes that any stakeholder can gather information from anytime"
+      ],
+      "answer": "B",
+      "explanation": "When faced with an overwhelming number of stakeholders (over 100 groups and 3,000 impacted stakeholders), prioritization is the key strategy. While engagement, communication, and information sharing are all important components of stakeholder management, the root issue is that resources are stretched thin trying to manage everyone equally. Prioritization using impact and influence allows the project manager to focus efforts on the stakeholders who matter most, freeing up resources and preventing project delays. Stakeholder engagement includes identifying, understanding, analyzing, prioritizing, engaging, and monitoring stakeholders. Impact and influence are two primary ways to prioritize stakeholders.",
+      "difficulty": "expert",
+      "topic": "Stakeholder Engagement and Prioritization",
+      "domain": 1,
+      "source_id": "yt_005",
+      "chunk_index": 45,
+      "video_segment": "7:34:34→7:44:40"
+    },
+    {
+      "question": "You are managing a project which communicates to the customer using mostly pull communication so far. When monitoring the engagement of your stakeholders, you notice that they are not clear on the impacts or benefits of the project. You decide to add push communication to your communication plan. What will you do next?",
+      "options": [
+        "A. Create a web page using SharePoint with all the project information that your stakeholders can see",
+        "B. Push more funding for your project and communicate this to the project sponsor",
+        "C. Push your stakeholders to engage in more two-way communication",
+        "D. Send a weekly email to stakeholders with a project update including the impacts and benefits"
+      ],
+      "answer": "D",
+      "explanation": "Push communication involves sending information directly to stakeholders using memos, emails, status reports, voicemail, and similar methods. Pull communication, by contrast, is information that stakeholders can access at their own discretion from sources like bulletin boards, web pages, or whiteboards. Since stakeholders are unclear on project impacts and benefits and pull communication alone has not been effective, adding push communication through weekly emails with this specific information addresses the gap. This is an active, direct method of ensuring stakeholders receive critical project information rather than relying on them to seek it out.",
+      "difficulty": "expert",
+      "topic": "Communication Methods and Stakeholder Engagement",
+      "domain": 1,
+      "source_id": "yt_005",
+      "chunk_index": 45,
+      "video_segment": "7:34:34→7:44:40"
+    },
+    {
+      "question": "You have taken over a project with a vendor where scope and requirements have been missed. You notice that miscommunication and mixed messages are common. You set a meeting with your team and the vendor team. The meeting is extremely important to get right. What will you do next?",
+      "options": [
+        "A. Speak slowly and clearly with the vendor team at a louder volume if necessary",
+        "B. Confirm they hear your message, determine if they agree, and identify nuanced or unintended messages that they may have received",
+        "C. Only communicate with the vendor in writing so you have a trail of proof if anything goes wrong in the future",
+        "D. Prepare a claim for the mishandled scope of your project through the procurement team"
+      ],
+      "answer": "B",
+      "explanation": "Effective communication requires feedback loops and verification. Simply speaking louder does not improve comprehension. Writing-only communication removes critical non-verbal elements (body language, tonality, visual cues) that account for a significant portion of communication meaning, making misinterpretation more likely. Preparing a claim prematurely bypasses the opportunity to resolve the issue through communication. The correct approach is to establish a two-way dialogue where you confirm the vendor team has heard your message, determine if they actually agree, and identify any nuanced or unintended messages they may have received. This active listening and feedback approach prevents further miscommunication and addresses the root cause of the scope and requirements gaps.",
+      "difficulty": "expert",
+      "topic": "Communication Effectiveness and Feedback Loops",
+      "domain": 1,
+      "source_id": "yt_005",
+      "chunk_index": 45,
+      "video_segment": "7:34:34→7:44:40"
+    }
+  ]
+}

@@ -1,0 +1,77 @@
+{
+  "source_id": "yt_005",
+  "chunk_index": 69,
+  "start_label": "11:36:57",
+  "end_label": "11:47:03",
+  "mode": "extract",
+  "questions": [
+    {
+      "question": "You have been asked to initiate a project to deliver a new system. The requirements are not clear and it will take some time to uncover them. The system has been used by some team members but not all and it has a medium level of uncertainty around it. How are you going to approach this project?",
+      "options": [
+        "A. Release small usable features and improve your approach based on feedback",
+        "B. Do additional planning up front to ensure every component is thought of",
+        "C. Split the team into two and work on different parts of the system to simplify it",
+        "D. Form a business case for starting from scratch with new easier-to-use technology"
+      ],
+      "answer": "A",
+      "explanation": "When requirements are unclear and there is medium uncertainty, agile methodologies work best. Releasing small usable features allows teams to work through uncertainty and make requirements clearer through feedback. This aligns with the Stacy Matrix, which shows that agile methodologies work best in complicated and complex environments. Additional upfront planning (B) will not help resolve the inherent uncertainty. Splitting teams (C) reduces collaboration when it is needed most. Starting from scratch (D) is not practical and delays value delivery.",
+      "difficulty": "expert",
+      "topic": "Agile and Stacy Matrix",
+      "domain": 2,
+      "source_id": "yt_005",
+      "chunk_index": 69,
+      "video_segment": "11:36:57→11:47:03"
+    },
+    {
+      "question": "Your project team came together from different parts of the organization and were introduced formally to each other. You notice that there is some conflict in the team. Some people do not respect others' decisions and are not working together well, and there are some personality clashes within the team. What should you do next?",
+      "options": [
+        "A. Help team members get to know each other and their names",
+        "B. Help the team understand their roles and responsibilities and form a regular rhythm of meetings, collaboration, and work",
+        "C. Help the team jockey for position within the team and foster healthy conflict",
+        "D. Help the team complete project work and disperse onto other things"
+      ],
+      "answer": "B",
+      "explanation": "This scenario describes the storming stage of the Tuckman ladder, where conflict and difficulty in working together emerge. The appropriate intervention is to help the team understand their roles and responsibilities and establish a regular rhythm so they can move to the norming stage. Option A is premature since introductions have already occurred. Option C suggests fostering unhealthy competition rather than resolution. Option D is appropriate only after the project is complete. The key is to move the team from storming to norming.",
+      "difficulty": "expert",
+      "topic": "Tuckman Ladder - Team Development Stages",
+      "domain": 1,
+      "source_id": "yt_005",
+      "chunk_index": 69,
+      "video_segment": "11:36:57→11:47:03"
+    },
+    {
+      "question": "You have formed a new project team and have worked through the purpose and mission of the project with them. You have expanded on who is on the project team and the skills and abilities each person brings. You would like to foster a high performing culture and ensure the team is able to deliver as soon as possible. What are you going to do next?",
+      "options": [
+        "A. Work through changes on the project team and the projects such as deliverables and stakeholders",
+        "B. Decompose the high level plan into greater detail including a detailed schedule or backlog",
+        "C. Define a plan to achieve the project goals including milestone schedules, release plans, and high level budgets",
+        "D. Clarify the goals of the team and what you are here to deliver"
+      ],
+      "answer": "D",
+      "explanation": "This scenario follows the Drexler Sibbet team performance model. After orientation (why and who), the next step is goal clarification (what), which clarifies the goals of the team and what they are here to deliver. Only after goal clarification comes commitment and the detailed planning phases. Option B (decompose into backlog) and Option C (define plan) occur after goal clarification. Option A is premature. The correct sequence is: orientation → trust building → goal clarification → commitment → implementation → high performance → renewal.",
+      "difficulty": "expert",
+      "topic": "Drexler Sibbet Team Performance Model",
+      "domain": 1,
+      "source_id": "yt_005",
+      "chunk_index": 69,
+      "video_segment": "11:36:57→11:47:03"
+    },
+    {
+      "question": "Your team members have raised an issue as they believe the current project scope will not reach the intended project goal of increasing customer attention. You take their concerns to the project sponsor who controls the funding and resources. The sponsor dismisses them and directs you to proceed with the scope currently set. What will you do next?",
+      "options": [
+        "A. Problem solve with the sponsor and find a resolution",
+        "B. Compromise with the sponsor so each party gets a little bit of what they want",
+        "C. Accommodate the sponsor to maintain harmony and goodwill",
+        "D. Force the issue so the sponsor accepts the change"
+      ],
+      "answer": "C",
+      "explanation": "This scenario involves conflict resolution between the project manager and the sponsor. According to the Thomas-Kilman conflict resolution model, different approaches are appropriate depending on the situation. Accommodating (C) is appropriate here because the sponsor controls funding and resources and is the ultimate decision-maker for project direction. While problem-solving (A) and compromising (B) are generally valuable approaches, they are less appropriate when the other party has formal authority. Forcing (D) is a win-lose approach that damages the relationship with the sponsor and can harm the project manager's career. Accommodation is a reasonable choice given the sponsor's authority and the importance of maintaining the relationship.",
+      "difficulty": "expert",
+      "topic": "Conflict Resolution - Thomas-Kilman Model",
+      "domain": 1,
+      "source_id": "yt_005",
+      "chunk_index": 69,
+      "video_segment": "11:36:57→11:47:03"
+    }
+  ]
+}

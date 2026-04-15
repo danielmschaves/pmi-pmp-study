@@ -1,0 +1,94 @@
+{
+  "source_id": "yt_002",
+  "chunk_index": 14,
+  "start_label": "3:31:36",
+  "end_label": "3:46:44",
+  "mode": "extract",
+  "questions": [
+    {
+      "question": "3 months into project execution, the sponsor gets into a financial crisis and asks the project manager to immediately end the project. What should the project manager do?",
+      "options": [
+        "A. Try to persuade the sponsor to complete the project",
+        "B. Talk to the management about the situation",
+        "C. Start the close procurement process",
+        "D. Start the close project process"
+      ],
+      "answer": "D",
+      "explanation": "When a project is closed or terminated for any reason, the project manager should start the close project process, which is comprehensive and includes closing procurements, releasing resources, conducting lessons learned, and documenting all project-related items. While talking to management (B) and closing procurement (C) are part of the overall closure, option D encompasses all necessary closure activities.",
+      "difficulty": "hard",
+      "topic": "Project Closure and Contract Closure",
+      "domain": 2,
+      "source_id": "yt_002",
+      "chunk_index": 14,
+      "video_segment": "3:31:36→3:46:44"
+    },
+    {
+      "question": "While examining their project progress, a project manager finds out that the scheduled variance is $0. Which of the following statements is true about this project?",
+      "options": [
+        "A. The project's CPI equals 1",
+        "B. The project's earned value equals its planned value",
+        "C. The project's cost variance is $0",
+        "D. The project's estimate at completion equals its budget at completion"
+      ],
+      "answer": "B",
+      "explanation": "Schedule variance is calculated as Earned Value minus Planned Value. Since the schedule variance equals $0, this means Earned Value equals Planned Value, indicating the project is on track. CPI (Cost Performance Index) relates to cost, not schedule variance. Cost variance and estimate at completion cannot be determined from schedule variance alone.",
+      "difficulty": "hard",
+      "topic": "Earned Value Management",
+      "domain": 2,
+      "source_id": "yt_002",
+      "chunk_index": 14,
+      "video_segment": "3:31:36→3:46:44"
+    },
+    {
+      "question": "A project manager is leading a project using a hybrid approach. Shortly after acquiring the resources, the project manager discovers that the team members are politically very engaged. Almost all of their meetings end with a political dispute between team members. The project manager has decided to put an end to this before it deteriorates team members' relationships by prohibiting any political discussions. Where should the project manager note this rule?",
+      "options": [
+        "A. Team charter",
+        "B. Project charter",
+        "C. Resource charter",
+        "D. Resource management plan"
+      ],
+      "answer": "A",
+      "explanation": "The team charter is the appropriate document to include rules and guidelines on how team members should interact with each other. The project charter focuses on project objectives, key stakeholders, and budget. The resource management plan addresses resource management but not team interaction rules. Resource charter is not a standard PMP document.",
+      "difficulty": "hard",
+      "topic": "Team Development and Team Charter",
+      "domain": 1,
+      "source_id": "yt_002",
+      "chunk_index": 14,
+      "video_segment": "3:31:36→3:46:44"
+    },
+    {
+      "question": "A project manager is leading a team of engineers to perform a 2-year project. After a few months, the project manager notices that the team is becoming less interested in the project. What can the project manager do to maintain motivation?",
+      "options": [
+        "A. Offer a bonus at the end of the project",
+        "B. Offer an immediate salary raise",
+        "C. Align work assignments with the team members' personal ambitions",
+        "D. Align the project with the organization's goals"
+      ],
+      "answer": "C",
+      "explanation": "Aligning work assignments with team members' personal ambitions directly connects their tasks to their individual goals, which maintains long-term motivation throughout the 2-year project. A bonus at the end is too distant and may not sustain motivation throughout the project. A salary raise provides only short-term motivation boost. Aligning with organizational goals benefits the organization but may not address individual team member motivation.",
+      "difficulty": "hard",
+      "topic": "Team Motivation and Leadership",
+      "domain": 1,
+      "source_id": "yt_002",
+      "chunk_index": 14,
+      "video_segment": "3:31:36→3:46:44"
+    },
+    {
+      "question": "To build a web application, a project manager referred to a freelancing platform to hire a remote team composed of a designer, a front-end developer, and a backend developer. One week after becoming acquainted with each other, the conflicts dramatically intensified between the two developers to the point that the project manager decided to terminate their contract and they have been both replaced. What is the current development stage of the team?",
+      "options": [
+        "A. Norming",
+        "B. Storming",
+        "C. Performing",
+        "D. Forming"
+      ],
+      "answer": "D",
+      "explanation": "The team was initially in the forming stage when they became acquainted. After one week, they entered the storming stage with intense conflicts. When the two developers were replaced, the team returned to the forming stage because the new members and remaining members must go through the forming stage again as they become acquainted and establish relationships.",
+      "difficulty": "hard",
+      "topic": "Tuckman's Stages of Team Development",
+      "domain": 1,
+      "source_id": "yt_002",
+      "chunk_index": 14,
+      "video_segment": "3:31:36→3:46:44"
+    }
+  ]
+}

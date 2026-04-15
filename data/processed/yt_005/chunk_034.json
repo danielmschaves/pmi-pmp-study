@@ -1,0 +1,77 @@
+{
+  "source_id": "yt_005",
+  "chunk_index": 34,
+  "start_label": "5:43:29",
+  "end_label": "5:53:36",
+  "mode": "extract",
+  "questions": [
+    {
+      "question": "Your project team is gathering solution ideas for a particular customer requirement which is prioritized to be worked on next. The item is complicated and they have been trying to find a way forward for the past 3 weeks. There is not enough work for the upcoming Sprint. What should you do?",
+      "options": [
+        "A. Start work on the item in the next Sprint anyway and elaborate as the Sprint begins",
+        "B. Arrange the right people to elaborate the issue with a spike",
+        "C. Deprioritize the item until the team can figure out the issue",
+        "D. Adjust the project schedule to reflect the extra time taken on elaboration"
+      ],
+      "answer": "B",
+      "explanation": "A spike is a time-boxed research effort to resolve unclear or complicated requirements. By arranging the right people and time-boxing the spike to a short period (e.g., two days), the team can elaborate on the issue and prevent student syndrome while keeping the work flowing. This is better than starting work without clarity, deprioritizing a prioritized item, or simply adjusting the schedule without solving the underlying problem.",
+      "difficulty": "expert",
+      "topic": "Agile Requirements Elaboration and Spike Planning",
+      "domain": 2,
+      "source_id": "yt_005",
+      "chunk_index": 34,
+      "video_segment": "5:43:29→5:53:36"
+    },
+    {
+      "question": "Your project team has planned the requirements, scope, schedule, and cost for constructing a new building in your organization. An executive from another area approaches you as your project is funded and about to begin execution and asks if you can help them deliver a website as part of your work. What will you do next?",
+      "options": [
+        "A. Raise the request as an issue in your project's issue log",
+        "B. Add the website to your project scope and adjust your project scope, schedule, and cost",
+        "C. Raise a change request for the added scope and review the impact to your project schedule and cost",
+        "D. Offer to help them create a business case for the new idea and get funding for a new project"
+      ],
+      "answer": "D",
+      "explanation": "A website delivery is a fundamentally different project from building construction, requiring different skills, resources, funding, and outcomes. Rather than integrating it into the current project, the appropriate action is to help establish it as a separate initiative with its own business case, funding, and project charter. This prevents scope creep and ensures proper governance for what is essentially a distinct project.",
+      "difficulty": "expert",
+      "topic": "Scope Management and Project Boundaries",
+      "domain": 2,
+      "source_id": "yt_005",
+      "chunk_index": 34,
+      "video_segment": "5:43:29→5:53:36"
+    },
+    {
+      "question": "Your project team are gathering solution ideas for a particular customer requirement which is prioritized to be worked on next. The item is complicated and they have been trying to find a way forward for the past 3 weeks. There is not enough work for the upcoming Sprint. How should you address this situation?",
+      "options": [
+        "A. Start work on the item in the next Sprint anyway and elaborate as the Sprint begins",
+        "B. Arrange the right people to elaborate the issue with a spike timeboxed to two days",
+        "C. Deprioritize the item until the team can figure out the issue",
+        "D. Adjust the project schedule to reflect the extra time taken on elaboration"
+      ],
+      "answer": "B",
+      "explanation": "A spike is a short, time-boxed research activity used in Agile to resolve unclear or complex requirements. By assembling the right people and setting a fixed deadline (two days), you create urgency, prevent indefinite delays (student syndrome), and gather the information needed to properly estimate and include the work in an upcoming Sprint. This maintains workflow better than the alternatives.",
+      "difficulty": "expert",
+      "topic": "Agile Spike and Time-Boxing Techniques",
+      "domain": 2,
+      "source_id": "yt_005",
+      "chunk_index": 34,
+      "video_segment": "5:43:29→5:53:36"
+    },
+    {
+      "question": "You are working on an agile project and planning your product backlog for the next 3 to 6 months. You have high-level features or feature ideas from various parts of your organization including frontline staff, executives, and direct customer research. What will you do next?",
+      "options": [
+        "A. Break down each feature into epics, create user stories, and size the work with your team",
+        "B. Add all items into your product backlog and work on the ones from the managers first",
+        "C. Work with the requesters and your technical experts to create a business model canvas for each feature",
+        "D. Perform precedence diagramming on each feature"
+      ],
+      "answer": "C",
+      "explanation": "Creating a business model canvas for each feature with requesters and technical experts provides comprehensive information on benefits, costs, alignment with strategy, and effort on a single page. This information enables data-driven prioritization based on value and effort, rather than hierarchical bias. While breaking down features into epics (option A) is also valuable, the business model canvas approach better supports the initial planning phase for backlog prioritization.",
+      "difficulty": "expert",
+      "topic": "Agile Product Backlog Prioritization and Business Analysis",
+      "domain": 2,
+      "source_id": "yt_005",
+      "chunk_index": 34,
+      "video_segment": "5:43:29→5:53:36"
+    }
+  ]
+}

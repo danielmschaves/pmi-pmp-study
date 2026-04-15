@@ -1,0 +1,94 @@
+{
+  "source_id": "yt_001",
+  "chunk_index": 12,
+  "start_label": "3:01:10",
+  "end_label": "3:16:14",
+  "mode": "extract",
+  "questions": [
+    {
+      "question": "During the second sprint of a software development project, it is observed that one team member frequently dictates scrum meetings, leading to diminished input from other team members and hindering progress on tasks. Team dynamics are affected and there is a growing concern over the project's collaborative environment. What should you do?",
+      "options": [
+        "A. Implement an anonymous feedback system to collect opinions",
+        "B. Reassign the dominating team member to tasks that require less collaboration",
+        "C. Shift to written daily updates to reduce the opportunity for any single person to dominate discussions",
+        "D. Arrange a private conversation with the dominating team member to discuss their conduct's impact on team dynamics"
+      ],
+      "answer": "D",
+      "explanation": "When dealing with an individual behavioral problem on a project, address the person directly through a private conversation. The team member may not realize their behavior is problematic. Do not remove or reassign them without first attempting to resolve the issue. Avoid going around the problem by shifting communication methods. Anonymous feedback does not solve the root cause. The best approach is direct communication with the individual.",
+      "difficulty": "expert",
+      "topic": "Team Conflict Resolution and Emotional Intelligence",
+      "domain": 1,
+      "source_id": "yt_001",
+      "chunk_index": 12,
+      "video_segment": "3:01:10→3:16:14"
+    },
+    {
+      "question": "During a critical phase of a technology implementation project, extensive and unforeseen changes to the scope have led to significant delays. These potential changes and alterations were flagged in the initial risk assessment. Concerned about the implications of the project's progress, the team proposes requesting an extension from stakeholders. What should you do next?",
+      "options": [
+        "A. Conduct a thorough reevaluation of the timeline with input from all stakeholders",
+        "B. Ensure every scope change has been properly logged and its impact assessed",
+        "C. Finish the project schedule as extended; extend the project schedule as needed to finish the scope",
+        "D. Engage directly with key stakeholders to renegotiate project deliverables and timeline"
+      ],
+      "answer": "B",
+      "explanation": "Before assessing the timeline impact (choice A), you must first ensure all scope changes are documented and their impacts are recorded. The question asks what to do first, and sequencing is critical. You cannot assess a timeline without knowing exactly what changes occurred. Do not simply extend the schedule without a change request process (C), and do not attempt to renegotiate deliverables when the real issue is understanding what has already changed (D). Documentation and impact assessment must precede timeline reevaluation.",
+      "difficulty": "expert",
+      "topic": "Scope Management and Change Control",
+      "domain": 2,
+      "source_id": "yt_001",
+      "chunk_index": 12,
+      "video_segment": "3:01:10→3:16:14"
+    },
+    {
+      "question": "As a project manager overseeing a pivotal update to a client software system, you notice a significant lack of engagement from the client side during critical sprint review sessions. Despite this, your team has successfully developed a working prototype that is ready for evaluation. What is the first thing the project manager should do?",
+      "options": [
+        "A. Send a detailed progress report email to the client highlighting the prototype's completion and next steps",
+        "B. Deploy the prototype to the client to gather their feedback",
+        "C. Schedule a comprehensive review session with the project's technical lead to refine the prototype before the client's presentation",
+        "D. Organize a sprint review to actively review the prototype, encouraging their inputs and adjustments"
+      ],
+      "answer": "D",
+      "explanation": "The purpose of prototypes is to gather customer input and feedback. Sprint reviews are the primary mechanism for clients to provide feedback on the product. Sending an email (A) does not solicit their input. Deploying without demonstration (B) may result in the client not using or understanding the prototype. Reviewing only with technical leads (C) defeats the purpose of getting customer feedback. The best approach is to organize a sprint review that actively engages the client in reviewing and providing feedback on the prototype.",
+      "difficulty": "expert",
+      "topic": "Stakeholder Engagement and Agile Review Processes",
+      "domain": 1,
+      "source_id": "yt_001",
+      "chunk_index": 12,
+      "video_segment": "3:01:10→3:16:14"
+    },
+    {
+      "question": "In the midst of a project's life cycle, a project manager identifies that essential feedback from a vital operational division has been consistently omitted in the planning and execution phases. This negligence has led to widespread dissatisfaction concerning how project outcomes align with the operational workflow of this division. What should the project manager do first?",
+      "options": [
+        "A. Change the scope to include the overlooked operational insight",
+        "B. Conduct a comprehensive review of the project's adherence to organizational policies",
+        "C. Review the communication management plan to understand the current communication channels",
+        "D. Craft a reactive plan to integrate unforeseen operational needs into the project's trajectory"
+      ],
+      "answer": "C",
+      "explanation": "The root cause of the problem is a communication breakdown—feedback was consistently omitted. Before taking corrective action, you must understand why this disconnect occurred by reviewing the communication management plan. You cannot change scope without understanding the problem (A). Reviewing organizational policy adherence (B) does not address the communication failure. Creating a reactive plan (D) means fixing before understanding. The first step is to diagnose the communication issue by reviewing the communication management plan.",
+      "difficulty": "expert",
+      "topic": "Communication Management and Root Cause Analysis",
+      "domain": 2,
+      "source_id": "yt_001",
+      "chunk_index": 12,
+      "video_segment": "3:01:10→3:16:14"
+    },
+    {
+      "question": "While working on an innovative web platform, a project manager receives a request from a critical stakeholder for the inclusion of several unforeseen functionalities within the current agile development cycle. What should the project manager do?",
+      "options": [
+        "A. Advise the stakeholder to present their suggestion following the review of the current cycle",
+        "B. Recommend assessing the viability of these functionalities and adding them to the subsequent team plan and meeting",
+        "C. Swiftly revise the project's development agenda to incorporate the requested functionalities",
+        "D. Have the product owner engage with stakeholders concerning the incorporation of their request into the ongoing project"
+      ],
+      "answer": "D",
+      "explanation": "In agile projects, the product owner is responsible for managing the product backlog and evaluating new feature requests. The product owner should engage directly with the stakeholder to assess whether these functionalities should be prioritized and incorporated. While assessing viability (B) may seem reasonable, the decision belongs to the product owner, not the project manager. Do not swiftly revise the development agenda without proper backlog prioritization (C). Deferring until the next cycle (A) may not be appropriate if the request is critical. The product owner must be the decision-maker on scope additions in agile environments.",
+      "difficulty": "expert",
+      "topic": "Agile Scope Management and Stakeholder Management",
+      "domain": 2,
+      "source_id": "yt_001",
+      "chunk_index": 12,
+      "video_segment": "3:01:10→3:16:14"
+    }
+  ]
+}

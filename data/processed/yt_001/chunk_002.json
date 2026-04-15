@@ -1,0 +1,94 @@
+{
+  "source_id": "yt_001",
+  "chunk_index": 2,
+  "start_label": "30:14",
+  "end_label": "45:20",
+  "mode": "extract",
+  "questions": [
+    {
+      "question": "A project manager is overseeing the construction of a new office building. A key stakeholder complains that they never received the structural integrity test status report. The project manager provides the report and the stakeholder notices that an important aspect of the structure was not tested. What tool should the project manager have used to prevent this situation?",
+      "options": [
+        "A. Communication log",
+        "B. Requirements traceability matrix",
+        "C. Stakeholder register",
+        "D. Quality management plan"
+      ],
+      "answer": "C",
+      "explanation": "The stakeholder register documents who the stakeholders are and their specific communication requirements. The problem was that a key stakeholder did not receive a communication they should have received according to their needs. The stakeholder register would have documented this stakeholder's communication requirements beforehand, preventing the situation. The communication management plan describes when and how communications will occur, but does not identify individual stakeholder communication needs like the stakeholder register does. The communication log records what communications happened, not what should happen. The traceability matrix and quality management plan are not relevant to communication delivery requirements.",
+      "difficulty": "expert",
+      "topic": "Stakeholder Communication and Requirements",
+      "domain": 1,
+      "source_id": "yt_001",
+      "chunk_index": 2,
+      "video_segment": "30:14→45:20"
+    },
+    {
+      "question": "A project manager is overseeing the development of a new health care facility. The project team is struggling to understand some critical aspects of the project scope. A senior subject matter expert from the organization headquarters is available for one week. What should the project manager do to benefit from the SME's presence?",
+      "options": [
+        "A. Conduct a workshop with the SME to address the team challenges",
+        "B. Discuss with the SME the specific scope issues the team is facing",
+        "C. Arrange for the SME to provide training sessions to the team",
+        "D. Have the SME review the project documentation for alignment"
+      ],
+      "answer": "C",
+      "explanation": "The best approach is collaborative and inclusive of the team. Arranging training sessions allows the SME to help the team directly understand the critical scope aspects, promoting team learning and engagement. This demonstrates servant leadership by involving the team in their own development. Option A conducts a workshop but does not explicitly include the team in addressing their own challenges. Option B discusses issues with the SME alone, excluding the team from the conversation. Option D has the SME review documentation independently without directly helping the team understand the scope better. Training the team directly is the most collaborative and effective use of the expert's limited time.",
+      "difficulty": "expert",
+      "topic": "Team Development and Collaboration",
+      "domain": 1,
+      "source_id": "yt_001",
+      "chunk_index": 2,
+      "video_segment": "30:14→45:20"
+    },
+    {
+      "question": "A project manager is initiating a new software development project for a client known for their vague requirements and challenging communication. Previous interactions with this client have led to misunderstandings about the scope. What strategy should the project manager implement to prevent this?",
+      "options": [
+        "A. Apply a phased development approach to validate the scope at each milestone",
+        "B. Collaborate with a product owner to establish a clear minimum viable product",
+        "C. Enhance team-client communication protocols to ensure better clarity and feedback",
+        "D. Implement a strict deliverable schedule to force clarity and client interaction"
+      ],
+      "answer": "B",
+      "explanation": "A minimum viable product (MVP) is the best strategy for overcoming vague requirements. By releasing a usable product with basic functionality to the client early, they can interact with it and provide concrete feedback on what they like, dislike, and want changed. This tangible interaction is far more effective at clarifying requirements than communication alone. Option D should be eliminated immediately as it uses negative language about 'forcing' compliance, which is never the right answer. Option A using phase gates with milestones takes too long for rapid requirement clarification. Option C is good but less effective than an MVP; giving clients something to use generates far more useful feedback than discussion alone.",
+      "difficulty": "expert",
+      "topic": "Agile Requirements and Product Definition",
+      "domain": 2,
+      "source_id": "yt_001",
+      "chunk_index": 2,
+      "video_segment": "30:14→45:20"
+    },
+    {
+      "question": "In the middle of a software development project following a predictive lifecycle, a significant portion of the software is set for incremental delivery to the client. The experienced team responsible for this portion has expressed the desire to take on more decision-making responsibilities traditionally handled by the project manager after each delivery. What should you do?",
+      "options": [
+        "A. Schedule a meeting with senior management to seek their guidance on adjusting the decision-making process",
+        "B. Support the team's initiatives to take on decision-making responsibilities while retaining final approval authority",
+        "C. Maintain the traditional decision-making structure with the project manager receiving all decisions regardless of team readiness",
+        "D. Consult with the sponsor to explore the option of delegating key post-delivery decisions to the team"
+      ],
+      "answer": "B",
+      "explanation": "Supporting the team while retaining final approval authority is the appropriate balance. It empowers the experienced team to take on more responsibility and demonstrates servant leadership, while the project manager maintains governance and final decision authority as required in a predictive project environment. Option A escalates to senior management inappropriately—they hired you to manage the project, not guide you on management decisions. Option C does nothing to address the team's capability and desire for growth. Option D inappropriately delegates final authority to the team in a predictive environment where the project manager must retain ultimate decision responsibility. Option B appropriately supports team development while maintaining proper control.",
+      "difficulty": "expert",
+      "topic": "Team Empowerment and Decision-Making Authority",
+      "domain": 1,
+      "source_id": "yt_001",
+      "chunk_index": 2,
+      "video_segment": "30:14→45:20"
+    },
+    {
+      "question": "A project manager is overseeing the development of a new software tool. Although the tool is not fully finished, the product owner has decided to release an early version—a minimum viable product. A key stakeholder, the vice president of marketing, is unhappy with the limited features in the launch. What should the project manager do to ensure better satisfaction for future releases?",
+      "options": [
+        "A. Work with the team and stakeholders to adjust future release timelines based on expectations",
+        "B. Set up a process where stakeholders can provide feedback before future releases are finalized",
+        "C. Take control of the communication with the stakeholders to ensure everyone understands",
+        "D. Ask the sponsor to resolve the disagreement between the product owner and the vice president of marketing"
+      ],
+      "answer": "A",
+      "explanation": "Working collaboratively with both the team and stakeholders to adjust future timelines demonstrates the best servant leadership approach in an agile environment. This addresses the root cause—misaligned expectations about feature delivery schedules. Option B sets up a process but excludes active team collaboration. Option C taking control of communication contradicts servant leadership principles necessary in agile projects. Option D inappropriately escalates to the sponsor to do the project manager's work; the sponsor resolves strategic disagreements, not operational execution details. The project manager should facilitate collaborative alignment on realistic expectations for future releases.",
+      "difficulty": "expert",
+      "topic": "Stakeholder Management and Agile Delivery",
+      "domain": 1,
+      "source_id": "yt_001",
+      "chunk_index": 2,
+      "video_segment": "30:14→45:20"
+    }
+  ]
+}

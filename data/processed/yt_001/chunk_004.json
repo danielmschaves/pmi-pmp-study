@@ -1,0 +1,145 @@
+{
+  "source_id": "yt_001",
+  "chunk_index": 4,
+  "start_label": "1:00:26",
+  "end_label": "1:15:32",
+  "mode": "extract",
+  "questions": [
+    {
+      "question": "Before closing a traditional project, what process should be completed to verify that work has been done according to plan?",
+      "options": [
+        "A. Verify that all objectives have been met according to the plan",
+        "B. Ensure all project documentation is completed and archived",
+        "C. Conduct a final performance review with the stakeholders",
+        "D. Complete quality control testing of all deliverables"
+      ],
+      "answer": "A",
+      "explanation": "Before closing a project, verify scope must be performed to inspect and verify that the work has been completed as intended. This involves bringing the customer and/or sponsor to verify deliverables before final closure. While documentation completion and performance reviews occur during closing, the verification of scope through inspection is the critical process that comes before closing.",
+      "difficulty": "expert",
+      "topic": "Project Closure and Verify Scope",
+      "domain": 2,
+      "source_id": "yt_001",
+      "chunk_index": 4,
+      "video_segment": "1:00:26→1:15:32"
+    },
+    {
+      "question": "A project manager needs to prioritize multiple projects within a portfolio and requires accurate budget estimates. The process must align with agile principles while ensuring a reliable financial plan. How should the budget for each project be estimated?",
+      "options": [
+        "A. Calculate the cost by estimating individual task estimates for the team considering the current workload",
+        "B. Leverage the combined expertise of the sponsor, product owner, and agile coach to derive budget estimates",
+        "C. Use analytical software to model potential costs based on predictive analysis and historical data",
+        "D. Have the product owner conduct a thorough requirements analysis with the team to forecast project budget"
+      ],
+      "answer": "B",
+      "explanation": "In agile projects, budget estimation is heavily people-focused and relies on understanding how much workers are being paid, how long they will be on the project, and how many sprints are involved. Leveraging the combined expertise of the sponsor, product owner, and agile coach provides the best collaborative approach to deriving accurate budget estimates. Option C relies on predictive analysis which is not agile-appropriate. Option D incorrectly gives away the project manager's work to the product owner. Option A does not account for the full cost structure.",
+      "difficulty": "expert",
+      "topic": "Agile Budget Estimation",
+      "domain": 2,
+      "source_id": "yt_001",
+      "chunk_index": 4,
+      "video_segment": "1:00:26→1:15:32"
+    },
+    {
+      "question": "A project manager is overseeing a large-scale agile project to develop a new e-commerce platform. At the project's retrospective, the team discusses that the product owner's expectations for the sprint deliverables were not fully met. What proactive measure should the project manager have taken?",
+      "options": [
+        "A. Initiate a kickoff project workshop to ensure all team members are trained on agile tools and techniques",
+        "B. Establish a risk management framework that specifically addresses potential misalignments between team outputs and stakeholders",
+        "C. Develop an integration plan to systematically align development work with ongoing marketing and sales strategy",
+        "D. Ensure the project vision and objectives for each sprint were communicated to all team members"
+      ],
+      "answer": "D",
+      "explanation": "The retrospective reveals that misalignment occurred between what the product owner expected and what the team delivered. This indicates a communication breakdown that should have been prevented from the start. The project vision and objectives should have been clearly communicated to all team members at the beginning so everyone understood what they were accomplishing. Option A is done once at project start, not throughout. Option B addresses risks after the fact. Option C is about external alignment with marketing and sales, not the core misalignment with product owner expectations.",
+      "difficulty": "expert",
+      "topic": "Agile Communication and Team Alignment",
+      "domain": 1,
+      "source_id": "yt_001",
+      "chunk_index": 4,
+      "video_segment": "1:00:26→1:15:32"
+    },
+    {
+      "question": "A project manager is leading the development of a new customer support software system. During a sprint, developers encounter ambiguity regarding the acceptance criteria of a feature. What should the project manager do?",
+      "options": [
+        "A. Come schedule a meeting with the steering committee to discuss the feature",
+        "B. Initiate a discussion in the next team meeting to gather collective input",
+        "C. Refer the question to the technical architect to provide an expert interpretation",
+        "D. Collaborate with the product owner to resolve the ambiguity in the acceptance criteria"
+      ],
+      "answer": "D",
+      "explanation": "Acceptance criteria are defined by the product owner, who is responsible for specifying what the work should look like and how it should perform. When the team is unsure of acceptance criteria, the resolution must come directly from the product owner, not from the steering committee, the broader team, or a technical architect. This is a fundamental agile principle about role clarity.",
+      "difficulty": "expert",
+      "topic": "Agile Roles and Acceptance Criteria",
+      "domain": 1,
+      "source_id": "yt_001",
+      "chunk_index": 4,
+      "video_segment": "1:00:26→1:15:32"
+    },
+    {
+      "question": "During the execution phase of a development project, the team encounters a technical challenge that jeopardizes the scheduled delivery of key functionalities. The technical team has indicated a delay. What should the project manager do next?",
+      "options": [
+        "A. Schedule an emergency meeting with all stakeholders to brainstorm solutions",
+        "B. Initiate a quick training session for the technical team to enhance their problem-solving capabilities",
+        "C. Record the problem, its impact, and urgency in the project issue log for structured tracking",
+        "D. Organize a team building event to boost morale and encourage innovative thinking for problem solving"
+      ],
+      "answer": "C",
+      "explanation": "This is an issue, not a risk, and issues must be recorded in the issue log for structured tracking. Option A is incorrect because scheduling a meeting with \"all\" stakeholders (including senior management and regulatory bodies) is excessive and inappropriate for this situation. Option B is incorrect because project managers typically do not have the technical skills to train technical teams. Option D is not justified by the scenario, which contains no indication of morale problems.",
+      "difficulty": "expert",
+      "topic": "Issue Management",
+      "domain": 2,
+      "source_id": "yt_001",
+      "chunk_index": 4,
+      "video_segment": "1:00:26→1:15:32"
+    },
+    {
+      "question": "During a pivotal project phase, it is revealed that critical stakeholders did not attend a meeting focused on confirming the project's strategic alignment and expected business benefits. This oversight resulted in their feedback being overlooked and has led to conflicts within the decision-making process. What should the project manager do first?",
+      "options": [
+        "A. Initiate a discussion to directly address and understand the concerns raised by absent stakeholders",
+        "B. Distribute a detailed meeting summary and request written feedback from the absent stakeholders",
+        "C. Conduct a formal risk assessment to evaluate the impact of missing stakeholders' input",
+        "D. Develop a contingency plan to navigate potential project delays or changes"
+      ],
+      "answer": "A",
+      "explanation": "According to project management principles and conflict resolution practices, the first step when conflict exists is to understand the problem before taking action to solve it. This requires directly addressing and understanding the root cause and concerns. Option B has a negative tone by implying the stakeholders should provide retroactive feedback. Option C addresses risks after the fact rather than resolving the immediate conflict. Option D assumes delays without first understanding the actual impact and concerns.",
+      "difficulty": "expert",
+      "topic": "Stakeholder Engagement and Conflict Resolution",
+      "domain": 1,
+      "source_id": "yt_001",
+      "chunk_index": 4,
+      "video_segment": "1:00:26→1:15:32"
+    },
+    {
+      "question": "During a critical phase of the project, a pivotal team member informs the project manager of their impending resignation. This revelation comes at a time when their contribution is critical to meeting the project's upcoming deadline. What should the project manager do?",
+      "options": [
+        "A. Have a senior team member hold a meeting to reassess task allocation and address any concerns",
+        "B. Update the project risk register to reflect the potential impact on the project timeline",
+        "C. Brief the stakeholders on the situation to set realistic expectations about potential delays",
+        "D. Proactively collaborate with all team members to formulate a plan for transition and mitigate project disruption"
+      ],
+      "answer": "D",
+      "explanation": "The best approach is to be proactive and work with the team to develop a transition plan that mitigates disruption. This approach does not assume there will be delays; instead, it focuses on mitigation through collaboration. Option A represents giving away the project manager's work. Option B only addresses timeline impact and does not involve team collaboration in developing solutions. Option C prematurely assumes delays will occur without first working with the team to assess the situation.",
+      "difficulty": "expert",
+      "topic": "Resource Management and Risk Mitigation",
+      "domain": 1,
+      "source_id": "yt_001",
+      "chunk_index": 4,
+      "video_segment": "1:00:26→1:15:32"
+    },
+    {
+      "question": "In a software development project, as the team moves into the development phase, they decide to utilize time tracking to estimate efforts, with one hour of effort equaling one point. Some tasks are estimated at five points while others extend up to 200 points. To enhance the project's accuracy in scheduling, what should the project manager encourage the team to do?",
+      "options": [
+        "A. Recommend dividing tasks into subtasks to improve manageability and estimation accuracy",
+        "B. Have the team use a new estimation technique that better reflects the complexity",
+        "C. Encourage the adoption of a fixed point system for all tasks",
+        "D. Have the team recalibrate the point system to better differentiate simple and complex tasks"
+      ],
+      "answer": "A",
+      "explanation": "The wide range in point estimates (5 to 200 points) indicates that some tasks are too large and lack granularity. Dividing larger tasks into smaller subtasks improves manageability and leads to more accurate and reliable estimations. This is a fundamental agile practice. The current system (one hour = one point) is functioning; the issue is task size, not the system itself.",
+      "difficulty": "expert",
+      "topic": "Agile Estimation and Task Breakdown",
+      "domain": 2,
+      "source_id": "yt_001",
+      "chunk_index": 4,
+      "video_segment": "1:00:26→1:15:32"
+    }
+  ]
+}

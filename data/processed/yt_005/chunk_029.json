@@ -1,0 +1,77 @@
+{
+  "source_id": "yt_005",
+  "chunk_index": 29,
+  "start_label": "4:52:59",
+  "end_label": "5:03:04",
+  "mode": "extract",
+  "questions": [
+    {
+      "question": "This scenario describes the five stages of team development. When there is conflict and difficulty working together, the team is in which stage, and what should you do to help them progress?",
+      "options": [
+        "A. Forming stage; help them understand the project goals and deliverables",
+        "B. Storming stage; help them understand their roles, responsibilities, and find a regular rhythm",
+        "C. Norming stage; establish clear communication protocols",
+        "D. Performing stage; delegate decision-making authority to the team"
+      ],
+      "answer": "B",
+      "explanation": "According to Tuckman's ladder (PMBOK 7th edition, page 166), when there is conflict and difficulty working together, the team is in the storming stage. The appropriate action is to help them understand their roles, responsibilities, and find a regular rhythm so they can move to the norming stage.",
+      "difficulty": "expert",
+      "topic": "Team Development Models - Tuckman Ladder",
+      "domain": 1,
+      "source_id": "yt_005",
+      "chunk_index": 29,
+      "video_segment": "4:52:59→5:03:04"
+    },
+    {
+      "question": "You have formed a new project team and have worked through the purpose and mission of the project with them. You have expanded on who is on the project team and the skills and abilities each person brings. You would like to foster a high-performing culture and ensure the team is able to deliver as soon as possible. What are you going to do next?",
+      "options": [
+        "A. Work through changes on the project team and the project such as deliverables and stakeholders",
+        "B. Decompose the high-level plan into greater detail including a detailed schedule and backlog",
+        "C. Define a plan to achieve the project goals, including milestone schedules, release plans, and high-level budgets",
+        "D. Clarify the goals of the team and what you are here to deliver"
+      ],
+      "answer": "D",
+      "explanation": "This question refers to the Drexler/Sibbet team performance model (PMBOK 7th edition, page 167). The steps include orientation, trust building, goal clarification, commitment, implementation, high performance, and renewal. After trust building comes goal clarification. Since you have established the why (purpose and mission) and the who (team composition and skills), the next step is to clarify the what—the goals of the team and what they are here to deliver.",
+      "difficulty": "expert",
+      "topic": "Team Development Models - Drexler/Sibbert Model",
+      "domain": 1,
+      "source_id": "yt_005",
+      "chunk_index": 29,
+      "video_segment": "4:52:59→5:03:04"
+    },
+    {
+      "question": "Your team members have raised an issue because they believe the current project scope will not reach the intended project goal of increasing customer attention. You take their concerns to the project sponsor who controls the funding and resources, but the sponsor dismisses them and directs you to proceed with the scope currently set. What will you do next?",
+      "options": [
+        "A. Problem solve with the sponsor and find a resolution through collaboration",
+        "B. Compromise with the sponsor so each party gets a little bit of what they want",
+        "C. Accommodate the sponsor to maintain harmony and goodwill",
+        "D. Force the issue to ensure the team's concerns are addressed"
+      ],
+      "answer": "C",
+      "explanation": "According to the conflict resolution model described by Ken Thomas and Ralph Kilmann (PMBOK 7th edition, pages 168-169), since there is a desire to maintain a good relationship with the sponsor and the sponsor has significant power (they control funding, resources, and are the customer), adopting an accommodating posture is appropriate. This allows you to maintain the relationship while respecting the sponsor's authority.",
+      "difficulty": "expert",
+      "topic": "Conflict Resolution - Thomas-Kilmann Model",
+      "domain": 1,
+      "source_id": "yt_005",
+      "chunk_index": 29,
+      "video_segment": "4:52:59→5:03:04"
+    },
+    {
+      "question": "A functional manager raises a concern that they have not been engaged correctly and the program is missing some key requirements. You believe you have captured all the items required. Your program manager asks you to handle the situation and approach it from a win-win perspective. What will you do next?",
+      "options": [
+        "A. Escalate the decision to the steering committee to ensure your point of view is heard",
+        "B. Look at the situation from their point of view and find mutual trust and integrity in the approach",
+        "C. Choose to give some leeway in your approach so the functional manager can add their requirements",
+        "D. Get your requirements baselined first and then compete with the manager to ensure a win"
+      ],
+      "answer": "B",
+      "explanation": "A win-win approach is found when there is mature character, trust, and the ability to approach the situation from the other's point of view. This principle comes from Stephen Covey's The 7 Habits of Highly Effective People and is referenced in the PMBOK 7th edition (page 169) under negotiation. Looking at the situation from the functional manager's perspective while demonstrating integrity and finding mutual trust creates a genuine win-win solution.",
+      "difficulty": "expert",
+      "topic": "Negotiation and Win-Win Solutions",
+      "domain": 1,
+      "source_id": "yt_005",
+      "chunk_index": 29,
+      "video_segment": "4:52:59→5:03:04"
+    }
+  ]
+}

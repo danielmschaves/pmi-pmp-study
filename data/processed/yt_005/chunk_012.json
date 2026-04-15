@@ -1,0 +1,60 @@
+{
+  "source_id": "yt_005",
+  "chunk_index": 12,
+  "start_label": "2:01:06",
+  "end_label": "2:11:13",
+  "mode": "extract",
+  "questions": [
+    {
+      "question": "Your team are new to Agile and have previously been working with waterfall. Your key customer asks you for a project schedule. The project team believes using a project schedule is from the old waterfall way of working and they shouldn't have to create one. What will you do next?",
+      "options": [
+        "A. Create a project Gantt chart to visualize the activities within the project",
+        "B. Determine the project's planned versus actual value instead of working with a schedule directly",
+        "C. Advise the customer that we don't need to plan ahead in an adaptive way of work",
+        "D. Ask your team to develop a high level release plan"
+      ],
+      "answer": "D",
+      "explanation": "In adaptive/Agile approaches, a high-level release plan serves the same purpose as a traditional project schedule by showing features and functionality to be included in each release and basic timing based on team velocity. This is incremental planning as described in PMBOK Guide 7th Edition page 61 on adaptive schedule planning. Option A (Gantt chart) is waterfall-centric, option B focuses on variance rather than planning, and option C incorrectly suggests no planning is needed in Agile.",
+      "difficulty": "expert",
+      "topic": "Adaptive Schedule Planning",
+      "domain": 2,
+      "source_id": "yt_005",
+      "chunk_index": 12,
+      "video_segment": "2:01:06→2:11:13"
+    },
+    {
+      "question": "You're working in a project team that has recently moved to an agile way of work. Your business analysts want to gather all requirements, match solutions to scope, and create a work breakdown structure for the whole deliverable. Your product owner says this will take too long and is not agile enough for their needs. What will you do next?",
+      "options": [
+        "A. Ask your team to review the scope management plan for the proper process",
+        "B. Break the deliverable down into smaller pieces so you can deliver those faster",
+        "C. Ask your team to time box work on the highest priority items in the backlog, update the estimates, and then re-prioritize them as necessary",
+        "D. Review the project charter for the high level scope and then use this to begin delivery quickly"
+      ],
+      "answer": "C",
+      "explanation": "Time boxing is a core adaptive practice where work is prioritized from the backlog, time-boxed into iterations, estimates are updated, and the backlog is re-prioritized for the next time box. This approach allows delivery to begin quickly while still maintaining proper planning. Option B may create unusable pieces without proper prioritization; option A and D don't address the agile need for incremental, prioritized delivery.",
+      "difficulty": "expert",
+      "topic": "Time Boxes and Adaptive Delivery",
+      "domain": 2,
+      "source_id": "yt_005",
+      "chunk_index": 12,
+      "video_segment": "2:01:06→2:11:13"
+    },
+    {
+      "question": "When reviewing the current progress of your project with your project sponsor, they notice that the system solution is missing a critical piece that will impact the benefit of the project. The project sponsor approves the scope change. Your project has a planned value of $520,000 and an actual cost of $535,000. What will you do to add this critical piece of scope?",
+      "options": [
+        "A. Work with the PMO to unlock the project management reserves for the extra work",
+        "B. Ask the product owner to reprioritize the backlog and see if the new work will fit",
+        "C. Perform the work within your normal budget as your project is on track",
+        "D. [incomplete in transcript]"
+      ],
+      "answer": "A",
+      "explanation": "Management reserves are held at the project level for approved scope that wasn't anticipated during initial planning. Since the project sponsor has approved this scope change as critical to project benefits, management reserves are the appropriate funding source for this unanticipated but approved work. Option B may bump other necessary work; option C is incorrect because the project is over budget ($535K actual vs $520K planned) and this is approved scope that requires additional funding.",
+      "difficulty": "expert",
+      "topic": "Budget and Reserve Management",
+      "domain": 2,
+      "source_id": "yt_005",
+      "chunk_index": 12,
+      "video_segment": "2:01:06→2:11:13"
+    }
+  ]
+}

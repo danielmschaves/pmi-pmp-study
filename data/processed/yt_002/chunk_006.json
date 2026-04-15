@@ -1,0 +1,128 @@
+{
+  "source_id": "yt_002",
+  "chunk_index": 6,
+  "start_label": "1:30:41",
+  "end_label": "1:45:48",
+  "mode": "extract",
+  "questions": [
+    {
+      "question": "A project manager is leading a small team of developers using project management software that includes a kanban board. After receiving many questions from team members on how to create, review and validate tasks or issues, the project manager decides to create a chart showing the workflow from to-do list, in progress, functional review, to done. What type of chart is this?",
+      "options": [
+        "A. Pareto chart",
+        "B. Flowchart",
+        "C. Context diagram",
+        "D. Scatter diagram"
+      ],
+      "answer": "B",
+      "explanation": "A flowchart, also referred to as a process map, progress flow, and progress flow diagram, graphically displays the logical order of a process. The chart shows how work flows from the beginning to the end, which is the definition of a flowchart, not a Pareto chart, context diagram, or scatter diagram.",
+      "difficulty": "hard",
+      "topic": "Process Documentation and Visualization",
+      "domain": 2,
+      "source_id": "yt_002",
+      "chunk_index": 6,
+      "video_segment": "1:30:41→1:45:48"
+    },
+    {
+      "question": "A project manager intends to talk to her manager about obtaining additional resources for complex activities that her team is unable to perform. These resources will roll off the project as soon as the activities are completed. Which of the following skills does the project manager need the most in this situation?",
+      "options": [
+        "A. Planning skills to identify resource requirements",
+        "B. Interpersonal skills to convince her manager of her need for additional resources",
+        "C. Interviewing skills to hire the required resources",
+        "D. Technical skills to respond to the risk associated with adding more resources"
+      ],
+      "answer": "B",
+      "explanation": "In a functional organization, the project manager needs to convince the functional manager to release additional resources. Trying to convince upper management requires the use of interpersonal skills, which are often needed when acquiring resources. While planning skills are important for identifying resource requirements, the primary challenge in this situation is persuading management to approve the additional resources.",
+      "difficulty": "hard",
+      "topic": "Resource Management and Interpersonal Skills",
+      "domain": 1,
+      "source_id": "yt_002",
+      "chunk_index": 6,
+      "video_segment": "1:30:41→1:45:48"
+    },
+    {
+      "question": "After baselining the scope and during project execution, a key stakeholder who is a member of the change control board requested a new requirement. The project manager is convinced that this new requirement can add value to the project. What should the project manager do?",
+      "options": [
+        "A. Implement the change request since the key stakeholder is a member of the CCB",
+        "B. Implement the change request since it will add value to the project",
+        "C. Submit a change request according to the change control system",
+        "D. Record the change request in the change log"
+      ],
+      "answer": "C",
+      "explanation": "Regardless of the fact that the change was requested by a member of the CCB, the project manager should submit a change request according to the procedures defined in the change control system. All CCB members must review and approve the change request, not just the requesting member. While recording in the change log may also occur, submitting through the formal change control system is the primary correct action.",
+      "difficulty": "hard",
+      "topic": "Change Control and Integrated Change Control",
+      "domain": 2,
+      "source_id": "yt_002",
+      "chunk_index": 6,
+      "video_segment": "1:30:41→1:45:48"
+    },
+    {
+      "question": "The project manager has just joined a new organization. A majority of the organization's projects are conducted by experienced project managers. What should be the primary focus of the new project manager?",
+      "options": [
+        "A. Acquire a skillful team",
+        "B. Learn about the organization's culture",
+        "C. Get to know the organization's executive managers",
+        "D. Get to know the organization's project managers"
+      ],
+      "answer": "B",
+      "explanation": "When joining a new organization, it is very important that the project manager grasps the organization's culture. Understanding the culture, how the organization operates, its policies, and its appetite for risk among other things should be the project manager's first priority when joining a new organization. Although talking to executive managers and project managers may help, learning the organization's culture provides the foundation for all other interactions and decisions.",
+      "difficulty": "hard",
+      "topic": "Organizational Awareness and Cultural Integration",
+      "domain": 3,
+      "source_id": "yt_002",
+      "chunk_index": 6,
+      "video_segment": "1:30:41→1:45:48"
+    },
+    {
+      "question": "After completing the creation of the scope statement, a project manager wanted to make sure that all of the project deliverables were identified and could be managed effectively. She opted for one of these methods to develop the WBS in order to capture all of the project's details. Which method should she use?",
+      "options": [
+        "A. Scope decomposition",
+        "B. Analogous estimation",
+        "C. Parametric analysis",
+        "D. Rolling wave planning"
+      ],
+      "answer": "A",
+      "explanation": "Scope decomposition is a planning method used to decompose and subdivide the project scope and deliverables into more manageable small work units. This is the technique specifically used to develop a WBS from the scope statement. The decomposition level depends on the complexity and size of the project. Analogous estimation uses previous projects, parametric analysis uses units of measurement, and rolling wave planning is for progressive elaboration.",
+      "difficulty": "hard",
+      "topic": "Work Breakdown Structure Development",
+      "domain": 2,
+      "source_id": "yt_002",
+      "chunk_index": 6,
+      "video_segment": "1:30:41→1:45:48"
+    },
+    {
+      "question": "Adopting a predictive approach to plan an agriculture project, a project manager chooses a method to estimate the cost by using the work breakdown structure. The project manager estimates the cost for each work package at the lowest level of the WBS and then aggregates these estimates upward to arrive at the total project cost. Which cost estimation method is being used?",
+      "options": [
+        "A. Analogous estimation",
+        "B. Parametric estimation",
+        "C. Top-down estimation",
+        "D. Bottom-up estimation"
+      ],
+      "answer": "D",
+      "explanation": "The bottom-up method can be used as an estimation technique for the project's overall cost by estimating the approximate value of smaller components at the lowest levels of the WBS and using the total sum of these values to find the overall cost. This approach starts from the detailed work packages and aggregates upward. Analogous estimation uses historical projects, parametric uses unit-based calculations, and top-down is a high-level estimate that works downward from the total.",
+      "difficulty": "hard",
+      "topic": "Cost Estimation Techniques",
+      "domain": 2,
+      "source_id": "yt_002",
+      "chunk_index": 6,
+      "video_segment": "1:30:41→1:45:48"
+    },
+    {
+      "question": "The project manager is assigned to an industrial project that follows a predictive approach. During the risk planning phase, the project manager decided to create a contingency reserve. A contingency reserve is typically created for which type of risks?",
+      "options": [
+        "A. Passive risk acceptance",
+        "B. Active risk acceptance",
+        "C. Workaround or unidentified risks",
+        "D. Unidentified risks only"
+      ],
+      "answer": "B",
+      "explanation": "A contingency reserve is created for identified risks that have been analyzed and for which active risk responses have been planned. When risks are actively accepted, the project team prepares a plan and allocates resources (contingency reserve) to respond if the risk occurs. Contingency reserves are not used for unidentified risks, which are handled through management reserve and workarounds. Passive acceptance means doing nothing, which would not require a contingency reserve.",
+      "difficulty": "hard",
+      "topic": "Risk Response Planning and Reserves",
+      "domain": 2,
+      "source_id": "yt_002",
+      "chunk_index": 6,
+      "video_segment": "1:30:41→1:45:48"
+    }
+  ]
+}

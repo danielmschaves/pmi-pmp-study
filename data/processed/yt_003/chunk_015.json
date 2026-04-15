@@ -1,0 +1,94 @@
+{
+  "source_id": "yt_003",
+  "chunk_index": 15,
+  "start_label": "3:46:32",
+  "end_label": "4:01:38",
+  "mode": "extract",
+  "questions": [
+    {
+      "question": "Your project team has found a significant data vulnerability in one of the features planned in your product backlog where customer data is exposed without password access. The feature is partially made by a third party vendor, and the relationship is owned by a functional manager in your organization. What will you do next?",
+      "options": [
+        "A. Avoid the risk and wait for the third party vendor to fix the vulnerability",
+        "B. Transfer the risk by asking a different vendor to create a feature with no vulnerability in their design",
+        "C. Escalate the risk to the manager with the appropriate authority to act on the response",
+        "D. Accept the risk and move on to other features"
+      ],
+      "answer": "C",
+      "explanation": "Escalation is appropriate when the project team agrees that the threat is outside the scope of the project or exceeds the project manager's authority. In this case, the risk is severe and owned by a functional manager with a third party vendor, so it is outside the project manager's realm of authority and should be escalated to those who have the authority and information to address it.",
+      "difficulty": "hard",
+      "topic": "Risk Response Planning - Threat Escalation",
+      "domain": 2,
+      "source_id": "yt_003",
+      "chunk_index": 15,
+      "video_segment": "3:46:32→4:01:38"
+    },
+    {
+      "question": "You have brainstormed risk responses with your project team and project sponsor and decided that you cannot transfer a certain high impact risk. You also cannot avoid the risk and there is no one in the organization to escalate it to. Your project sponsor agrees that you should actively accept the risk. What will you do next?",
+      "options": [
+        "A. Develop a contingency plan that would be triggered if the event occurred",
+        "B. Shift the ownership to a third party to manage the risk and bear the impact if it occurs",
+        "C. Act to eliminate the threat or protect the project from its impact",
+        "D. Take action to reduce the probability of its occurrence and the impact of the threat"
+      ],
+      "answer": "A",
+      "explanation": "Actively accepting a risk can include developing a contingency plan which would be triggered if the event occurred. This differs from passive acceptance, which means just accepting the risk and doing nothing. The other options represent different response strategies: eliminating the threat is avoiding, reducing probability and impact is mitigating, and shifting ownership is transferring.",
+      "difficulty": "hard",
+      "topic": "Risk Response Planning - Active Acceptance and Contingency Plans",
+      "domain": 2,
+      "source_id": "yt_003",
+      "chunk_index": 15,
+      "video_segment": "3:46:32→4:01:38"
+    },
+    {
+      "question": "You are working on a project to build a new customer database system for an engineering team. While working with the requirements, you realize that this system can also work with other teams in your organization and the effort to add those teams is quite small. What will you do next?",
+      "options": [
+        "A. Escalate the opportunity to senior management",
+        "B. Exploit the opportunity to actively ensure it occurs",
+        "C. Enhance the opportunity by increasing the probability of its occurrence",
+        "D. Actively accept the opportunity and acknowledge its existence"
+      ],
+      "answer": "B",
+      "explanation": "Exploit is the appropriate response to opportunities when acting to ensure the opportunity occurs. Escalation is for opportunities outside the project manager's authority, enhancement is for increasing probability of occurrence, and active acceptance merely acknowledges the opportunity without taking action. Exploiting the opportunity means taking direct action to make sure it happens.",
+      "difficulty": "hard",
+      "topic": "Opportunity Response Planning - Exploitation",
+      "domain": 2,
+      "source_id": "yt_003",
+      "chunk_index": 15,
+      "video_segment": "3:46:32→4:01:38"
+    },
+    {
+      "question": "You are working as a product owner in an agile team. During a recent risk review, the team has uncovered various risks that will impact your project. You brainstorm risk responses with your team, and the project customer would like them to be mitigated as soon as possible. What will you do next?",
+      "options": [
+        "A. Ask your team to work on the risk responses and get them done as soon as possible",
+        "B. Ignore the risks initially as some might dissipate over time and only the important ones will be left",
+        "C. Assign the risk responses to all stakeholders around your project team to share the load",
+        "D. Prioritize the risks by comparing the expected monetary value of the risk to the anticipated return on investment"
+      ],
+      "answer": "D",
+      "explanation": "Prioritizing risk responses in a risk-adjusted backlog by comparing the expected monetary value of a risk to the anticipated return on investment of a deliverable allows product owners to incorporate risk responses into planned work in a normal way. This ensures that risks are addressed appropriately within the context of overall project priorities and is especially important in agile environments where work is prioritized continuously.",
+      "difficulty": "hard",
+      "topic": "Risk Response Planning in Agile - Prioritization",
+      "domain": 2,
+      "source_id": "yt_003",
+      "chunk_index": 15,
+      "video_segment": "3:46:32→4:01:38"
+    },
+    {
+      "question": "You are planning a project where supply chains have been impacted and the requirements are complex and intertwined with other areas of the business. Your project sponsor asks you to manage these risks before the project moves to execution. What will you do next?",
+      "options": [
+        "A. Move to project execution so you can work through risks as they happen",
+        "B. Move to an agile way of work so you can deliver faster and deal with the complexity",
+        "C. Note the risks with appropriate controls and add a contingency reserve in the project budget",
+        "D. Assign a management reserve to address risks"
+      ],
+      "answer": "C",
+      "explanation": "Before moving to project execution, you should identify risks and establish appropriate controls with a contingency reserve in the project budget to account for identified risks should they occur. A management reserve is used for unknown events such as unplanned in-scope work, not for identified risks. This approach follows the standard practice of risk quantification and planning before execution.",
+      "difficulty": "hard",
+      "topic": "Risk Response Planning - Contingency and Management Reserves",
+      "domain": 2,
+      "source_id": "yt_003",
+      "chunk_index": 15,
+      "video_segment": "3:46:32→4:01:38"
+    }
+  ]
+}

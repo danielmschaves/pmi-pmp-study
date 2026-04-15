@@ -1,0 +1,77 @@
+{
+  "source_id": "yt_002",
+  "chunk_index": 4,
+  "start_label": "1:00:27",
+  "end_label": "1:15:34",
+  "mode": "extract",
+  "questions": [
+    {
+      "question": "While traditional project management follows predefined phases and sticks to the predetermined scope, which of the following is a characteristic of agile project management approaches?",
+      "options": [
+        "A. Encapsulate analysis, design, implementation and test within an iteration",
+        "B. Involve documenting, estimating, and sequencing each planned activity in detail",
+        "C. Use Gantt charts to track project activities",
+        "D. Map the iteration backlog into the work breakdown structure (WBS)"
+      ],
+      "answer": "A",
+      "explanation": "In agile project management, each iteration must encapsulate analysis, design, implementation, and testing to deliver a potentially shippable product increment by the end of the iteration. Options B, C, and D are characteristics of traditional predictive project management, which involves detailed upfront planning, Gantt charts, and WBS creation.",
+      "difficulty": "hard",
+      "topic": "Agile Project Management Characteristics",
+      "domain": 2,
+      "source_id": "yt_002",
+      "chunk_index": 4,
+      "video_segment": "1:00:27→1:15:34"
+    },
+    {
+      "question": "A project manager is leading a construction project. Throughout its execution, the project was influenced by both enterprise environmental factors and organizational process assets. Which of the following is an example of an enterprise environmental factor (external)?",
+      "options": [
+        "A. Construction work requires a building permit from the city council",
+        "B. Workers who do not obey safety rules will be penalized",
+        "C. Only authorized personnel are allowed on site",
+        "D. Workers have expertise in infrastructure construction"
+      ],
+      "answer": "A",
+      "explanation": "A building permit from the city council is an external enterprise environmental factor because it originates outside the organization. Options B and C are organizational process assets as they represent internal organizational processes and policies. Option D is an internal enterprise environmental factor (the expertise of internal workers), not an external one.",
+      "difficulty": "hard",
+      "topic": "Enterprise Environmental Factors and Organizational Process Assets",
+      "domain": 2,
+      "source_id": "yt_002",
+      "chunk_index": 4,
+      "video_segment": "1:00:27→1:15:34"
+    },
+    {
+      "question": "For a museum construction project, concrete is poured after the completion of rebar and formwork. Workers must wait 14 days before removing the formwork as the concrete must be strong enough for this operation. The 14-day period is an example of which of the following?",
+      "options": [
+        "A. Lead time",
+        "B. Lag time",
+        "C. Cycle time",
+        "D. Free float"
+      ],
+      "answer": "B",
+      "explanation": "Lag time is a purposeful delay between activities where you must wait a predetermined amount of time after completing one task before starting or completing another task. In this scenario, there is a mandatory 14-day wait after pouring concrete before the formwork can be removed. Lead time refers to task overlap or the time between task creation and completion. Cycle time is the duration to complete a task. Free float is the amount of delay a task can have without affecting successor tasks.",
+      "difficulty": "hard",
+      "topic": "Precedence Relationships and Activity Sequencing",
+      "domain": 2,
+      "source_id": "yt_002",
+      "chunk_index": 4,
+      "video_segment": "1:00:27→1:15:34"
+    },
+    {
+      "question": "An organization operating in the oil and gas industry tends to sign an agreement with a contractor to obtain provided experts, technical knowledge, and mechanical spare parts. Since the organization's projects consist of building innovative high-tech machines, the exact description of the work involved is not clear. What type of contract should the organization sign with the contractor?",
+      "options": [
+        "A. Fixed price incentive fee",
+        "B. Cost plus award fee",
+        "C. Time and materials",
+        "D. Firm fixed price"
+      ],
+      "answer": "C",
+      "explanation": "When the scope of work is unclear, time and materials contracts are most appropriate because they allow flexibility as the scope becomes clearer. The contractor is paid based on actual time spent (hourly, daily rates) and reimbursed for materials, providing cost control mechanisms. Fixed-price contracts (both A and D) are unsuitable for unclear scopes as they expose the contractor to excessive risk. Cost plus award fee (B) can be risky for the organization because costs may increase significantly when scope is undefined.",
+      "difficulty": "hard",
+      "topic": "Contract Types and Procurement",
+      "domain": 2,
+      "source_id": "yt_002",
+      "chunk_index": 4,
+      "video_segment": "1:00:27→1:15:34"
+    }
+  ]
+}

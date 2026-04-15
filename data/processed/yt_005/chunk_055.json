@@ -1,0 +1,60 @@
+{
+  "source_id": "yt_005",
+  "chunk_index": 55,
+  "start_label": "9:15:34",
+  "end_label": "9:25:37",
+  "mode": "extract",
+  "questions": [
+    {
+      "question": "You have recently taken over a project that is behind schedule and slightly over budget. You raise an issue at the steering committee meeting where they advise that there is no additional funding available for the project and the project must finish on time. You believe that you can optimize the project process to bring it back on track. What will you do next?",
+      "options": [
+        "A. Use additional people and resources to speed up the project",
+        "B. Utilize the Project's contingency reserve to source the resources you need",
+        "C. Perform project activities in parallel, completing multiple items at once instead of one at a time",
+        "D. Use lean production methods and retrospectives to reduce non-value-added activities and find process improvements"
+      ],
+      "answer": "D",
+      "explanation": "Lean production methods and retrospectives are specifically focused on process improvement to reduce non-value-added activities. Adding resources may increase complexity and communication channels without truly optimizing processes. Contingency reserve is for project risks, not process optimization. While parallel activities (fast-tracking) can help with scheduling, it is not the most direct way to optimize project processes.",
+      "difficulty": "expert",
+      "topic": "Process Optimization and Lean Methods",
+      "domain": 2,
+      "source_id": "yt_005",
+      "chunk_index": 55,
+      "video_segment": "9:15:34→9:25:37"
+    },
+    {
+      "question": "Your project management office is optimizing all the projects within their portfolio. They ask for your advice in tracking the type of work each team member is doing and how long it takes, suggesting that they categorize and record their work in addition to the work itself. What will you do next?",
+      "options": [
+        "A. Ask your team to record and categorize their work as it is important",
+        "B. Recommend an automated reporting tool where possible, as categorizing their work is non-value-added",
+        "C. Ask your team to ignore the request and focus on delivering customer value only",
+        "D. Create a manual system for tracking work categories"
+      ],
+      "answer": "B",
+      "explanation": "Recording and categorizing work is non-value-added activity that does not directly benefit the end customer. While respecting the PMO request, an automated tool can reduce the administrative burden on the team and allow them to focus on actual delivery work. Ignoring the PMO request would harm the relationship with the PMO, and manual systems would still consume unnecessary team time.",
+      "difficulty": "expert",
+      "topic": "Non-Value-Added Activities and Process Efficiency",
+      "domain": 2,
+      "source_id": "yt_005",
+      "chunk_index": 55,
+      "video_segment": "9:15:34→9:25:37"
+    },
+    {
+      "question": "You are working on an agile project as a Scrum Master where the functional manager has worked with some people in your development team before. The functional manager from the business approaches them directly to see if they can add a feature to the product in their current Sprint. What will you do next?",
+      "options": [
+        "A. Adjust the Sprint backlog to allow for the additional feature",
+        "B. Adjust the product backlog to add the customer requirement",
+        "C. Ask the manager to speak with the product owner for product priorities, then protect the team from direct requests in the future",
+        "D. Ask the manager to create a change request so it can go through the proper process"
+      ],
+      "answer": "C",
+      "explanation": "In an agile team, the product owner is the single point of decision for prioritizing work and ensuring the highest value work is being done. The functional manager should present the request to the product owner, not directly to the team. As Scrum Master, you have a responsibility to protect the team from external distractions and maintain focus on the current Sprint. This is called being a diversion shield, which prevents the team's productivity from being compromised by outside requests.",
+      "difficulty": "expert",
+      "topic": "Scrum Master Role and Team Protection in Agile",
+      "domain": 1,
+      "source_id": "yt_005",
+      "chunk_index": 55,
+      "video_segment": "9:15:34→9:25:37"
+    }
+  ]
+}

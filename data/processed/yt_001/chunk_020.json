@@ -1,0 +1,145 @@
+{
+  "source_id": "yt_001",
+  "chunk_index": 20,
+  "start_label": "5:01:58",
+  "end_label": "5:17:03",
+  "mode": "extract",
+  "questions": [
+    {
+      "question": "During the integration phase of an international IT project, the project manager noticed frequent miscommunications between the on-site and offshore teams primarily due to cultural misunderstanding and language nuances. The project manager has individually spoken with members from both teams and confirmed that these differences are hindering project progress. What should the project manager do to enhance understanding and cooperation between the teams?",
+      "options": [
+        "A. Implement a mandatory language proficiency course for all team members",
+        "B. Facilitate a workshop that allows both teams to share cultural norms and communication preferences",
+        "C. Assign a bilingual team liaison to translate immediate communication",
+        "D. Require all project communication to be conducted in written form to reduce misunderstanding"
+      ],
+      "answer": "B",
+      "explanation": "The best approach is to facilitate direct communication and understanding between teams by bringing them together to share cultural norms and communication preferences. This directly addresses the root cause (cultural misunderstanding) rather than imposing mandatory training or creating dependencies on intermediaries. Written communication and liaisons do not solve the underlying relationship and understanding issues.",
+      "difficulty": "expert",
+      "topic": "Team Communication and Cultural Integration",
+      "domain": 1,
+      "source_id": "yt_001",
+      "chunk_index": 20,
+      "video_segment": "5:01:58→5:17:03"
+    },
+    {
+      "question": "As part of a company-wide project to enhance IT security, the project manager scheduled a series of educational webinars for employees. A leader from a department not yet covered in the initial roll-out expresses interest in attending one of these early sessions. What should the project manager do to best support the initiative's goals and engage interested stakeholders?",
+      "options": [
+        "A. Limit webinar attendance only to those departments scheduled for the early phase roll-out",
+        "B. Suggest the webinar leader wait for tailored sessions specific to their department",
+        "C. Encourage the department to join the upcoming webinar to get an early insight and prepare their team",
+        "D. Provide recorded versions of the webinar exclusively to those in the initial roll-out phase"
+      ],
+      "answer": "C",
+      "explanation": "Since this is a company-wide project affecting all employees, all stakeholders should be engaged early and often. Encouraging the interested department to attend demonstrates inclusive stakeholder engagement and allows them to prepare their team ahead of time. Limiting attendance, delaying participation, or restricting to recordings contradicts the principle of engaging stakeholders frequently and early.",
+      "difficulty": "expert",
+      "topic": "Stakeholder Engagement and Communication",
+      "domain": 1,
+      "source_id": "yt_001",
+      "chunk_index": 20,
+      "video_segment": "5:01:58→5:17:03"
+    },
+    {
+      "question": "A project manager is tasked with integrating advanced artificial intelligence features into an existing software product. However, the current project team lacks the AI expertise required for successful implementation. What should the project manager do to ensure project success despite the team's current skills limitation?",
+      "options": [
+        "A. Initiate targeted AI training programs for the team",
+        "B. Partner with an AI technology firm to provide expert consultation",
+        "C. Facilitate workshops that innovate problem-solving techniques",
+        "D. Deploy automated tools to assist the team with AI-related tasks"
+      ],
+      "answer": "A",
+      "explanation": "When a team lacks specific expertise, the first priority should be to provide them with the necessary training to develop that expertise. This builds team capability and enables them to solve problems themselves. Partnering with external firms should be considered if training is insufficient. Facilitating problem-solving workshops cannot resolve knowledge gaps that don't exist. Deploying tools without understanding increases complexity rather than solving the core issue.",
+      "difficulty": "expert",
+      "topic": "Team Development and Capability Building",
+      "domain": 1,
+      "source_id": "yt_001",
+      "chunk_index": 20,
+      "video_segment": "5:01:58→5:17:03"
+    },
+    {
+      "question": "A project manager has coordinated a new environmental research project involving experts from various continents. The geographic spread of the team makes regular face-to-face interactions impossible. What should the project manager do to ensure seamless communication and collaboration across the team?",
+      "options": [
+        "A. Adopt advanced project management and communication software",
+        "B. Set up a rotational schedule for the team to adjust their availability for occasional synchronous meetings",
+        "C. Create a cultural exchange program within the team to facilitate better understanding",
+        "D. Establish a system of regular email updates and reports to keep all team members informed"
+      ],
+      "answer": "A",
+      "explanation": "Advanced communication software enables synchronous (real-time) communication across geographically dispersed teams, which is superior to asynchronous methods like email. This provides seamless and consistent communication without the limitations of occasional meetings or the delays of email. Cultural exchange programs take time and do not address the core communication need. Email updates are asynchronous and less effective than real-time communication tools.",
+      "difficulty": "expert",
+      "topic": "Virtual Team Communication and Collaboration",
+      "domain": 1,
+      "source_id": "yt_001",
+      "chunk_index": 20,
+      "video_segment": "5:01:58→5:17:03"
+    },
+    {
+      "question": "As the project manager for an innovative smart home device project, you receive a request from a stakeholder to incorporate advanced AI capabilities to improve design usability. The addition is expected to significantly enhance the product but comes late in the cycle with a challenging deadline. What should the project manager do next?",
+      "options": [
+        "A. Conduct an impact analysis to determine how the integration of advanced AI capabilities affects the timeline and budget",
+        "B. Suggest focusing on launching the current version without AI and adding it as a feature in the next product release",
+        "C. Increase the team's working hours to meet the demands of integrating the new feature within the timeline",
+        "D. Negotiate for additional resources specifically to focus on developing and integrating the new functionality"
+      ],
+      "answer": "A",
+      "explanation": "When facing a scope change request, the first action should be to assess the impact on the project's constraints (timeline and budget). The question specifically asks what to do next, indicating analysis must precede action. Do not immediately reject the request, overwork the team, or commit additional resources without understanding the full impact. Analysis must come before making corrective decisions.",
+      "difficulty": "expert",
+      "topic": "Scope Change Management and Impact Analysis",
+      "domain": 2,
+      "source_id": "yt_001",
+      "chunk_index": 20,
+      "video_segment": "5:01:58→5:17:03"
+    },
+    {
+      "question": "A project manager is leading the development of a new public library. During the planning phase, it comes to light that the library's proposed location is a popular site for an annual book fair, which was not considered in the initial consultations. The oversight raises concern about the fair's future and the library's community relations. What should the project manager do to ensure the project aligns with community interests and maintains positive relations?",
+      "options": [
+        "A. Redesign the library layout to include a dedicated space for the annual book fair without additional stakeholder input",
+        "B. Organize a discussion with book fair organizers and community members to explore how the library project can accommodate the fair",
+        "C. Prepare a risk management plan specifically for mitigating backlash from book fair enthusiasts",
+        "D. Suggest relocating the book fair to a less central but still accessible location without consulting the event organizers"
+      ],
+      "answer": "B",
+      "explanation": "The project manager must engage stakeholders in collaborative problem-solving rather than unilaterally modifying scope or making decisions that affect them. Bringing all interested parties together to discuss solutions respects stakeholder interests and builds community buy-in. Redesigning without input, creating a risk mitigation plan without engagement, or relocating events without consultation are all forms of unilateral decision-making that damage stakeholder relations.",
+      "difficulty": "expert",
+      "topic": "Stakeholder Engagement and Collaborative Problem-Solving",
+      "domain": 1,
+      "source_id": "yt_001",
+      "chunk_index": 20,
+      "video_segment": "5:01:58→5:17:03"
+    },
+    {
+      "question": "As the project manager for a software development project, you are informed that due to budget reallocations, several developers will be reassigned to other projects, creating unease in your team about project timelines and their roles. What should the project manager do first?",
+      "options": [
+        "A. Implement a revised project schedule that accelerates timelines to demonstrate the project can proceed without additional resources",
+        "B. Facilitate a discussion to address the reassignments, emphasizing the strategic vision and how team contributions are critical to both the project and broader company objectives",
+        "C. Introduce a mentorship program pairing remaining team members with experienced mentors to bolster confidence and skill sets",
+        "D. Launch a cross-training initiative to diversify the skill sets of remaining team members and ensure project critical functions are covered"
+      ],
+      "answer": "B",
+      "explanation": "When facing resource constraints and team uncertainty, the first action should be to understand the situation and address team concerns through open discussion. This clarifies the impact and reinforces the strategic importance of remaining team members' contributions. Only after this assessment should corrective actions like mentorship programs or cross-training be implemented. Immediately revising the schedule without understanding implications is premature.",
+      "difficulty": "expert",
+      "topic": "Team Leadership During Organizational Change",
+      "domain": 1,
+      "source_id": "yt_001",
+      "chunk_index": 20,
+      "video_segment": "5:01:58→5:17:03"
+    },
+    {
+      "question": "During the implementation phase of a city-wide public transportation improvement project, a city council member requests a specialized update that goes beyond the scope of regular briefings provided to public and city officials. The team utilizes advanced simulation software and traffic flow analysis to plan and monitor progress. What should the project manager do?",
+      "options": [
+        "A. Provide a tutorial on how to interpret the simulation software results",
+        "B. Invite the council member to a workshop on traffic flow analysis techniques using the project data",
+        "C. Engage directly with the council member to clarify what specific data insights are needed",
+        "D. Compile a comprehensive report using data from both simulation software and traffic analysis"
+      ],
+      "answer": "C",
+      "explanation": "Before providing any deliverable or information, the project manager must first clarify exactly what the stakeholder needs, in what format, and how they prefer to receive it. This is part of developing an effective communication management plan. Providing a tutorial, inviting them to workshops, or compiling reports without first understanding their specific needs may result in irrelevant or poorly formatted information. Clarification precedes action.",
+      "difficulty": "expert",
+      "topic": "Stakeholder Communication and Requirement Clarification",
+      "domain": 1,
+      "source_id": "yt_001",
+      "chunk_index": 20,
+      "video_segment": "5:01:58→5:17:03"
+    }
+  ]
+}

@@ -1,0 +1,77 @@
+{
+  "source_id": "yt_005",
+  "chunk_index": 53,
+  "start_label": "8:55:21",
+  "end_label": "9:05:27",
+  "mode": "extract",
+  "questions": [
+    {
+      "question": "You are transitioning your project from waterfall to Agile. Your key customer asks you for a project schedule. The project team believes that using a project schedule is from the old waterfall way of working and they shouldn't have to create one. What will you do next?",
+      "options": [
+        "A. Create a project Gantt chart to visualize the activities within the project",
+        "B. Determine the project's planned versus actual value instead of working with a schedule directly",
+        "C. Advise the customer that we don't need to plan ahead in an adaptive way of work",
+        "D. Ask your team to develop a high-level release plan like a product road map showing the features to be included in each release"
+      ],
+      "answer": "D",
+      "explanation": "In adaptive/Agile approaches, a high-level release plan (product road map) shows basic features and functionality to be included in each release using incremental planning. This addresses the customer's need for scheduling while aligning with Agile principles. While Gantt charts can work, a product road map is more Agile-centric. Planned versus actual value focuses on variance analysis rather than scheduling. Advising against planning ahead is incorrect—product road maps are essential for showing upcoming features and ensuring value delivery.",
+      "difficulty": "expert",
+      "topic": "Adaptive Schedule Planning",
+      "domain": 2,
+      "source_id": "yt_005",
+      "chunk_index": 53,
+      "video_segment": "8:55:21→9:05:27"
+    },
+    {
+      "question": "You are working in a project team that has recently moved to an Agile way of work. Your business analysts want to gather all requirements, match solutions to scope, and create a work breakdown structure for the whole deliverable. Your product owner says this will take too long and is not Agile enough. What will you do next?",
+      "options": [
+        "A. Ask your team to review the scope management plan for the proper process",
+        "B. Break the deliverable down into smaller pieces so you can deliver those faster",
+        "C. Ask your team to time box work on the highest priority items in the backlog, update the estimates, and then reprioritize them as necessary",
+        "D. Review the project charter for the high-level scope and then use this to begin delivery quickly"
+      ],
+      "answer": "C",
+      "explanation": "Time boxing work on highest-priority backlog items and reprioritizing as necessary is the most Agile-centric approach. It incorporates key Agile practices: prioritization, time boxing, estimate updates, and continuous reprioritization. Breaking deliverables into smaller pieces (B) may not create usable increments. Reviewing the scope management plan (A) and project charter (D) do not address the Agile concern about spending too much time upfront on complete analysis. Adaptive approaches emphasize time boxes and prioritized backlogs where teams self-manage their work.",
+      "difficulty": "expert",
+      "topic": "Adaptive Approaches and Time Boxes",
+      "domain": 2,
+      "source_id": "yt_005",
+      "chunk_index": 53,
+      "video_segment": "8:55:21→9:05:27"
+    },
+    {
+      "question": "While reviewing current project progress with your project sponsor, they notice that the system solution is missing a critical piece that will impact the benefit of the project. The project sponsor approves this scope addition. Your project has a planned value of $520,000 and an actual cost of $535,000. What will you do next to add this critical piece of scope?",
+      "options": [
+        "A. Work with the PMO to unlock the project management reserves for the extra work",
+        "B. Ask the product owner to reprioritize the backlog and see if the new work will fit",
+        "C. Perform the work within your normal budget as your project is on track",
+        "D. Raise a change request for the changes and gain approval from the Change Control Board"
+      ],
+      "answer": "A",
+      "explanation": "Management reserves are specifically set aside for unexpected activities related to in-scope work. Since the project sponsor has already approved this scope as necessary for benefit realization, it qualifies as in-scope work that should be funded through management reserves, which may be managed by the PMO at program or portfolio levels. Option B assumes an Agile project and would displace other work. Option C is incorrect because the project is over budget ($535,000 actual vs. $520,000 planned). Option D is unnecessary since the project sponsor (typically part of the Change Control Board) has already approved it.",
+      "difficulty": "expert",
+      "topic": "Budget Management and Reserves",
+      "domain": 2,
+      "source_id": "yt_005",
+      "chunk_index": 53,
+      "video_segment": "8:55:21→9:05:27"
+    },
+    {
+      "question": "You are in the planning stages of an Agile project where functional managers and senior users have provided high-level requirements and scope. You have been asked to put together a project team that will be able to deliver quickly. What will you do next?",
+      "options": [
+        "A. Select project team members from each city to ensure diversity of knowledge within the team",
+        "B. Put together a resource management plan outlining the resources",
+        "C. Focus on team collocation and transparency in the work environment to enable fast delivery",
+        "D. Assign team members based on their availability and skill sets"
+      ],
+      "answer": "C",
+      "explanation": "In Agile projects, high-performing teams benefit from collocation and transparency, which enable learning by osmosis, close collaboration, and faster communication—critical for quick delivery. While diversity of knowledge (A) has merit, collocation is specifically emphasized in Agile as enabling rapid delivery. A detailed resource management plan (B) is more aligned with traditional project management and may slow down the startup. Assigning by availability alone (D) does not ensure team capability for rapid delivery. Agile emphasizes team environment and working relationships over formal resource planning documents.",
+      "difficulty": "expert",
+      "topic": "Agile Team Development and Collocation",
+      "domain": 1,
+      "source_id": "yt_005",
+      "chunk_index": 53,
+      "video_segment": "8:55:21→9:05:27"
+    }
+  ]
+}

@@ -1,0 +1,145 @@
+{
+  "source_id": "yt_001",
+  "chunk_index": 23,
+  "start_label": "5:47:15",
+  "end_label": "6:02:19",
+  "mode": "extract",
+  "questions": [
+    {
+      "question": "As a project manager overseeing the rollout of a new online banking platform, ensuring that customers can seamlessly transition and utilize the platform is critical. The project sponsor emphasizes the importance of excellent customer support following the launch. What action should the project manager take to fulfill this requirement?",
+      "options": [
+        "A. Coordinate with the customer service department to extend their hours in the weeks following the launch",
+        "B. Initiate a temporary dedicated hotline for new platform inquiries and issues",
+        "C. Set up a series of self-paced webinars for customers focusing on platform features and common troubleshooting steps",
+        "D. Create a comprehensive online help center that includes tutorial videos, searchable knowledge base, and options for live support"
+      ],
+      "answer": "D",
+      "explanation": "When dealing with multiple stakeholders with diverse needs and you cannot assess all their needs individually, the best approach is to provide as many options as possible to satisfy as many stakeholders as you can. Option D offers tutorial videos, knowledge base, and live support—multiple support channels. Options A, B, and C each provide only a single support mechanism, whereas D provides comprehensive coverage addressing various stakeholder preferences.",
+      "difficulty": "expert",
+      "topic": "Stakeholder Management and Customer Satisfaction",
+      "domain": 1,
+      "source_id": "yt_001",
+      "chunk_index": 23,
+      "video_segment": "5:47:15→6:02:19"
+    },
+    {
+      "question": "At the outset of an initiative to introduce Smart City Technologies, it is discovered that input from a crucial environmental expert was not included during the preliminary discussions on the project's environmental impact assessment. What document is most likely in need of revision due to this omission?",
+      "options": [
+        "A. Stakeholder register",
+        "B. Engagement plan",
+        "C. Project schedule",
+        "D. Communication plan"
+      ],
+      "answer": "A",
+      "explanation": "The stakeholder register contains a listing of all stakeholders, how they will impact the project, and how the project will impact them. Since input from the crucial environmental expert was never obtained, this person was likely not even identified in the initial stakeholder analysis. The stakeholder register must be revised first before any engagement plan can be created. The engagement plan comes after the register; you cannot plan engagement with stakeholders you do not know exist.",
+      "difficulty": "expert",
+      "topic": "Stakeholder Identification and Analysis",
+      "domain": 1,
+      "source_id": "yt_001",
+      "chunk_index": 23,
+      "video_segment": "5:47:15→6:02:19"
+    },
+    {
+      "question": "Just assigned to lead a new technology integration project, project manager Lawrence finds that no foundational documentation exists, leaving the team uncertain about scope, deliverables, and timeline. What action should the project manager take to establish a solid foundation?",
+      "options": [
+        "A. Initiate the project by focusing on high-level tasks and develop documentation as these tasks progress",
+        "B. Instruct departmental heads to comply with respective sections of the project documentation to streamline it",
+        "C. Lock in industry standard project management templates to quickly draft the necessary documents",
+        "D. Engage the entire team in a comprehensive planning session to collaboratively develop all critical project management documents"
+      ],
+      "answer": "D",
+      "explanation": "To have the best success on a project, you must ensure all critical documents are in place and developed collaboratively with the team. Engaging the team while building these documents leverages the expertise of team members and ensures buy-in. Templates are useful tools, but the goal is to engage the team to help build the plan itself, not just populate templates. Options A and B undermine the planning process, and option C relies only on templates without team engagement.",
+      "difficulty": "expert",
+      "topic": "Project Planning and Team Engagement",
+      "domain": 2,
+      "source_id": "yt_001",
+      "chunk_index": 23,
+      "video_segment": "5:47:15→6:02:19"
+    },
+    {
+      "question": "To enhance project communication and address emerging issues, a project manager organizes biweekly meetings with the development team of a software project. What should the project manager prioritize at the beginning of these meetings?",
+      "options": [
+        "A. Detail the current status of the project schedule and any deviations",
+        "B. Meet an agenda, times, and topics to cover",
+        "C. Reevaluate the scope in light of recent developments",
+        "D. Gather feedback for continuous improvement"
+      ],
+      "answer": "B",
+      "explanation": "At the beginning of every meeting, the project manager should communicate what will be covered, how long the meeting will take, and the topics to be addressed. This ensures efficient use of meeting time and sets clear expectations. Details about schedule status, scope reevaluation, and feedback gathering should occur later in the meeting, after the agenda has been established.",
+      "difficulty": "expert",
+      "topic": "Meeting Management and Communication",
+      "domain": 1,
+      "source_id": "yt_001",
+      "chunk_index": 23,
+      "video_segment": "5:47:15→6:02:19"
+    },
+    {
+      "question": "In the midst of executing a high-stake software development project, several unexpected software bugs and team miscommunications have led to delays, causing tension within the team and concern from the sponsor about meeting key deliverables on time. What should the project manager do to alleviate these issues and steer the project back on track?",
+      "options": [
+        "A. Conduct team building events focused on enhancing team collaboration and open communication",
+        "B. Host a problem-solving workshop where team members can collaboratively identify solutions to technical issues",
+        "C. Increase the frequency of progress review meetings to closely monitor team performance and progress",
+        "D. Arrange for a professional mediator to address and resolve interpersonal conflict within the team"
+      ],
+      "answer": "A",
+      "explanation": "The root causes are both software bugs and team miscommunication. While a professional mediator (option D) is inappropriate because the project manager should handle this themselves, option C of increasing meeting frequency may exacerbate tensions rather than resolve them. Option B addresses only technical issues. The best answer is to focus on team collaboration and open communication, which will improve miscommunication and likely lead to resolution of both interpersonal and technical problems. On the PMP exam, emphasize being a project manager who fosters open communication and team collaboration rather than trying to solve technical problems directly.",
+      "difficulty": "expert",
+      "topic": "Team Conflict Resolution and Communication",
+      "domain": 1,
+      "source_id": "yt_001",
+      "chunk_index": 23,
+      "video_segment": "5:47:15→6:02:19"
+    },
+    {
+      "question": "During a key phase of an infrastructure project, the project manager notices a significant slowdown in decision-making due to the need to approve numerous minor project adjustments. This has started to impact the project's momentum, as the project manager's schedule is dominated by stakeholder meetings. What initiative should the project manager introduce to improve the decision-making process?",
+      "options": [
+        "A. Organize weekly roundup sessions to address all accumulated decisions in one go",
+        "B. Implement a critical path analysis to pinpoint decision-making as the primary project delay",
+        "C. Assign decision-making responsibility for specific areas to trusted project leads",
+        "D. Make all decisions to ensure they are done in a timely manner"
+      ],
+      "answer": "C",
+      "explanation": "Option D merely perpetuates the problem. Option A (weekly roundup) may create bottlenecks if decisions are needed more frequently than weekly. Option B identifies the problem but does not solve it. The best answer is to delegate decision-making authority for minor adjustments to trusted project leads. The question specifically mentions numerous minor adjustments; passing this responsibility to the team empowers them and unblocks the project manager's schedule, improving overall project momentum.",
+      "difficulty": "expert",
+      "topic": "Decision-Making and Delegation",
+      "domain": 1,
+      "source_id": "yt_001",
+      "chunk_index": 23,
+      "video_segment": "5:47:15→6:02:19"
+    },
+    {
+      "question": "In the midst of a complex IT project, feedback from an executive sponsor indicates dissatisfaction with the detailed nature of the project updates, which they find cumbersome and distracting from key insights. What measure should the project manager implement to refine the communication process with the executive sponsor?",
+      "options": [
+        "A. Transition to a streamlined weekly email summary highlighting critical points and decisions needed",
+        "B. Utilize a project management tool that allows the sponsor to view real-time updates at their convenience",
+        "C. Conduct a detailed discussion with the sponsor to identify their preference for information and report format",
+        "D. Schedule brief, focused update calls with the sponsor to review major milestones and address any concerns"
+      ],
+      "answer": "C",
+      "explanation": "Options A, B, and D each impose a specific communication approach chosen by the project manager. The best practice when a stakeholder is dissatisfied with communication is to ask them directly what format, frequency, and content they prefer. A detailed discussion allows the sponsor to specify their needs rather than the project manager guessing. This personalized approach ensures the communication format matches the sponsor's actual preferences.",
+      "difficulty": "expert",
+      "topic": "Stakeholder Communication and Preferences",
+      "domain": 1,
+      "source_id": "yt_001",
+      "chunk_index": 23,
+      "video_segment": "5:47:15→6:02:19"
+    },
+    {
+      "question": "During an iterative development project for a new software tool, a developer who was recently added to the team suggests implementing a cutting-edge testing technique that differs significantly from the project's standard practices. The rest of the team has expressed reluctance to deviate from established methods. What should the project manager do to address the team's reluctance and explore the potential of the new method?",
+      "options": [
+        "A. Instruct the new developer to maintain the status quo to preserve team harmony and project pace",
+        "B. Assign the developer to less critical tasks to avoid any potential disruptions to the established testing",
+        "C. Facilitate a discussion where the new developer can present the proposed testing method, detailing its advantages and implementation process",
+        "D. Recommend the developer prepare a detailed report on the proposed method for review at the project's conclusion"
+      ],
+      "answer": "C",
+      "explanation": "Do not shut down the new developer by instructing them to conform (option A) or sidelining them (option B). Option D delays consideration until project conclusion, losing the opportunity to benefit from the innovation if it is sound. The best approach is to create a forum for the developer to present the new method to the team, demonstrating its advantages and implementation requirements. This allows the team to evaluate the proposal on merit and may lead to adoption if the benefits are compelling. This approach respects innovation while maintaining team accountability.",
+      "difficulty": "expert",
+      "topic": "Change Management and Team Innovation",
+      "domain": 2,
+      "source_id": "yt_001",
+      "chunk_index": 23,
+      "video_segment": "5:47:15→6:02:19"
+    }
+  ]
+}

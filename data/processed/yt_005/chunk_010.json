@@ -1,0 +1,77 @@
+{
+  "source_id": "yt_005",
+  "chunk_index": 10,
+  "start_label": "1:40:54",
+  "end_label": "1:50:59",
+  "mode": "extract",
+  "questions": [
+    {
+      "question": "After gathering your project requirements, project scope, and breaking it down into activities, you need to estimate the project schedule within your team. After some analysis and discussion, your team comes up with a range of 53 to 75 days assigned across all tasks. What will you do next?",
+      "options": [
+        "A. Ensure low accuracy and higher precision to ensure the estimates become more accurate as the project unfolds",
+        "B. Work to reduce the range through further analysis and refinement",
+        "C. Accept the range as final since it represents team consensus",
+        "D. Expand the range to account for additional contingencies"
+      ],
+      "answer": "A",
+      "explanation": "Accuracy refers to the size of the range—a wide range indicates low accuracy. Precision refers to the specificity of the estimate (e.g., days vs. weeks). The 53–75 day range shows low accuracy but high precision. As the project unfolds and the team gains better information, estimates naturally become more accurate with tighter ranges. This is the expected behavior as project definition improves.",
+      "difficulty": "expert",
+      "topic": "Estimating Accuracy and Precision",
+      "domain": 2,
+      "source_id": "yt_005",
+      "chunk_index": 10,
+      "video_segment": "1:40:54→1:50:59"
+    },
+    {
+      "question": "You are working on a business case where you know that the industry is undergoing a significant change at the moment and there could be many different impacts to your project benefits before it is delivered completely. Your project sponsor asks you for the best estimate of benefits you can give under the circumstances. What will you do next?",
+      "options": [
+        "A. Ask your team for a probabilistic estimate",
+        "B. Ask your team for a deterministic estimate",
+        "C. Ask your team for an absolute estimate",
+        "D. Ask your team for a relative estimate"
+      ],
+      "answer": "A",
+      "explanation": "A probabilistic estimate provides a range of estimates with associated probabilities, which is ideal when there is significant uncertainty and multiple potential outcomes due to environmental changes. Probabilistic estimates include confidence levels or probability distributions. Deterministic estimates provide a single specific number, which is inappropriate given the high uncertainty. Relative estimates are better suited for comparing story sizes in agile environments rather than for benefits estimation under uncertainty.",
+      "difficulty": "expert",
+      "topic": "Probabilistic vs. Deterministic Estimating",
+      "domain": 2,
+      "source_id": "yt_005",
+      "chunk_index": 10,
+      "video_segment": "1:40:54→1:50:59"
+    },
+    {
+      "question": "You have noted nine epics for delivery as part of your most recent project. Your team has broken down these epics into user stories and would like to see the effort involved for these deliverables. You ask your team to find the smallest user story, size it with a one, and then determine the size of the other cards based on how they compare to the original card. What approach are you taking?",
+      "options": [
+        "A. Relative estimating",
+        "B. Deterministic estimating",
+        "C. Absolute estimating",
+        "D. Probabilistic estimating"
+      ],
+      "answer": "A",
+      "explanation": "Relative estimating compares items to a baseline or reference item. By sizing the smallest story as a one and then sizing other stories in relation to that baseline (e.g., two, three, based on comparative size), you are using relative estimating. This approach is commonly used with Fibonacci sequences in agile estimation. Deterministic and absolute estimating assign specific numbers without comparison. Probabilistic estimating involves probability distributions and uncertainty ranges.",
+      "difficulty": "expert",
+      "topic": "Relative Estimating",
+      "domain": 2,
+      "source_id": "yt_005",
+      "chunk_index": 10,
+      "video_segment": "1:40:54→1:50:59"
+    },
+    {
+      "question": "You are working on a project where a competitor is also working on a similar feature and being first to the market will have a significant impact on this year's profit. Your product owner would like to measure how quickly story cards are being completed once they start being developed. What will you do next?",
+      "options": [
+        "A. Check the Gantt chart",
+        "B. Check the Schedule Network and precedence diagram",
+        "C. Measure the cycle time",
+        "D. Measure the lead time"
+      ],
+      "answer": "C",
+      "explanation": "Cycle time measures the total elapsed time it takes one unit to get through a process from when a developer starts work until completion. This directly answers the question of how quickly story cards are being completed once development begins. Lead time is the total time from when the requirement is noted until delivery to the customer, which is broader than just the development phase. Gantt charts and Schedule Network diagrams are traditional schedule tools that do not directly measure flow or cycle-based metrics.",
+      "difficulty": "expert",
+      "topic": "Flow-Based Estimating and Cycle Time",
+      "domain": 2,
+      "source_id": "yt_005",
+      "chunk_index": 10,
+      "video_segment": "1:40:54→1:50:59"
+    }
+  ]
+}

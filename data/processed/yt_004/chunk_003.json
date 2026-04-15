@@ -1,0 +1,213 @@
+{
+  "source_id": "yt_004",
+  "chunk_index": 3,
+  "start_label": "30:23",
+  "end_label": "40:30",
+  "mode": "generate",
+  "questions": [
+    {
+      "question": "Your project team discovers that a newly implemented feature violates an international compliance standard that was recently introduced. The feature is 80% complete and the team is eager to finish it. What should you do first?",
+      "options": [
+        "A. Continue development while documenting the compliance concern for post-release remediation",
+        "B. Immediately pause work on the feature and conduct a detailed review against the standard",
+        "C. Escalate to the compliance officer and let them decide whether to continue or pause",
+        "D. Request a waiver from the compliance team to allow the feature to proceed"
+      ],
+      "answer": "B",
+      "explanation": "Pausing work and reviewing the standard ensures deliverables meet regulatory and business requirements before proceeding. Continuing development (A) creates compliance risk and rework. While escalation (C) may eventually occur, the PM's responsibility is to first assess the issue; requesting a waiver (D) bypasses proper compliance evaluation and creates organizational risk.",
+      "difficulty": "easy",
+      "topic": "Compliance and Regulatory Requirements",
+      "domain": 3,
+      "source_id": "yt_004",
+      "chunk_index": 3,
+      "video_segment": "30:23→40:30"
+    },
+    {
+      "question": "Due to geopolitical disruptions, your construction project is experiencing significant shipping delays that are driving costs up by 15%. The project is still in the early execution phase. What is your best immediate action?",
+      "options": [
+        "A. Escalate to the sponsor and request additional budget to cover the overruns",
+        "B. Revise the project baseline to reflect the new cost reality and continue work",
+        "C. Conduct a comprehensive risk analysis and develop contingency mitigation strategies",
+        "D. Pause project work until shipping normalizes and geopolitical conditions improve"
+      ],
+      "answer": "C",
+      "explanation": "Conducting risk analysis identifies mitigation strategies—alternative suppliers, local sourcing, schedule adjustments—that address external disruptions strategically. Escalating immediately (A) bypasses PM problem-solving responsibility. Revising the baseline (B) without mitigation analysis locks in the problem. Pausing work (D) may not resolve underlying supply chain issues and wastes project momentum.",
+      "difficulty": "medium",
+      "topic": "Risk Management and External Disruptions",
+      "domain": 3,
+      "source_id": "yt_004",
+      "chunk_index": 3,
+      "video_segment": "30:23→40:30"
+    },
+    {
+      "question": "Your organization has just introduced new diversity and inclusion policies requiring specific workforce representation on all projects. Your current resource plan does not reflect these requirements. How should you address this organizational change?",
+      "options": [
+        "A. Modify the Resource Management Plan to ensure compliance with the new organizational policies",
+        "B. Request that HR implement the diversity policies at the portfolio level, not the project level",
+        "C. Update the Project Charter to include diversity goals as formal project constraints",
+        "D. Escalate the conflict between resource availability and diversity requirements to senior management"
+      ],
+      "answer": "A",
+      "explanation": "The Resource Management Plan is the appropriate document to incorporate organizational policies and external requirements, ensuring alignment with organizational goals. Pushing to portfolio level (B) abdicates project accountability. The Charter (C) documents constraints but doesn't operationalize resource allocation. Escalating prematurely (D) avoids the PM's responsibility to integrate organizational directives into planning.",
+      "difficulty": "medium",
+      "topic": "Organizational Change and Policy Alignment",
+      "domain": 3,
+      "source_id": "yt_004",
+      "chunk_index": 3,
+      "video_segment": "30:23→40:30"
+    },
+    {
+      "question": "A mid-project stakeholder requests a detailed cost breakdown to evaluate ROI, citing concerns about project profitability. Your project has experienced some cost variances. What should you do before providing the breakdown?",
+      "options": [
+        "A. Provide the breakdown immediately to demonstrate transparency and maintain stakeholder confidence",
+        "B. Conduct a cost variance analysis to ensure the breakdown reflects actual performance vs. baseline",
+        "C. Inform the stakeholder that cost analysis is outside project scope and direct them to finance",
+        "D. Escalate the request to the finance department and let them prepare the analysis"
+      ],
+      "answer": "B",
+      "explanation": "Variance analysis ensures provided information accurately reflects actual performance against baseline, enabling informed ROI discussions. Immediate provision (A) may present inaccurate data without context. Refusing (C) damages stakeholder relationships and trust. Delegating entirely (D) removes the PM from control of project financial narrative and stakeholder communication.",
+      "difficulty": "medium",
+      "topic": "Benefits Realization and Stakeholder Communication",
+      "domain": 3,
+      "source_id": "yt_004",
+      "chunk_index": 3,
+      "video_segment": "30:23→40:30"
+    },
+    {
+      "question": "Your organization's new executive leadership announces revised strategic objectives that differ from your project's original scope. Your project is 30% complete. What should you do first?",
+      "options": [
+        "A. Review the project's current alignment with the new strategic objectives to determine impact",
+        "B. Revise the Project Charter immediately to incorporate the new strategic direction",
+        "C. Notify all stakeholders of potential delays while leadership clarifies expectations",
+        "D. Halt project work until senior management provides explicit guidance on the changes"
+      ],
+      "answer": "A",
+      "explanation": "Assessing alignment with new objectives first allows you to determine whether changes are needed and what level of revision is required, ensuring strategic value. Revising the Charter immediately (B) assumes changes are necessary without analysis. Notifying of delays (C) before understanding impact creates unnecessary panic. Halting work (D) is premature without understanding the actual scope of required adjustments.",
+      "difficulty": "medium",
+      "topic": "Strategic Alignment and Organizational Change",
+      "domain": 3,
+      "source_id": "yt_004",
+      "chunk_index": 3,
+      "video_segment": "30:23→40:30"
+    },
+    {
+      "question": "During a sprint review, a high-value stakeholder requests a feature enhancement that would require 15% additional budget and extend the timeline by one sprint. How should you respond?",
+      "options": [
+        "A. Reject the request immediately, as it violates the approved project baseline",
+        "B. Add the enhancement to the product backlog for future prioritization and evaluation",
+        "C. Escalate to the project sponsor for authorization to increase budget and timeline",
+        "D. Request the Product Owner negotiate scope reduction elsewhere to accommodate the enhancement"
+      ],
+      "answer": "B",
+      "explanation": "Agile practice emphasizes iterative prioritization; adding to the backlog allows the team and PO to evaluate against other work and make informed decisions at the appropriate time. Outright rejection (A) limits organizational adaptability. Escalating immediately (C) bypasses the PO's prioritization authority and responsibility. Negotiating reduction (D) may create quality issues and should be the PO's decision, not imposed by PM.",
+      "difficulty": "medium",
+      "topic": "Benefits Realization and Agile Scope Management",
+      "domain": 3,
+      "source_id": "yt_004",
+      "chunk_index": 3,
+      "video_segment": "30:23→40:30"
+    },
+    {
+      "question": "A senior stakeholder unfamiliar with iterative development is expressing resistance and frustration with the agile approach, questioning why the project lacks detailed upfront specifications. This resistance is creating tension within the team. What should you prioritize?",
+      "options": [
+        "A. Escalate the stakeholder conflict to the Product Owner for resolution",
+        "B. Conduct an educational workshop to help the stakeholder understand agile principles and benefits",
+        "C. Adjust the methodology to incorporate detailed upfront specifications to satisfy the stakeholder",
+        "D. Limit the stakeholder's visibility to sprint reviews to reduce their concerns about process"
+      ],
+      "answer": "B",
+      "explanation": "Education addresses the root cause—misunderstanding of agile—building stakeholder buy-in and collaboration. Escalation (A) avoids the PM's responsibility for stakeholder management. Methodology adjustment (C) compromises agile benefits and sets unsustainable precedent. Limiting visibility (D) damages transparency and trust, and may increase rather than decrease resistance.",
+      "difficulty": "hard",
+      "topic": "Organizational Change Management and Stakeholder Engagement",
+      "domain": 3,
+      "source_id": "yt_004",
+      "chunk_index": 3,
+      "video_segment": "30:23→40:30"
+    },
+    {
+      "question": "Local environmental activists have mobilized opposition to your infrastructure project, raising ecological concerns that could trigger regulatory review delays. Senior management is uncertain whether to halt or proceed. What is your first action as project manager?",
+      "options": [
+        "A. Escalate immediately to senior management and legal teams to handle the external relations",
+        "B. Engage directly with the activists to understand their specific concerns and explore alignment",
+        "C. Halt project work pending regulatory review to demonstrate the organization's environmental commitment",
+        "D. Revise the Project Charter to add environmental sustainability as a formal project objective"
+      ],
+      "answer": "B",
+      "explanation": "Direct engagement with external stakeholders ensures you understand their concerns, identify potential mitigation, and build collaborative relationships—reducing resistance and regulatory risk. Escalating first (A) loses the opportunity for direct problem-solving and delays resolution. Halting work (C) may be necessary but only after understanding the actual scope of concern. Revising the Charter (D) is a reactive response that doesn't address the underlying engagement problem.",
+      "difficulty": "hard",
+      "topic": "External Stakeholder Engagement and Compliance",
+      "domain": 3,
+      "source_id": "yt_004",
+      "chunk_index": 3,
+      "video_segment": "30:23→40:30"
+    },
+    {
+      "question": "Your hybrid project team identifies an opportunity to reduce costs by 12% through local resource sourcing instead of the contracted international supplier. The quality specifications appear comparable, but implementation timing is tight. What is your best approach?",
+      "options": [
+        "A. Update the Procurement Management Plan immediately and implement the change to capture savings",
+        "B. Inform stakeholders about the potential cost savings and proceed with the switch",
+        "C. Perform a cost-benefit analysis that evaluates quality, risk, schedule, and financial implications",
+        "D. Implement the change on a pilot basis to test the local resources before full commitment"
+      ],
+      "answer": "C",
+      "explanation": "Cost-benefit analysis ensures that apparent savings don't create hidden risks—such as quality degradation, schedule slippage, or supply reliability issues—enabling informed decision-making. Immediate implementation (A) bypasses analysis and risk assessment. Informing stakeholders (B) before analysis pressures premature commitment. Pilot approach (D), while cautious, delays capturing savings and creates additional complexity; analysis should come first.",
+      "difficulty": "hard",
+      "topic": "Benefits Realization and Risk-Aware Decision Making",
+      "domain": 3,
+      "source_id": "yt_004",
+      "chunk_index": 3,
+      "video_segment": "30:23→40:30"
+    },
+    {
+      "question": "Regulatory changes mandate additional documentation and compliance checkpoints for your project, which is in its final month. Implementing these requirements would delay completion by 3 weeks. The sponsor wants project closure as scheduled. What is your priority?",
+      "options": [
+        "A. Include the documentation tasks in the project closure checklist and complete them post-launch",
+        "B. Escalate the compliance requirements to the regulatory body requesting an exemption for near-complete projects",
+        "C. Conduct a comprehensive impact assessment on the project schedule, cost, and regulatory risk",
+        "D. Request a project extension from the sponsor to accommodate the new regulatory requirements"
+      ],
+      "answer": "C",
+      "explanation": "Impact assessment quantifies the trade-off between schedule impact and regulatory/legal risk, enabling the sponsor to make an informed decision about prioritization. Deferring documentation (A) may create legal exposure and is often not an option for compliance requirements. Requesting exemption (B) is unlikely to succeed and wastes time. Requesting extension (D) may be the right decision, but only after you've quantified what's actually at stake.",
+      "difficulty": "hard",
+      "topic": "Compliance Management and Risk Trade-offs",
+      "domain": 3,
+      "source_id": "yt_004",
+      "chunk_index": 3,
+      "video_segment": "30:23→40:30"
+    },
+    {
+      "question": "A stakeholder proposes adopting an emerging technology that could enhance project outcomes and competitive advantage, but it requires two weeks of integration work, introduces vendor dependency, and carries adoption risk for the team. How should you respond?",
+      "options": [
+        "A. Reject the proposal due to schedule impact and the risk of vendor dependency",
+        "B. Evaluate the feasibility, ROI, and risk profile of the technology against project objectives",
+        "C. Implement the technology immediately to capture the competitive advantage before it's too late",
+        "D. Add the proposal to the project risk register and re-evaluate in the next phase"
+      ],
+      "answer": "B",
+      "explanation": "Feasibility and ROI analysis—including risk assessment—ensures new technology decisions are made on evidence, not excitement or fear. Rejection without analysis (A) may lose strategic value; acceptance without analysis (C) creates rework and risk. Deferring to the risk register (D) avoids timely decision-making when the technology may still be integrated if justified.",
+      "difficulty": "expert",
+      "topic": "Strategic Alignment, Benefits Realization, and Risk Management",
+      "domain": 3,
+      "source_id": "yt_004",
+      "chunk_index": 3,
+      "video_segment": "30:23→40:30"
+    },
+    {
+      "question": "Your organization is implementing a new enterprise-wide project portfolio approach that requires all ongoing projects to undergo strategic alignment review and potential reprioritization. Your project is staffed, funded, and in execution. Senior leadership indicates portfolio management decisions may result in scope reduction or project termination. How should you approach this organizational change?",
+      "options": [
+        "A. Continue full project execution while waiting for portfolio review results to avoid project momentum loss",
+        "B. Conduct a strategic alignment assessment against organizational objectives while maintaining current execution pace",
+        "C. Halt all non-essential project work pending portfolio review completion and leadership direction",
+        "D. Engage your sponsor to advocate for your project's funding and prioritization within the portfolio process"
+      ],
+      "answer": "B",
+      "explanation": "Proactively assessing alignment while maintaining momentum demonstrates PM maturity and readiness—giving leadership clear data for portfolio decisions without losing project progress or creating rework. Continuing without assessment (A) risks misalignment and wasted effort if portfolio decisions change priorities. Halting work (C) creates unnecessary delays and signals lack of confidence in project value. Engaging sponsor advocacy (D) is appropriate but secondary to providing objective alignment analysis; advocacy without analysis undermines credibility.",
+      "difficulty": "expert",
+      "topic": "Strategic Alignment, Organizational Change, and Portfolio Governance",
+      "domain": 3,
+      "source_id": "yt_004",
+      "chunk_index": 3,
+      "video_segment": "30:23→40:30"
+    }
+  ]
+}

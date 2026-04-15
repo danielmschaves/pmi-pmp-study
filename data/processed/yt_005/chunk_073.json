@@ -1,0 +1,60 @@
+{
+  "source_id": "yt_005",
+  "chunk_index": 73,
+  "start_label": "12:17:26",
+  "end_label": "12:27:31",
+  "mode": "extract",
+  "questions": [
+    {
+      "question": "You have recently taken over a project. Your project team approached you to say that there is a regulatory approval that has not been granted yet and it might block development of your project in the next 5 months. You check your project documentation but cannot see any mention of this. What will you do next?",
+      "options": [
+        "A. Hold a risk review meeting, capture it as a risk, and ensure an adequate risk response",
+        "B. Hold a retrospective with your team to capture what challenges the team are facing",
+        "C. Adjust your product roadmap to reflect the changes to the timeframe of that deliverable",
+        "D. Escalate the regulatory approval to the project steering committee"
+      ],
+      "answer": "A",
+      "explanation": "This is a future event that may or may not happen—a classic definition of a risk before it becomes an issue. The best approach is to hold a risk review meeting to capture it as a risk, analyze it, and determine an adequate risk response. Escalating it removes the project manager's responsibility to manage the risk, retrospectives are for improving team processes rather than identifying and managing risks, and adjusting the roadmap prematurely is not advisable when the regulatory approval status is uncertain.",
+      "difficulty": "expert",
+      "topic": "Risk Management and Risk Review",
+      "domain": 2,
+      "source_id": "yt_005",
+      "chunk_index": 73,
+      "video_segment": "12:17:26→12:27:31"
+    },
+    {
+      "question": "You are an agile project manager holding daily standups with your team. You notice people accusing other team members of not doing their job and there are some tasks that are not mentioned anywhere and no one is responsible for. The team velocity has slowed in the last three Sprints. What will you do next?",
+      "options": [
+        "A. Refer to the team charter to clarify team roles and agreed ways of managing conflict",
+        "B. Raise it as an issue in the next retrospective and come to a solution with the team",
+        "C. Assign team roles to those you think are best suited",
+        "D. Work with your team to size user stories correctly so velocity improves"
+      ],
+      "answer": "B",
+      "explanation": "Since tasks are not mentioned anywhere and roles are not defined in the team charter, referring to the charter would not help. The agile approach is to problem-solve with the team in a retrospective—a regularly occurring workshop where the team explores their work to improve their process and product. This allows the team to collaboratively identify missing tasks, clarify responsibilities, and address conflicts. While assigning roles unilaterally might seem efficient, agile emphasizes team collaboration and self-organization.",
+      "difficulty": "expert",
+      "topic": "Agile Retrospectives and Team Dynamics",
+      "domain": 1,
+      "source_id": "yt_005",
+      "chunk_index": 73,
+      "video_segment": "12:17:26→12:27:31"
+    },
+    {
+      "question": "You are managing a large construction project. Due to some delays, the project schedule has been pushed back by one week. As a result, one of the project risks has increased slightly but is still within the acceptable limits. What will you do next?",
+      "options": [
+        "A. Hold a risk review and update the risk response and owners",
+        "B. Raise a change request for the change to the project schedule",
+        "C. Capture the change in your project reporting and take it to the next status meeting",
+        "D. Update the Sprint backlog to reflect the delayed work"
+      ],
+      "answer": "C",
+      "explanation": "Since the risk has increased slightly but remains within acceptable limits, there is no immediate need to update the risk response or owners. A change request is unnecessary as the schedule change has already occurred. Updating the Sprint backlog is not applicable to a large construction project. The best practice is to capture the change and communicate it through your status meeting to keep stakeholders informed about project progress and performance. Communication and transparency are key components of project management.",
+      "difficulty": "expert",
+      "topic": "Status Reporting and Stakeholder Communication",
+      "domain": 2,
+      "source_id": "yt_005",
+      "chunk_index": 73,
+      "video_segment": "12:17:26→12:27:31"
+    }
+  ]
+}

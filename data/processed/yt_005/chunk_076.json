@@ -1,0 +1,77 @@
+{
+  "source_id": "yt_005",
+  "chunk_index": 76,
+  "start_label": "12:47:45",
+  "end_label": "12:57:52",
+  "mode": "extract",
+  "questions": [
+    {
+      "question": "You are working on an agile project where your senior developer raises a concern during the daily standup that the system doesn't seem to be able to connect to some parts of the organization after a feature upgrade release. What should you do next?",
+      "options": [
+        "A. Replan the project to ensure the correct scope is worked on that will connect to the organization",
+        "B. Assign it to a responsible party and work with them to find a resolution",
+        "C. Raise the concern as a risk and brainstorm risk responses",
+        "D. Escalate the issue to the technical managers so they can resolve it"
+      ],
+      "answer": "B",
+      "explanation": "This is an active issue that has already occurred and is impacting the project. The correct process is to raise it in the issue log, assign it to a responsible party, and work with them to find a resolution. Option C is incorrect because the problem has already happened, making it an issue rather than a risk. Option D is too narrow—while technical managers may be involved, the issue should be assigned to the responsible party who may not necessarily be a technical manager.",
+      "difficulty": "expert",
+      "topic": "Issue Log Management",
+      "domain": 2,
+      "source_id": "yt_005",
+      "chunk_index": 76,
+      "video_segment": "12:47:45→12:57:52"
+    },
+    {
+      "question": "You are working on a hybrid project to replace an aging customer system. A change request has been approved by the Change Control Board for a missing key requirement found by a senior user that was not included in the baselined project scope. What should you do next?",
+      "options": [
+        "A. Place the new requirement into the Sprint backlog for the next Sprint",
+        "B. Elaborate on the requirement and turn it into user stories and acceptance criteria",
+        "C. Add the missing requirement to the issue log and problem solve with your team to ensure it does not happen again",
+        "D. Note the outcome in the change log and communicate it to your stakeholders"
+      ],
+      "answer": "D",
+      "explanation": "After the Change Control Board has approved the change request, the first step in the Change Control process is to note the outcome in the change log and communicate it to affected stakeholders. Only after this communication should you elaborate on the requirement, turn it into user stories, place it in the Sprint backlog, and later problem solve during the retrospective to prevent similar issues in the future.",
+      "difficulty": "expert",
+      "topic": "Change Control Process",
+      "domain": 2,
+      "source_id": "yt_005",
+      "chunk_index": 76,
+      "video_segment": "12:47:45→12:57:52"
+    },
+    {
+      "question": "You are working on an agile project where your project team has raised multiple risks to project delivery, some of which may impact your cost and schedule significantly. Your program manager asks you to manage them using a risk adjusted backlog. What will you do next?",
+      "options": [
+        "A. Adjust your risk register to include the work not completed if the risks are triggered",
+        "B. Adjust your backlog velocity so that your end date is not impacted by the raised risks",
+        "C. Gather risk mitigation responses from your retrospectives and assign them to an owner",
+        "D. Place at least one risk response into each Sprint in your backlog so they are managed and closed"
+      ],
+      "answer": "D",
+      "explanation": "A risk adjusted backlog includes both regular work and actions to address threats and opportunities. The correct approach is to place risk responses into each Sprint as backlog items so they are actively worked on and managed. This ensures that risk mitigation becomes part of the iterative delivery process rather than being handled separately.",
+      "difficulty": "expert",
+      "topic": "Risk Adjusted Backlog",
+      "domain": 2,
+      "source_id": "yt_005",
+      "chunk_index": 76,
+      "video_segment": "12:47:45→12:57:52"
+    },
+    {
+      "question": "You are delivering a project to a functional area in your organization. The project is highly complex and there are many risks to project delivery. The functional manager would like to see the biggest risks that are assigned to her. What will you do next?",
+      "options": [
+        "A. Show her the risk management plan",
+        "B. Show her the risk register",
+        "C. Show her the qualitative risk assessment",
+        "D. Place the risks into the risk adjusted backlog"
+      ],
+      "answer": "B",
+      "explanation": "The risk register is the appropriate artifact to show because it contains all the necessary information about risks including the person responsible for managing each risk, probability and impact, and planned risk responses. The risk management plan describes the process for managing risks rather than listing specific risks. The qualitative risk assessment provides only impact and likelihood information without the complete risk details needed.",
+      "difficulty": "expert",
+      "topic": "Risk Register",
+      "domain": 2,
+      "source_id": "yt_005",
+      "chunk_index": 76,
+      "video_segment": "12:47:45→12:57:52"
+    }
+  ]
+}

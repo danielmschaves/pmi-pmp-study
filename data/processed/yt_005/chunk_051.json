@@ -1,0 +1,77 @@
+{
+  "source_id": "yt_005",
+  "chunk_index": 51,
+  "start_label": "8:35:09",
+  "end_label": "8:45:15",
+  "mode": "extract",
+  "questions": [
+    {
+      "question": "You are working on a business case where you know that the industry is undergoing a significant change at the moment and there could be many different impacts to your project benefits before it is delivered completely. Your project sponsor asks you for the best estimate of benefits that you can give under the circumstances. What will you do next?",
+      "options": [
+        "A. Ask your team for a probabilistic estimate",
+        "B. Ask your team for a deterministic estimate",
+        "C. Ask your team for an absolute estimate",
+        "D. Ask your team for a relative estimate"
+      ],
+      "answer": "A",
+      "explanation": "Probabilistic estimates include a range of estimates along with associated probabilities, which is appropriate when there is uncertainty and significant environmental change. A deterministic or absolute estimate would be a specific fixed number, which is not suitable when the environment is changing and impacts are uncertain. Relative estimates are used for comparing items to each other (common in agile), not for estimating absolute benefit values. In conditions of uncertainty with multiple potential impacts, a probabilistic approach with confidence levels or probability distributions is the best approach.",
+      "difficulty": "expert",
+      "topic": "Estimating (Probabilistic vs. Deterministic Approaches)",
+      "domain": 2,
+      "source_id": "yt_005",
+      "chunk_index": 51,
+      "video_segment": "8:35:09→8:45:15"
+    },
+    {
+      "question": "You have noted nine epics for delivery as part of your most recent project. Your team have broken down these epics into user stories and would like to see the effort involved for these deliverables. You ask your team to find the smallest user story, size it with a one, and then determine the size of the other cards based on how they compare to the original card. What approach are you taking?",
+      "options": [
+        "A. Relative estimating",
+        "B. Deterministic estimating",
+        "C. Absolute estimating",
+        "D. Probabilistic estimating"
+      ],
+      "answer": "A",
+      "explanation": "This approach describes relative estimating, where you establish a baseline (the smallest user story sized as one) and then estimate all other items in comparison to that baseline. This is commonly used in agile environments and forms the basis for story point estimation. Deterministic and absolute estimating produce specific fixed numbers. Probabilistic estimating involves probability ranges and confidence levels, not comparative sizing.",
+      "difficulty": "expert",
+      "topic": "Relative Estimating",
+      "domain": 2,
+      "source_id": "yt_005",
+      "chunk_index": 51,
+      "video_segment": "8:35:09→8:45:15"
+    },
+    {
+      "question": "You are working on a project where a competitor is also working on a similar feature and being first to the market will have a significant impact on this year's profit. Your product owner would like to measure how quickly story cards are being completed once they start being developed. What will you do next?",
+      "options": [
+        "A. Check the Gantt chart",
+        "B. Check the schedule network and precedent diagram",
+        "C. Measure the cycle time",
+        "D. Measure the lead time"
+      ],
+      "answer": "C",
+      "explanation": "Cycle time is the total elapsed time it takes one unit to get through a process from when a developer starts picking it up until they complete their work. This directly measures how quickly story cards are being completed once development begins. Lead time measures from when the customer makes an order or requirement is noted until delivery, which is broader than what is being asked. Gantt charts and network diagrams are schedule tools not specifically designed to measure card completion speed in a flow-based process.",
+      "difficulty": "expert",
+      "topic": "Flow-Based Estimating (Lead Time and Cycle Time)",
+      "domain": 2,
+      "source_id": "yt_005",
+      "chunk_index": 51,
+      "video_segment": "8:35:09→8:45:15"
+    },
+    {
+      "question": "You are working on a project that has recently moved to a more agile way of work. The team have not completely taken on the scrum approach however and are comfortable working with a more flow-based approach, moving user stories across a kanban board. You are wanting to get an estimate on how much work can be completed in the next three months based on the team's existing process progress. What will you do next?",
+      "options": [
+        "A. Multiply the velocity by the number of remaining user stories",
+        "B. Multiply the cycle time by the throughput",
+        "C. Use story points to forecast delivery",
+        "D. Calculate sprint burn-down rate"
+      ],
+      "answer": "B",
+      "explanation": "In a flow-based (kanban) approach, you multiply the cycle time (average time for each user story to be completed) by the throughput (how many user stories are being completed per unit time, such as per week or month) to forecast how much work can be completed in three months. Multiplying velocity by remaining user stories is a scrum-specific approach. Story points and sprint burn-down rates are also scrum-specific metrics, not appropriate for a flow-based kanban process.",
+      "difficulty": "expert",
+      "topic": "Flow-Based Scheduling and Forecasting",
+      "domain": 2,
+      "source_id": "yt_005",
+      "chunk_index": 51,
+      "video_segment": "8:35:09→8:45:15"
+    }
+  ]
+}

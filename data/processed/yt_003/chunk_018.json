@@ -1,0 +1,111 @@
+{
+  "source_id": "yt_003",
+  "chunk_index": 18,
+  "start_label": "4:31:48",
+  "end_label": "4:46:52",
+  "mode": "extract",
+  "questions": [
+    {
+      "question": "You are working as a project manager on a regulatory change for your organization. You notice that the team are not communicating as well as they could be and you put together a plan to improve team communication by increasing its effectiveness and richness. What will you do?",
+      "options": [
+        "A. Include methods that will handle multiple information cues such as body language, voice, and words combined to give you the message",
+        "B. Facilitate rapid feedback to ensure everyone is on the same page",
+        "C. Utilize natural language so that none of this jargon or fancy other language is used",
+        "D. Include ways to get sign off in writing so it can be recorded and reviewed later when needed"
+      ],
+      "answer": "A",
+      "explanation": "According to Alistair Cockburn's Crystal methodology, media richness and effectiveness of communication channels is best achieved by handling multiple information cues (body language, voice, words), enabling rapid feedback, establishing personal focus, and utilizing natural language. Answer A directly addresses the core principle of effectiveness and richness by including methods to handle multiple information cues, which are the foundational elements of the Crystal framework for communication effectiveness.",
+      "difficulty": "hard",
+      "topic": "Team Communication and Effectiveness",
+      "domain": 1,
+      "source_id": "yt_003",
+      "chunk_index": 18,
+      "video_segment": "4:31:48→4:46:52"
+    },
+    {
+      "question": "Your deliverables have been signed off by the product owner and they are ready to be released to the customer, which is the financial analytics team of your organization. The new system will be quite a change from their normal day-to-day work. The team already have the desire to use the new system. What will you do next?",
+      "options": [
+        "A. Develop a vision and explain the why behind the change",
+        "B. Use training and education to show them the new processes and systems",
+        "C. Give them unlimited hands-on practice so they can get used to the new system",
+        "D. Include rewards, recognition, feedback, and measurement once the system is released"
+      ],
+      "answer": "B",
+      "explanation": "According to the ADCAR model for change management (Awareness, Desire, Knowledge, Ability, Reinforcement), the sequence of steps is critical. Since the team already has the desire for change, the next step is knowledge, which includes training and education for the new processes and systems. Answer A would be premature since they already have desire. Answer C (hands-on practice) comes after knowledge. Answer D (rewards and recognition) comes during the reinforcement phase.",
+      "difficulty": "hard",
+      "topic": "Change Management and ADCAR Model",
+      "domain": 3,
+      "source_id": "yt_003",
+      "chunk_index": 18,
+      "video_segment": "4:31:48→4:46:52"
+    },
+    {
+      "question": "You are leading a large organizational change that affects more than a thousand people across multiple teams. You have engaged with senior managers of that area, created a brief vision statement that summarizes the change, and created a strategy to realize the vision. You communicate the vision throughout the change process. What will you do next?",
+      "options": [
+        "A. Release multiple usable features to the affected teams so they can get used to the change gradually",
+        "B. Anchor the changes into corporate culture so we can tell success stories and recognize people",
+        "C. Address any obstacles to the change, including outdated processes and people resistance",
+        "D. Set goals for continued improvement on the change throughout the organization"
+      ],
+      "answer": "C",
+      "explanation": "According to Kotter's eight-step process for leading change, the sequence is: 1) Create urgency, 2) Form a coalition, 3) Create a vision, 4) Communicate the vision, 5) Remove obstacles, 6) Create short-term wins, 7) Build on the change, 8) Anchor in corporate culture. Since you have already communicated the vision, the next step is to remove obstacles. Anchoring in culture (B) comes last. Short-term wins (A) and goals for improvement (D) come after removing obstacles.",
+      "difficulty": "hard",
+      "topic": "Kotter's Eight-Step Process for Leading Change",
+      "domain": 3,
+      "source_id": "yt_003",
+      "chunk_index": 18,
+      "video_segment": "4:31:48→4:46:52"
+    },
+    {
+      "question": "You are a project manager assessing the risk of future releases with your team. You have a clear set of requirements from your customer, however there are a range of possible correct solutions. There are a range of known unknowns. How are you going to approach this situation?",
+      "options": [
+        "A. Use current best practices to make decisions",
+        "B. Assess the facts, analyze the situation, and apply known good practices",
+        "C. Use emergent practices that will allow you to probe the environment, sense the situation, and respond with action",
+        "D. Sense where there is some stability and take steps to try and stabilize the situation"
+      ],
+      "answer": "B",
+      "explanation": "This scenario describes the Cynefin framework's 'Complicated' domain, characterized by known unknowns and a range of correct answers. In the Complicated domain, the appropriate approach is to assess the facts, analyze the situation, and apply good practices. Answer C (emergent practices and probing) applies to the Complex domain (unknown unknowns). Answer D (stabilizing) applies to the Chaotic domain. Answer A (best practices alone without analysis) is insufficient for complicated situations.",
+      "difficulty": "hard",
+      "topic": "Cynefin Framework and Complexity Models",
+      "domain": 2,
+      "source_id": "yt_003",
+      "chunk_index": 18,
+      "video_segment": "4:31:48→4:46:52"
+    },
+    {
+      "question": "You have been asked to initiate a project to deliver a new system. The requirements are not clear and it will take some time to uncover them. The system has been used by some team members but not all, and it has a medium level of uncertainty around it. How are you going to approach this project?",
+      "options": [
+        "A. Release small usable features and improve your approach based on feedback",
+        "B. Do additional planning up front to ensure every component is thought of",
+        "C. Split the team into two and work on different parts of the system to simplify it",
+        "D. Form a business case for starting from scratch with new, easier-to-use technology"
+      ],
+      "answer": "A",
+      "explanation": "According to the Stacy Matrix, which assesses uncertainty in requirements and technology, this project falls in the 'Complex' domain due to medium uncertainty. In complex environments, agile methodologies work best, utilizing iterative delivery of small usable features and responding to feedback to progressively clarify requirements. Answer B would not help reduce uncertainty quickly. Answer C fragments the team. Answer D is a major overhaul that delays value delivery.",
+      "difficulty": "hard",
+      "topic": "Stacy Matrix and Agile Methodologies",
+      "domain": 2,
+      "source_id": "yt_003",
+      "chunk_index": 18,
+      "video_segment": "4:31:48→4:46:52"
+    },
+    {
+      "question": "Your project team came together from different parts of the organization and were introduced formally to each other. You notice that there is some conflict in the team. Some people do not respect others' decisions and are not working together well, and there are some personality clashes within the team. What are you going to do next?",
+      "options": [
+        "A. Help team members get to know each other's names",
+        "B. Help the team understand their roles and responsibilities and form a regular rhythm of meetings, collaboration, and work",
+        "C. Help the team jockey for position within the team and foster healthy conflict",
+        "D. Help the team complete project work and disperse onto other things"
+      ],
+      "answer": "B",
+      "explanation": "According to Tuckman's stages of team development (Forming, Storming, Norming, Performing), the team is in the Storming phase, characterized by conflict and jockeying for position. The appropriate intervention is to help establish clarity around roles, responsibilities, and working rhythms to move toward the Norming phase. Answer A is too basic for this stage. Answer C would encourage unhealthy competition rather than resolve conflict. Answer D represents the final Adjourning phase, not the current need.",
+      "difficulty": "hard",
+      "topic": "Tuckman's Stages of Team Development",
+      "domain": 1,
+      "source_id": "yt_003",
+      "chunk_index": 18,
+      "video_segment": "4:31:48→4:46:52"
+    }
+  ]
+}

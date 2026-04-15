@@ -1,0 +1,111 @@
+{
+  "source_id": "yt_002",
+  "chunk_index": 0,
+  "start_label": "0:00",
+  "end_label": "15:07",
+  "mode": "extract",
+  "questions": [
+    {
+      "question": "The project manager is facing some struggles after joining a new company. Her superiors noted that during a kickoff meeting, she had difficulty answering questions about how the project fits in with the organization's objectives. What critical skill is the project manager lacking?",
+      "options": [
+        "A. Business acumen",
+        "B. Ways of working",
+        "C. Communication skills",
+        "D. Power skills"
+      ],
+      "answer": "A",
+      "explanation": "According to PMI's triangle of talent, business acumen is the skill needed to explain the business value of a project and how it aligns with the organization's goals. Communication skills are part of power skills, and ways of working is a separate skill category. The project manager's difficulty in understanding organizational objectives directly relates to business acumen.",
+      "difficulty": "hard",
+      "topic": "Talent Management and PMI Competencies",
+      "domain": 1,
+      "source_id": "yt_002",
+      "chunk_index": 0,
+      "video_segment": "0:00→15:07"
+    },
+    {
+      "question": "A project manager is assigned to an eco-friendly packaging project. In order to manage involved stakeholders, the project manager starts by analyzing their power, urgency, and legitimacy. Which analysis method is the project manager applying?",
+      "options": [
+        "A. Stakeholder cube",
+        "B. Salience model",
+        "C. Power interest grid",
+        "D. Power influence grid"
+      ],
+      "answer": "B",
+      "explanation": "The salience model classifies stakeholders based on three parameters: power, urgency, and legitimacy. The stakeholder cube uses interest, power, and attitude. The power interest grid uses only power and interest. The power influence grid uses power and influence. Since the project manager is specifically using power, urgency, and legitimacy, the salience model is the correct method.",
+      "difficulty": "hard",
+      "topic": "Stakeholder Analysis and Management",
+      "domain": 1,
+      "source_id": "yt_002",
+      "chunk_index": 0,
+      "video_segment": "0:00→15:07"
+    },
+    {
+      "question": "A project manager notices that his colleague, who is a fellow project manager, shows up at the office with new high-tech gadgets every day. This raises his suspicion that his colleague might be accepting gifts from hardware vendors who will be bidding on one of their company's upcoming multi-million dollar contracts. What should the project manager do next?",
+      "options": [
+        "A. Warn the concerned colleague that such gifts aren't appropriate and leave it at that",
+        "B. Convince his colleague to return the items and stop accepting any gifts from vendors",
+        "C. Verify whether these items were gifts from vendors or he purchased them himself",
+        "D. Report his colleague to the organization so that a conflict of interest investigation can take place"
+      ],
+      "answer": "C",
+      "explanation": "Since the project manager only has suspicions and no confirmed facts, verification is the appropriate next step before taking action. Warning the colleague (A) assumes guilt without proof. Convincing the colleague to return items (B) also assumes they are gifts. Reporting directly to the organization (D) is premature without confirmed facts. The project manager should verify the facts first by asking the colleague directly, and then take appropriate steps based on the answer.",
+      "difficulty": "hard",
+      "topic": "Professional Ethics and Conflict of Interest",
+      "domain": 1,
+      "source_id": "yt_002",
+      "chunk_index": 0,
+      "video_segment": "0:00→15:07"
+    },
+    {
+      "question": "A project manager is working on a contract. Now that she completed the contract and closed the project, the project manager is out of work. What type of organizational structure does the project manager work in?",
+      "options": [
+        "A. Strong matrix",
+        "B. Projectized",
+        "C. Functional",
+        "D. Weak matrix"
+      ],
+      "answer": "B",
+      "explanation": "In a projectized organization, resources are brought together specifically for the purpose of a project and are released or transitioned to another project when the project is complete. The project manager has high to almost total authority and works full-time. In functional organizations, project managers work part-time with little authority. In matrix organizations, project managers share authority with functional managers.",
+      "difficulty": "hard",
+      "topic": "Organizational Structures",
+      "domain": 3,
+      "source_id": "yt_002",
+      "chunk_index": 0,
+      "video_segment": "0:00→15:07"
+    },
+    {
+      "question": "After deciding to invest more in the project management capabilities of the organization, a PMO is established to ensure compliance with a set of project management standards. What type of PMO is the organization implementing?",
+      "options": [
+        "A. Supportive",
+        "B. Controlling",
+        "C. Directive",
+        "D. Agile"
+      ],
+      "answer": "B",
+      "explanation": "A controlling PMO focuses on supporting the organization in applying project management practices and requiring compliance with these practices. A supportive PMO provides consultative support without enforcement. A directive PMO takes over projects and controls them directly rather than just requiring compliance. Agile is a project management approach, not a PMO type, though agile organizations may have value delivery offices.",
+      "difficulty": "hard",
+      "topic": "Project Management Office (PMO) Functions",
+      "domain": 3,
+      "source_id": "yt_002",
+      "chunk_index": 0,
+      "video_segment": "0:00→15:07"
+    },
+    {
+      "question": "In an interior design project for a library, the client asks the project team to increase the number of bookshelves beyond what was agreed on. Since the project is unscheduled and adding additional shelves will not cause any delay, the project manager consents to the client's request. This is an example of either gold plating, customer obsession, scope creep, or successful project management. Which is it?",
+      "options": [
+        "A. Gold plating",
+        "B. Customer obsession",
+        "C. Scope creep",
+        "D. Successful project"
+      ],
+      "answer": "C",
+      "explanation": "This is scope creep because the project manager accepted a change request without following the integrated change control process. Gold plating occurs when the project team makes unauthorized improvements on their own, not when the client requests changes. Scope creep is the uncontrolled expansion of project scope, which is what occurred here despite the lack of schedule impact. The project manager should have assessed the change from all perspectives and followed the change control process rather than making the decision based solely on schedule impact. This is not successful project management because proper change control was not followed.",
+      "difficulty": "hard",
+      "topic": "Scope Management and Change Control",
+      "domain": 2,
+      "source_id": "yt_002",
+      "chunk_index": 0,
+      "video_segment": "0:00→15:07"
+    }
+  ]
+}

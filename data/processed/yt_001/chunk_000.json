@@ -1,0 +1,111 @@
+{
+  "source_id": "yt_001",
+  "chunk_index": 0,
+  "start_label": "0:00",
+  "end_label": "15:07",
+  "mode": "extract",
+  "questions": [
+    {
+      "question": "A project manager is planning the construction of a new public library. The community and project stakeholders are having difficulty agreeing on the key features to be included in the final design. What should the project manager do?",
+      "options": [
+        "A. Facilitate a workshop to gather input from all stakeholders",
+        "B. Define the difference between essential and non-essential features",
+        "C. Involve a design consultant to mediate stakeholder discussions",
+        "D. Identify the root cause of the stakeholder inability to agree on the project scope"
+      ],
+      "answer": "D",
+      "explanation": "Before taking action to solve a problem, the project manager must first understand the root cause of the problem. Options A, B, and C are all action-oriented solutions, but they skip the critical step of diagnosing the underlying issue. Identifying the root cause allows the PM to make an informed decision about which solution to implement. The key principle is: do not take action unless you first understand the problem.",
+      "difficulty": "expert",
+      "topic": "Stakeholder Engagement, Problem-Solving",
+      "domain": 1,
+      "source_id": "yt_001",
+      "chunk_index": 0,
+      "video_segment": "0:00→15:07"
+    },
+    {
+      "question": "A project manager convenes an emergency session with the software development team to address significant bugs that are delaying the project's delivery. The product owner suggests conducting a root cause analysis to identify the underlying issues. What should the project manager do?",
+      "options": [
+        "A. Collaborate with the team to discuss the RCA suggestion and decide collectively on the next step",
+        "B. Encourage a lead developer to take charge of the RCA, fostering team autonomy",
+        "C. Coordinate with the quality assurance lead to refine testing processes based on the RCA outcome",
+        "D. Organize the session to ensure all team members contribute their insights and potential solutions"
+      ],
+      "answer": "A",
+      "explanation": "This is an agile project, indicated by the mention of a product owner. In agile, the team is self-directing and self-leading. When a suggestion is made (such as conducting an RCA), the team must decide collectively whether to implement it, rather than having the PM or another individual impose it. This respects the team's autonomy and self-direction. Options B, C, and D either delegate responsibility away or focus on implementation without team consensus.",
+      "difficulty": "expert",
+      "topic": "Agile Project Management, Team Leadership",
+      "domain": 1,
+      "source_id": "yt_001",
+      "chunk_index": 0,
+      "video_segment": "0:00→15:07"
+    },
+    {
+      "question": "A project manager overseeing the launch of a new e-commerce platform discovers that the finance department has concerns about not being involved in the cost estimations and their potential impact on the project returns. What should the project manager do first?",
+      "options": [
+        "A. Amend the stakeholder engagement plan to better integrate finance in future plans",
+        "B. Document the exclusion of the finance team as a risk to project success",
+        "C. Maintain the project timeline, plan, and financial review before the final phase",
+        "D. Organize a meeting with the finance team to understand their concerns"
+      ],
+      "answer": "D",
+      "explanation": "The question specifically asks what should be done first. Before amending the engagement plan, documenting risks, or taking any other action, the PM must first understand the stakeholders' concerns. This is consistent with the principle established in question 1: understand the problem before taking action. Only after meeting with the finance team and understanding their specific concerns can the PM determine the appropriate response.",
+      "difficulty": "expert",
+      "topic": "Stakeholder Management, Engagement Planning",
+      "domain": 1,
+      "source_id": "yt_001",
+      "chunk_index": 0,
+      "video_segment": "0:00→15:07"
+    },
+    {
+      "question": "As part of a project to integrate a new security feature into an online shopping platform, stakeholders have shown concerns over understanding the integration process during the planning phase. What should the project manager do to enhance stakeholder understanding of the integration?",
+      "options": [
+        "A. Schedule regular demonstration sessions during each sprint to show progress and integration steps",
+        "B. Arrange for the technical team to provide a detailed explanation before each sprint begins",
+        "C. Organize a training session to educate stakeholders on technical aspects of the integration",
+        "D. Provide detailed documentation on the integration process prior to the start of each sprint phase"
+      ],
+      "answer": "A",
+      "explanation": "In agile projects, sprint review meetings with demonstrations are the standard mechanism for keeping stakeholders informed and engaged. Regular demonstrations allow stakeholders to see tangible progress and understand how the integration is working without requiring them to understand technical details. Stakeholders, especially customers, care about functionality and results, not technical implementation details. Option B requires unnecessary technical detail, Option C educates on aspects stakeholders don't need to understand, and Option D provides documentation that stakeholders may not be able to comprehend.",
+      "difficulty": "expert",
+      "topic": "Agile Communication, Stakeholder Engagement",
+      "domain": 1,
+      "source_id": "yt_001",
+      "chunk_index": 0,
+      "video_segment": "0:00→15:07"
+    },
+    {
+      "question": "A project manager is preparing for the sprint planning sessions for a new feature in a healthcare system. This meeting aims to determine the amount of work for the upcoming sprint. Which two pieces of information are essential for the project manager to ensure the meeting is productive and efficient?",
+      "options": [
+        "A. Team performance metrics and a detailed product backlog",
+        "B. Updated risk assessment and product marketplace goals",
+        "C. Current project phase timeline and stakeholder feedback",
+        "D. Resource availability and project phase dependencies"
+      ],
+      "answer": "A",
+      "explanation": "Sprint planning requires the team to decide what work they can accomplish in the upcoming sprint. To do this, they need: (1) the product backlog, which contains the prioritized user stories and work items to choose from, and (2) team performance metrics (velocity), which tells them how much work they can realistically complete based on their historical performance. Without knowing their velocity, the team cannot accurately commit to a sprint's work. Risk assessments, marketplace goals, timelines, and resource availability are not primary inputs to sprint planning.",
+      "difficulty": "expert",
+      "topic": "Agile Planning, Sprint Planning",
+      "domain": 2,
+      "source_id": "yt_001",
+      "chunk_index": 0,
+      "video_segment": "0:00→15:07"
+    },
+    {
+      "question": "A project manager is leading an internet-based biotechnology research project characterized by significant ambiguity and unpredictability. A suggestion has been made to introduce a system to ensure quality of the project outputs effectively. Which hybrid technique should the project manager employ to ensure quality assurance?",
+      "options": [
+        "A. Combine weekly sprints with quarterly external audits to validate project standards",
+        "B. Merge traditional milestone reviews with agile sprint demonstrations",
+        "C. Adapt peer programming and customer feedback sessions",
+        "D. Integrate continuous integration tools with formal quality control checkpoints"
+      ],
+      "answer": "C",
+      "explanation": "Quality is ultimately measured by customer satisfaction. Peer programming (a practice from extreme programming where one developer writes code while another reviews it in real-time) ensures high quality output through continuous review during development. Combined with customer feedback sessions, this approach ensures quality is continuously validated from the customer's perspective. Option A focuses on audits rather than building quality in. Option B mixes methodologies without addressing quality assurance specifically. Option D focuses on technical tools rather than human-centered quality practices that involve customer input.",
+      "difficulty": "expert",
+      "topic": "Quality Assurance, Agile Quality Management",
+      "domain": 2,
+      "source_id": "yt_001",
+      "chunk_index": 0,
+      "video_segment": "0:00→15:07"
+    }
+  ]
+}

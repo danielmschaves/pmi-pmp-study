@@ -1,0 +1,111 @@
+{
+  "source_id": "yt_002",
+  "chunk_index": 7,
+  "start_label": "1:45:48",
+  "end_label": "2:00:56",
+  "mode": "extract",
+  "questions": [
+    {
+      "question": "A project manager is leading a project outside of her expertise field. During a planning meeting, two team members engage in a heated debate concerning the suitable way to implement a certain project requirement. What should the project manager do?",
+      "options": [
+        "A. Put an end to the discussion to avoid getting the meeting out of control",
+        "B. Help team members decide the best way to implement the concerned requirement",
+        "C. Inform team members that the final decision should be taken by her after listening to their opinions",
+        "D. Let the most experienced team member decide"
+      ],
+      "answer": "B",
+      "explanation": "The project manager should facilitate the discussion by helping team members reach a collaborative decision. Since the PM lacks technical expertise, she should not make the decision herself (C is wrong). Simply ending the discussion (A) does not resolve the issue. Forcing the most experienced member to decide (D) is an authoritarian approach that does not encourage collaboration. The PM's role is to facilitate problem-solving among subject matter experts on the team.",
+      "difficulty": "hard",
+      "topic": "Conflict Resolution and Facilitation",
+      "domain": 1,
+      "source_id": "yt_002",
+      "chunk_index": 7,
+      "video_segment": "1:45:48→2:00:56"
+    },
+    {
+      "question": "A project manager is assigned to manage a software development project. When she came across one of the project's key stakeholders in the company's hallway, the project manager seized the opportunity to get his feedback. The key stakeholder was impressed with the project's progress and requested from the project manager to urgently add a new user story to improve the product's user interface. What should the project manager do next?",
+      "options": [
+        "A. Welcome the stakeholder's request and add the user story to the sprint backlog",
+        "B. Add the user story to the product backlog and schedule it for the next sprint to protect the team from disruption",
+        "C. Add the user story to the product backlog and let the product owner decide its priority",
+        "D. Refuse to create the user story since it is the product owner's responsibility to maintain and refine the product backlog"
+      ],
+      "answer": "C",
+      "explanation": "The correct approach is to add the user story to the product backlog and allow the product owner to prioritize it. Option A is incorrect because adding it directly to the sprint backlog disrupts the current sprint without product owner approval. Option B is wrong because the project manager should not make prioritization decisions—that is the product owner's responsibility. Option D is incorrect because anyone can submit user stories; the product owner's responsibility is to prioritize and refine them. The product owner maintains final authority over the product backlog.",
+      "difficulty": "hard",
+      "topic": "Agile/Scrum Project Management",
+      "domain": 2,
+      "source_id": "yt_002",
+      "chunk_index": 7,
+      "video_segment": "1:45:48→2:00:56"
+    },
+    {
+      "question": "A project involved dozens of stakeholders. Most of them need high-level information and updates about the project status, while the rest need more detailed information and frequent updates. Therefore, the project manager decides to set up an action plan to respond to these different requirements. What should the project manager create?",
+      "options": [
+        "A. Power interest grid",
+        "B. Stakeholder register",
+        "C. Stakeholder engagement plan",
+        "D. Stakeholder engagement assessment metrics"
+      ],
+      "answer": "C",
+      "explanation": "A stakeholder engagement plan is the appropriate document that sets up strategies and actions to ensure positive and effective involvement of all stakeholders based on their specific needs. A power interest grid is merely a mapping technique and does not include action plans. A stakeholder register is a list of stakeholders with contact information but lacks detailed engagement strategies. Stakeholder engagement assessment metrics assess stakeholder support levels (supportive, neutral, resistant) but do not provide an action plan for responding to different information requirements.",
+      "difficulty": "hard",
+      "topic": "Stakeholder Engagement Planning",
+      "domain": 1,
+      "source_id": "yt_002",
+      "chunk_index": 7,
+      "video_segment": "1:45:48→2:00:56"
+    },
+    {
+      "question": "A project manager joins a company which has recently gone through major organizational changes. The new project manager is very concerned about the team's lack of motivation and closely monitors when they arrive and leave work. What type of management style does the new project manager exhibit?",
+      "options": [
+        "A. Theory X",
+        "B. Theory Y",
+        "C. Theory Z",
+        "D. Theory XY"
+      ],
+      "answer": "A",
+      "explanation": "The project manager is exhibiting Theory X management style, which is characterized by authoritarian, repressive control with tight oversight and no development opportunities for team members. The close monitoring of arrival and departure times reflects a command-and-control approach typical of Theory X. Theory Y, by contrast, is a liberating and open style that empowers team members and supports their continuous improvement. Theory Z focuses on long-term fulfillment and retention through collaboration, which is not reflected in this scenario.",
+      "difficulty": "hard",
+      "topic": "Leadership Styles and Motivation",
+      "domain": 1,
+      "source_id": "yt_002",
+      "chunk_index": 7,
+      "video_segment": "1:45:48→2:00:56"
+    },
+    {
+      "question": "The project manager has developed the project schedule using the network diagramming method and has calculated the overall project duration. However, the project manager was surprised to find three critical paths. What should the project manager do next?",
+      "options": [
+        "A. Approve the network diagram and closely monitor all three critical paths",
+        "B. Approve the network diagram and closely monitor the longest path among the three",
+        "C. Re-examine the network diagram since it is supposed to only have one critical path",
+        "D. Re-examine the network diagram since it is not supposed to have more than two critical paths"
+      ],
+      "answer": "A",
+      "explanation": "It is possible and acceptable to have multiple critical paths in a network diagram. When three critical paths exist, they all have the same duration and any delay in any task on any of these paths will delay the project. Multiple critical paths increase project risk because there are more tasks that are critical. Option B is incorrect because if there are three critical paths, they must have equal length by definition. Options C and D are incorrect because having multiple critical paths is a valid scenario—the diagram does not need to be re-examined. The project manager should approve the diagram and monitor all critical paths carefully due to increased risk.",
+      "difficulty": "hard",
+      "topic": "Network Diagramming and Critical Path Analysis",
+      "domain": 2,
+      "source_id": "yt_002",
+      "chunk_index": 7,
+      "video_segment": "1:45:48→2:00:56"
+    },
+    {
+      "question": "A project manager is assigned to lead a construction project for the first time. Three months in, the project manager notes that the running cost is higher than expected. He decides to assess the project's financial status by calculating the difference between the earned value and the actual cost. What is the project manager calculating?",
+      "options": [
+        "A. Cost performance index",
+        "B. Cost variance",
+        "C. Planned value",
+        "D. To-complete performance index"
+      ],
+      "answer": "B",
+      "explanation": "Cost variance is calculated as the difference between earned value and actual cost (EV − AC). Cost performance index is a ratio, not a difference, so it is incorrect. Planned value is a baseline metric defined during planning and is not calculated from a difference. The to-complete performance index projects future performance and is not a simple difference calculation. The question specifically asks for a calculation of the difference, which defines variance, not an index or a single value.",
+      "difficulty": "hard",
+      "topic": "Earned Value Management",
+      "domain": 2,
+      "source_id": "yt_002",
+      "chunk_index": 7,
+      "video_segment": "1:45:48→2:00:56"
+    }
+  ]
+}

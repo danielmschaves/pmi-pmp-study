@@ -1,0 +1,45 @@
+sources:
+- id: yt_001
+  type: youtube
+  url: https://www.youtube.com/watch?v=1sWpc6765AI
+  domain: null
+  topic: PMP Exam Practice — 200 Ultra Hard Questions
+  mode: extract
+  difficulty_override: expert
+  chunk_minutes: 15
+  status: processed
+- id: yt_002
+  type: youtube
+  url: https://www.youtube.com/watch?v=AKeTkzzcwmE
+  domain: null
+  topic: PMP Exam Practice Questions
+  mode: extract
+  difficulty_override: hard
+  chunk_minutes: 15
+  status: processed
+- id: yt_003
+  type: youtube
+  url: https://www.youtube.com/watch?v=Zht0-j03NfQ
+  domain: null
+  topic: PMP Exam Practice Questions
+  mode: extract
+  difficulty_override: hard
+  chunk_minutes: 15
+  status: processed
+- id: yt_004
+  type: youtube
+  url: https://www.youtube.com/watch?v=wjG8XX1cPz0
+  domain: 3
+  topic: PMP Business Environment — Benefits Realization, Compliance, Org Change,
+    Strategy
+  mode: generate
+  chunk_minutes: 10
+  status: processed
+- id: yt_005
+  type: youtube_playlist
+  url: https://www.youtube.com/playlist?list=PLEWFSKHjyrwyyYTnBXYHmIbm-2vVP5Wfg
+  domain: null
+  topic: PMP Playlist
+  mode: extract
+  chunk_minutes: 10
+  status: processed

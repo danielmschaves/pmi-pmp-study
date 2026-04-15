@@ -1,0 +1,213 @@
+{
+  "source_id": "yt_004",
+  "chunk_index": 0,
+  "start_label": "0:00",
+  "end_label": "10:06",
+  "mode": "generate",
+  "questions": [
+    {
+      "question": "A project manager learns that new government regulations require additional compliance documentation for project deliverables. What should the project manager do first?",
+      "options": [
+        "A. Update the risk register with the new regulatory requirement",
+        "B. Perform an impact assessment to understand how the regulation affects scope, schedule, and budget",
+        "C. Escalate immediately to the steering committee for approval",
+        "D. Communicate the regulatory change to all project stakeholders"
+      ],
+      "answer": "B",
+      "explanation": "The correct answer is B. Before taking any other action, the project manager must assess the impact of the new regulation on project parameters. This foundational step informs all downstream decisions including risk management, baseline adjustments, and escalation needs. Option A (updating the risk register) is premature without first understanding the full scope of impact. Options C and D are actions that follow the impact assessment, not precede it.",
+      "difficulty": "easy",
+      "topic": "Compliance and regulatory impact management",
+      "domain": 3,
+      "source_id": "yt_004",
+      "chunk_index": 0,
+      "video_segment": "0:00→10:06"
+    },
+    {
+      "question": "A key stakeholder requests that the project incorporate emerging market trends that were not in the original project charter. How should the project manager respond?",
+      "options": [
+        "A. Immediately incorporate the requested changes to maintain stakeholder satisfaction",
+        "B. Evaluate the business value and strategic alignment of the change request before deciding",
+        "C. Reject the request outright because the project scope is frozen",
+        "D. Forward the request to the project sponsor without analysis or recommendation"
+      ],
+      "answer": "B",
+      "explanation": "The correct answer is B. A disciplined project manager must evaluate whether the requested changes support benefits realization and strategic alignment before committing resources. This prevents scope creep and ensures changes serve organizational goals. Option A bypasses governance and may waste resources on non-aligned changes. Option C is too rigid—legitimate strategic opportunities should be assessed, not automatically rejected. Option D abdicates the PM's analytical responsibility.",
+      "difficulty": "medium",
+      "topic": "Change evaluation and strategic alignment",
+      "domain": 3,
+      "source_id": "yt_004",
+      "chunk_index": 0,
+      "video_segment": "0:00→10:06"
+    },
+    {
+      "question": "During sprint planning in an agile project, the team realizes that critical regulatory compliance tasks were not included in the backlog. What should the project manager do?",
+      "options": [
+        "A. Add the compliance tasks to the next sprint backlog for continuous improvement",
+        "B. Immediately halt the current sprint and replan all remaining sprints",
+        "C. Escalate to leadership and delay the project until compliance is fully reviewed",
+        "D. Create a separate compliance project to address this gap outside the agile cadence"
+      ],
+      "answer": "A",
+      "explanation": "The correct answer is A. Agile methodology embraces iterative refinement; incorporating overlooked requirements into the next sprint iteration maintains project momentum while ensuring compliance is addressed. Option B is an overreaction that disrupts velocity unnecessarily. Option C introduces delays that agile methodology is designed to avoid. Option D fragments the work and creates coordination challenges. Agile teams regularly integrate new requirements into upcoming iterations.",
+      "difficulty": "medium",
+      "topic": "Agile compliance and iterative improvement",
+      "domain": 3,
+      "source_id": "yt_004",
+      "chunk_index": 0,
+      "video_segment": "0:00→10:06"
+    },
+    {
+      "question": "A project manager managing a hybrid project observes that economic inflation has significantly increased material costs mid-project. What should the project manager prioritize?",
+      "options": [
+        "A. Request additional contingency funds from the sponsor to cover overruns",
+        "B. Re-evaluate the cost baseline and adjust financial forecasts to reflect new market conditions",
+        "C. Source cheaper alternative materials immediately to preserve the original budget",
+        "D. Notify stakeholders that project delays are now inevitable due to cost pressures"
+      ],
+      "answer": "B",
+      "explanation": "The correct answer is B. The project manager must first establish accurate financial forecasting based on current economic realities. This creates the foundation for informed decisions about contingency use, baseline changes, and sponsor communication. Option A (requesting funds) is premature without updated analysis. Option C may compromise quality without understanding full impacts. Option D is defeatist and assumes no mitigation strategies exist. Accurate forecasting enables appropriate responses to changed business conditions.",
+      "difficulty": "medium",
+      "topic": "Cost management under changing business conditions",
+      "domain": 3,
+      "source_id": "yt_004",
+      "chunk_index": 0,
+      "video_segment": "0:00→10:06"
+    },
+    {
+      "question": "A project sponsor informs a waterfall project manager that a competitor has released a similar product ahead of schedule, creating market urgency. How should the project manager respond?",
+      "options": [
+        "A. Immediately compress the project schedule to match the competitor's delivery timeline",
+        "B. Analyze the competitor's product and modify project scope to differentiate offerings",
+        "C. Conduct a risk analysis to assess competitive threat implications before deciding on response strategy",
+        "D. Request emergency resources to accelerate all remaining project phases"
+      ],
+      "answer": "C",
+      "explanation": "The correct answer is C. Before making reactive decisions, the project manager must analyze the competitive threat systematically. This assessment informs whether schedule acceleration, scope modifications, or other strategies are appropriate and feasible. Option A is a reactive schedule crash that may introduce unacceptable risks without analysis. Option B assumes differentiation is the right strategy without first understanding the threat. Option D assumes resource addition solves the problem, which may not be true. Risk analysis ensures decisions align with organizational strategy and project constraints.",
+      "difficulty": "hard",
+      "topic": "Competitive threat assessment and business environment response",
+      "domain": 3,
+      "source_id": "yt_004",
+      "chunk_index": 0,
+      "video_segment": "0:00→10:06"
+    },
+    {
+      "question": "A project manager identifies that recently introduced corporate sustainability policies may conflict with current project deliverables. What should the project manager do first?",
+      "options": [
+        "A. Update the project risk register to document the policy conflict",
+        "B. Escalate to the sustainability officer to determine if deliverables are compliant",
+        "C. Assess the impact of the new policy on project deliverables and objectives",
+        "D. Submit a change request to modify project objectives to align with sustainability policy"
+      ],
+      "answer": "C",
+      "explanation": "The correct answer is C. The project manager must first understand how the sustainability policy affects project deliverables before determining next steps. This impact assessment is foundational to all subsequent decisions—risk documentation, escalation, and change requests. Option A (risk register update) follows the impact assessment, not precedes it. Option B escalates prematurely without internal analysis. Option D assumes modification is necessary before understanding the actual gaps. A thorough impact assessment ensures informed decision-making.",
+      "difficulty": "medium",
+      "topic": "Policy impact assessment and organizational compliance",
+      "domain": 3,
+      "source_id": "yt_004",
+      "chunk_index": 0,
+      "video_segment": "0:00→10:06"
+    },
+    {
+      "question": "In an agile project, a stakeholder expresses strong resistance to adopting iterative deliverables and prefers waiting for a complete, finished product at project end. What is the best approach for the project manager?",
+      "options": [
+        "A. Escalate the stakeholder's resistance to the sponsor for executive intervention",
+        "B. Organize a stakeholder engagement workshop to address concerns and align expectations with agile principles",
+        "C. Continue with planned iterations as scheduled, regardless of the stakeholder's preference",
+        "D. Delay the project until the resistant stakeholder agrees to iterative delivery"
+      ],
+      "answer": "B",
+      "explanation": "The correct answer is B. Effective stakeholder engagement is essential for organizational change adoption. A workshop allows the PM to educate the stakeholder about iterative benefits, address specific concerns, and build alignment. Option A escalates prematurely without attempting direct engagement. Option C ignores legitimate stakeholder concerns and risks project acceptance. Option D treats stakeholder buy-in as optional, when it is critical for benefits realization. Direct engagement is the most effective change management approach.",
+      "difficulty": "medium",
+      "topic": "Stakeholder engagement and organizational change management",
+      "domain": 3,
+      "source_id": "yt_004",
+      "chunk_index": 0,
+      "video_segment": "0:00→10:06"
+    },
+    {
+      "question": "A hybrid project is mid-delivery when the client introduces a new sustainability requirement that was not in the original scope. What should the project manager do first?",
+      "options": [
+        "A. Revise the project schedule immediately to accommodate the new requirement",
+        "B. Perform an impact analysis to determine how the requirement affects scope, cost, and schedule",
+        "C. Escalate to the project sponsor for funding approval before proceeding",
+        "D. Include the requirement in the next deliverable release without detailed analysis"
+      ],
+      "answer": "B",
+      "explanation": "The correct answer is B. Before committing to schedule changes or escalating, the project manager must quantify the impact of the new requirement. This impact analysis reveals whether the requirement is achievable within existing baselines or requires formal change control. Option A implements changes without understanding costs. Option C escalates prematurely without data to support the request. Option D bypasses governance and risks delivering poor-quality work. Impact analysis is the foundation for informed decisions on scope changes.",
+      "difficulty": "medium",
+      "topic": "Mid-project change impact analysis",
+      "domain": 3,
+      "source_id": "yt_004",
+      "chunk_index": 0,
+      "video_segment": "0:00→10:06"
+    },
+    {
+      "question": "A competitor unexpectedly launches a similar product ahead of the original market timeline. What should the project manager prioritize in communicating this development?",
+      "options": [
+        "A. Expedite project delivery to match or beat the competitor's timeline regardless of risk",
+        "B. Notify stakeholders of the competitive risk and its potential impact on project value and strategy",
+        "C. Modify project scope to add features that differentiate from the competitor's offering",
+        "D. Request additional resources to improve product quality beyond original specifications"
+      ],
+      "answer": "B",
+      "explanation": "The correct answer is B. The project manager's primary responsibility is informing stakeholders so they can make strategic decisions. This creates transparency and enables organizational response planning. Option A assumes schedule acceleration is the right response without strategic analysis. Option C may not address the core competitive threat. Option D assumes resource addition adds value without strategic context. Timely communication of competitive risks enables informed decision-making by leadership.",
+      "difficulty": "hard",
+      "topic": "Risk communication and business environment monitoring",
+      "domain": 3,
+      "source_id": "yt_004",
+      "chunk_index": 0,
+      "video_segment": "0:00→10:06"
+    },
+    {
+      "question": "A project manager discovers that changes in government policy may impact project funding availability. What should the project manager do first?",
+      "options": [
+        "A. Update the project charter to reflect anticipated funding reductions",
+        "B. Conduct a risk assessment to identify potential funding impacts and mitigation options",
+        "C. Notify the finance department to halt all project expenditures immediately",
+        "D. Modify the project baseline budget to align with predicted funding levels"
+      ],
+      "answer": "B",
+      "explanation": "The correct answer is B. Before taking action on funding, the project manager must assess the probability and magnitude of the policy impact. This risk assessment provides data for decisions about baseline adjustments, contingency use, and sponsor communication. Option A (charter update) is premature without understanding actual funding impact. Option C creates unnecessary project disruption. Option D assumes the policy impact is certain before assessment. A systematic risk assessment ensures decisions are based on analysis, not assumptions.",
+      "difficulty": "medium",
+      "topic": "Funding risk and policy impact management",
+      "domain": 3,
+      "source_id": "yt_004",
+      "chunk_index": 0,
+      "video_segment": "0:00→10:06"
+    },
+    {
+      "question": "An agile project team's initial deliverable is rejected by the local market, revealing misalignment between team assumptions and actual customer needs. What is the most appropriate next step?",
+      "options": [
+        "A. Pause the project to conduct a comprehensive market research study before proceeding",
+        "B. Incorporate market feedback directly into the next sprint iteration for rapid product improvement",
+        "C. Escalate the market rejection to the product owner and wait for strategic direction",
+        "D. Cancel the project due to market rejection and redirect resources elsewhere"
+      ],
+      "answer": "B",
+      "explanation": "The correct answer is B. Agile methodology is designed precisely for this scenario—rapid feedback loops enable teams to incorporate learnings into the next iteration. This approach accelerates course correction and benefits realization. Option A introduces delays that negate agile's responsiveness advantage. Option C abdicates the team's ability to respond iteratively (the PO should be informed but the team should proceed with feedback integration). Option D is premature—one rejected iteration does not mean the project is unviable. Agile thrives on iterative feedback incorporation.",
+      "difficulty": "hard",
+      "topic": "Agile feedback integration and benefits realization",
+      "domain": 3,
+      "source_id": "yt_004",
+      "chunk_index": 0,
+      "video_segment": "0:00→10:06"
+    },
+    {
+      "question": "A project manager learns that geopolitical tensions may disrupt supply chains critical to project delivery. The project currently has 8 months remaining. What should the project manager do first?",
+      "options": [
+        "A. Immediately source alternative suppliers from less affected regions to mitigate disruption",
+        "B. Conduct a supply chain risk assessment to identify vulnerabilities and develop mitigation strategies",
+        "C. Request the sponsor to extend the timeline to account for potential supply delays",
+        "D. Accelerate procurement to build inventory before geopolitical conditions worsen"
+      ],
+      "answer": "B",
+      "explanation": "The correct answer is B. Before implementing costly mitigation actions, the project manager must assess which supply chain elements are vulnerable and which are resilient. This risk assessment informs proportionate responses. Option A (alternative sourcing) may be unnecessary if vulnerabilities are limited. Option C extends timeline preemptively without understanding actual risk probability. Option D ties up capital on inventory that may not be needed. A systematic supply chain risk assessment enables efficient, targeted mitigation.",
+      "difficulty": "expert",
+      "topic": "Geopolitical risk and supply chain business environment analysis",
+      "domain": 3,
+      "source_id": "yt_004",
+      "chunk_index": 0,
+      "video_segment": "0:00→10:06"
+    }
+  ]
+}

@@ -1,0 +1,128 @@
+{
+  "source_id": "yt_003",
+  "chunk_index": 16,
+  "start_label": "4:01:38",
+  "end_label": "4:16:43",
+  "mode": "extract",
+  "questions": [
+    {
+      "question": "How do you manage risk on an agile project?",
+      "options": [
+        "A. Hold a risk meeting but only with the immediate project team to avoid unnecessary participants",
+        "B. Use daily standups to report blockers early, hold fortnightly demonstrations to catch stakeholder dissatisfaction, use the kanban board to see work flow, and recognize that risk review can surface threats and opportunities through retrospectives",
+        "C. There is no need for a separate meeting as risk is everyone's responsibility in an agile team",
+        "D. Use only the kanban board to visualize work and uncover risks"
+      ],
+      "answer": "B",
+      "explanation": "In agile teams, risk review takes multiple forms including daily standups for reporting blockers that could become threats, frequent product demonstrations to surface threats and opportunities, and retrospectives. While quality is everyone's responsibility, the approach integrates risk management throughout agile ceremonies rather than in a separate meeting.",
+      "difficulty": "hard",
+      "topic": "Risk Management in Agile",
+      "domain": 2,
+      "source_id": "yt_003",
+      "chunk_index": 16,
+      "video_segment": "4:01:38→4:16:43"
+    },
+    {
+      "question": "Your project management office has no prescribed way of work and is working with a vendor who supplies an extreme programming framework at a significant cost. Projects are still running behind schedule, over budget, and with low customer satisfaction. What should you do?",
+      "options": [
+        "A. Tailor the approach to suit the organization's operating environment and project needs",
+        "B. Use a waterfall approach instead to ensure the proper planning",
+        "C. Switch to scrum instead since it is a more popular framework",
+        "D. Tighten controls around the project environment with a more directive PMO approach"
+      ],
+      "answer": "A",
+      "explanation": "Projects operate in complex environments with competing demands. Tailoring is performed to better suit the organization's operating environment and project needs. Simply switching frameworks or tightening controls without tailoring to the specific context will not address the root issues.",
+      "difficulty": "hard",
+      "topic": "Tailoring and Development Approach Selection",
+      "domain": 3,
+      "source_id": "yt_003",
+      "chunk_index": 16,
+      "video_segment": "4:01:38→4:16:43"
+    },
+    {
+      "question": "Your project management office is in the middle of a company-wide ways of working transformation. They have taken a popular project framework and are tailoring it to the organization with branded templates and processes that meet their existing governance requirements. You have been asked to help finalize the process. What will you do next?",
+      "options": [
+        "A. Gather feedback from the functional business areas to ensure the process meets their needs",
+        "B. Roll out the new way of working to the PMO as a pilot, then to the rest of the organization",
+        "C. Enable a process for tailoring based on size and complexity and implement ongoing improvement",
+        "D. Form a working group comprised of executives and project professionals"
+      ],
+      "answer": "C",
+      "explanation": "The tailoring process includes: select the initial development approach, tailor for the organization, tailor for the project, and implement ongoing improvement. This answer encompasses both enabling tailoring flexibility and the continuous improvement cycle needed for organizational change.",
+      "difficulty": "hard",
+      "topic": "Tailoring and Organizational Transformation",
+      "domain": 3,
+      "source_id": "yt_003",
+      "chunk_index": 16,
+      "video_segment": "4:01:38→4:16:43"
+    },
+    {
+      "question": "You are a manager of a PMO in a large organization that has recently undertaken a company-wide way of working transformation. You need to select an initial development approach for your project, which you will then tailor further. What will you do next?",
+      "options": [
+        "A. Use a framework that best engages your executive team through easy-to-use graphics and presentations",
+        "B. Select the most popular current framework to keep up with what other organizations are doing",
+        "C. Select multiple development approaches as a baseline for your organization",
+        "D. Use a suitability filter to assess the most appropriate development approach"
+      ],
+      "answer": "D",
+      "explanation": "A suitability filter helps project teams consider whether a project has characteristics that lend themselves towards a predictive, hybrid, or adaptive approach. You then select one as the base and enable the ability to tailor to your project or organization's circumstances, rather than being influenced by popular frameworks or executive preferences.",
+      "difficulty": "hard",
+      "topic": "Initial Development Approach Selection",
+      "domain": 3,
+      "source_id": "yt_003",
+      "chunk_index": 16,
+      "video_segment": "4:01:38→4:16:43"
+    },
+    {
+      "question": "Your organization is starting to move to an agile way of work and is setting up a value delivery office (VDO) to complement the existing PMO. Executives have begun working through what the function looks like and what roles and responsibilities might exist. They approach you for help. What will you tell them?",
+      "options": [
+        "A. The VDO is responsible for the value delivered and owns the programs within the organization",
+        "B. The VDO focuses on coaching project teams, building adaptive skills, growing organizational capabilities, and mentoring sponsors and product owners to be more effective",
+        "C. The VDO is responsible for agile resources such as scrum masters and product owners to be allocated effectively to project teams",
+        "D. The VDO creates the organizational framework to be used on each project throughout the company"
+      ],
+      "answer": "B",
+      "explanation": "A VDO serves an enabling role rather than a management or oversight function. It focuses on coaching project teams, building adaptive skills and capabilities throughout the organization, and mentoring sponsors and product owners. This is distinct from the PMO's more directive governance function.",
+      "difficulty": "hard",
+      "topic": "Organizational Structures and Value Delivery",
+      "domain": 3,
+      "source_id": "yt_003",
+      "chunk_index": 16,
+      "video_segment": "4:01:38→4:16:43"
+    },
+    {
+      "question": "You have been planning a project for the last two months, gathering requirements and scope and assigning tasks to a schedule. As you get closer to the execution phase, you need to decide what delivery approach you will use. The requirements are likely to change, require a medium amount of compliance, but can be released in one go. What will you do next?",
+      "options": [
+        "A. Use a predictive approach",
+        "B. Use an incremental approach",
+        "C. Use an adaptive agile approach",
+        "D. Use an iterative approach"
+      ],
+      "answer": "D",
+      "explanation": "Gathering feedback and improving over time while delivering in one release is an iterative delivery approach. Incremental releases increments of value like features; predictive plans everything upfront and delivers in one go; and agile gathers feedback and releases incrementally. The scenario calls for iteration toward a single release.",
+      "difficulty": "hard",
+      "topic": "Delivery Approach Selection",
+      "domain": 2,
+      "source_id": "yt_003",
+      "chunk_index": 16,
+      "video_segment": "4:01:38→4:16:43"
+    },
+    {
+      "question": "You have been asked to make a process improvement in the accounting area of your organization. You have been assigned a small team of nine people, each with all the skills you need to complete the project. The team is collocated and has unlimited access to the project customer. How will you tailor your delivery approach?",
+      "options": [
+        "A. Use a predictive approach",
+        "B. Use an agile or adaptive delivery approach",
+        "C. Use an incremental approach",
+        "D. Use a hybrid delivery approach"
+      ],
+      "answer": "B",
+      "explanation": "An agile or adaptive delivery approach works best when the team is small (fewer than 9 to 12 people), has close access to the customer, is cross-functional with all required skills, and is collocated in the same space. These conditions create the ideal environment for agile delivery.",
+      "difficulty": "hard",
+      "topic": "Delivery Approach Tailoring",
+      "domain": 2,
+      "source_id": "yt_003",
+      "chunk_index": 16,
+      "video_segment": "4:01:38→4:16:43"
+    }
+  ]
+}

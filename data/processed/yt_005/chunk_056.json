@@ -1,0 +1,77 @@
+{
+  "source_id": "yt_005",
+  "chunk_index": 56,
+  "start_label": "9:25:37",
+  "end_label": "9:35:43",
+  "mode": "extract",
+  "questions": [
+    {
+      "question": "Part of the project management plan is a detailed Communications plan which has the stakeholders on the project, their communication needs, and how information will be communicated. While this is being signed off by the project sponsor, you receive many ad hoc requests for information from new stakeholders. What will you do next?",
+      "options": [
+        "A. Review the communications management plan to include the stakeholders with the information that they need exactly as we said and their communication preferences",
+        "B. Create an information radiator and ask the stakeholders to pull the information they need",
+        "C. Ignore the new requests as you've captured all the stakeholders you need to in your plan",
+        "D. Ask the new stakeholders to review your communications management plan to see how you're distributing information"
+      ],
+      "answer": "A",
+      "explanation": "Once collected information is distributed as indicated in the project management communications plan, an abundance of ad hoc communication requests may indicate that the communications planning was not sufficient to meet stakeholder needs. The best response is to review and update the communications management plan to include the new stakeholders and their communication needs, rather than creating alternative communication methods or ignoring the requests.",
+      "difficulty": "expert",
+      "topic": "Stakeholder Engagement and Communications Planning",
+      "domain": 1,
+      "source_id": "yt_005",
+      "chunk_index": 56,
+      "video_segment": "9:25:37→9:35:43"
+    },
+    {
+      "question": "You are working on a high value construction project to include smart home components within multi-million dollar buildings. After completing a make or buy analysis, you find that it will cost $700,000 to make a new system or $500,000 to buy it from a vendor. You prepare a procurement management plan to purchase it from a vendor. What will you do before conducting a procurement?",
+      "options": [
+        "A. Work with your project team to complete as much as possible in-house as possible",
+        "B. Work with contracting professionals in your organization to develop an RFP, statement of work, terms and conditions",
+        "C. Adjust your stakeholder register to include the new vendor and add the scope to your work breakdown structure dictionary",
+        "D. Work with your project team to develop an RMP, SMP, and list of resources"
+      ],
+      "answer": "B",
+      "explanation": "Prior to conducting a procurement, the project manager and technically qualified project team members work with contracting professionals to develop the request for proposal, statement of work, terms and conditions, and other necessary documents to go out to bid. This is the critical step before sending out procurement documents to vendors.",
+      "difficulty": "expert",
+      "topic": "Procurement Planning and Documentation",
+      "domain": 2,
+      "source_id": "yt_005",
+      "chunk_index": 56,
+      "video_segment": "9:25:37→9:35:43"
+    },
+    {
+      "question": "A missing item has been uncovered in the project scope that your project team cannot deliver. The item is not complex and seems to be fairly readily available from various sources. You are ready to move to source selection and choose a vendor that will meet your needs. What will you do before sending out those bid documents to vendors?",
+      "options": [
+        "A. Prepare a request for proposal for vendors to provide a solution to your needs",
+        "B. Send a request for quote to determine the best price from the vendors",
+        "C. Prepare a request for information to gather more information and viable sources from the market",
+        "D. Review the procurement management plan for your project's procurement process"
+      ],
+      "answer": "C",
+      "explanation": "The request for information is used to gather more information from the market prior to sending out bid documents to a set of selected vendors. A request for proposal is used where scope is complex or the buyer is looking for the vendor to provide a solution, and a request for quote is used when price is the deciding factor. Since you need to gather information about viable sources first, the RFI is the appropriate step before sending formal bid documents.",
+      "difficulty": "expert",
+      "topic": "Procurement Processes and Tools",
+      "domain": 2,
+      "source_id": "yt_005",
+      "chunk_index": 56,
+      "video_segment": "9:25:37→9:35:43"
+    },
+    {
+      "question": "You are working on a project where part of the work is planned carefully up front and another part is subject to change. You negotiate terms and conditions including cost, delivery, and payment dates. The vendor is concerned about confusion that might occur between pre-planned and changeable work. What will you do next?",
+      "options": [
+        "A. Use a firm fixed price contract to ensure the cost is fixed but the scope can remain flexible",
+        "B. Use a time and materials contract to ensure only the time and materials used are paid for",
+        "C. Adjust your project plan to suit either a predictive or adaptive approach to reduce the confusion",
+        "D. Use a hybrid contract that clearly separates fixed work from variable work with different pricing structures"
+      ],
+      "answer": "D",
+      "explanation": "When a project has both pre-planned and changeable work, using a hybrid contract approach that clearly separates and defines the fixed-price portion (for planned work) from the time and materials portion (for changeable work) is the best way to avoid confusion and manage vendor concerns. A firm fixed price contract is too rigid for changeable work, a time and materials contract doesn't protect costs for planned work, and adjusting the project plan to choose one approach defeats the purpose of a mixed methodology.",
+      "difficulty": "expert",
+      "topic": "Contract Types and Hybrid Approaches",
+      "domain": 2,
+      "source_id": "yt_005",
+      "chunk_index": 56,
+      "video_segment": "9:25:37→9:35:43"
+    }
+  ]
+}

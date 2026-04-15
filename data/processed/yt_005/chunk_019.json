@@ -1,0 +1,77 @@
+{
+  "source_id": "yt_005",
+  "chunk_index": 19,
+  "start_label": "3:11:51",
+  "end_label": "3:21:58",
+  "mode": "extract",
+  "questions": [
+    {
+      "question": "You are working in an agile project team that has increased in size and complexity since the project began. In reviewing the throughput of work with your team, you notice fewer and fewer user stories being completed. The roadmap of features scheduled to go live is being pushed out. What should you do?",
+      "options": [
+        "A. Place a limit on the work in progress and work with the team to reduce the cycle time",
+        "B. Increase meetings with the team",
+        "C. Ask the team to work overtime until the number of features reduces",
+        "D. Put a pull system in place where the team can pull work only when they are ready"
+      ],
+      "answer": "A",
+      "explanation": "Limiting work in progress prevents context switching and multitasking, which reduces cycle time and improves throughput. Option B (increased meetings) is counterproductive and wastes time. Option C (overtime) is anti-agile as it creates unsustainable pace and burnout. Option D (pull system) while useful, can lead to team members pulling new work when blocked rather than focusing on unblocking current work, resulting in too much work in progress.",
+      "difficulty": "expert",
+      "topic": "Agile Metrics and Team Performance",
+      "domain": 2,
+      "source_id": "yt_005",
+      "chunk_index": 19,
+      "video_segment": "3:11:51→3:21:58"
+    },
+    {
+      "question": "You are working on an agile project where the project customer wants a reliable way to measure the project performance. You first need a baseline. What measures will you show to your customer as part of your agile project?",
+      "options": [
+        "A. Team velocity",
+        "B. Start and finish dates",
+        "C. The rate of features completed",
+        "D. Schedule and cost variance"
+      ],
+      "answer": "C",
+      "explanation": "In agile projects, the rate of features completed demonstrates actual value delivered to the customer. Team velocity is an internal team metric not shown to customers. Start and finish dates are less meaningful in agile where scope is variable. Schedule and cost variance are waterfall metrics; in agile, schedule and cost are fixed while scope is variable. The customer cares about what features they are receiving.",
+      "difficulty": "expert",
+      "topic": "Agile Performance Measurement",
+      "domain": 2,
+      "source_id": "yt_005",
+      "chunk_index": 19,
+      "video_segment": "3:11:51→3:21:58"
+    },
+    {
+      "question": "The product owner has worked with a team of senior users to gather feature ideas. They now have a list of more than 50 ideas for your team to develop, which is far too many to complete in the time frame available. What will you do next?",
+      "options": [
+        "A. Start work on the smallest features first",
+        "B. Ask the product owner to return and ask for a shortened list",
+        "C. Workshop the features with a wider audience to get their input on priority",
+        "D. Ask the product owner to prioritize the features using cost-to-benefit analysis and deliver in their priority order until time or money runs out"
+      ],
+      "answer": "D",
+      "explanation": "Prioritization based on business value metrics (cost-to-benefit ratio, ROI, Net Present Value) ensures the highest-value features are delivered first. Option A (smallest features first) ignores value. Option B (shorter list) is unnecessary when prioritization can be applied. Option C (wider workshop) dilutes the product owner's authority and decision-making responsibility, slowing the process. The product owner owns prioritization and should make this decision independently.",
+      "difficulty": "expert",
+      "topic": "Product Backlog Prioritization and Business Value",
+      "domain": 2,
+      "source_id": "yt_005",
+      "chunk_index": 19,
+      "video_segment": "3:11:51→3:21:58"
+    },
+    {
+      "question": "Your agile project team has only recently formed. The product is still unclear and there have been disagreements and minor conflicts over the past two weeks as the team finds their rhythm. You would like things to improve but you cannot quite pinpoint or address the problem. What will you do next?",
+      "options": [
+        "A. Have the team complete a net promoter score with comments",
+        "B. Hold a retrospective to gather feedback and identify improvement actions",
+        "C. Hold a workshop with your team and ask them why they are unhappy",
+        "D. Raise the issue with their line managers and ensure that everyone is working on the issue"
+      ],
+      "answer": "B",
+      "explanation": "A retrospective is the agile practice designed to surface team challenges, gather feedback, and identify actionable improvements collaboratively. While a net promoter score with retrospective action could work, the retrospective itself is the primary mechanism. Option C (workshop asking why they are unhappy) may devolve into complaining without problem-solving. Option D (escalating to line managers) removes ownership from the team itself, which must solve its own process issues.",
+      "difficulty": "expert",
+      "topic": "Agile Team Retrospectives and Continuous Improvement",
+      "domain": 1,
+      "source_id": "yt_005",
+      "chunk_index": 19,
+      "video_segment": "3:11:51→3:21:58"
+    }
+  ]
+}

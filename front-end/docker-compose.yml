@@ -1,0 +1,15 @@
+services:
+  web:
+    build:
+      context: .
+      dockerfile: Dockerfile.dev
+    ports:
+      - "5173:5173"
+    volumes:
+      - .:/app                 # live-reload from host
+      - /app/node_modules      # keep container's node_modules, don't shadow with host
+      - ../data/processed:/app/data-src/processed:ro   # read-only mount of question bank
+      - ../study/quizzes:/app/data-src/quizzes:ro      # read-only mount of exam files
+    environment:
+      - CHOKIDAR_USEPOLLING=true   # file-watching reliability on Windows/WSL bind mounts
+    restart: unless-stopped

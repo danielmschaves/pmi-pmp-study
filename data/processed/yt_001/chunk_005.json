@@ -1,0 +1,128 @@
+{
+  "source_id": "yt_001",
+  "chunk_index": 5,
+  "start_label": "1:15:32",
+  "end_label": "1:30:36",
+  "mode": "extract",
+  "questions": [
+    {
+      "question": "A tech startup is gearing up to launch a groundbreaking app by the upcoming summer. However, during the initial planning they encounter uncertainty in project specifications. They are not sure how stakeholders will use the product. What should the project manager take to ensure the project stays on track?",
+      "options": [
+        "A. Incorporate insights from technology consultants",
+        "B. Establish a comprehensive risk management framework to anticipate and mitigate potential delays",
+        "C. Assess the team and propose a minimum viable product",
+        "D. Organize workshops with the project team to solidify the project's technical requirements"
+      ],
+      "answer": "C",
+      "explanation": "The best way to address uncertainty in project specifications is to propose a minimum viable product (MVP). An MVP is a product release that contains a bunch of usable features but not the full set of features. By releasing an MVP, customers can use it, provide feedback on whether the project is on the right track, and indicate what needs to change or be updated. This directly addresses the uncertainty about how stakeholders will use the product. Technology consultants do not address the core uncertainty; a risk management framework addresses delays rather than scope uncertainty; and workshops only involve the development team rather than actual customers.",
+      "difficulty": "expert",
+      "topic": "Uncertainty Management, Agile Approaches, Stakeholder Engagement",
+      "domain": 2,
+      "source_id": "yt_001",
+      "chunk_index": 5,
+      "video_segment": "1:15:32→1:30:36"
+    },
+    {
+      "question": "During a large-scale event planning project, the project manager notices a growing list of logistical challenges reported by various team members. Although these challenges have been acknowledged in team meetings, few have been effectively resolved, leading to potential risk for the event's success. What should the project manager do?",
+      "options": [
+        "A. Schedule additional planning sessions specifically focused on logistical challenges",
+        "B. Assign a dedicated team to focus solely on identifying and resolving logistical issues",
+        "C. Prioritize the logistical challenges based on their potential impact on the event",
+        "D. Increase the frequency of team meetings to ensure more regular updates on challenges"
+      ],
+      "answer": "C",
+      "explanation": "When risks have been identified and acknowledged but not resolved, the appropriate action is to prioritize them based on their impact. Scheduling additional planning sessions does not resolve the actual challenges; assigning a dedicated team removes accountability from the existing team and does not encourage collaboration; and increasing meeting frequency without addressing root causes will not resolve the issues. The best practice when facing potential risks is to prioritize them based on their impact on project objectives.",
+      "difficulty": "expert",
+      "topic": "Risk Prioritization, Risk Response Planning",
+      "domain": 2,
+      "source_id": "yt_001",
+      "chunk_index": 5,
+      "video_segment": "1:15:32→1:30:36"
+    },
+    {
+      "question": "During the execution phase of an urban development project, the project manager uses email updates to keep all stakeholders in the city informed. However, feedback indicates that some stakeholders find the information either too technical or too general. What should you do first?",
+      "options": [
+        "A. Initiate a one-on-one briefing for stakeholders needing detailed explanations",
+        "B. Organize a workshop to keep them informed",
+        "C. Evaluate the specific needs of the stakeholders",
+        "D. Launch a project blog that provides updates in varying levels of detail"
+      ],
+      "answer": "C",
+      "explanation": "Before taking any action to adjust communication, the project manager must first understand the specific needs of each stakeholder. This assessment should precede any communication adjustments. Once needs are understood, the project manager can tailor communication accordingly. One-on-one briefings would be time-prohibitive for a large urban project; a workshop may not suit all stakeholder preferences; and launching a blog without first understanding needs may not address the root issue. The foundation of effective stakeholder communication is understanding individual stakeholder needs.",
+      "difficulty": "expert",
+      "topic": "Stakeholder Communication, Stakeholder Engagement",
+      "domain": 1,
+      "source_id": "yt_001",
+      "chunk_index": 5,
+      "video_segment": "1:15:32→1:30:36"
+    },
+    {
+      "question": "During the deployment phase of a new telecommunication network, the project encounters significant delays. To identify and mitigate these delays, what action should the project manager take?",
+      "options": [
+        "A. Increase the frequency of project status meetings to enhance communication",
+        "B. Reallocate resources to the most delayed aspects of the project",
+        "C. Adjust the timeline to accommodate unexpected delays",
+        "D. Facilitate a collaborative session with the team to pinpoint and tackle the delays"
+      ],
+      "answer": "D",
+      "explanation": "When problems arise on a project, the best approach is to engage the team collaboratively to understand root causes and develop solutions. Increasing status meetings without collaborative problem-solving does not address the underlying delays; reallocating resources without team input may create unintended consequences; and simply adjusting the timeline avoids addressing the actual problems and typically requires a formal change request. The most effective approach is to work with the team to identify and solve the issues causing the delays.",
+      "difficulty": "expert",
+      "topic": "Problem Solving, Team Collaboration, Schedule Management",
+      "domain": 1,
+      "source_id": "yt_001",
+      "chunk_index": 5,
+      "video_segment": "1:15:32→1:30:36"
+    },
+    {
+      "question": "A key stakeholder requests that the project manager deliver a critical infrastructure component two weeks ahead of schedule. The project manager assesses the situation and determines that accelerating the schedule is possible by overlapping certain processes. What is the most effective course of action?",
+      "options": [
+        "A. Re-evaluate the project scope to identify non-essential elements that can be postponed",
+        "B. Adjust the timeline by sequencing work to allow for parallel activity",
+        "C. Increase the budget to allow for overtime and additional resources",
+        "D. Use advanced technology to automate certain construction processes"
+      ],
+      "answer": "B",
+      "explanation": "The technique of overlapping activities to accelerate the schedule is called fast tracking. Fast tracking compresses the schedule by running activities in parallel that were originally planned sequentially, which increases risk but generally does not increase cost. Therefore, option B is correct. Re-evaluating scope and postponing elements requires a change request; increasing budget to add resources is crashing, not fast tracking, and would require a change request; and automating processes goes beyond the scope of simply adjusting activity sequencing. Fast tracking allows timeline compression without scope changes or formal budget increases.",
+      "difficulty": "expert",
+      "topic": "Schedule Acceleration, Fast Tracking, Schedule Compression",
+      "domain": 2,
+      "source_id": "yt_001",
+      "chunk_index": 5,
+      "video_segment": "1:15:32→1:30:36"
+    },
+    {
+      "question": "At the onset of a software development project, the project manager is tasked with devising a strategy for assessing the contribution of each developer. These assessments are to be compiled and presented to the organization's leadership at the project's conclusion. What should the project manager's next step be?",
+      "options": [
+        "A. Arrange for regular one-on-one meetings with each developer to discuss and document their progress",
+        "B. Develop clear, quantifiable criteria for evaluating developers' performance and communicate these standards",
+        "C. Utilize software development metrics like lines of code to directly measure developers' productivity",
+        "D. Conduct anonymous surveys among team members to gather insights on individual contributions"
+      ],
+      "answer": "B",
+      "explanation": "From an ethics and fairness perspective, the first step is to establish clear, measurable criteria and communicate them to all developers upfront so they know how they will be evaluated. This ensures transparency and fairness. While one-on-one meetings (A) may follow later, they should occur only after criteria are established. Lines of code (C) is not a reliable productivity metric, as developers with fewer lines of code may be more efficient. Anonymous surveys (D) without clear evaluation criteria can lead to subjective assessments and place developers in an awkward position of evaluating each other. Establishing clear criteria first is the most ethical and effective foundation for performance assessment.",
+      "difficulty": "expert",
+      "topic": "Team Performance Management, Ethics, Performance Evaluation",
+      "domain": 1,
+      "source_id": "yt_001",
+      "chunk_index": 5,
+      "video_segment": "1:15:32→1:30:36"
+    },
+    {
+      "question": "At the beginning of a new environmental conservation project, a key stakeholder expressed concerns over the project's approach, fearing it would not meet the intended environmental goals and would exceed the initial forecast. What should the project manager do first?",
+      "options": [
+        "A. Organize a meeting with the stakeholder to understand the concerns and identify potential solutions",
+        "B. Launch a pilot phase to demonstrate the project's effectiveness and adjust based on early results",
+        "C. Enhance communication with the stakeholder by providing regular updates and involving them more closely in project planning",
+        "D. Outline the long-term benefits and sustainability impacts of the project, emphasizing its alignment with broader environmental objectives"
+      ],
+      "answer": "A",
+      "explanation": "When a stakeholder expresses a concern, the first action should always be to understand the concern fully before taking any corrective action. Organizing a meeting allows the project manager to assess the situation and identify what specifically is causing the stakeholder's concern. Launching a pilot phase (B) takes action without understanding the concern; enhancing communication (C) does not address the core issue of the project approach; and outlining benefits (D) does not address the stakeholder's specific concerns about the approach. The foundation of effective stakeholder management is listening and understanding concerns before responding.",
+      "difficulty": "expert",
+      "topic": "Stakeholder Management, Stakeholder Concerns, Issue Resolution",
+      "domain": 1,
+      "source_id": "yt_001",
+      "chunk_index": 5,
+      "video_segment": "1:15:32→1:30:36"
+    }
+  ]
+}

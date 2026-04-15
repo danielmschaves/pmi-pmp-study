@@ -1,0 +1,128 @@
+{
+  "source_id": "yt_001",
+  "chunk_index": 14,
+  "start_label": "3:31:18",
+  "end_label": "3:46:27",
+  "mode": "extract",
+  "questions": [
+    {
+      "question": "In the initial stages of launching a pioneering software tool aimed at small businesses, the project manager is focused on ensuring the project's quality resonates with its target audience. What approach should the project manager employ to ascertain this tool embodies the highest quality standards?",
+      "options": [
+        "A. Engage a reputable software development firm to ensure the tool aligns with industry standards",
+        "B. Recruit a chief quality officer to oversee quality control throughout the development",
+        "C. Establish specific quality benchmarks for the software tool and continuously seek ways to enhance them",
+        "D. Instruct the lead developer to prioritize refining the software platform and user experience"
+      ],
+      "answer": "C",
+      "explanation": "Establishing specific quality benchmarks is the best approach because benchmarking is a recognized tool in project management to understand industry standards and ensure quality. While engaging a reputable firm doesn't guarantee quality output, and hiring a chief quality officer is not the project manager's responsibility, setting benchmarks provides measurable standards for quality achievement. The lead developer's prioritization should be guided by project management, not independent direction.",
+      "difficulty": "expert",
+      "topic": "Quality Management and Benchmarking",
+      "domain": 2,
+      "source_id": "yt_001",
+      "chunk_index": 14,
+      "video_segment": "3:31:18→3:46:27"
+    },
+    {
+      "question": "In the progression of an extensive software development project, a pivotal client proposes the introduction of a new cloud-based technology mid-project, significantly deviating from the initial technology stack outlined. The suggestion aligns with the client's ongoing digital transformation efforts. What should the project manager do next?",
+      "options": [
+        "A. Analyze the proposed change for strategic alignment and potential impact on business outcomes",
+        "B. Notify the project sponsors about the client shift towards digital transformation",
+        "C. Implement the change in the timeline and budget, integrating the new technology",
+        "D. Evaluate the team's current capabilities against the demands introduced by the new technology"
+      ],
+      "answer": "A",
+      "explanation": "The project manager should first analyze the proposed change for strategic alignment and business impact before taking any action. While evaluating team capabilities (D) is also important, it should come after understanding whether the change itself is strategically sound. The project manager should not implement the change immediately (C) or notify sponsors (B) before conducting a thorough assessment. Analysis must precede team evaluation and any formal notification.",
+      "difficulty": "expert",
+      "topic": "Change Management and Impact Analysis",
+      "domain": 2,
+      "source_id": "yt_001",
+      "chunk_index": 14,
+      "video_segment": "3:31:18→3:46:27"
+    },
+    {
+      "question": "In the initiation phase of an Environmental Conservation project, the project manager learns that a key funding agency requires a preliminary environmental impact assessment before releasing additional funds. Despite the agency's history of increasing additional funds following initial assessments, a senior team member suggests full project planning should commence immediately to expedite the process. What should the project manager do next?",
+      "options": [
+        "A. Direct the team's efforts exclusively towards completing the required assessment",
+        "B. Consult the organization's or the project's organization guidelines",
+        "C. Proceed with drafting a comprehensive project plan to cover all phases including post-assessment activities, aligned with the senior member's suggestion",
+        "D. Initiate detailed planning for subsequent project stages"
+      ],
+      "answer": "B",
+      "explanation": "The project manager should consult organizational guidelines before proceeding. While the team member's suggestion may seem efficient, the project manager must first understand what the organization actually requires rather than acting on assumptions. Consulting guidelines ensures compliance and provides proper direction. Dismissing the team member's input (A) or proceeding without organizational guidance (C, D) bypasses proper governance and could create problems later.",
+      "difficulty": "expert",
+      "topic": "Project Governance and Organizational Compliance",
+      "domain": 3,
+      "source_id": "yt_001",
+      "chunk_index": 14,
+      "video_segment": "3:31:18→3:46:27"
+    },
+    {
+      "question": "Towards the end of a large-scale infrastructure development project, the project manager detects a slowdown in progress with a significant number of tasks pending in the project's quality assurance stage. The project is managed using a combination of traditional and agile methodologies. What should you do next?",
+      "options": [
+        "A. Initiate an intensive quality assurance session for the project team",
+        "B. Bring in an external consultant with expertise in quality assurance",
+        "C. Facilitate a problem-solving session to tackle the quality assurance bottleneck with the team",
+        "D. Allocate additional time specifically for quality assurance tasks in the project schedule"
+      ],
+      "answer": "C",
+      "explanation": "The project manager should first facilitate a problem-solving session with the team to understand the root cause of the bottleneck. The team members are the experts in their work and can provide insight into what's causing the slowdown. Before bringing in external consultants (B) or allocating additional time (D), the team should be engaged to solve the problem collaboratively. An intensive training session (A) is premature without first understanding the actual issue.",
+      "difficulty": "expert",
+      "topic": "Problem-Solving and Team Engagement",
+      "domain": 1,
+      "source_id": "yt_001",
+      "chunk_index": 14,
+      "video_segment": "3:31:18→3:46:27"
+    },
+    {
+      "question": "In an ongoing urban development traditional project, the project manager is informed that a stakeholder directly approached a team member with a request for an additional feature, which led to the team member being distracted from their primary task and affected the project's progress. What should the project manager do?",
+      "options": [
+        "A. Address the stakeholder's requests and its impacts on team productivity in the next project status meeting",
+        "B. Report the issue to senior management, highlighting the stakeholder's bypass of formal request channels and its effect",
+        "C. Instruct the team member to direct the stakeholder to submit all future requests through the project manager for proper evaluation and documentation",
+        "D. Encourage the stakeholder to participate in project schedule review sessions to ensure their input is captured in a structured manner"
+      ],
+      "answer": "C",
+      "explanation": "In a traditional project, change management is critical and formal processes must be followed. The project manager should instruct the team member to direct stakeholders to submit all requests through the project manager, ensuring proper change control. Reporting to management (B) is unnecessary punishment. Waiting for the next status meeting (A) may be too late, and schedule review sessions (D) don't address scope change requests. The change management process requires stakeholder requests to flow through the project manager for evaluation and approval.",
+      "difficulty": "expert",
+      "topic": "Change Management and Formal Request Processes",
+      "domain": 2,
+      "source_id": "yt_001",
+      "chunk_index": 14,
+      "video_segment": "3:31:18→3:46:27"
+    },
+    {
+      "question": "In the early planning stages of a green building project, the project manager faces challenges with limited data available for defining specific activities and estimating their durations accurately. What strategy should the project manager employ?",
+      "options": [
+        "A. Implement a detailed timeline with key milestones and delivery dates",
+        "B. Utilize progressive elaboration and flexible planning techniques",
+        "C. Adapt iterative planning with regular evaluations and adjustments",
+        "D. Use detailed estimation methods derived from a comprehensive work breakdown structure"
+      ],
+      "answer": "B",
+      "explanation": "Progressive elaboration is the appropriate strategy when dealing with limited data and uncertainty. As time progresses and more information becomes available, project details can be refined incrementally. Iterative planning (C) is also valid. A detailed timeline (A) cannot be created without adequate data and estimations. Detailed estimation methods (D) require a comprehensive WBS which is not possible with limited data. Progressive elaboration allows the project to plan and replan as conditions become clearer.",
+      "difficulty": "expert",
+      "topic": "Progressive Elaboration and Planning Under Uncertainty",
+      "domain": 2,
+      "source_id": "yt_001",
+      "chunk_index": 14,
+      "video_segment": "3:31:18→3:46:27"
+    },
+    {
+      "question": "As a project manager overseeing the development of a new line of eco-friendly packaging material, you encounter pushback from certain stakeholders who question the project's viability due to environmental regulations and market demands uncertainty. What action should the project manager take?",
+      "options": [
+        "A. Request a meeting with key stakeholders to directly address their concerns and provide detailed explanations",
+        "B. Continuously evaluate and adjust the project's foundational documents to ensure they reflect current conditions and insights",
+        "C. Craft a comprehensive risk management strategy to identify and mitigate potential issues related to regulations and market response",
+        "D. Align project objectives with broader environmental sustainability goals to ensure comprehensive organizational coherence"
+      ],
+      "answer": "A",
+      "explanation": "The immediate action should be to meet directly with the stakeholders to understand and address their specific concerns. This is the foundation for any subsequent actions. While developing a risk management strategy (C), updating documents (B), or realigning objectives (D) may eventually be necessary, they should only be implemented after understanding the stakeholders' actual concerns. Direct stakeholder engagement and communication is the first step to resolving skepticism and building confidence in the project.",
+      "difficulty": "expert",
+      "topic": "Stakeholder Management and Communication",
+      "domain": 1,
+      "source_id": "yt_001",
+      "chunk_index": 14,
+      "video_segment": "3:31:18→3:46:27"
+    }
+  ]
+}

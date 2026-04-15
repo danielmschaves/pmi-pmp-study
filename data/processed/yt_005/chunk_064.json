@@ -1,0 +1,60 @@
+{
+  "source_id": "yt_005",
+  "chunk_index": 64,
+  "start_label": "10:46:21",
+  "end_label": "10:56:28",
+  "mode": "extract",
+  "questions": [
+    {
+      "question": "You are working on a project to build a new customer database system for an engineering team. While working with the requirements, you realize that this system can also work with other teams in your organization and the effort to add those teams is actually quite small. What will you do next?",
+      "options": [
+        "A. Escalate it to management for approval",
+        "B. Exploit the opportunity to actively ensure it happens",
+        "C. Enhance the opportunity by increasing its probability of occurrence",
+        "D. Accept the opportunity and acknowledge it without taking additional action"
+      ],
+      "answer": "B",
+      "explanation": "Exploit is the correct response to positive risks/opportunities when you want to act to ensure an opportunity occurs. Escalating applies when you lack authority. Enhancing increases probability but doesn't actively make it happen. Accepting merely acknowledges the opportunity without taking action. In this scenario, you have the authority and capability to add the other teams, so exploiting the opportunity is the best response.",
+      "difficulty": "expert",
+      "topic": "Risk Response Planning - Positive Risks/Opportunities",
+      "domain": 2,
+      "source_id": "yt_005",
+      "chunk_index": 64,
+      "video_segment": "10:46:21→10:56:28"
+    },
+    {
+      "question": "You are working as a product owner in an agile team. During a recent risk review, the team has uncovered various risks that will impact your project. You brainstorm risk responses with your team. The project customer would like them to be mitigated as soon as possible. What will you do next?",
+      "options": [
+        "A. Ask your team to work on the risk responses and get them done as soon as possible",
+        "B. Ignore the risks initially because some might dissipate over time and only the important ones will be left",
+        "C. Assign the risk responses to all stakeholders around your project team to share the load",
+        "D. Prioritize the risks by comparing the expected monetary value of the risk to the anticipated return on investment"
+      ],
+      "answer": "D",
+      "explanation": "In agile environments, prioritizing risks using a risk-adjusted backlog approach by comparing expected monetary value of risks to anticipated return on investment of deliverables allows product owners to incorporate risk responses into planned work appropriately. Simply asking the team to do it ignores other work priorities. Ignoring risks allows them to potentially worsen. Assigning to all stakeholders indiscriminately creates inefficiency. The correct approach integrates risk management into the normal prioritization process.",
+      "difficulty": "expert",
+      "topic": "Agile Risk Management and Prioritization",
+      "domain": 2,
+      "source_id": "yt_005",
+      "chunk_index": 64,
+      "video_segment": "10:46:21→10:56:28"
+    },
+    {
+      "question": "You are planning a project where supply chains have been impacted and the requirements are complex and intertwined with other areas of the business. Your project sponsor asks you to manage these risks before the project moves to execution. What will you do next?",
+      "options": [
+        "A. Move to project execution so you can work through risks as they happen",
+        "B. Move to an agile way of work so you can deliver faster and deal with the complexity",
+        "C. Note the risks with appropriate controls and add a contingency reserve in the project budget",
+        "D. Assign a management reserve to the project budget"
+      ],
+      "answer": "C",
+      "explanation": "Adding a contingency reserve to the project budget is the appropriate way to manage identified risks before execution. Contingency reserves are set aside for identified risks should they occur, while management reserves are for unknown, unplanned in-scope work. Simply moving to execution or switching methodologies does not address risk management. Management reserves are not the appropriate tool for identified, known risks.",
+      "difficulty": "expert",
+      "topic": "Contingency and Management Reserves",
+      "domain": 2,
+      "source_id": "yt_005",
+      "chunk_index": 64,
+      "video_segment": "10:46:21→10:56:28"
+    }
+  ]
+}

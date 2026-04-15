@@ -1,0 +1,60 @@
+{
+  "source_id": "yt_005",
+  "chunk_index": 21,
+  "start_label": "3:32:05",
+  "end_label": "3:42:10",
+  "mode": "extract",
+  "questions": [
+    {
+      "question": "You are working as a product owner in an agile team where the main measure of project success is the number of features delivered into production. Over the past 6 months, the team have delivered the highest number of features your organization has ever seen. However, customers are starting to complain about issues and bugs in the product. What will you do next?",
+      "options": [
+        "A. Ask the team to work harder",
+        "B. Adjust the product metrics to include customer satisfaction and quality measures",
+        "C. Add a slack card of five points in the Sprint backlog to deal with the technical debt",
+        "D. Remove customer comments and feedback completely until you've finished delivering all the features"
+      ],
+      "answer": "B",
+      "explanation": "The correct answer is to adjust the product metrics to include customer satisfaction and quality measures. This addresses the root cause of the problem through the Hawthorne effect—what you measure directly influences team behavior. By measuring only feature delivery, the team optimized for that metric at the expense of quality. Adding customer satisfaction and quality measures to the success criteria will naturally balance the team's behavior and encourage them to deliver features that also meet quality standards and customer expectations. While adding technical debt reduction to the Sprint backlog is also a good practice, adjusting the metrics addresses the fundamental behavioral driver.",
+      "difficulty": "expert",
+      "topic": "Agile Metrics and Team Performance",
+      "domain": 1,
+      "source_id": "yt_005",
+      "chunk_index": 21,
+      "video_segment": "3:32:05→3:42:10"
+    },
+    {
+      "question": "You have been working on a project for the past eight months. Your project team have been approached by multiple stakeholders for reporting on various performance measures about the project and the product area. Now a large amount of their time is spent on creating these reports for others, and they have escalated this issue to you. What will you do next?",
+      "options": [
+        "A. Ask the project stakeholders to stop interacting with your team",
+        "B. Spend a portion of your project budget to automate the reports for your stakeholders",
+        "C. Work with the team including the stakeholders to only measure things that will facilitate a decision, help avoid an issue, or increase project performance",
+        "D. Invite your stakeholders to your Sprint reviews so they can see a working feature in practice"
+      ],
+      "answer": "C",
+      "explanation": "The correct answer is to work with the team including the stakeholders to only measure things that will facilitate a decision, help avoid an issue, or increase project performance. This approach addresses the root cause by establishing purposeful measurement and reporting. According to the PMBOK Guide, the intent in measuring and displaying data is to learn and improve and optimize project performance and efficiency. Only measure and report information that will allow the project team to learn, facilitate a decision, improve some aspect of performance, help avoid an issue, or help prevent performance deterioration in the future. This maintains stakeholder engagement while eliminating wasteful reporting activities.",
+      "difficulty": "expert",
+      "topic": "Project Performance Measurement and Reporting",
+      "domain": 2,
+      "source_id": "yt_005",
+      "chunk_index": 21,
+      "video_segment": "3:32:05→3:42:10"
+    },
+    {
+      "question": "You are working on a project where there is a significant amount of uncertainty about the requirements. There is also a legislative change coming and no one knows what it will mean for your industry. As a project manager, how do you deal with this uncertainty?",
+      "options": [
+        "A. Perform additional planning for your project to improve your view on scope management",
+        "B. Hold additional retrospectives to capture challenges and improvements from your team",
+        "C. Create a risk assessment of all possible project risks maybe with their risk ratings and owners",
+        "D. Gather information and prepare for multiple outcomes and build team resilience through processes and training"
+      ],
+      "answer": "D",
+      "explanation": "The correct answer is to gather information and prepare for multiple outcomes and build team resilience through processes and training. When dealing with volatility, uncertainty, complexity, and ambiguity (VUCA), the most effective approach is to prepare for multiple potential scenarios rather than relying on a single plan. This includes building team resilience through processes and training so the team can adapt as conditions change. While risk assessment is useful, it focuses on identifying known risks, not handling the fundamental uncertainty. Additional planning or retrospectives alone do not adequately address the core issue of dealing with multiple possible futures.",
+      "difficulty": "expert",
+      "topic": "Uncertainty and Adaptability in Project Management",
+      "domain": 3,
+      "source_id": "yt_005",
+      "chunk_index": 21,
+      "video_segment": "3:32:05→3:42:10"
+    }
+  ]
+}

@@ -1,0 +1,94 @@
+{
+  "source_id": "yt_002",
+  "chunk_index": 15,
+  "start_label": "3:46:44",
+  "end_label": "4:01:50",
+  "mode": "extract",
+  "questions": [
+    {
+      "question": "A project team developed a detailed plan to update the operating system of all of the company's computers. Later on, the project team discovers that not every computer supports the new version of the operating system. Which of the following statements best describes this scenario?",
+      "options": [
+        "A. The project team made a wrong assumption",
+        "B. The project team didn't develop an appropriate project plan",
+        "C. The project team didn't establish an adequate risk response",
+        "D. The project team didn't consider the new version of the operating system as a constraint"
+      ],
+      "answer": "A",
+      "explanation": "The project team assumed that all computers are compatible with the new operating system. Despite developing a detailed plan, they failed to document this assumption in their assumption log. When the assumption proved untrue, it revealed a fundamental planning flaw. Option B is incorrect because they did develop a detailed plan. Option C is incorrect because this is an issue, not a risk that should have been anticipated through risk responses. Option D is incorrect because the new operating system is the deliverable, not a constraint.",
+      "difficulty": "hard",
+      "topic": "Assumption Analysis and Project Planning",
+      "domain": 2,
+      "source_id": "yt_002",
+      "chunk_index": 15,
+      "video_segment": "3:46:44→4:01:50"
+    },
+    {
+      "question": "The PMO is in the process of transitioning to an agile work approach. The team has shown high resistance to the changes since they are unaccustomed to adaptive approaches. What can the PMO leaders do to encourage adoption?",
+      "options": [
+        "A. Forge ahead and provide point in time training on the new methods",
+        "B. Train project managers on the adaptive approaches to help convince the team",
+        "C. Stick to the predictive approach to avoid any conflicts",
+        "D. Use a hybrid method that combines both adaptive and predictive practices"
+      ],
+      "answer": "D",
+      "explanation": "A hybrid approach combining both predictive and adaptive methods is the most effective transition strategy when teams are unfamiliar with agile. This allows teams to gradually become comfortable with adaptive approaches while still leveraging their existing predictive knowledge. Option A is flawed because point-in-time training is insufficient for continuous development. Option B is inadequate because training only project managers does not address the team's resistance; the entire team needs support. Option C is counterproductive because it abandons the transition initiative that presumably has strategic value.",
+      "difficulty": "hard",
+      "topic": "Organizational Change Management and Agile Transition",
+      "domain": 3,
+      "source_id": "yt_002",
+      "chunk_index": 15,
+      "video_segment": "3:46:44→4:01:50"
+    },
+    {
+      "question": "A project manager is assigned to lead a big project with a key activity requiring outsourcing to a service provider. To reduce risk, the project manager wants to ensure that the selected provider is well suited to the project and quality requirements before granting the whole project. What should the project manager do?",
+      "options": [
+        "A. Hire an auditor to continually check the quality of the provider's work",
+        "B. Make the contract flexible in order to be able to replace the provider easily if quality is not met",
+        "C. Carefully choose the selection criteria",
+        "D. Ask the service provider to do a trial engagement"
+      ],
+      "answer": "D",
+      "explanation": "A trial engagement allows the project manager to evaluate the service provider's performance and suitability before committing to the full contract. This directly addresses the need to verify provider quality before granting the whole project. Options A, B, and C address aspects of managing vendor relationships and selection, but they do not respond to the specific scenario of needing to test or trial the provider before full commitment. A trial engagement is the most direct way to evaluate potential partners before making complete commitment.",
+      "difficulty": "hard",
+      "topic": "Vendor Evaluation and Procurement",
+      "domain": 2,
+      "source_id": "yt_002",
+      "chunk_index": 15,
+      "video_segment": "3:46:44→4:01:50"
+    },
+    {
+      "question": "A project manager opts for planning poker to estimate user stories. After going through the details of the first user story, the project manager asks team members to choose a card to represent their estimations of ideal number of days required to complete the user story and then to reveal their cards. The estimates were vastly disparate. The project manager instantly asked team members to reestimate the user story in an attempt to converge their estimations. What did the project manager do wrong?",
+      "options": [
+        "A. The team used ideal days to estimate the user stories",
+        "B. The team reestimated the user story immediately after revealing their cards",
+        "C. The cards shouldn't be revealed",
+        "D. The project manager shouldn't waste time with multiple rounds of estimates"
+      ],
+      "answer": "B",
+      "explanation": "The project manager skipped the critical discussion phase of planning poker. After revealing estimates, team members should discuss the reasons behind their different estimations before reestimating. This discussion helps the team reach consensus and improves shared understanding. By immediately moving to reestimation without discussion, the team missed the key benefit of the planning poker technique. Option A is incorrect because ideal days are a valid estimation unit. Option C is incorrect because cards must be revealed to enable discussion. Option D is incorrect because multiple rounds of estimates are an integral part of planning poker methodology.",
+      "difficulty": "hard",
+      "topic": "Agile Estimation Techniques",
+      "domain": 2,
+      "source_id": "yt_002",
+      "chunk_index": 15,
+      "video_segment": "3:46:44→4:01:50"
+    },
+    {
+      "question": "A project manager discovers a serious threat to the project. One of the project contractors might declare bankruptcy. If that happens, the project will be delayed for another two months. What should the project manager do to mitigate the risk?",
+      "options": [
+        "A. Review the contract to check the consequences of any contract breach",
+        "B. Immediately stop working with the contractor",
+        "C. Contact an insurance company to secure coverage for potential losses",
+        "D. Contact other contractors who can supply the necessary materials"
+      ],
+      "answer": "D",
+      "explanation": "Mitigation involves taking action to reduce the probability or impact of a risk. Contacting alternative contractors and developing backup suppliers reduces the impact of contractor bankruptcy by ensuring ready replacements. This is true mitigation. Option A is just data collection without action. Option B is avoidance without a viable alternative, creating secondary risk. Option C represents risk transfer, not mitigation, as insurance shifts the financial burden but does not reduce project delay impact. Option D directly reduces the possibility of project delay by having alternatives ready.",
+      "difficulty": "hard",
+      "topic": "Risk Mitigation Strategy",
+      "domain": 2,
+      "source_id": "yt_002",
+      "chunk_index": 15,
+      "video_segment": "3:46:44→4:01:50"
+    }
+  ]
+}

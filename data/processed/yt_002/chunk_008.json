@@ -1,0 +1,94 @@
+{
+  "source_id": "yt_002",
+  "chunk_index": 8,
+  "start_label": "2:00:56",
+  "end_label": "2:16:03",
+  "mode": "extract",
+  "questions": [
+    {
+      "question": "A project manager noted that multiple interpersonal conflicts are arising among team members. What is the best way to handle such conflicts?",
+      "options": [
+        "A. The project manager should always smooth conflicts since they distract the team and hinder work progress.",
+        "B. The project manager should address conflicts in open meetings so that the entire team can contribute to finding a solution.",
+        "C. The project manager should address conflicts proactively and privately using collaborative and direct approaches.",
+        "D. The project manager should be firm and use coercive power to quickly resolve conflicts."
+      ],
+      "answer": "C",
+      "explanation": "Smoothing (A) merely postpones the problem without resolving it. Addressing interpersonal conflicts in open meetings (B) is inappropriate; while technical conflicts benefit from open discussion, interpersonal conflicts should be handled privately to understand team members' motivations and characters. Coercive power (D) creates fear and does not improve interpersonal skills—team members will only behave differently when the manager is present. The correct approach (C) is to proactively address conflicts early using collaborative and direct approaches in private settings to achieve genuine resolution.",
+      "difficulty": "hard",
+      "topic": "Conflict Resolution",
+      "domain": 1,
+      "source_id": "yt_002",
+      "chunk_index": 8,
+      "video_segment": "2:00:56→2:16:03"
+    },
+    {
+      "question": "The project manager is responsible for running the project quality assurance report while reviewing a control chart. The project manager observes nine data points in a row on one side of the mean. What should the project manager do?",
+      "options": [
+        "A. Carry out a design of experiments.",
+        "B. Make the necessary changes to the chart to reflect the new mean.",
+        "C. Identify the assignable cause.",
+        "D. This is the rule of seven, meaning it can be disregarded."
+      ],
+      "answer": "C",
+      "explanation": "Nine consecutive data points on one side of the mean violates the rule of seven (seven or more consecutive points on one side of the mean), which indicates an assignable cause that requires investigation. Design of experiments (A) is not the appropriate corrective action for this situation. The chart should not be changed (B); instead, the process or product should be fixed to bring data closer to the mean. The rule of seven should never be disregarded (D); it must be analyzed to find and address the root cause of the process variation.",
+      "difficulty": "hard",
+      "topic": "Quality Control and Control Charts",
+      "domain": 2,
+      "source_id": "yt_002",
+      "chunk_index": 8,
+      "video_segment": "2:00:56→2:16:03"
+    },
+    {
+      "question": "A project manager gives the project team members the freedom to make decisions expecting them to solve issues on their own. Which of the following leadership approaches does the project manager adopt?",
+      "options": [
+        "A. Autocratic leadership",
+        "B. Democratic leadership",
+        "C. Laissez-faire leadership",
+        "D. Situational leadership"
+      ],
+      "answer": "C",
+      "explanation": "Laissez-faire leadership (a French term meaning 'let them do') is characterized by a hands-off approach where the project manager gives the team freedom to make decisions without direct involvement. This style is ideal for highly skilled teams and is appropriate when the project manager has high confidence in the team's abilities. The other leadership styles involve greater degrees of manager involvement in decision-making.",
+      "difficulty": "hard",
+      "topic": "Leadership Styles",
+      "domain": 1,
+      "source_id": "yt_002",
+      "chunk_index": 8,
+      "video_segment": "2:00:56→2:16:03"
+    },
+    {
+      "question": "A project manager is managing an online e-learning platform. The project team is following the Scrum framework and every few weeks they release a new version that includes more features, user interface changes, bug fixes, security patches, etc. In order to avoid confusing users with the continuous changes, the project manager decides to make all release information accessible to the platform members under a new section of the website. What type of communication is the project manager intends to use?",
+      "options": [
+        "A. Push communication",
+        "B. Interactive communication",
+        "C. Pull communication",
+        "D. Proactive communication"
+      ],
+      "answer": "C",
+      "explanation": "Pull communication allows stakeholders to access information when they need it, without being forced to receive it. In this scenario, users must proactively go to the website's news section to retrieve release information. Interactive communication (B) involves real-time discussion (phone, meetings, video conferences) and is not applicable here. Push communication (A) delivers information directly to the receiver without requiring them to seek it out. Proactive communication (D) is not a standard PMBOK communication type. Pull communication is appropriate for non-critical information that does not require immediate action.",
+      "difficulty": "hard",
+      "topic": "Stakeholder Communication Methods",
+      "domain": 1,
+      "source_id": "yt_002",
+      "chunk_index": 8,
+      "video_segment": "2:00:56→2:16:03"
+    },
+    {
+      "question": "After introducing a new foreign developer to the team, the project manager noted that a certain senior team member seems to be avoiding any interaction with him. What should the project manager do?",
+      "options": [
+        "A. Talk to the senior team member privately to try and find out the reason behind this behavior while making it clear that discrimination is not acceptable.",
+        "B. Notify the functional manager and escalate the issue.",
+        "C. Ignore the situation and let it resolve on its own.",
+        "D. Address the issue in front of all team members to demonstrate zero tolerance for discrimination."
+      ],
+      "answer": "A",
+      "explanation": "The project manager should proactively address the issue by speaking privately with the senior team member to understand the root cause of the avoidance behavior while clearly stating that discrimination is unacceptable. This approach allows for a confidential discussion and focuses on understanding motivations before considering escalation. Escalating to the functional manager (B) is premature without first attempting direct resolution. Ignoring the situation (C) allows the problem to persist and negatively affect team dynamics. Addressing it publicly (D) may embarrass the team member and escalate tensions unnecessarily.",
+      "difficulty": "hard",
+      "topic": "Team Dynamics and Conflict Management",
+      "domain": 1,
+      "source_id": "yt_002",
+      "chunk_index": 8,
+      "video_segment": "2:00:56→2:16:03"
+    }
+  ]
+}

@@ -1,0 +1,60 @@
+{
+  "source_id": "yt_005",
+  "chunk_index": 41,
+  "start_label": "6:54:14",
+  "end_label": "7:04:20",
+  "mode": "extract",
+  "questions": [
+    {
+      "question": "You have been assigned to a new project where the work is behind schedule and the team are not working together well. The team is relatively new and conflicts are arising. Team members are blaming each other for the work not done and some people are not showing up to work on the project at all. What will you do next?",
+      "options": [
+        "A. Meet with the functional manager of that area to agree on team members' time requirements",
+        "B. Meet with your team to set a team charter and define roles and responsibilities",
+        "C. Meet with the project sponsor to gain additional funding for resources who can work together",
+        "D. Escalate the issue to the steering committee as soon as possible as a project risk"
+      ],
+      "answer": "B",
+      "explanation": "The correct answer is B. Creating a collaborative team environment through team agreements, definitions of roles and responsibilities, formal committees with specific objectives, and standing meetings regularly reviewing topics helps manage conflict and unites a new team. Escalating before managing the issue directly (A, D) is premature, and additional funding (C) does not guarantee teams will work together without conflict. The PMBOK Guide (7th Edition, pages 28-29) emphasizes establishing a collaborative team environment as the foundation for team performance.",
+      "difficulty": "expert",
+      "topic": "Team Development and Conflict Resolution",
+      "domain": 1,
+      "source_id": "yt_005",
+      "chunk_index": 41,
+      "video_segment": "6:54:14→7:04:20"
+    },
+    {
+      "question": "You have recently completed a project for a new product and have been asked to manage it after its release to keep it relevant in today's marketplace. Half of your existing team are rolling off to other projects and the project budget is nearly depleted. What should you do?",
+      "options": [
+        "A. Create a business case and a project charter for your project sponsor to approve",
+        "B. Retain as many of your current project staff to continue work on the product",
+        "C. Raise a change request for your current project and add scope and continue making changes",
+        "D. Secure funding for a stable team and use current research to form a suite of projects to improve the product"
+      ],
+      "answer": "D",
+      "explanation": "The correct answer is D. This scenario describes transitioning from project to product management. Product management involves maintaining a product throughout its life cycle with continuous improvements and feature releases. A stable team working together on the product over time becomes highly effective. Options A and C treat this as a traditional project requiring new charters and scope changes, which is inappropriate. Option B does not address the funding constraint. The PMBOK Guide (7th Edition, pages 17-19) addresses product management considerations for maintaining and improving products beyond their initial release.",
+      "difficulty": "expert",
+      "topic": "Product Management and Organizational Strategy",
+      "domain": 3,
+      "source_id": "yt_005",
+      "chunk_index": 41,
+      "video_segment": "6:54:14→7:04:20"
+    },
+    {
+      "question": "You are delivering a critical change and several key stakeholders in your organization have added seemingly unnecessary steps for you to take with extra approvals, reports, and meetings. They are also restricting the people you need from working on your project in a larger capacity. What will you do next?",
+      "options": [
+        "A. Go directly to the people you need to avoid extra back and forth with the stakeholders",
+        "B. Raise a risk in the risk register on the lack of access to sufficient resources",
+        "C. Communicate more often with the stakeholders and gain a deeper awareness of their ideas and situation",
+        "D. Show your stakeholders the resource assignment matrix and project roles and responsibilities"
+      ],
+      "answer": "C",
+      "explanation": "The correct answer is C. This situation reflects a stakeholder engagement issue. Stakeholders may restrict team members or add requirements when they are not appropriately engaged or feel uninvolved. Effective communication, knowledge sharing, and regular face-to-face meetings help win stakeholder commitment and understanding. Option A bypasses stakeholders and risks escalation. Option B merely documents the issue without addressing the root cause. Option D presents documentation but without engagement does not change behavior, as stakeholders convinced against their will maintain their original position. The PMBOK Guide (7th Edition, pages 32-33) emphasizes effectively engaging with stakeholders through communication and awareness.",
+      "difficulty": "expert",
+      "topic": "Stakeholder Engagement and Communication",
+      "domain": 1,
+      "source_id": "yt_005",
+      "chunk_index": 41,
+      "video_segment": "6:54:14→7:04:20"
+    }
+  ]
+}

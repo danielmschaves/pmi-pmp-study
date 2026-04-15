@@ -1,0 +1,77 @@
+{
+  "source_id": "yt_005",
+  "chunk_index": 24,
+  "start_label": "4:02:31",
+  "end_label": "4:12:37",
+  "mode": "extract",
+  "questions": [
+    {
+      "question": "You are planning a project where supply chains have been impacted and the requirements are complex and intertwined with other areas of the business. Your project sponsor asks you to manage these risks before the project moves to execution. What will you do next?",
+      "options": [
+        "A. Move to project execution so you can work through risks as they happen",
+        "B. Move to an agile way of work so you can deliver faster and deal with the complexity",
+        "C. Note the risks with appropriate controls and add a contingency reserve in the project budget",
+        "D. Assign a management reserve to cover the identified risks"
+      ],
+      "answer": "C",
+      "explanation": "Contingency reserve is the appropriate tool for managing identified risks before execution. It is set aside to account for handling known risks should they occur. Management reserve is used for unknown events and unplanned in-scope work, not identified risks. Simply changing the approach to agile or waiting to address risks during execution does not manage them proactively beforehand.",
+      "difficulty": "expert",
+      "topic": "Risk Response Planning and Reserve Analysis",
+      "domain": 2,
+      "source_id": "yt_005",
+      "chunk_index": 24,
+      "video_segment": "4:02:31→4:12:37"
+    },
+    {
+      "question": "You are working on an agile project and delivering a usable feature every few weeks. The project sponsor is from a waterfall background and is concerned that there is not enough focus on risk. They would like to hold a regular risk review with a wide group of stakeholders. What will you suggest instead?",
+      "options": [
+        "A. There is no need for a separate meeting as risk is everyone's responsibility in an agile team",
+        "B. Use daily stand-ups to report blockers early and fortnightly demonstrations of the product to catch any stakeholder dissatisfaction",
+        "C. Use the kanban board to see the work and how it flows to identify risks visually",
+        "D. Hold the risk meeting but only with the immediate project team to avoid unnecessary participants"
+      ],
+      "answer": "B",
+      "explanation": "In agile teams, risk review takes the form of daily stand-ups where blockers are reported early (these can become threats if they continue), and frequent product demonstrations surface threats and opportunities. While risk is everyone's responsibility in agile, this does not eliminate the need for mechanisms to identify and discuss risks. Daily stand-ups and sprint reviews provide the structure needed without large, inefficient meetings.",
+      "difficulty": "expert",
+      "topic": "Risk Review in Agile Environments",
+      "domain": 2,
+      "source_id": "yt_005",
+      "chunk_index": 24,
+      "video_segment": "4:02:31→4:12:37"
+    },
+    {
+      "question": "Your project management office has no prescribed way of work and is working with a vendor who supplies an extreme programming framework at a significant cost. However, projects are still running behind schedule, over budget, and with low customer satisfaction. What are you going to do next?",
+      "options": [
+        "A. Tailor the approach to suit the organization's operating environment and project needs",
+        "B. Use a waterfall approach instead to ensure proper planning",
+        "C. Switch to scrum instead as it is a more popular framework",
+        "D. Tighten the controls around the project environment with a more directive PMO approach"
+      ],
+      "answer": "A",
+      "explanation": "Tailoring is the correct approach. Projects operate in complex environments with competing demands, and any framework—whether waterfall, scrum, extreme programming, or any other—must be tailored to better suit the organization's operating environment and project needs. Simply switching frameworks without tailoring will not solve the underlying issues. The problem is not the framework itself but its application to the specific context.",
+      "difficulty": "expert",
+      "topic": "Tailoring and Governance",
+      "domain": 3,
+      "source_id": "yt_005",
+      "chunk_index": 24,
+      "video_segment": "4:02:31→4:12:37"
+    },
+    {
+      "question": "Your project management office is in the middle of a companywide ways of working transformation. They have taken a popular project framework and are tailoring it to the organization with branded templates and processes that meet their existing governance requirements. You have been asked to help finalize the process. What will you do next?",
+      "options": [
+        "A. Gather feedback from the functional business areas to ensure the process meets their needs",
+        "B. Roll out the new way of working to the PMO as a pilot, then to the rest of the organization",
+        "C. Enable a process for tailoring based on size and complexity and implement ongoing improvement",
+        "D. Form a working group comprised of executives and project professionals to oversee implementation"
+      ],
+      "answer": "C",
+      "explanation": "The tailoring process involves: selecting the initial development approach, tailoring for the organization, tailoring for the project, and implementing ongoing improvement. Enabling a process for tailoring and continuous improvement ensures the framework remains effective and adaptable across different project sizes and complexities, rather than a one-time rollout or feedback gathering exercise.",
+      "difficulty": "expert",
+      "topic": "Tailoring Process and Organizational Transformation",
+      "domain": 3,
+      "source_id": "yt_005",
+      "chunk_index": 24,
+      "video_segment": "4:02:31→4:12:37"
+    }
+  ]
+}

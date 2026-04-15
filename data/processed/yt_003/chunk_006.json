@@ -1,0 +1,77 @@
+{
+  "source_id": "yt_003",
+  "chunk_index": 6,
+  "start_label": "1:30:40",
+  "end_label": "1:45:44",
+  "mode": "extract",
+  "questions": [
+    {
+      "question": "You are working on an agile project where the functional manager you are delivering to only has a high level idea of the system requirements that they will need. The functional manager suggests a work breakdown structure; however, your team feels that this is more for a predictive or waterfall delivery approach. What will you do next?",
+      "options": [
+        "A. Create and use a work breakdown structure anyway as it is just a tool",
+        "B. Use rolling wave planning and keep the work at a high level until you are ready to work on it, then you can plan in detail",
+        "C. Note the high level themes or epics, decompose them into features, and again into user stories",
+        "D. Use the functional area and ask them for more detailed requirements before the project begins"
+      ],
+      "answer": "C",
+      "explanation": "Decomposition is a principle that applies to both agile and waterfall approaches. Breaking down work from epics into features into user stories is a form of decomposition that fits an incremental/agile delivery approach better than a traditional WBS, and is more agile-centric than the other options.",
+      "difficulty": "hard",
+      "topic": "Agile Decomposition and Work Breakdown",
+      "domain": 2,
+      "source_id": "yt_003",
+      "chunk_index": 6,
+      "video_segment": "1:30:40→1:45:44"
+    },
+    {
+      "question": "You are at the beginning of planning a new project and have researched and gathered the requirements from the area, broken them down into deliverables and activities, which you believe could take 26 weeks to deliver. The project sponsor is asking you for an estimate on how long the project will take. What will you do next?",
+      "options": [
+        "A. Tell the project sponsor approximately 24 to 28 weeks",
+        "B. Tell the project sponsor that you will use an iterative approach where value is delivered until the project stops",
+        "C. Tell the project sponsor 26 weeks",
+        "D. Tell the project sponsor approximately 20 to 45 weeks"
+      ],
+      "answer": "D",
+      "explanation": "At the beginning of a project when there is little information, estimates should have a broad range. Early in a project, the acceptable range is approximately -25% to +75%, which translates to 20 to 45 weeks from a 26-week estimate. As the project progresses and more information is gathered, this range narrows to -5% to +10% and eventually to 0% when the project is complete.",
+      "difficulty": "hard",
+      "topic": "Estimation and Range Estimates",
+      "domain": 2,
+      "source_id": "yt_003",
+      "chunk_index": 6,
+      "video_segment": "1:30:40→1:45:44"
+    },
+    {
+      "question": "After gathering your project requirements, project scope, and breaking it down into activities, you need to estimate the project schedule with your team. After some analysis and discussion, your team comes up with a range of 53 to 75 days assigned across all tasks. What will you do next?",
+      "options": [
+        "A. High accuracy and low precision",
+        "B. Low accuracy and high precision",
+        "C. Confidence and precision",
+        "D. Ensure the estimates become more accurate as the project unfolds"
+      ],
+      "answer": "B",
+      "explanation": "Accuracy refers to how close the estimate is to the actual value; a wide range indicates low accuracy. Precision refers to the exactness of the estimate; stating a range in specific days (53-75 days) is more precise than saying 'sometime next month.' The 22-day spread represents low accuracy but the specificity of days represents high precision.",
+      "difficulty": "hard",
+      "topic": "Estimation Accuracy and Precision",
+      "domain": 2,
+      "source_id": "yt_003",
+      "chunk_index": 6,
+      "video_segment": "1:30:40→1:45:44"
+    },
+    {
+      "question": "You are working on a business case where you know that the industry is undergoing a significant change at the moment and there could be many different impacts to your project benefits before it is delivered completely. Your project sponsor asks you for the best estimate of benefits that you can give under the circumstances. What will you do next?",
+      "options": [
+        "A. Ask your team for a probabilistic estimate",
+        "B. Ask your team for a deterministic estimate",
+        "C. Ask your team for an absolute estimate",
+        "D. Ask your team for a relative estimate"
+      ],
+      "answer": "A",
+      "explanation": "In an uncertain environment with potential significant changes, a probabilistic estimate is best because it includes a range of estimates along with associated probabilities or confidence levels, such as a cumulative distribution. This is superior to deterministic (specific number), absolute (fixed value), or relative (comparison-based) estimates when the future is uncertain.",
+      "difficulty": "hard",
+      "topic": "Probabilistic vs Deterministic Estimation",
+      "domain": 2,
+      "source_id": "yt_003",
+      "chunk_index": 6,
+      "video_segment": "1:30:40→1:45:44"
+    }
+  ]
+}

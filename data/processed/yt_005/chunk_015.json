@@ -1,0 +1,77 @@
+{
+  "source_id": "yt_005",
+  "chunk_index": 15,
+  "start_label": "2:31:24",
+  "end_label": "2:41:30",
+  "mode": "extract",
+  "questions": [
+    {
+      "question": "You are working on an agile project as a Scrum Master. The functional manager from the business approaches members of your development team directly to see if they can add a feature to the product in their current Sprint. What will you do next?",
+      "options": [
+        "A. Adjust the Sprint backlog to allow for the additional feature",
+        "B. Adjust the product backlog to add the customer requirement",
+        "C. Ask the manager to speak with the product owner for the product priorities, then protect the team from direct requests in the future",
+        "D. Ask the manager to create a change request so it can go through the proper process"
+      ],
+      "answer": "C",
+      "explanation": "In agile teams, the product owner is the single point of decision for prioritizing work and determining the highest-value work for the team. New requests should be directed to the product owner for prioritization rather than directly to the team. As Scrum Master, you have a responsibility to protect the team from distractions and outside influences that prevent them from making progress. This is known as being a diversion shield. While change requests and backlog adjustments may eventually be needed, the first action is to redirect the request through proper channels and protect the team from direct requests.",
+      "difficulty": "expert",
+      "topic": "Agile Team Management and Scrum Master Responsibilities",
+      "domain": 1,
+      "source_id": "yt_005",
+      "chunk_index": 15,
+      "video_segment": "2:31:24→2:41:30"
+    },
+    {
+      "question": "You are managing a project with a detailed Communications plan that has been signed off by the project sponsor. The plan identifies stakeholders, their communication needs, and how information will be communicated. However, you receive many ad hoc requests for information from new stakeholders. What will you do next?",
+      "options": [
+        "A. Review the communications management plan to include the new stakeholders with the information that they need and their communication preferences",
+        "B. Create an information radiator and ask the stakeholders to pull the information they need",
+        "C. Ignore the new requests as you have captured all the stakeholders you need to in your plan",
+        "D. Ask the new stakeholders to review your Communications management plan to see how you are distributing information"
+      ],
+      "answer": "A",
+      "explanation": "An abundance of ad hoc communication requests indicates that the communications planning was not sufficient to meet stakeholder needs. The appropriate action is to review and update the communications management plan to include the new stakeholders and ensure their communication needs and preferences are documented. This ensures proper communication channels are established and prevents future ad hoc requests. While creating an information radiator or asking stakeholders to review the existing plan may be helpful, the primary responsibility is to update the plan itself to reflect the actual stakeholder needs.",
+      "difficulty": "expert",
+      "topic": "Communications Management and Stakeholder Engagement",
+      "domain": 2,
+      "source_id": "yt_005",
+      "chunk_index": 15,
+      "video_segment": "2:31:24→2:41:30"
+    },
+    {
+      "question": "You are working on a high-value construction project with smart home components in multi-million dollar buildings. After completing a make-or-buy analysis, you find that it will cost $700,000 to make a new system or $500,000 to buy it from a vendor. You have prepared a procurement management plan to purchase from a vendor. What will you do before conducting the procurement?",
+      "options": [
+        "A. Work with your project team to complete as much as possible in-house",
+        "B. Work with Contracting Professionals in your organization to develop an RFP, statement of work, terms and conditions, and other necessary documents",
+        "C. Adjust your stakeholder register to include the new vendor and add the scope to your work breakdown structure dictionary",
+        "D. Work with your project team to develop an RMP, SMP, and list of resources"
+      ],
+      "answer": "B",
+      "explanation": "Prior to conducting a procurement and sending out bid documents to vendors, the project manager and technically qualified project team members must work with Contracting Professionals to develop the request for proposal (RFP), statement of work (SOW), terms and conditions, and other necessary documents that will go out to bid. This is a critical step in the procurement process that ensures vendors have clear requirements and expectations. The other options are either not applicable to this stage or are steps that would occur after or alongside the procurement process.",
+      "difficulty": "expert",
+      "topic": "Procurement Management and Planning",
+      "domain": 2,
+      "source_id": "yt_005",
+      "chunk_index": 15,
+      "video_segment": "2:31:24→2:41:30"
+    },
+    {
+      "question": "A missing item has been uncovered in your project scope that your project team cannot deliver. The item is not complex and seems to be fairly readily available from various sources. You are ready to move to Source Selection and choose a vendor that will meet your needs. What will you do before sending out bid documents to vendors?",
+      "options": [
+        "A. Prepare a request for proposal (RFP) for vendors to provide a solution to your needs",
+        "B. Prepare a request for quote (RFQ) to determine the best price from the vendors",
+        "C. Prepare a request for information (RFI) to gather more information and identify viable sources from the market",
+        "D. Prepare a procurement statement of work detailing all specifications"
+      ],
+      "answer": "C",
+      "explanation": "Before sending out formal bid documents such as RFPs or RFQs, you should first prepare a request for information (RFI) to gather more information about viable sources in the market and better understand available solutions. This is a preliminary step that helps clarify requirements and identify potential vendors before moving to the formal source selection stage. An RFI is typically used when you need more information about what is available in the market, which is appropriate given that this is a newly uncovered scope item that may not have been thoroughly researched during initial planning.",
+      "difficulty": "expert",
+      "topic": "Procurement Planning and Source Selection",
+      "domain": 2,
+      "source_id": "yt_005",
+      "chunk_index": 15,
+      "video_segment": "2:31:24→2:41:30"
+    }
+  ]
+}

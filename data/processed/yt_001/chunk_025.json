@@ -1,0 +1,162 @@
+{
+  "source_id": "yt_001",
+  "chunk_index": 25,
+  "start_label": "6:17:26",
+  "end_label": "6:32:34",
+  "mode": "extract",
+  "questions": [
+    {
+      "question": "A new project manager is assigned to guide a software platform project to its completion under a hybrid management framework. What document should the new project manager review first to understand the strategic benefits and objectives of the project?",
+      "options": [
+        "A. The roadmap",
+        "B. The business case",
+        "C. Strategic alignment documents",
+        "D. Technical design documents"
+      ],
+      "answer": "B",
+      "explanation": "The business case documents the strategic benefits and objectives of a project. The roadmap shows all projects in a program, strategic alignment documents are not standard project documents, and technical design documents address how the project will be technically developed, not its strategic benefits.",
+      "difficulty": "expert",
+      "topic": "Project Charter and Documentation",
+      "domain": 2,
+      "source_id": "yt_001",
+      "chunk_index": 25,
+      "video_segment": "6:17:26→6:32:34"
+    },
+    {
+      "question": "A project manager is tasked with selecting project management methodologies and tools for an enterprise-wide software upgrade project that is distinctively different from the organization's usual initiatives. Who should have primary responsibility for choosing the project management methodologies and tools tailored to this distinctive project?",
+      "options": [
+        "A. Key stakeholders from each department should collaboratively determine the methodology and tools",
+        "B. The project manager and team should strictly utilize industry standard methodologies and tools",
+        "C. The chief technology officer is the highest authority and should set the methodologies and tools",
+        "D. The project manager and project team should identify and select the methodologies and tools that best suit the project"
+      ],
+      "answer": "D",
+      "explanation": "The project manager and team should work together to select the methodology best suited for the project because only the team truly understands the work. Every project is unique and requires customization. Stakeholder input alone, industry standards, or CTO authority do not account for project-specific needs.",
+      "difficulty": "expert",
+      "topic": "Agile and Project Management Framework Selection",
+      "domain": 2,
+      "source_id": "yt_001",
+      "chunk_index": 25,
+      "video_segment": "6:17:26→6:32:34"
+    },
+    {
+      "question": "A project manager leads a groundbreaking environmental initiative within a large organization with team members from various disciplines including engineering, environmental science, and project management. What should the project manager do to ensure clear and effective communication amongst these diverse team members?",
+      "options": [
+        "A. Develop individualized communication management plans that cater to the specific informational needs and preferences of each project team discipline",
+        "B. Institute a centralized project information dashboard for real-time updates and transparency across all team disciplines",
+        "C. Conduct interdisciplinary workshops to foster mutual understanding and collaborative problem-solving amongst team members",
+        "D. Assign communication liaisons within each discipline to streamline the workflow of project information and facilitate interdepartmental understanding"
+      ],
+      "answer": "A",
+      "explanation": "Communication should be tailored and customized to all stakeholders, not one-size-fits-all. While a centralized dashboard, workshops, and liaisons have merit, the best approach is to develop individualized communication management plans that address the specific needs and preferences of each discipline.",
+      "difficulty": "expert",
+      "topic": "Communication Management",
+      "domain": 1,
+      "source_id": "yt_001",
+      "chunk_index": 25,
+      "video_segment": "6:17:26→6:32:34"
+    },
+    {
+      "question": "Following the approval of the project charter, a project manager begins working with the team to organize the project scope into smaller detailed components. What is the project manager primarily working on?",
+      "options": [
+        "A. Creating a project RACI chart",
+        "B. Scheduling the execution phases of the project",
+        "C. Creating a project schedule network diagram",
+        "D. Developing a work breakdown structure"
+      ],
+      "answer": "D",
+      "explanation": "Decomposing the scope into smaller detailed components is the definition of creating a work breakdown structure (WBS). A RACI chart assigns people to work, a project schedule is built after planning is complete, and a network diagram is used for scheduling, not for initial scope decomposition.",
+      "difficulty": "expert",
+      "topic": "Scope Management and Work Breakdown Structure",
+      "domain": 2,
+      "source_id": "yt_001",
+      "chunk_index": 25,
+      "video_segment": "6:17:26→6:32:34"
+    },
+    {
+      "question": "On a high-stakes software development project, a project manager notices that numerous team members are late to or entirely miss the daily virtual scrum meetings. What action should the project manager take to enhance the efficiency and attendance of these sessions?",
+      "options": [
+        "A. Work with the team to identify a project communication protocol that will ensure timely participation in the daily scrum",
+        "B. Identify a time that could potentially increase attendance and punctuality",
+        "C. Transition to an asynchronous communication model to allow team members to update their status at their convenience",
+        "D. Solicit input from stakeholders on efficient methods to improve team engagement and meeting attendance"
+      ],
+      "answer": "A",
+      "explanation": "The best approach is to work with the team to establish a protocol or set of rules they are willing to follow. Option B lacks team input, option C eliminates the synchronous nature required of a daily scrum, and option D relies on stakeholder input rather than engaging the team directly. Agile teams must establish their own working agreements.",
+      "difficulty": "expert",
+      "topic": "Agile Team Management and Standup Meetings",
+      "domain": 1,
+      "source_id": "yt_001",
+      "chunk_index": 25,
+      "video_segment": "6:17:26→6:32:34"
+    },
+    {
+      "question": "A project manager discovers that recent legislative updates necessitate additional security enhancements to the project. Although the development team can incorporate these enhancements without exceeding their budget, the allocated budget for quality assurance and testing is being rapidly depleted due to these unplanned requirements. What action should the project manager take to manage the escalating costs associated with the increased scope of testing?",
+      "options": [
+        "A. Propose a temporary reallocation of resources from less critical activities to support the expanded testing requirements",
+        "B. Have the sponsor analyze potential cost-saving measures within the project to reallocate funds towards the testing budget",
+        "C. Submit a formal change request to revise the cost baseline based on accommodating the extra expense incurred in testing",
+        "D. Adjust the project's financial strategy to ensure the newly identified testing needs are adequately funded without compromising quality"
+      ],
+      "answer": "C",
+      "explanation": "When scope increases and budget must be adjusted, a formal change request must be submitted to update the cost baseline. Option A may require a change request anyway, option B places analysis responsibility on the sponsor rather than the PM, and option D involves unilaterally adjusting finances without proper approval. Change requests are required for scope and cost changes.",
+      "difficulty": "expert",
+      "topic": "Change Control and Cost Management",
+      "domain": 2,
+      "source_id": "yt_001",
+      "chunk_index": 25,
+      "video_segment": "6:17:26→6:32:34"
+    },
+    {
+      "question": "During the development stage of an innovative mobile application, an agile project team discovers the need for an advanced software library that was not initially anticipated but is critical for enhancing the app's functionality. What should the project manager do to effectively manage this unforeseen requirement?",
+      "options": [
+        "A. Organize a strategic meeting with the product owner to reassess project priorities and integrate the new software library",
+        "B. Update the project timeline to reflect the expected delay due to the integration of the new software library",
+        "C. Identify this new need as a project risk",
+        "D. Seek immediate advice from the steering committee and delegate the task of integrating the new software library to a specialist within the project team"
+      ],
+      "answer": "A",
+      "explanation": "In an agile project, any scope addition must be approved by the product owner, who reassesses priorities and adds items to the product backlog for reprioritization. Option B updates timeline prematurely without approval, option C labels it as risk rather than scope, and option D delegates away PM responsibility and seeks approval from the wrong authority. The product owner controls scope in agile.",
+      "difficulty": "expert",
+      "topic": "Agile Scope Management and Product Backlog",
+      "domain": 2,
+      "source_id": "yt_001",
+      "chunk_index": 25,
+      "video_segment": "6:17:26→6:32:34"
+    },
+    {
+      "question": "While working on a project, a client requests additional changes that threaten to extend the project timeline significantly. A project manager is exploring options to accelerate the timeline to accommodate these changes but is concerned about potential increased overtime for the team. What action should the project manager take to keep the team motivated despite these challenges?",
+      "options": [
+        "A. Offer monetary incentives to team members who agree to work extended hours to meet the deadline",
+        "B. Recognize team efforts and celebrate milestones to maintain morale during challenging periods",
+        "C. Reassign tasks to focus on high-priority deliverables and reduce the team workload",
+        "D. Introduce mandatory team-building activities to encourage collaboration and increase motivation"
+      ],
+      "answer": "B",
+      "explanation": "Recognizing efforts and celebrating milestones are intrinsic motivators that maintain morale during challenging periods. Option A may not work for the entire team and could create equity issues, option C may not be feasible given the scope increase, and option D's mandatory nature could actually demotivate rather than motivate.",
+      "difficulty": "expert",
+      "topic": "Team Motivation and Leadership",
+      "domain": 1,
+      "source_id": "yt_001",
+      "chunk_index": 25,
+      "video_segment": "6:17:26→6:32:34"
+    },
+    {
+      "question": "In a major software development project, several team members are reluctant to use new project management software, believing it to be overly complicated and not beneficial for their tasks. What should the project manager have done initially to facilitate the team's adaptation to the new software?",
+      "options": [
+        "A. Encourage team leaders to use the software in their meetings to set an example for the rest of the team",
+        "B. Implement a reward system for early adopters who effectively integrate the software into their workflow",
+        "C. Conduct one-on-one sessions to understand individual resistance and tailor support accordingly",
+        "D. Organize a comprehensive training session to demonstrate the functional benefits of the new software"
+      ],
+      "answer": "D",
+      "explanation": "A comprehensive training session that demonstrates the functional benefits addresses the root cause of resistance by showing value and reducing perceived complexity. Option A relies on modeling, option B incentivizes adoption without addressing concerns, and option C addresses resistance after the fact rather than preventing it through proper initial implementation and education.",
+      "difficulty": "expert",
+      "topic": "Change Management and Team Development",
+      "domain": 1,
+      "source_id": "yt_001",
+      "chunk_index": 25,
+      "video_segment": "6:17:26→6:32:34"
+    }
+  ]
+}

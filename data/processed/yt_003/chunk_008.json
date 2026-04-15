@@ -1,0 +1,111 @@
+{
+  "source_id": "yt_003",
+  "chunk_index": 8,
+  "start_label": "2:00:51",
+  "end_label": "2:15:56",
+  "mode": "extract",
+  "questions": [
+    {
+      "question": "Your project team believes using a project schedule is from the old waterfall way of working and they shouldn't have to create one. What will you do next?",
+      "options": [
+        "A. Create a project Gantt chart to visualize the activities within the project",
+        "B. Determine the project's planned versus actual value instead of working with a schedule directly",
+        "C. Advise the customer that we don't need to plan ahead in an adaptive way of work",
+        "D. Ask your team to develop a high level release plan like a product road map showing the features to be included in each release"
+      ],
+      "answer": "D",
+      "explanation": "Adaptive schedule planning uses incremental planning where a high-level release plan is developed indicating basic features and functionality to be included in each release. This approach maintains planning discipline while being agile-centric. A Gantt chart is waterfall-focused, planned versus actual value analysis is about variance tracking rather than addressing the core concern, and advising against planning is not appropriate for any project delivery method.",
+      "difficulty": "hard",
+      "topic": "Adaptive Schedule Planning",
+      "domain": 2,
+      "source_id": "yt_003",
+      "chunk_index": 8,
+      "video_segment": "2:00:51→2:15:56"
+    },
+    {
+      "question": "You're working in a project team that has recently moved to an agile way of work. Your business analysts want to gather requirements, match solutions to scope, and do a work breakdown structure for the whole deliverable. Your product owner says this will take too long and is not agile enough for their needs. What will you do next?",
+      "options": [
+        "A. Ask your team to review the scope management plan for the proper process",
+        "B. Break the deliverable down into smaller pieces so you can deliver those faster",
+        "C. Ask your team to time box work on the highest priority items in the backlog, update the estimates, and then reprioritize them as necessary",
+        "D. Review the project charter for the high level scope and then use this to begin delivery quickly"
+      ],
+      "answer": "C",
+      "explanation": "Time boxing is a core agile practice where work is broken into time-boxed iterations. The team works on the highest priority backlog items, estimates the work, and reprioritizes for the next time box. This approach allows for incremental delivery without completing all analysis upfront, while still maintaining proper planning. Simply breaking deliverables into smaller pieces may not result in usable increments, and bypassing detailed planning altogether violates project governance.",
+      "difficulty": "hard",
+      "topic": "Adaptive Approaches and Time Boxing",
+      "domain": 2,
+      "source_id": "yt_003",
+      "chunk_index": 8,
+      "video_segment": "2:00:51→2:15:56"
+    },
+    {
+      "question": "When reviewing current progress with your project sponsor, they noticed that the system solution is missing a critical piece that will impact the benefit of the project. The project sponsor approves the scope. Your project has a planned value of $520,000 and an actual cost of $535,000. What will you do next to add this critical piece of scope?",
+      "options": [
+        "A. Work with the PMO to unlock the project management reserves for the extra work",
+        "B. Ask the product owner to reprioritize the backlog and see if the new work will fit",
+        "C. Perform the work within your normal budget as your project is on track",
+        "D. Raise a change request for the changes and gain approval from the Change Control Board"
+      ],
+      "answer": "A",
+      "explanation": "Management reserves are set aside specifically for unexpected activities related to in-scope work. Since the project sponsor has already approved this scope as necessary for project benefits, and the work is in-scope but not previously identified, using management reserves is the appropriate mechanism. The project is already over budget ($535,000 actual versus $520,000 planned), so performing within the normal budget is not feasible. A formal change request is unnecessary when the scope is already sponsor-approved.",
+      "difficulty": "hard",
+      "topic": "Budget and Management Reserves",
+      "domain": 2,
+      "source_id": "yt_003",
+      "chunk_index": 8,
+      "video_segment": "2:00:51→2:15:56"
+    },
+    {
+      "question": "You're in the planning stages of an agile project where the functional manager and senior users have provided the high level requirements and scope. You have been asked to put together a project team that will be able to deliver quickly. What will you do next?",
+      "options": [
+        "A. Select project team members from each city to ensure diversity of knowledge within the team",
+        "B. Put together a resource management plan outlining the resources required",
+        "C. Ask your PMO for current available resources and assign them to the work",
+        "D. Select a small team that can work in the same area so they can solve problems as they arise"
+      ],
+      "answer": "D",
+      "explanation": "Collocated, small teams are essential for agile delivery. When team members work in the same physical location, they benefit from osmotic communication—overhearing conversations and solving problems together quickly. Small teams also minimize communication channels, reducing complexity. While diversity and resource planning are important considerations, collocation and team size are critical factors for enabling quick delivery in agile projects.",
+      "difficulty": "hard",
+      "topic": "Project Team Composition and Agile Team Structure",
+      "domain": 1,
+      "source_id": "yt_003",
+      "chunk_index": 8,
+      "video_segment": "2:00:51→2:15:56"
+    },
+    {
+      "question": "You're putting together a project team to deliver an accounting system to offices around the country. The accounting system you're moving to has not been used by anyone in your organization before. The project is quite high risk and the delivery needs to be right the first time. What will you do next?",
+      "options": [
+        "A. Select a small team that can work in the same area so they can solve problems as they arise",
+        "B. Use a predictive project approach and source part of your team externally",
+        "C. Train existing internal staff in the new system and then have them work on the project",
+        "D. Perform a make or buy analysis on the different software options"
+      ],
+      "answer": "B",
+      "explanation": "With high risk and a single delivery requirement, a predictive (waterfall) approach is most appropriate. Since no one in the organization has experience with this new system, sourcing external expertise is necessary to bring the required skills and knowledge. This combination addresses both the delivery criticality and the knowledge gap. A make-or-buy analysis is premature since the system has already been selected, and training internal staff may not provide the necessary expertise for first-time-right delivery.",
+      "difficulty": "hard",
+      "topic": "Project Team Composition and Approach Selection",
+      "domain": 2,
+      "source_id": "yt_003",
+      "chunk_index": 8,
+      "video_segment": "2:00:51→2:15:56"
+    },
+    {
+      "question": "You're putting together a project plan for a change that affects nearly 10,000 stakeholders in your organization. You have identified the affected stakeholders, analyzed and prioritized them, and are putting together a communication plan to ensure that the right engagement is made. What will you not include in your plan?",
+      "options": [
+        "A. Why information should be shared with stakeholders",
+        "B. What information should be shared with stakeholders",
+        "C. How information should be shared with stakeholders",
+        "D. When information should be shared with stakeholders"
+      ],
+      "answer": "A",
+      "explanation": "A communication plan includes what information will be shared, how it will be delivered, and when it will be communicated. The 'why' (rationale for sharing information) is typically established during stakeholder analysis and engagement strategy development, not explicitly documented in the communication plan itself. The plan focuses on the tactical elements of communication delivery rather than the underlying justification.",
+      "difficulty": "hard",
+      "topic": "Stakeholder Communication Planning",
+      "domain": 1,
+      "source_id": "yt_003",
+      "chunk_index": 8,
+      "video_segment": "2:00:51→2:15:56"
+    }
+  ]
+}

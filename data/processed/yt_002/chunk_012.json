@@ -1,0 +1,128 @@
+{
+  "source_id": "yt_002",
+  "chunk_index": 12,
+  "start_label": "3:01:24",
+  "end_label": "3:16:30",
+  "mode": "extract",
+  "questions": [
+    {
+      "question": "A project manager discovers an issue with an unreliable vendor during project execution. Where should the project manager record this issue?",
+      "options": [
+        "A. Lessons learned register",
+        "B. Change log",
+        "C. Risk register",
+        "D. Issue log"
+      ],
+      "answer": "D",
+      "explanation": "The issue log is the project document where all information concerning faced issues is recorded and monitored. While lessons learned may also document future decisions about avoiding unreliable vendors, the question specifically asks where to record the issue itself, which belongs in the issue log. The change log and risk register are not applicable as there are no changes or risks mentioned in this scenario.",
+      "difficulty": "hard",
+      "topic": "Issue Management and Documentation",
+      "domain": 2,
+      "source_id": "yt_002",
+      "chunk_index": 12,
+      "video_segment": "3:01:24→3:16:30"
+    },
+    {
+      "question": "A PMP certified project manager has wide knowledge of project management and over 20 years of experience as a designer in the automotive industry. Her last assignment consisted of managing a group of designers to develop a new design of a futuristic car model. Knowing that the team trusts her decisions, which of the following powers does the project manager possess?",
+      "options": [
+        "A. Referent",
+        "B. Expert",
+        "C. Formal",
+        "D. Persuasive"
+      ],
+      "answer": "B",
+      "explanation": "Expert power is the correct answer because the team trusts her decisions specifically because of her extensive experience and knowledge in the automotive design field. Referent power involves admiration and identification with the leader, which is not indicated here. Persuasive power relates to persuasion skills, which are not mentioned. Formal power comes from the position held, not from experience. The scenario clearly establishes that trust is based on expertise.",
+      "difficulty": "hard",
+      "topic": "Project Manager Power and Influence",
+      "domain": 1,
+      "source_id": "yt_002",
+      "chunk_index": 12,
+      "video_segment": "3:01:24→3:16:30"
+    },
+    {
+      "question": "A project manager receives a document from the customer containing the new project's requirements. When going through the document, the project manager finds it difficult to understand certain requirements, outputs, and most importantly, the project's ultimate goal. What should the project manager do next?",
+      "options": [
+        "A. Ask the customer for clarification",
+        "B. Reject the new project as it involves a lot of ambiguity",
+        "C. Start planning the first iteration",
+        "D. Acquire a team to help analyze the project requirements"
+      ],
+      "answer": "A",
+      "explanation": "Asking the customer for clarification is the appropriate next step when facing ambiguous requirements and unclear project goals. Rejecting the project immediately is premature without first understanding the scope. Starting to plan iterations without understanding the project goal is impossible. Acquiring a team before even confirming the project or understanding its objectives is premature. The project manager must establish a clear vision and understanding of project requirements before proceeding with any other actions.",
+      "difficulty": "hard",
+      "topic": "Requirements Clarification and Stakeholder Communication",
+      "domain": 1,
+      "source_id": "yt_002",
+      "chunk_index": 12,
+      "video_segment": "3:01:24→3:16:30"
+    },
+    {
+      "question": "A company must select one of two projects that have the same budget but different returns and risk levels. Which tool or technique should be used in order to make the right decision?",
+      "options": [
+        "A. Decision tree",
+        "B. Tornado diagram",
+        "C. SWAT analysis",
+        "D. Sensitivity analysis"
+      ],
+      "answer": "A",
+      "explanation": "Decision tree analysis is the correct tool for selecting among alternatives when considering probabilities, returns, and risk levels. A decision tree supports identification and selection of the best course of action by calculating expected values based on different scenarios and their probabilities. Tornado diagrams are used for sensitivity analysis visualization. SWAT analysis is used for organizational strategic analysis. Sensitivity analysis examines how changes in variables affect outcomes but is not the primary tool for project selection decisions.",
+      "difficulty": "hard",
+      "topic": "Decision-Making and Project Selection",
+      "domain": 3,
+      "source_id": "yt_002",
+      "chunk_index": 12,
+      "video_segment": "3:01:24→3:16:30"
+    },
+    {
+      "question": "During the sprint review, the product owner informs the Scrum team that the meeting is being recorded in order to send it to a key stakeholder. A day later, the stakeholder contacts the product owner to express their disappointment with the product, claiming that it is nothing like what they had in mind. What should the project manager do next?",
+      "options": [
+        "A. Facilitate a meeting between the product owner and the concerned stakeholder",
+        "B. Meet the stakeholder to review the product backlog items",
+        "C. Ask the development team to have more frequent backlog refinement sessions with the product owner",
+        "D. Ask the development team to collaborate with the key stakeholder"
+      ],
+      "answer": "A",
+      "explanation": "Facilitating a meeting between the product owner and stakeholder is the correct approach because there is a misalignment between their vision and understanding of the product. The product owner is responsible for gathering and prioritizing requirements, and the stakeholder's disappointment indicates insufficient involvement in the process. Option B is incorrect because the project manager should not take over the product owner's responsibility. Option C does not address the root cause of misalignment. Option D is incorrect because the project manager's role in Scrum is to protect the team; the only point of contact for the development team should be the product owner, not stakeholders directly.",
+      "difficulty": "hard",
+      "topic": "Stakeholder Alignment and Communication in Agile",
+      "domain": 1,
+      "source_id": "yt_002",
+      "chunk_index": 12,
+      "video_segment": "3:01:24→3:16:30"
+    },
+    {
+      "question": "A project manager is leading an adaptive project using an online project management system that displays the real-time progress of the iterations and the overall project through different charts. However, a key stakeholder prefers to receive an email with the weekly status report instead. What should the project manager do?",
+      "options": [
+        "A. Add a small recurring task of one story point in the product backlog to send the weekly report",
+        "B. Take this in charge in order to let the team focus on achieving deliverables",
+        "C. Check if there is a way to automatically send the weekly report through the project management system",
+        "D. Ignore the stakeholder request"
+      ],
+      "answer": "B",
+      "explanation": "The project manager should take responsibility for sending the weekly status report to protect the team from non-value-adding work and allow them to focus on achieving iteration goals. Option A is incorrect because status reporting is not a product backlog item; the backlog should contain only product-related work. Option C is also valid and complementary, as automation can improve efficiency. Option D is incorrect because ignoring stakeholder requests damages relationships and engagement. The project manager should either send the report manually or automate the process, while also educating the stakeholder about real-time platform access. (Note: Both B and C were confirmed as correct in the explanation, but B is the primary answer for what the PM should do)",
+      "difficulty": "hard",
+      "topic": "Stakeholder Communication and Team Protection in Agile",
+      "domain": 1,
+      "source_id": "yt_002",
+      "chunk_index": 12,
+      "video_segment": "3:01:24→3:16:30"
+    },
+    {
+      "question": "Upon the client's request, a project manager of an e-commerce website development project agreed to extend the scope while committing to the same delivery date. In order to achieve that, the project team must work 24/7. What should the project manager do?",
+      "options": [
+        "A. Start a night shift for the collocated team members",
+        "B. Hire virtual teams that work in different time zones and schedules",
+        "C. Use fast tracking",
+        "D. Use the resource leveling technique"
+      ],
+      "answer": "B",
+      "explanation": "Hiring virtual teams that work in different time zones is a crashing technique that adds resources to complete the expanded scope within the same deadline. Option A is incorrect because shifting existing team members to night shifts does not increase overall resource capacity to handle double the scope. Option C (fast tracking) overlaps activities but does not resolve the fundamental issue of insufficient resources for the expanded scope. Option D (resource leveling) is used during the planning phase to address resource constraints, not during execution to handle scope expansion. The project manager must add resources through hiring virtual teams to crash the schedule and meet the new scope within the original deadline.",
+      "difficulty": "hard",
+      "topic": "Schedule Compression and Resource Management",
+      "domain": 2,
+      "source_id": "yt_002",
+      "chunk_index": 12,
+      "video_segment": "3:01:24→3:16:30"
+    }
+  ]
+}

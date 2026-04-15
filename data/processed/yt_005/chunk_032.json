@@ -1,0 +1,94 @@
+{
+  "source_id": "yt_005",
+  "chunk_index": 32,
+  "start_label": "5:23:17",
+  "end_label": "5:33:23",
+  "mode": "extract",
+  "questions": [
+    {
+      "question": "You are midway through a Sprint and have discovered that your team does not have enough work to complete the iteration. What should you do next?",
+      "options": [
+        "A. Hold a backlog refinement meeting and work with the team to identify the work that could be accomplished",
+        "B. Raise the issue as a blocker in the daily standup and ask your team to swarm around the problem",
+        "C. Raise the issue in the next retrospective and take an action for the team",
+        "D. Place the cards on the Kanban board so the team can see the work and get started"
+      ],
+      "answer": "A",
+      "explanation": "A backlog refinement meeting is the appropriate forum to progressively elaborate and reprioritize the backlog to identify work that can be accomplished in the upcoming iteration. While the daily standup could raise the issue, it is not the proper venue for detailed problem-solving. A retrospective occurs at the end of a Sprint, making it too late to address the current iteration's capacity issue. Placing cards on a board requires the work to be ready according to the definition of ready, which backlog refinement ensures.",
+      "difficulty": "expert",
+      "topic": "Backlog Refinement and Sprint Planning",
+      "domain": 2,
+      "source_id": "yt_005",
+      "chunk_index": 32,
+      "video_segment": "5:23:17→5:33:23"
+    },
+    {
+      "question": "You have completed a make-or-buy analysis and found that part of your deliverable is best created by an external vendor. You have worked with your project team to create the procurement strategy, source selection criteria, and statement of work. What should you do next?",
+      "options": [
+        "A. Gather the seller proposals including technical details and price",
+        "B. Meet with prospective sellers to ensure all vendors have a common understanding of the procurement",
+        "C. Perform source selection analysis on what you want from prospective vendors",
+        "D. Create the procurement agreement for the third-party vendor to provide their specified services"
+      ],
+      "answer": "B",
+      "explanation": "Meeting with prospective sellers prior to the preparation of a bid or proposal is a critical step in plan procurement management. This bidder conference (also known as contractor conference or vendor conference) ensures all prospective bidders have a clear and common understanding of the procurement requirements. This must occur before gathering seller proposals. Source selection criteria have already been established, and the procurement agreement (contract) is created after the seller has been selected, not before.",
+      "difficulty": "expert",
+      "topic": "Plan Procurement Management and Bidder Conferences",
+      "domain": 2,
+      "source_id": "yt_005",
+      "chunk_index": 32,
+      "video_segment": "5:23:17→5:33:23"
+    },
+    {
+      "question": "One of the stakeholders in your project has raised a change request after some of the deliverables contained defects and a missed requirement. Your project has a formal Change Control process. What will you do next?",
+      "options": [
+        "A. Get feedback from other stakeholders to see if they also need the change",
+        "B. Note the change in the change log and place the requested item in the next Sprint",
+        "C. Take it to the Change Control Board and communicate the decision to approve or reject the change",
+        "D. Raise the request as an issue that will affect your project schedule and budget"
+      ],
+      "answer": "C",
+      "explanation": "In a formal Change Control process, changes must be submitted to the Change Control Board, which includes people accountable for reviewing, approving, or rejecting changes to the project. The decisions made are recorded and communicated to appropriate stakeholders. This is the mandatory governance step in a formal change control environment. Simply noting the change in a log or placing it in the next Sprint bypasses the formal process. Gathering broader stakeholder feedback and treating it as an issue are secondary to following the established formal procedure.",
+      "difficulty": "expert",
+      "topic": "Change Control Board and Formal Change Management",
+      "domain": 2,
+      "source_id": "yt_005",
+      "chunk_index": 32,
+      "video_segment": "5:23:17→5:33:23"
+    },
+    {
+      "question": "Your agile project has recently gained some new stakeholders after a department restructure. They complain that they are not seeing enough traction of work delivered through the project and worry that it will not meet their requirements. What should you do?",
+      "options": [
+        "A. Invite them to the daily standup so they can see the work that happens on a daily basis",
+        "B. Invite them to iteration planning so they can choose what the team works on",
+        "C. Invite them to the retrospective so they can raise their issues and come up with solutions",
+        "D. Invite them to the iteration review so they can see the usable increment that the team delivers"
+      ],
+      "answer": "D",
+      "explanation": "The iteration review (Sprint review) is the appropriate forum to demonstrate completed, usable work to customers and stakeholders. This allows new stakeholders to see tangible deliverables and provide feedback on whether the work meets their requirements. The daily standup is typically for the development team only. Iteration planning is controlled by the product owner, not open to all stakeholders for choosing work. Retrospectives are for the core team to improve their process, not for external stakeholders to raise project-level concerns.",
+      "difficulty": "expert",
+      "topic": "Iteration Review and Stakeholder Engagement",
+      "domain": 1,
+      "source_id": "yt_005",
+      "chunk_index": 32,
+      "video_segment": "5:23:17→5:33:23"
+    },
+    {
+      "question": "You have recently taken over a project. Your project team has informed you that there is a regulatory approval that has not been granted yet and it might block development of your project in the next five months. You check your project documentation but cannot find any mention of this. What should you do?",
+      "options": [
+        "A. Hold a risk review meeting, capture it as a risk, and ensure an adequate risk response",
+        "B. Hold a retrospective with your team to capture what challenges the team is facing",
+        "C. Document this as an issue and escalate it to the project sponsor immediately",
+        "D. Update the risk register and request a contingency reserve increase from finance"
+      ],
+      "answer": "A",
+      "explanation": "Since the regulatory approval has not been granted yet but might block development in the future, this is a risk rather than an immediate issue. The appropriate action is to hold a risk review meeting, formally capture it in the risk register as a risk, and develop an adequate risk response strategy (such as mitigation, acceptance, or escalation). A retrospective focuses on team process improvement, not risk identification. While escalation may ultimately be necessary, the first step is to properly identify and analyze the risk through a risk review meeting.",
+      "difficulty": "expert",
+      "topic": "Risk Identification and Risk Response Planning",
+      "domain": 2,
+      "source_id": "yt_005",
+      "chunk_index": 32,
+      "video_segment": "5:23:17→5:33:23"
+    }
+  ]
+}

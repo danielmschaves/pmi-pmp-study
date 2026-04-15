@@ -1,0 +1,60 @@
+{
+  "source_id": "yt_005",
+  "chunk_index": 52,
+  "start_label": "8:45:15",
+  "end_label": "8:55:21",
+  "mode": "extract",
+  "questions": [
+    {
+      "question": "Your product owner wants to bring the next feature forward so that it is done in parallel to the current feature. You make the necessary adjustments to the product backlog and decide to adjust the product roadmap which you have visualized as a Gantt chart. What will you do next to make this happen?",
+      "options": [
+        "A. Use a schedule lag",
+        "B. Use a schedule lead",
+        "C. Change the feature to finish-to-start dependency",
+        "D. Change the feature to start-to-start dependency"
+      ],
+      "answer": "B",
+      "explanation": "Schedule lead is used to bring an item forward in time. Using the precedence diagramming method with a finish-to-start relationship, you can apply a lead so the second item can start before the first item finishes, allowing parallel work while maintaining delivery order. Schedule lag moves items backward, not forward. While finish-to-start is the current dependency, a lead applied to it achieves the goal, making schedule lead the best answer.",
+      "difficulty": "expert",
+      "topic": "Schedule Compression - Leads and Lags",
+      "domain": 2,
+      "source_id": "yt_005",
+      "chunk_index": 52,
+      "video_segment": "8:45:15→8:55:21"
+    },
+    {
+      "question": "You are working on a project where you have been completing the deliverables in sequence. The project work is starting to fall behind. The project sponsor asks you to speed up the work and reduce the time for the project to be delivered but also makes it very clear that there is no more money to use when speeding up the work. What will you do next?",
+      "options": [
+        "A. Use schedule crashing to add resources",
+        "B. Use schedule fast tracking to perform activities in parallel",
+        "C. Use resource leveling to balance the schedule",
+        "D. Negotiate with the sponsor for additional budget"
+      ],
+      "answer": "B",
+      "explanation": "Fast tracking is the appropriate schedule compression technique when budget constraints exist. It involves performing activities that are normally done in sequence in parallel instead. Schedule crashing requires additional resources and budget, which are not available. Resource leveling actually makes schedules longer by sequencing parallel work. Fast tracking is the only option that compresses the schedule without requiring additional money.",
+      "difficulty": "expert",
+      "topic": "Schedule Compression - Fast Tracking vs Crashing",
+      "domain": 2,
+      "source_id": "yt_005",
+      "chunk_index": 52,
+      "video_segment": "8:45:15→8:55:21"
+    },
+    {
+      "question": "After reviewing your project schedule, you notice you are behind by 3 weeks and the schedule needs to be compressed. Your project does not have enough budget to crash the schedule. You check with the lead for each area and review the schedule as to whether they can fast track their deliverables. Which dependencies should you focus on when fast tracking?",
+      "options": [
+        "A. Discretionary dependencies",
+        "B. Mandatory dependencies",
+        "C. External dependencies",
+        "D. Industry-regulated dependencies"
+      ],
+      "answer": "A",
+      "explanation": "Discretionary dependencies are based on project preferences and are the most easily modifiable. They are not set in stone and can be adjusted for fast tracking. Mandatory dependencies are fixed requirements and cannot be modified. External dependencies are outside project control and difficult to change. Industry-regulated dependencies have strict regulatory requirements and cannot be modified. When compressing schedules through fast tracking, focus on discretionary dependencies as they offer the most flexibility.",
+      "difficulty": "expert",
+      "topic": "Schedule Compression - Dependency Types",
+      "domain": 2,
+      "source_id": "yt_005",
+      "chunk_index": 52,
+      "video_segment": "8:45:15→8:55:21"
+    }
+  ]
+}

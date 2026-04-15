@@ -1,0 +1,94 @@
+{
+  "source_id": "yt_003",
+  "chunk_index": 17,
+  "start_label": "4:16:43",
+  "end_label": "4:31:48",
+  "mode": "extract",
+  "questions": [
+    {
+      "question": "You are working on an agile project and have noticed that things are not working well and could be improved as you begin new projects. What will you do next?",
+      "options": [
+        "A. Review the product backlog to see the flow of features going through the teams",
+        "B. Look into issues, threats, and quality assurance statistics to identify defects",
+        "C. Hold a retrospective with your PMO leaders to determine ongoing improvement opportunities",
+        "D. Review a control chart and value stream map to see non-value-added activities and remove waste"
+      ],
+      "answer": "C",
+      "explanation": "In an agile environment, holding a retrospective is the best way to gather feedback directly from the team on what is working well and what could be improved. While control charts and value stream mapping (option D) are also valid problem-solving approaches, the retrospective is the most direct method for getting broad input and identifying solutions as a team. This approach is referenced in the PMBOK Guide 7th Edition, page 151, under tailoring diagnostics for agile teams.",
+      "difficulty": "hard",
+      "topic": "Agile Retrospectives and Team Feedback",
+      "domain": 1,
+      "source_id": "yt_003",
+      "chunk_index": 17,
+      "video_segment": "4:16:43→4:31:48"
+    },
+    {
+      "question": "You have been working on a project to deliver a new customer data system and have noticed that the work is starting to slow down with fewer user stories appearing in your sprint backlog as they are not ready. After holding a retrospective, you discovered that there are long delays waiting for requirements and acceptance criteria approvals. What will you do next?",
+      "options": [
+        "A. Streamline approval decisions through fewer people, such as a product owner authorized to make decisions up to certain value thresholds",
+        "B. Ask your team to place the user stories in the sprint backlog, reducing the need for customer approval",
+        "C. Note the long delays as a risk to your project with high likelihood since it is already happening",
+        "D. Escalate the issue to the functional manager to ensure approvals are happening quickly"
+      ],
+      "answer": "A",
+      "explanation": "The best approach is to streamline decision-making by empowering fewer people to make approvals up to certain value thresholds. This removes bottlenecks in the approval process without bypassing customer involvement (which option B would do). Escalating to a functional manager does not solve the root problem. This tailoring suggestion is directly from the PMBOK Guide 7th Edition, page 151, under common situations and tailoring suggestions for agile environments.",
+      "difficulty": "hard",
+      "topic": "Agile Process Improvement and Decision-Making",
+      "domain": 2,
+      "source_id": "yt_003",
+      "chunk_index": 17,
+      "video_segment": "4:16:43→4:31:48"
+    },
+    {
+      "question": "You have been assigned to take over an existing project as the previous project manager leaves for another opportunity. In working with your team, you notice that there is a large amount of work currently in progress at once, with team members working on multiple items at a time and constantly context switching between tasks. What will you do next?",
+      "options": [
+        "A. Add more people to the project to handle the workload",
+        "B. Use value stream mapping and kanban boards to visualize the work and brainstorm solutions with your team",
+        "C. Ask your team to work overtime or to cover the extra work and bring it all back in line",
+        "D. Review the scope of the project and reduce items with low customer impact"
+      ],
+      "answer": "B",
+      "explanation": "Using value stream mapping and kanban boards allows you to visualize the work in progress and implement limiting mechanisms (such as WIP limits) to reduce context switching. Adding more people complicates communication and processes. Working overtime is not sustainable and ruins workflow. While reviewing scope (option D) is good practice, the best answer directly addresses the root cause of the problem—too much work in progress. This is recommended in the PMBOK Guide 7th Edition, page 151.",
+      "difficulty": "hard",
+      "topic": "Kanban, Work in Progress Limits, and Flow Management",
+      "domain": 2,
+      "source_id": "yt_003",
+      "chunk_index": 17,
+      "video_segment": "4:16:43→4:31:48"
+    },
+    {
+      "question": "The product owner has prioritized the product backlog of features and the team creates user stories with estimates and places enough of them to fill a two-week sprint. You notice that the pieces being completed are being rejected by the customer due to defects and missed requirements. What will you do next?",
+      "options": [
+        "A. Create the project scope from scratch with the project team and customers",
+        "B. Have an iteration zero planning sprint with your project team to set it up for success",
+        "C. Add more feedback loops such as shoulder checks, peer review, unit testing, and system testing",
+        "D. Have less frequent customer demonstrations so they only see the product when it is correct"
+      ],
+      "answer": "C",
+      "explanation": "Adding more feedback loops and quality assurance steps at all levels—including demonstrations, reviews, peer reviews, shoulder checks, pair programming, unit testing, system testing, user acceptance testing, regression testing, and automated testing—allows you to catch defects and missed requirements earlier when they are less costly to fix. Creating scope from scratch (option A) is too drastic. Iteration zero (option B) delays actual work unnecessarily. Reducing customer demonstrations (option D) removes the critical feedback loop needed for agile success. This approach is recommended in the PMBOK Guide 7th Edition, page 151.",
+      "difficulty": "hard",
+      "topic": "Quality Assurance and Feedback Loops in Agile",
+      "domain": 2,
+      "source_id": "yt_003",
+      "chunk_index": 17,
+      "video_segment": "4:16:43→4:31:48"
+    },
+    {
+      "question": "Your project team has started to find their rhythm and is working well together. However, you notice that they seem disengaged and are dragging their feet on normal tasks. You check your project budget and note that the team are all paid fairly for the market and within the same range for the role. What will you do next to improve engagement?",
+      "options": [
+        "A. Look for ways to reward the team members with bonuses above their normal pay rate",
+        "B. Move team members around to different roles frequently so they experience job variety",
+        "C. Give the team a paid day off",
+        "D. Establish ways for the team to grow and advance"
+      ],
+      "answer": "D",
+      "explanation": "While pay is important, once it is fair, engagement comes from other factors such as a sense of progress, career development, and growth opportunities. Research by Frederick Herzberg identified that hygiene factors like pay and working conditions must be adequate, but true motivation comes from growth, advancement, and a sense of progress. Bonuses (option A) provide only temporary relief and wear off quickly. Moving team members frequently (option B) disrupts expertise and flow. A paid day off (option C) provides temporary relief but does not address underlying engagement issues. Establishing growth pathways creates sustained motivation through progress and advancement.",
+      "difficulty": "hard",
+      "topic": "Team Motivation and Herzberg's Motivation-Hygiene Theory",
+      "domain": 1,
+      "source_id": "yt_003",
+      "chunk_index": 17,
+      "video_segment": "4:16:43→4:31:48"
+    }
+  ]
+}

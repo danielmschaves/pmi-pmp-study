@@ -1,0 +1,111 @@
+{
+  "source_id": "yt_003",
+  "chunk_index": 24,
+  "start_label": "6:02:23",
+  "end_label": "6:17:29",
+  "mode": "extract",
+  "questions": [
+    {
+      "question": "Your project has been in progress for the past 6 months. Someone you have not met before approaches you and says they have not been engaged sufficiently, even though they believe their team is highly impacted by the change. They advise they may block the project as a result. What are you going to do next?",
+      "options": [
+        "A. Perform stakeholder engagement assessment with your stakeholder",
+        "B. Add them to the stakeholder register including their salary and interest information",
+        "C. Add them to the stakeholder register including their impact and influence information",
+        "D. Raise a risk to the project delivery due to the nature of their actions"
+      ],
+      "answer": "C",
+      "explanation": "The stakeholder register records information about project stakeholders, including their assessment and classification. Since this stakeholder was not previously identified, they need to be added to the register with their impact and influence information so that their details are recorded and their classification is understood. While a risk could be raised, managing the stakeholder first through proper documentation is the better approach. Salary information is not appropriate for a stakeholder register.",
+      "difficulty": "hard",
+      "topic": "Stakeholder Management",
+      "domain": 1,
+      "source_id": "yt_003",
+      "chunk_index": 24,
+      "video_segment": "6:02:23→6:17:29"
+    },
+    {
+      "question": "You are a product owner on an agile project. You have created a product backlog of features in prioritized order for delivery. You ask the team to break down the first feature into user stories and estimate their effort. What will you do next?",
+      "options": [
+        "A. Create an iteration plan with your team",
+        "B. Create the product roadmap with your team",
+        "C. Perform a Sprint review",
+        "D. Begin daily stand-ups with your team"
+      ],
+      "answer": "A",
+      "explanation": "After breaking down features into user stories with estimates, the next step is to create an iteration plan (Sprint plan) with your team. This plan matches the estimated work for the Sprint to the average Sprint velocity, determining how much work can fit into the upcoming iteration. The product roadmap would have been created earlier, Sprint reviews occur after work is completed, and daily stand-ups cannot begin until the Sprint is planned.",
+      "difficulty": "hard",
+      "topic": "Agile Planning and Iteration Management",
+      "domain": 2,
+      "source_id": "yt_003",
+      "chunk_index": 24,
+      "video_segment": "6:02:23→6:17:29"
+    },
+    {
+      "question": "You have worked with your project customer to create a list of features that will bring the most value to them. They would like to see when some of this value will be delivered and the expected outcomes of each. What will you do next?",
+      "options": [
+        "A. Show the features at the next Sprint review so the customer can see what they look like",
+        "B. Place the features on a release plan and show this to the customer",
+        "C. Check the features against the velocity chart to see when they might be delivered",
+        "D. Place the features into the next Sprint plan and show this to your customer"
+      ],
+      "answer": "B",
+      "explanation": "A release plan is the appropriate tool to show the customer when features will be delivered and the expected outcomes over multiple iterations. The release plan provides a forward-looking view of feature delivery and timelines, which is what the customer is asking for. A Sprint review only shows near-term deliverables, the velocity chart alone doesn't provide the scheduling view needed, and the next Sprint plan is too narrow in scope to show future value delivery.",
+      "difficulty": "hard",
+      "topic": "Agile Release Planning",
+      "domain": 2,
+      "source_id": "yt_003",
+      "chunk_index": 24,
+      "video_segment": "6:02:23→6:17:29"
+    },
+    {
+      "question": "You are in the planning stages of your project where you need to find out exactly what the project customer needs so you can find a solution and make it happen. Your business analysts are new to their roles and they are not sure what their process will be. What will you do next?",
+      "options": [
+        "A. Ask the business analysts to begin writing user stories",
+        "B. Create the project management plan to outline how the project will be delivered",
+        "C. Work with the business analyst to create a requirements management plan",
+        "D. Create a work breakdown structure on the project scope"
+      ],
+      "answer": "C",
+      "explanation": "The requirements management plan (also called the business analysis plan) describes the process for how requirements will be analyzed, documented, and managed. Since the business analysts are new and unsure of their process, creating this plan first establishes the methodology they will follow. Writing user stories prematurely skips the requirements gathering process, creating the overall project management plan is too broad, and the WBS comes after requirements are understood.",
+      "difficulty": "hard",
+      "topic": "Requirements Management Planning",
+      "domain": 2,
+      "source_id": "yt_003",
+      "chunk_index": 24,
+      "video_segment": "6:02:23→6:17:29"
+    },
+    {
+      "question": "You are working on a new software application with a lot of complex interdependencies. The senior user providing and testing most of the requirements is concerned that some of those dependencies will cause errors upon release if they are not checked thoroughly. What will you do next?",
+      "options": [
+        "A. Ask the senior user for a written list of all their requirements and check if they are included in the project scope",
+        "B. Raise a risk on the software complexity with the project team",
+        "C. Create an affinity diagram with the senior user to group things together by their affinity to each other",
+        "D. Review the test plan with the senior user"
+      ],
+      "answer": "D",
+      "explanation": "The test plan is where requirements, test cases, acceptance criteria, and complex interdependencies are all captured and defined. Reviewing the test plan with the senior user ensures that all dependencies and critical test scenarios are included before release. This is where errors from interdependencies will be caught. A risk can be raised, but the test plan is the primary artifact for managing and validating complex testing scenarios.",
+      "difficulty": "hard",
+      "topic": "Test Planning and Quality Management",
+      "domain": 2,
+      "source_id": "yt_003",
+      "chunk_index": 24,
+      "video_segment": "6:02:23→6:17:29"
+    },
+    {
+      "question": "You are planning your project and have captured the requirements from the project customer. You ask your team to plan the project scope, but they need to see exactly what needs to be delivered and how each part relates to each other. What will you do next?",
+      "options": [
+        "A. Create a product breakdown structure with your team",
+        "B. Create the requirements traceability matrix with your project team",
+        "C. Create the risk breakdown structure with your project team",
+        "D. Create the scope management plan with your project team"
+      ],
+      "answer": "A",
+      "explanation": "A product breakdown structure is a hierarchical structure that reflects the product's components and deliverables in a whole-to-parts relationship, showing exactly how each part relates to the others. This visual representation shows what needs to be delivered and how everything is interconnected. The requirements traceability matrix maps requirements to deliverables but doesn't show the structural relationships as clearly. The risk breakdown structure and scope management plan serve different purposes.",
+      "difficulty": "hard",
+      "topic": "Scope Definition and Product Breakdown Structure",
+      "domain": 2,
+      "source_id": "yt_003",
+      "chunk_index": 24,
+      "video_segment": "6:02:23→6:17:29"
+    }
+  ]
+}

@@ -1,0 +1,94 @@
+{
+  "source_id": "yt_003",
+  "chunk_index": 19,
+  "start_label": "4:46:52",
+  "end_label": "5:02:01",
+  "mode": "extract",
+  "questions": [
+    {
+      "question": "You have formed a new project team and have worked through the purpose and mission of the project with them. You expanded on who is on the project team and the skills and abilities each person brings. You would like to foster a high-performing culture and ensure the team is able to deliver as soon as possible. What are you going to do next?",
+      "options": [
+        "A. Work through changes on the project team and the project such as deliverables and stakeholders",
+        "B. Decompose the high-level plan into greater detail including a detailed schedule or backlog",
+        "C. Define a plan to achieve the project goals including milestone schedules, release plans, and high-level budgets",
+        "D. Clarify the goals of the team and what you are here to deliver"
+      ],
+      "answer": "D",
+      "explanation": "After establishing the vision (purpose and mission) and identifying the team members (who), the next step in building a high-performing culture is to clarify the goals and what the team is here to deliver (the what). This aligns with the Drexler Sibbet Team Performance Model, which includes the steps of orientation, trust building, goal clarification, commitment, implementation, high performance, and renewal. Goal clarification comes after trust building.",
+      "difficulty": "hard",
+      "topic": "Team Development and Performance Models",
+      "domain": 1,
+      "source_id": "yt_003",
+      "chunk_index": 19,
+      "video_segment": "4:46:52→5:02:01"
+    },
+    {
+      "question": "Your team members have raised an issue as they believe the current project scope will not reach the intended project goal of increasing customer attention. You take their concerns to the project sponsor who controls the funding and resources. The project sponsor dismisses them and directs you to proceed with the scope currently set. What will you do next?",
+      "options": [
+        "A. Problem solve with the sponsor and find a resolution",
+        "B. Compromise with the sponsor so each party gets a little bit of what they want",
+        "C. Accommodate the sponsor to maintain harmony and goodwill",
+        "D. Force the issue so that the sponsor accepts the change"
+      ],
+      "answer": "C",
+      "explanation": "According to the Thomas-Kilman conflict resolution model, since the sponsor has significant power and authority (they control funding and resources), an accommodating approach is appropriate to maintain the important relationship with the sponsor. While problem-solving (win-win) is ideal, accommodating (lose-win from your perspective) is the most suitable response given the power differential. Compromising would be lose-lose, and forcing would be win-lose, potentially damaging your career relationship with the sponsor.",
+      "difficulty": "hard",
+      "topic": "Conflict Resolution and Stakeholder Management",
+      "domain": 1,
+      "source_id": "yt_003",
+      "chunk_index": 19,
+      "video_segment": "4:46:52→5:02:01"
+    },
+    {
+      "question": "The functional manager raises a concern that they have not been engaged correctly and the program is missing some key requirements as a result. You believe you have captured all the items required. Your program manager asks you to handle the situation and approach it from a win-win perspective. What will you do next?",
+      "options": [
+        "A. Escalate the decision to the steering committee to ensure your point of view is heard",
+        "B. Demonstrate integrity, find mutual trust, and look at the situation from their point of view",
+        "C. Choose to give some leeway in your approach so the functional manager can add their requirements",
+        "D. Get your requirements baselined first and then compete with the manager to ensure a win"
+      ],
+      "answer": "B",
+      "explanation": "A win-win approach, as described in Stephen Covey's The 7 Habits of Highly Effective People, requires mature character, trust, and the ability to approach the situation from the other person's point of view. Demonstrating integrity, finding mutual trust, and understanding their perspective are the essential elements for achieving a true win-win resolution rather than simply accommodating their demands or competing for victory.",
+      "difficulty": "hard",
+      "topic": "Negotiation and Win-Win Problem Solving",
+      "domain": 1,
+      "source_id": "yt_003",
+      "chunk_index": 19,
+      "video_segment": "4:46:52→5:02:01"
+    },
+    {
+      "question": "You have been planning a project to deliver a process change for the past four weeks. The requirements and scope have been signed off by the business owner and the team are moving into delivery and execution. The work begins in line with the project plan and scope. What will you do next?",
+      "options": [
+        "A. Monitor and control the work to ensure it stays on track and meets its goals",
+        "B. Execute the project work",
+        "C. Plan the work",
+        "D. Formally sign off on the project"
+      ],
+      "answer": "A",
+      "explanation": "Following the project management process groups—initiating, planning, executing, monitoring and controlling, and closing—once execution begins, the next critical activity is monitoring and controlling. This ensures the work stays aligned with the plan, meets quality standards, and addresses any issues or changes. Formal sign-off cannot occur until the project is complete.",
+      "difficulty": "hard",
+      "topic": "Process Groups and Project Lifecycle",
+      "domain": 2,
+      "source_id": "yt_003",
+      "chunk_index": 19,
+      "video_segment": "4:46:52→5:02:01"
+    },
+    {
+      "question": "You are working as a product owner. While your sales and revenue have been increasing over the past eight months, the overall profit has decreased by 17 percent. Your executive manager asks you to address the situation. What should you do next?",
+      "options": [
+        "A. Stop the current work and set a planning session with your team to address the situation",
+        "B. Ask your team to work overtime on the current features in your backlog to get the work done",
+        "C. Perform benchmarking with a similar yet non-competitive company and add any process improvements to your product backlog",
+        "D. Look for opportunities to partner with other projects and products in your organization to increase sales further"
+      ],
+      "answer": "C",
+      "explanation": "The root cause of the profit decline is increased costs to produce or sell the product, not insufficient sales. Performing benchmarking to identify gaps in processes and implementing those improvements will reduce costs and improve profitability. Stopping work (A) is disruptive, working overtime (B) is unsustainable, and increasing sales further (D) does not address the cost problem. As a product owner, responsibility includes increasing profit by managing costs efficiently.",
+      "difficulty": "hard",
+      "topic": "Product Owner Responsibilities and Business Performance",
+      "domain": 3,
+      "source_id": "yt_003",
+      "chunk_index": 19,
+      "video_segment": "4:46:52→5:02:01"
+    }
+  ]
+}

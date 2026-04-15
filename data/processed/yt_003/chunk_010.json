@@ -1,0 +1,111 @@
+{
+  "source_id": "yt_003",
+  "chunk_index": 10,
+  "start_label": "2:31:01",
+  "end_label": "2:46:08",
+  "mode": "extract",
+  "questions": [
+    {
+      "question": "Part of the project management plan is a detailed communications plan which has the stakeholders on the project, their communication needs, and how information will be communicated. While this is being signed off by the project sponsor, you receive many ad hoc requests for information from new stakeholders. What will you do next?",
+      "options": [
+        "A. Review the communications management plan to include the stakeholders and the information they need exactly as they require it and their communication preferences",
+        "B. Create an information radiator and ask the stakeholders to pull the information they need",
+        "C. Ignore the new requests as you have captured all the stakeholders you need in your plan",
+        "D. Ask the new stakeholders to review your communications management plan to see how you are distributing information"
+      ],
+      "answer": "A",
+      "explanation": "When ad hoc communication requests are received from new stakeholders, it indicates that the communications planning was not sufficient to meet stakeholder needs. The project manager should review the communications management plan to include these new stakeholders and ensure their communication needs and preferences are documented. This proactive approach ensures all stakeholders receive information in the manner they need.",
+      "difficulty": "hard",
+      "topic": "Stakeholder Communication and Engagement",
+      "domain": 1,
+      "source_id": "yt_003",
+      "chunk_index": 10,
+      "video_segment": "2:31:01→2:46:08"
+    },
+    {
+      "question": "You are working on a high value construction project to include smart home components within multi-million dollar buildings. After completing a make or buy analysis, you find that it will cost $700,000 to make a new system or $500,000 to buy it from a vendor. You prepare a procurement management plan to purchase it from a vendor. What will you do before conducting a procurement?",
+      "options": [
+        "A. Work with your project team to complete as much as possible in-house",
+        "B. Work with contracting professionals in your organization to develop a request for proposal and statement of work",
+        "C. Adjust your stakeholder register to include the new vendor and add the scope to your work breakdown structure dictionary",
+        "D. Work with your project team to develop an RMP, SMP, and list of resources"
+      ],
+      "answer": "B",
+      "explanation": "Prior to conducting a procurement, the project manager and technically qualified project team members work with contracting professionals to develop the request for proposal, statement of work, terms and conditions, and other necessary documents to go out to bid. This ensures proper contracting procedures are followed and all required documentation is prepared.",
+      "difficulty": "hard",
+      "topic": "Procurement Planning and Management",
+      "domain": 2,
+      "source_id": "yt_003",
+      "chunk_index": 10,
+      "video_segment": "2:31:01→2:46:08"
+    },
+    {
+      "question": "A missing item has been uncovered in the project scope that your project team cannot deliver. The item is not complex and seems to be fairly readily available from various sources. You are ready to move to source selection and choose a vendor that will meet your needs. What will you do before sending out bid documents to vendors?",
+      "options": [
+        "A. Prepare a request for proposal for vendors to provide a solution to your needs",
+        "B. Request a quote to determine the best price from the vendors",
+        "C. Prepare a request for information to gather more information and identify viable sources from the market",
+        "D. Review the procurement management plan for your project's procurement process"
+      ],
+      "answer": "C",
+      "explanation": "The request for information is used to gather more information from the market prior to sending out bid documents to a set of selected vendors. A request for proposal is used where scope is complex or the buyer is looking for the vendor to provide a solution. A request for quote is used when price is the deciding factor. In this case, gathering market information first is the appropriate step before proceeding to bid documents.",
+      "difficulty": "hard",
+      "topic": "Procurement Planning and Source Selection",
+      "domain": 2,
+      "source_id": "yt_003",
+      "chunk_index": 10,
+      "video_segment": "2:31:01→2:46:08"
+    },
+    {
+      "question": "You are working on a project where part of the work is planned carefully up front and another part is subject to change. You negotiate terms and conditions including cost, delivery, and payment dates with the vendor. The vendor is concerned about confusion that might occur between pre-planned and changeable work. What will you do next?",
+      "options": [
+        "A. Use a firm fixed price contract to ensure the cost is fixed but the scope can remain flexible",
+        "B. Use a time and materials contract to ensure only the time and materials used are paid for",
+        "C. Adjust your project plan to suit either a predictive or adaptive approach to reduce the confusion",
+        "D. Use a master agreement for the overall contract with adaptive work placed in an appendix"
+      ],
+      "answer": "D",
+      "explanation": "For projects that use an adaptive approach for some deliverables and a predictive approach for others, a master agreement is used and the adaptive work may be placed in an appendix or supplement. This approach allows changes to occur on the adaptive scope without impacting the overall contract, clarifying which work is fixed and which is flexible.",
+      "difficulty": "hard",
+      "topic": "Contract Types and Hybrid Project Approaches",
+      "domain": 2,
+      "source_id": "yt_003",
+      "chunk_index": 10,
+      "video_segment": "2:31:01→2:46:08"
+    },
+    {
+      "question": "You are working in an agile project where there are vastly differing levels of product knowledge within your team. The scrum master suggests that you try to gain knowledge by osmosis because the project information may be lost when only communicating by email. What will you do next?",
+      "options": [
+        "A. Collocate the team to capture the benefit of each person's tacit knowledge",
+        "B. Refer to the organizational process assets to capture the team's explicit knowledge",
+        "C. Refer to the project's knowledge management system and capture the project's explicit knowledge",
+        "D. Create a process to capture the team's tacit knowledge"
+      ],
+      "answer": "A",
+      "explanation": "Learning by osmosis is capturing information from immediate surroundings such as collocating the team. Tacit knowledge is information that is not straightforward, such as experience, insights, and practical knowledge or skill. Colocation allows team members to naturally absorb this tacit knowledge through overhearing conversations and being close to the action, rather than relying solely on email communication.",
+      "difficulty": "hard",
+      "topic": "Knowledge Management and Team Collocation",
+      "domain": 1,
+      "source_id": "yt_003",
+      "chunk_index": 10,
+      "video_segment": "2:31:01→2:46:08"
+    },
+    {
+      "question": "You are working as a product owner and have placed high level information about the product in the product backlog. The highest priority feature is at the top. Senior users informing the project are unable to clearly articulate their requirements, and they are concerned that the product will not truly meet their needs. What will you do next?",
+      "options": [
+        "A. Proceed with the highest priority item during the first sprint",
+        "B. Work with the customer to create mockups and prototypes to discover what works for them",
+        "C. Ask your stakeholders to submit a change request and update the project scope accordingly",
+        "D. Begin breaking down the work into user stories to place into the sprint"
+      ],
+      "answer": "B",
+      "explanation": "When senior users are unable to clearly articulate their requirements, creating mockups and prototypes with the customer is an effective way to help them discover and clarify what they actually need. This iterative approach to requirements gathering is particularly valuable in agile projects and allows stakeholders to visualize the solution before development begins, reducing the risk that the final product will not meet their needs.",
+      "difficulty": "hard",
+      "topic": "Requirements Gathering and Product Discovery in Agile",
+      "domain": 2,
+      "source_id": "yt_003",
+      "chunk_index": 10,
+      "video_segment": "2:31:01→2:46:08"
+    }
+  ]
+}

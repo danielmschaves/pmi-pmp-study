@@ -1,0 +1,60 @@
+{
+  "source_id": "yt_005",
+  "chunk_index": 16,
+  "start_label": "2:41:30",
+  "end_label": "2:51:38",
+  "mode": "extract",
+  "questions": [
+    {
+      "question": "You are working on a project where part of the work is planned carefully up front and another part is subject to change. You negotiate terms and conditions including cost, delivery, and payment dates. The vendor is concerned about confusion that might occur between pre-planned and changeable work. What will you do next?",
+      "options": [
+        "A. Use a firm fixed price contract to ensure the cost is fixed but the scope can remain flexible",
+        "B. Use a time and materials contract to ensure only the time and the materials used are paid for",
+        "C. Adjust your project plan to suit either a predictive or adaptive approach to reduce the confusion",
+        "D. Use a master agreement for the overall contract with adaptive work placed in an appendix"
+      ],
+      "answer": "D",
+      "explanation": "For projects using an adaptive approach for some deliverables and a predictive approach for others, a master agreement is used with adaptive work placed in an appendix or supplement. This allows changes to occur on the adaptive scope without impacting the overall contract and clarifies what is fixed versus what is changeable. Firm fixed price contracts lock both scope and price, time and materials contracts don't address the confusion between pre-planned and changeable work, and choosing only one methodology doesn't address the hybrid nature of the project.",
+      "difficulty": "expert",
+      "topic": "Contract Types and Hybrid Project Approaches",
+      "domain": 2,
+      "source_id": "yt_005",
+      "chunk_index": 16,
+      "video_segment": "2:41:30→2:51:38"
+    },
+    {
+      "question": "You are working in an agile project where there are vastly differing levels of product knowledge within your team. The scrum master suggests that you try to gain knowledge by osmosis because the project information may be lost when only communicating by email. What will you do next?",
+      "options": [
+        "A. Collocate the team to capture the benefit of each person's tacit knowledge",
+        "B. Refer to the organizational process assets to capture the team's explicit knowledge",
+        "C. Refer to the project's knowledge management system and capture the project's explicit knowledge",
+        "D. Create a process to capture the team's tacit asset knowledge"
+      ],
+      "answer": "A",
+      "explanation": "Learning by osmosis is the process of capturing information from immediate surroundings through collocation, where the team overhears conversations and gains tacit knowledge naturally. Tacit knowledge is information that is not straightforward, such as experience, insights, and practical knowledge that cannot be readily explained. While explicit knowledge systems and organizational process assets are valuable, they capture codified information, not tacit knowledge gained through osmosis and proximity.",
+      "difficulty": "expert",
+      "topic": "Knowledge Management and Team Collocation",
+      "domain": 1,
+      "source_id": "yt_005",
+      "chunk_index": 16,
+      "video_segment": "2:41:30→2:51:38"
+    },
+    {
+      "question": "You are working as a product owner and have placed high level information about the product in the product backlog with the highest priority feature at the top. Senior users informing the project are unable to clearly articulate their requirements and are concerned that the product will not truly meet their needs. What will you do next?",
+      "options": [
+        "A. Proceed with the highest priority item during the first sprint",
+        "B. Work with the customer to create mockups and prototypes to discover what works for them",
+        "C. Ask your stakeholders to submit a change request and update the project scope accordingly",
+        "D. Begin breaking down the work into user stories to place into the sprint"
+      ],
+      "answer": "B",
+      "explanation": "When requirements are not clearly defined, prototypes, demonstrations, storyboards, and mockups can be used to evolve those requirements. This approach allows stakeholders to use the 'I'll know it when I see it' approach—they can see the visual representation and provide feedback to adjust it before development begins. Proceeding with development without clear requirements, requesting changes without first understanding needs, or breaking down work without clarity on deliverables would all result in misalignment with actual customer needs.",
+      "difficulty": "expert",
+      "topic": "Evolving and Discovering Requirements in Agile",
+      "domain": 2,
+      "source_id": "yt_005",
+      "chunk_index": 16,
+      "video_segment": "2:41:30→2:51:38"
+    }
+  ]
+}

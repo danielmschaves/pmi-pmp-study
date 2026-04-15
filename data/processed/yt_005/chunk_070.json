@@ -1,0 +1,60 @@
+{
+  "source_id": "yt_005",
+  "chunk_index": 70,
+  "start_label": "11:47:03",
+  "end_label": "11:57:15",
+  "mode": "extract",
+  "questions": [
+    {
+      "question": "A functional manager raises a concern that they have not been engaged correctly and the program is missing some key requirements as a result. You believe you've captured all the items required. Your program manager asks you to handle the situation and approach it from a win-win perspective. What will you do next?",
+      "options": [
+        "A. Escalate the decision to the steering committee to ensure your point of view is heard",
+        "B. Demonstrate integrity, find mutual trust, and look at the situation from their point of view",
+        "C. Choose to give some leeway in your approach so the functional manager can add their requirements",
+        "D. Get your requirements baselined first and then compete with the manager to ensure a win"
+      ],
+      "answer": "B",
+      "explanation": "A win-win approach requires mature character, trust, and the ability to approach the situation from the other's point of view. This is directly from the PMBOK Guide 7th Edition page 169 under negotiation and aligns with Stephen Covey's principle of 'think win-win.' While the other options may seem reasonable, only option B encompasses all the elements necessary for a true win-win resolution that maintains the important relationship with the functional manager.",
+      "difficulty": "expert",
+      "topic": "Conflict Resolution and Stakeholder Management",
+      "domain": 1,
+      "source_id": "yt_005",
+      "chunk_index": 70,
+      "video_segment": "11:47:03→11:57:15"
+    },
+    {
+      "question": "You have been planning a project to deliver a process change for the past 4 weeks. The requirements and scope have been signed off by the business owner and the team are moving into delivery and execution. The work begins in line with the project plan and scope. What will you do next?",
+      "options": [
+        "A. Monitor and control the project work",
+        "B. Execute the project work",
+        "C. Plan the work",
+        "D. Formally sign off the project"
+      ],
+      "answer": "A",
+      "explanation": "The project has moved into the executing phase. As project work is executed, it must then be monitored and controlled to ensure it stays on track and meets its goals. The project management process groups are initiating, planning, executing, monitoring and controlling, and closing. These may be performed in sequence or iterated, but once execution begins, monitoring and controlling is the concurrent activity. This is from the PMBOK Guide 7th Edition page 170 under process groups.",
+      "difficulty": "expert",
+      "topic": "Project Management Process Groups",
+      "domain": 2,
+      "source_id": "yt_005",
+      "chunk_index": 70,
+      "video_segment": "11:47:03→11:57:15"
+    },
+    {
+      "question": "You are working as a product owner. While your sales and revenue have been increasing over the past 8 months, the overall profit has decreased by 17%. Your executive manager asks you to address the situation. What are you going to do next?",
+      "options": [
+        "A. Stop the current work and set a planning session with your team to address the situation",
+        "B. Ask your team to work overtime on the current features in your backlog to get the work done",
+        "C. Perform benchmarking with a similar yet non-competitive company and add any process improvements to your product backlog",
+        "D. Look for opportunities to partner with other projects and products in your organization and increase your sales further"
+      ],
+      "answer": "C",
+      "explanation": "The core issue is that profit is decreasing while sales are increasing, which means costs are too high. Performing benchmarking to find gaps in your process and then executing improvements with your team will help reduce costs and improve profitability. Option D would worsen the problem by increasing sales without addressing the root cause of rising costs. Options A and B would be disruptive and unsustainable. As a product owner, your responsibility includes increasing profit. This is from the PMBOK Guide 7th Edition page 175 under data gathering and analysis and benchmarking.",
+      "difficulty": "expert",
+      "topic": "Benefits Realization and Business Performance",
+      "domain": 3,
+      "source_id": "yt_005",
+      "chunk_index": 70,
+      "video_segment": "11:47:03→11:57:15"
+    }
+  ]
+}

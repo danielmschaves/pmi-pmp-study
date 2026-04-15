@@ -1,0 +1,94 @@
+{
+  "source_id": "yt_003",
+  "chunk_index": 26,
+  "start_label": "6:32:37",
+  "end_label": "6:44:21",
+  "mode": "extract",
+  "questions": [
+    {
+      "question": "Your agile project needs a third-party vendor to help complete the work. The product owner has multiple features on their road map which may change over time, making the scope of your project uncertain. How do you manage this in an agile project?",
+      "options": [
+        "A. Ask your product owner to fix the features in scope so the project is more certain",
+        "B. Create a Cost Plus incentive fee contract with your procurement team",
+        "C. Create a firm fixed price contract with your procurement team",
+        "D. Use the external vendor funding to create a project team in-house and complete the project"
+      ],
+      "answer": "B",
+      "explanation": "Cost reimbursable contracts (including Cost Plus incentive fee) are used when the scope is not well defined or subject to frequent change. This allows flexibility for changing features while the vendor is compensated for actual costs plus an incentive fee. A firm fixed price contract would be inappropriate because the scope is uncertain and will change. Bringing the vendor in-house introduces unnecessary complexity.",
+      "difficulty": "hard",
+      "topic": "Procurement and Contracting",
+      "domain": 2,
+      "source_id": "yt_003",
+      "chunk_index": 26,
+      "video_segment": "6:32:37→6:44:21"
+    },
+    {
+      "question": "Your project is releasing a number of upgrades to a commercial building over the next 12 months. Material costs have changed a lot recently. You need to budget for the materials required; however, the volume of materials may change significantly as the project evolves. What contract type will you use?",
+      "options": [
+        "A. Create an indefinite delivery indefinite quantity (IDIQ) contract for the materials",
+        "B. Ensure a single supplier for your materials",
+        "C. Ensure multiple suppliers for your materials",
+        "D. Create a firm fixed price contract for the materials"
+      ],
+      "answer": "A",
+      "explanation": "An indefinite delivery indefinite quantity (IDIQ) contract provides for an indefinite quantity of goods or services with a stated lower and upper limit within a fixed time period. This is ideal when the volume of materials may change significantly while maintaining price stability over the 12-month period. A firm fixed price contract would not work because the quantity is uncertain. Single or multiple suppliers alone do not address the pricing and quantity flexibility needed.",
+      "difficulty": "hard",
+      "topic": "Procurement and Contracting",
+      "domain": 2,
+      "source_id": "yt_003",
+      "chunk_index": 26,
+      "video_segment": "6:32:37→6:44:21"
+    },
+    {
+      "question": "You have completed a make-or-buy analysis and agreed to hire a third-party vendor to complete part of your product. You have created the statement of work and have a list of acceptable sellers that meet your source selection criteria. The work is not complex and they understand the scope. What is the next step?",
+      "options": [
+        "A. Send a request for proposal",
+        "B. Send a request for information",
+        "C. Send a request for quotation",
+        "D. Hold a bid's conference to ensure all sellers are on the same page"
+      ],
+      "answer": "C",
+      "explanation": "A request for quotation (RFQ) is appropriate when the requirements are ready and straightforward, and you simply need pricing information from sellers. Since the work is not complex, the scope is understood, and you already have acceptable sellers identified, a request for proposal (which is used for complex items) is unnecessary. A request for information would be used if more information was needed, and a bid conference is used when sellers need clarification on requirements.",
+      "difficulty": "hard",
+      "topic": "Procurement and Seller Selection",
+      "domain": 2,
+      "source_id": "yt_003",
+      "chunk_index": 26,
+      "video_segment": "6:32:37→6:44:21"
+    },
+    {
+      "question": "Your project is new and the team have just come on board. There have been multiple disagreements and the work is slow as they try to understand where they fit in the project and the team. What will you do next?",
+      "options": [
+        "A. Develop the project charter to kick off the project",
+        "B. Create a definition of ready to show what items need before they can be worked on",
+        "C. Develop the project management plan for all schedule, scope, and cost",
+        "D. Develop a team charter that records team values, agreements, and operating guidelines"
+      ],
+      "answer": "D",
+      "explanation": "The project team charter records team values, agreements, and operating guidelines, establishing clear expectations regarding acceptable behavior and showing team members their roles and responsibilities. This directly addresses the issue of team members not understanding where they fit and helps manage disagreements through defined ways of working. While a project charter is important, it is a project-level document that defines the project itself, not the team's operating guidelines. A definition of ready and project management plan do not address the team engagement and roles issue.",
+      "difficulty": "hard",
+      "topic": "Team Engagement and Development",
+      "domain": 1,
+      "source_id": "yt_003",
+      "chunk_index": 26,
+      "video_segment": "6:32:37→6:44:21"
+    },
+    {
+      "question": "You have created a high-level view of the features your project will deliver and prioritized them into a product backlog. The development team is ready to start work but they do not know where to start as the information is too high level. These features are too high level and need to be broken down. What will you do next?",
+      "options": [
+        "A. Ask the team to begin with the highest priority item first",
+        "B. Decompose the features into user stories to place in a Sprint",
+        "C. Hold a retrospective with the team to understand what is blocking them",
+        "D. Reprioritize the features into an order that makes sense for the developers"
+      ],
+      "answer": "B",
+      "explanation": "User stories are brief descriptions of outcomes for specific users with enough detail that team members can work on them. Decomposing high-level features into user stories allows the development team to have actionable work items that can be included in upcoming sprints. Asking them to start with the highest priority item does not solve the problem of information being too high level. A retrospective happens after a sprint, not before starting work. Reprioritizing features does not address the core problem of information being insufficiently detailed.",
+      "difficulty": "hard",
+      "topic": "Agile Product Backlog and User Stories",
+      "domain": 2,
+      "source_id": "yt_003",
+      "chunk_index": 26,
+      "video_segment": "6:32:37→6:44:21"
+    }
+  ]
+}

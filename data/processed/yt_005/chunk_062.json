@@ -1,0 +1,60 @@
+{
+  "source_id": "yt_005",
+  "chunk_index": 62,
+  "start_label": "10:26:10",
+  "end_label": "10:36:15",
+  "mode": "extract",
+  "questions": [
+    {
+      "question": "You have been working on a project for the past 8 months. Your project team has been approached by multiple stakeholders for reporting on various performance measures about the project and the product area. A large amount of their time is spent on creating these reports for others, and they have escalated this issue to you. What will you do next?",
+      "options": [
+        "A. Ask the project stakeholders to stop interacting with your team.",
+        "B. Spend a portion of your project budget to automate the reports for your stakeholders.",
+        "C. Work with the team, including the stakeholders, to only measure things that will facilitate a decision, help avoid an issue, or increase project performance.",
+        "D. Invite your stakeholders to your Sprint reviews so they can see a working feature in practice."
+      ],
+      "answer": "C",
+      "explanation": "The correct answer addresses the root cause of the measurement issue by ensuring that only relevant metrics that facilitate decisions, prevent issues, or improve performance are measured and reported. This maintains stakeholder engagement while reducing unnecessary reporting burden. The Hawthorne Effect teaches that what we measure influences team behavior, so measuring only meaningful metrics balances team behavior and prevents wasted effort on non-value-added reporting. Automating reports (B) doesn't address the root cause, inviting stakeholders to Sprint reviews (D) is good practice but doesn't solve the core problem, and cutting off stakeholder interaction (A) eliminates necessary engagement.",
+      "difficulty": "expert",
+      "topic": "Measurement Pitfalls and the Hawthorne Effect",
+      "domain": 2,
+      "source_id": "yt_005",
+      "chunk_index": 62,
+      "video_segment": "10:26:10→10:36:15"
+    },
+    {
+      "question": "You are working on a project where there is a significant amount of uncertainty about the requirements. There is also a legislative change coming and no one knows what it will mean for your industry. As a project manager, how do you deal with this uncertainty?",
+      "options": [
+        "A. Perform additional planning for your project to improve your view on scope management.",
+        "B. Hold additional retrospectives to capture challenges and improvements from your team.",
+        "C. Create a risk assessment of all possible project risks, maybe with their risk ratings and owners.",
+        "D. Gather information and prepare for multiple outcomes, and build team resilience through processes and training."
+      ],
+      "answer": "D",
+      "explanation": "The correct answer addresses uncertainty through multiple approaches: gathering information, preparing for multiple outcomes, and building team resilience. This comprehensive approach tackles uncertainty from different angles. Additional planning alone (A) cannot eliminate inherent uncertainty. Retrospectives (B) don't help address future uncertainty directly. While risk assessment (C) is useful, it doesn't encompass preparation for multiple outcomes or team resilience building. The best approach combines gathering information, preparing contingencies, and building the team's capability to work effectively in uncertain environments.",
+      "difficulty": "expert",
+      "topic": "General Uncertainty and Risk Response",
+      "domain": 2,
+      "source_id": "yt_005",
+      "chunk_index": 62,
+      "video_segment": "10:26:10→10:36:15"
+    },
+    {
+      "question": "You are working on a project with a vendor where there is significant ambiguity involved. Many outcomes are possible with varying degrees of impact. What should you do to improve the situation?",
+      "options": [
+        "A. Use experiments and prototypes and progressive elaboration to work your way through it.",
+        "B. Ask your team for additional reporting around different options so you can make an informed decision.",
+        "C. Add all the different options into your project scope so all your bases are covered.",
+        "D. Work more closely with your senior users so they can inform you of the product requirements."
+      ],
+      "answer": "A",
+      "explanation": "The correct answer uses experiments, prototypes, and progressive elaboration to navigate ambiguity by iteratively learning which options are viable. This approach is ideal when there are multiple possible outcomes—you test them in small increments, gather feedback, and adjust accordingly rather than trying to decide everything upfront. Adding all options to scope (C) doesn't resolve the ambiguity; it merely adds complexity. Additional reporting (B) and closer user engagement (D), while potentially helpful, do not directly address the fundamental ambiguity or provide a mechanism to work through multiple possible outcomes effectively.",
+      "difficulty": "expert",
+      "topic": "Ambiguity in VUCA Environments",
+      "domain": 2,
+      "source_id": "yt_005",
+      "chunk_index": 62,
+      "video_segment": "10:26:10→10:36:15"
+    }
+  ]
+}

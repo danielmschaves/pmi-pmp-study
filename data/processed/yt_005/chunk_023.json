@@ -1,0 +1,60 @@
+{
+  "source_id": "yt_005",
+  "chunk_index": 23,
+  "start_label": "3:52:24",
+  "end_label": "4:02:31",
+  "mode": "extract",
+  "questions": [
+    {
+      "question": "Your project team has found a significant data vulnerability in one of the features planned in your product backlog where customer data is exposed without password access. This feature is partially made by a third-party vendor, and the relationship is owned by a functional manager in your organization. What will you do next?",
+      "options": [
+        "A. Avoid the risk and wait for the third-party vendor to fix the vulnerability",
+        "B. Transfer the risk by asking a different vendor to create a feature with no vulnerability in their design",
+        "C. Escalate the risk to the manager with the appropriate authority to act on the response",
+        "D. Accept the risk and move on to other features"
+      ],
+      "answer": "C",
+      "explanation": "Escalation is the appropriate response when the project team agrees that the threat is outside the scope of the project or exceeds the project manager's authority. Since the relationship is owned by a functional manager and involves a third-party vendor outside the project team's direct control, escalating to someone with appropriate authority is the correct approach. Avoiding a severe vulnerability is inappropriate, transferring takes time, and accepting a severe risk without escalation is irresponsible.",
+      "difficulty": "expert",
+      "topic": "Risk Response Planning - Threat Escalation",
+      "domain": 2,
+      "source_id": "yt_005",
+      "chunk_index": 23,
+      "video_segment": "3:52:24→4:02:31"
+    },
+    {
+      "question": "You brainstorm risk responses with your project team and project sponsor and decide you cannot transfer a certain high-impact risk. You also cannot avoid the risk, and there is no one in the organization to escalate it to. Your project sponsor agrees that you should actively accept the risk. What will you do next?",
+      "options": [
+        "A. Develop a contingency plan that would be triggered if the event occurred",
+        "B. Shift the ownership to a third party to manage the risk and bear the impact if it occurs",
+        "C. Act to eliminate the threat or protect the project from its impact",
+        "D. Take action to reduce the probability of its occurrence and the impact of the threat"
+      ],
+      "answer": "A",
+      "explanation": "Actively accepting a risk includes developing a contingency plan that would be triggered if the event occurs. This is different from passive acceptance, which means doing nothing. Option B is transferring, which was already ruled out. Options C and D represent mitigation or avoidance strategies, not active acceptance. A contingency plan acknowledges the risk will likely occur but ensures the project is prepared if it does.",
+      "difficulty": "expert",
+      "topic": "Risk Response Planning - Active Risk Acceptance and Contingency Planning",
+      "domain": 2,
+      "source_id": "yt_005",
+      "chunk_index": 23,
+      "video_segment": "3:52:24→4:02:31"
+    },
+    {
+      "question": "You are working on a project to build a new customer database system for an engineering team. While working with the requirements, you realize that this system can also work with other teams in your organization, and the effort to add those teams is quite small. What will you do next?",
+      "options": [
+        "A. Escalate the opportunity to management for approval",
+        "B. Exploit the opportunity to ensure it occurs by expanding the system scope",
+        "C. Enhance the opportunity by increasing the probability of its occurrence",
+        "D. Accept the opportunity and acknowledge it exists without taking additional action"
+      ],
+      "answer": "B",
+      "explanation": "Exploit is the appropriate response to a positive risk or opportunity when you want to act to ensure the opportunity occurs. Since the effort is small and the benefit is clear, exploiting the opportunity by expanding the scope to include other teams makes sense. Escalating would be appropriate if you lacked authority, enhancing refers to increasing probability of an opportunity that is already being pursued, and passive acceptance means doing nothing extra. Exploitation means actively ensuring the opportunity materializes.",
+      "difficulty": "expert",
+      "topic": "Opportunity Response Planning - Exploitation",
+      "domain": 2,
+      "source_id": "yt_005",
+      "chunk_index": 23,
+      "video_segment": "3:52:24→4:02:31"
+    }
+  ]
+}

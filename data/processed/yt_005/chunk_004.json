@@ -1,0 +1,60 @@
+{
+  "source_id": "yt_005",
+  "chunk_index": 4,
+  "start_label": "40:19",
+  "end_label": "50:25",
+  "mode": "extract",
+  "questions": [
+    {
+      "question": "You are analyzing your stakeholders through an impact over influence chart and have found more than 100 different groups of people and over 3,000 impacted stakeholders. Other parts of your project are starting to fall behind as you try to keep up with a large amount of people. What will you do next?",
+      "options": [
+        "A. Ask your project team to engage different groups of stakeholders so everyone is covered",
+        "B. Clearly prioritize the stakeholders",
+        "C. Engage and communicate with the highly impacted and influential groups early and often",
+        "D. Create a SharePoint page for the changes that any stakeholder can gather information from at any time"
+      ],
+      "answer": "B",
+      "explanation": "When managing too many stakeholders to engage effectively, prioritization is the key strategy. While other options like delegating engagement, communication, and creating information repositories are all valid approaches, the fundamental solution is to prioritize stakeholders based on impact and influence. This allows the project manager to focus limited resources on the most important groups and ensure project work does not fall behind due to stakeholder management inefficiencies.",
+      "difficulty": "expert",
+      "topic": "Stakeholder Engagement and Prioritization",
+      "domain": 1,
+      "source_id": "yt_005",
+      "chunk_index": 4,
+      "video_segment": "40:19→50:25"
+    },
+    {
+      "question": "You are managing a project which communicates to the customer using mostly pull communication. When monitoring the engagement of your stakeholders, you notice a trend that they are not clear on the impacts or benefits of the project. You decided to add push communication to your communication plan. What will you do next?",
+      "options": [
+        "A. Create a web page using SharePoint with all the project information that your stakeholders can see",
+        "B. Push more funding for your project and communicate this to the project sponsor",
+        "C. Push your stakeholders to engage in more two-way communication",
+        "D. Send a weekly email to stakeholders with a project update including the impacts and benefits"
+      ],
+      "answer": "D",
+      "explanation": "Push communication involves actively sending information to stakeholders through memos, emails, status reports, and voicemail—the information is pushed out to them without requiring them to seek it. Since stakeholders are unclear about impacts and benefits, sending a weekly email proactively communicating these elements directly addresses the gap. Pull communication (like SharePoint pages) requires stakeholders to actively retrieve information, which is why the current approach is insufficient.",
+      "difficulty": "expert",
+      "topic": "Communication Methods and Types",
+      "domain": 1,
+      "source_id": "yt_005",
+      "chunk_index": 4,
+      "video_segment": "40:19→50:25"
+    },
+    {
+      "question": "You have taken over a project with a vendor where scope and requirements have been missed. You notice that miscommunication and mixed messages are common. You set a meeting with your team and the vendor's team. The meeting is extremely important to get right. What will you do next?",
+      "options": [
+        "A. Speak slowly and clearly with the vendor's team at a louder volume if necessary",
+        "B. Confirm they hear your message, determine if they agree, and identify nuanced or unintended messages they may have received",
+        "C. Only communicate with the vendor in writing so you have a trail of proof if anything goes wrong in the future",
+        "D. Prepare a claim for the mishandled scope of your project through the procurement team"
+      ],
+      "answer": "B",
+      "explanation": "Effective communication requires feedback loops to ensure mutual understanding. By confirming that the vendor team hears the message, determining if they agree, and identifying any nuances or unintended interpretations, you create a bidirectional communication process that fleshes out misunderstandings. This approach leverages non-verbal communication elements (tone, body language, facial expressions) which comprise the majority of communication effectiveness, unlike writing-only communication which is easily misinterpreted and lacks these critical elements.",
+      "difficulty": "expert",
+      "topic": "Communication and Feedback Loops",
+      "domain": 1,
+      "source_id": "yt_005",
+      "chunk_index": 4,
+      "video_segment": "40:19→50:25"
+    }
+  ]
+}

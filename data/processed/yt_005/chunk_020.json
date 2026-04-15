@@ -1,0 +1,77 @@
+{
+  "source_id": "yt_005",
+  "chunk_index": 20,
+  "start_label": "3:21:58",
+  "end_label": "3:32:05",
+  "mode": "extract",
+  "questions": [
+    {
+      "question": "Your project has faced serious impacts in getting materials with supply chains being disrupted due to a global pandemic and is currently 3 weeks behind schedule. You take this information to the next project steering committee meeting where they advise they need more information on how much the project will end up costing. What will you do next?",
+      "options": [
+        "A. Use the current budget with no deviations until it runs out",
+        "B. Use the project burndown chart to see the burn rate of accounting funds",
+        "C. Use regression analysis to see the current rate of spending and forecast where the final cost will end up",
+        "D. Use the project's estimate at completion to show the steering committee the most likely final cost"
+      ],
+      "answer": "D",
+      "explanation": "The correct answer is estimate at completion (EAC), which is calculated using the cost performance index (CPI). EAC = Budget at Completion (BAC) ÷ CPI. This shows stakeholders the most likely final project cost based on current performance trends. While regression analysis could work, EAC is the standard earned value forecasting technique for budget predictions. The other options do not directly address forecasting final costs.",
+      "difficulty": "expert",
+      "topic": "Earned Value Management and Budget Forecasting",
+      "domain": 2,
+      "source_id": "yt_005",
+      "chunk_index": 20,
+      "video_segment": "3:21:58→3:32:05"
+    },
+    {
+      "question": "You are working on an agile project where the project sponsor and executive managers require lengthy reports about how the project work is going each week. This takes you and the project team a considerable amount of time to do and reduces time spent on creating the actual product. This is non-value-added work from a lean thinking perspective. What will you do next?",
+      "options": [
+        "A. Demonstrate to the customer using visible charts and information radiators that people can pull information from",
+        "B. Suggest that leaders come to the Sprint review and gather any information they need from the information radiator",
+        "C. Ask your project sponsor to wait until a steering committee meeting for the information",
+        "D. Share your working project schedule and budget with the executives instead of creating the reports"
+      ],
+      "answer": "B",
+      "explanation": "The best answer is to invite leaders to the Sprint review where they can see actual completed work and access the information radiator. Information radiators (big visible charts) are low-tech, high-touch displays that allow stakeholders to pull information anytime without requiring time-consuming written reports. This eliminates non-value-added work while keeping stakeholders informed. Sprint reviews showcase actual working product, which is more valuable than reports.",
+      "difficulty": "expert",
+      "topic": "Agile Communication and Information Radiators",
+      "domain": 2,
+      "source_id": "yt_005",
+      "chunk_index": 20,
+      "video_segment": "3:21:58→3:32:05"
+    },
+    {
+      "question": "You are working on a project that has planned as much as they can up front and you would like them to move to a more agile way of work. Currently, the work is hidden and the team catches up only once a week in a working group, making it hard to see what each person is working on and to keep track of it. What will you do next?",
+      "options": [
+        "A. Ask your team to report on their work in a written status update each day so you can keep track",
+        "B. Have more working group meetings so you are always up to date on what the team is working on",
+        "C. Ask the team to move their work to a central visible task board like a Kanban board and then have a short meeting each day to discuss progress on their cards",
+        "D. Remove the team meetings altogether and trust your team to get the work done"
+      ],
+      "answer": "C",
+      "explanation": "The correct answer is to implement a Kanban board with daily standup meetings. This creates visual transparency where work moves from To Do, to In Progress, to Done, allowing everyone to see what each team member is working on. Daily standups (typically 15 minutes) help remove blockers and keep the team aligned. This is a core agile practice that replaces the hidden, infrequent status updates with transparent, frequent communication without creating excessive non-value-added work.",
+      "difficulty": "expert",
+      "topic": "Agile Task Boards and Daily Standups",
+      "domain": 2,
+      "source_id": "yt_005",
+      "chunk_index": 20,
+      "video_segment": "3:21:58→3:32:05"
+    },
+    {
+      "question": "You are working on a hybrid project where the majority of the work has been planned up front. The team manages their work via a Kanban board and reports on progress and blockers each day. As the project evolves, stakeholders have added more and more scope to the product, with one executive raising an urgent feature that needs to be added. What will you do next?",
+      "options": [
+        "A. Limit the number of cards in the ready column and ask the product owner to work with stakeholder requests, noting the need to swap the new item for an existing item",
+        "B. Add the urgent feature to the backlog immediately and prioritize it at the top",
+        "C. Reject the scope addition to maintain the original project timeline",
+        "D. Create an emergency sprint to address the urgent feature"
+      ],
+      "answer": "A",
+      "explanation": "The correct answer is to limit work-in-progress (WIP) and require prioritization trade-offs. By limiting the number of cards in the ready column and asking the product owner to swap the new item for an existing item, you enforce scope prioritization. This prevents uncontrolled scope creep by making stakeholders understand that adding something requires removing something else. This approach maintains project control while remaining responsive to legitimate urgent needs through explicit trade-off decisions.",
+      "difficulty": "expert",
+      "topic": "Scope Management and Work-in-Progress Limits in Hybrid Projects",
+      "domain": 2,
+      "source_id": "yt_005",
+      "chunk_index": 20,
+      "video_segment": "3:21:58→3:32:05"
+    }
+  ]
+}

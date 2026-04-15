@@ -1,0 +1,60 @@
+{
+  "source_id": "yt_005",
+  "chunk_index": 28,
+  "start_label": "4:42:53",
+  "end_label": "4:52:59",
+  "mode": "extract",
+  "questions": [
+    {
+      "question": "You are leading a large organizational change that affects more than a thousand people across multiple teams. You have engaged with senior managers of that area, created a brief vision statement that summarizes the change, and created a strategy to realize the vision. You communicate the vision throughout the change process. What will you do next?",
+      "options": [
+        "A. Release multiple usable features to the affected teams so they can get used to it gradually",
+        "B. Address any obstacles to the change, including outdated processes and people resistance",
+        "C. Anchor the changes into corporate culture",
+        "D. Set goals for continued improvement on the change throughout the organization"
+      ],
+      "answer": "B",
+      "explanation": "According to Kotter's eight-step process for leading change, the sequence is: create urgency, form a powerful coalition, create a vision, communicate the vision, remove obstacles, create short-term wins, build on the change, and anchor changes in corporate culture. After communicating the vision, the next step is to remove obstacles. Anchoring changes in culture (option C) happens later once the change has been implemented and proven successful. Setting goals for continued improvement (option D) also comes after obstacles are addressed and short-term wins are achieved.",
+      "difficulty": "expert",
+      "topic": "Organizational Change Management - Kotter's Eight-Step Process",
+      "domain": 3,
+      "source_id": "yt_005",
+      "chunk_index": 28,
+      "video_segment": "4:42:53→4:52:59"
+    },
+    {
+      "question": "You are a project manager assessing the risk of future releases with your team. You have a clear set of requirements from your customer; however, there are a range of possible correct solutions. There are a range of known unknowns regarding how to approach this situation. How should you proceed?",
+      "options": [
+        "A. Sense where there is some stability and take steps to try and stabilize the situation",
+        "B. Assess the facts, analyze the situation, and apply known good practices",
+        "C. Use current best practices to make decisions",
+        "D. Use emergent practices that will allow you to probe the environment, sense the situation, and respond with action"
+      ],
+      "answer": "B",
+      "explanation": "This scenario describes a complicated situation within the Cynefin framework. In the complicated domain, there are known unknowns and a range of correct answers. The appropriate approach is to assess facts, analyze the situation, and apply known good practices (option B). Option A (sense and stabilize) applies to chaotic situations. Option D (probe, sense, respond) is for complex situations with unknown unknowns. Option C is too simplistic for a situation with multiple potential solutions and known unknowns.",
+      "difficulty": "expert",
+      "topic": "Cynefin Framework - Complicated Domain",
+      "domain": 2,
+      "source_id": "yt_005",
+      "chunk_index": 28,
+      "video_segment": "4:42:53→4:52:59"
+    },
+    {
+      "question": "You have been asked to initiate a project to deliver a new system. The requirements are not clear and will take some time to uncover. The system has been used by some team members but not all, and it has a medium level of uncertainty around it. How should you approach this project?",
+      "options": [
+        "A. Release small usable features and improve your approach based on feedback",
+        "B. Do additional planning up front to ensure every component is thought of",
+        "C. Split the team into two and work on different parts of the system to simplify it",
+        "D. Form a business case for starting from scratch with new easier-to-use technology"
+      ],
+      "answer": "A",
+      "explanation": "This scenario represents a complex environment with unclear requirements and medium uncertainty, as mapped by the Stacy Matrix. Agile methodologies work best in complicated and complex environments characterized by uncertainty in requirements and/or technology. Releasing small usable features and gathering feedback is the appropriate approach to work through uncertainty and gradually clarify requirements. Upfront planning (option B) will not resolve the fundamental uncertainties. Splitting the team (option C) doesn't address the core issue. Starting from scratch (option D) is unnecessary and inefficient given that the system is already in use by some team members.",
+      "difficulty": "expert",
+      "topic": "Stacy Matrix - Complex Projects and Agile Approaches",
+      "domain": 2,
+      "source_id": "yt_005",
+      "chunk_index": 28,
+      "video_segment": "4:42:53→4:52:59"
+    }
+  ]
+}

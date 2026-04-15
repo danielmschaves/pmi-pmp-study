@@ -1,0 +1,111 @@
+{
+  "source_id": "yt_002",
+  "chunk_index": 23,
+  "start_label": "5:47:38",
+  "end_label": "6:02:42",
+  "mode": "extract",
+  "questions": [
+    {
+      "question": "A project team discovered an error on the first day after project closure. The error was an omission in the main project regarding testing a contract feature on mobile. The project has a maintenance contract in place. How should the project manager handle this escaped defect?",
+      "options": [
+        "A. Reopen the project and fix the error since testing the contract feature on mobile was a method.",
+        "B. Ask the sponsor to submit a formal change request with a retroactive date in order to be considered as part of the project.",
+        "C. Request from the project team to fix the issue according to the maintenance contract.",
+        "D. Do nothing since the error is discovered after the formal closure of the project."
+      ],
+      "answer": "C",
+      "explanation": "An escaped defect is one that was not detected by the project team but discovered by the customer or end user after the product is released. These defects are usually covered by a maintenance contract. Reopening a closed project is not appropriate. Asking for a retroactive change request is unethical. Doing nothing would violate the terms of the maintenance contract. The project manager should request the project team to fix the issue according to the maintenance contract.",
+      "difficulty": "hard",
+      "topic": "Defect Management and Maintenance Contracts",
+      "domain": 2,
+      "source_id": "yt_002",
+      "chunk_index": 23,
+      "video_segment": "5:47:38→6:02:42"
+    },
+    {
+      "question": "A project manager is adopting the Scrum framework for the first time. One of the team members asks when a sprint is considered completed. What should be the project manager's response?",
+      "options": [
+        "A. When all product backlog items are completed.",
+        "B. When all the tasks in the sprint are completed.",
+        "C. When the sprint's defined time box ends.",
+        "D. When all product backlog items meet the definition of done."
+      ],
+      "answer": "C",
+      "explanation": "A sprint is a time-boxed duration, typically one to four weeks. It is considered complete when the time box duration ends, regardless of whether all assigned tasks are finished. Waiting to complete all tasks contradicts the time-boxed nature of sprints. Incomplete items can be moved to the next sprint or back to the product backlog based on the product owner's priorities. The sprint ends when its duration ends, not when work is completed.",
+      "difficulty": "hard",
+      "topic": "Scrum Sprint Management",
+      "domain": 2,
+      "source_id": "yt_002",
+      "chunk_index": 23,
+      "video_segment": "5:47:38→6:02:42"
+    },
+    {
+      "question": "A project manager is facing challenges with a key stakeholder who frequently changed requirements in previous projects and created trouble when requirements were not met. How should the project manager deal with this issue?",
+      "options": [
+        "A. Adopt an agile approach.",
+        "B. Involve the concerned stakeholder right from the start.",
+        "C. Ask the concerned stakeholder to mend their ways.",
+        "D. Inform management about the issue."
+      ],
+      "answer": "B",
+      "explanation": "The key to managing this stakeholder issue is stakeholder engagement. By involving the stakeholder from the very beginning of the project, the project manager can help reduce and uncover risks as well as increase their buy-in. While an agile approach might work, changing the entire development approach based on one stakeholder is not appropriate. You cannot simply ask stakeholders to change their behavior. Escalating to management should be a last resort when the project manager cannot handle the issue themselves.",
+      "difficulty": "hard",
+      "topic": "Stakeholder Management and Engagement",
+      "domain": 1,
+      "source_id": "yt_002",
+      "chunk_index": 23,
+      "video_segment": "5:47:38→6:02:42"
+    },
+    {
+      "question": "A project manager is managing a software development project planned to last three months. The project progress aligned with the planned schedule throughout. However, one day before the delivery deadline, a team member discovered a bug that could cause a one-week delay. What should the project manager do next?",
+      "options": [
+        "A. Inform the stakeholders that there is a bug that requires two to three days to fix.",
+        "B. Inform the stakeholders about the situation and that it may take a week to resolve the bug.",
+        "C. Update the lessons learned and add them to the project documentation.",
+        "D. Close the project since the project end date has been reached."
+      ],
+      "answer": "B",
+      "explanation": "The project manager must be ethical and transparent with stakeholders. Communicating a false timeline of two to three days when the actual estimate is one week is dishonest. The correct approach is to inform stakeholders about the situation and the realistic one-week timeline for resolving the bug. Updating lessons learned should be done after the issue is fixed. Closing the project without completing all scope items is inappropriate, especially since the bug was discovered before the end date.",
+      "difficulty": "hard",
+      "topic": "Stakeholder Communication and Ethics",
+      "domain": 1,
+      "source_id": "yt_002",
+      "chunk_index": 23,
+      "video_segment": "5:47:38→6:02:42"
+    },
+    {
+      "question": "A team member is confident that a personality test will reveal their pragmatic personality type because they only believe in facts and never rely on intuition. Based on the MBTI personality test, what should this team member's personality type be?",
+      "options": [
+        "A. Sensing.",
+        "B. Thinking.",
+        "C. Judging.",
+        "D. Perceiving."
+      ],
+      "answer": "A",
+      "explanation": "In the MBTI personality test, Sensing is the personality type characterized by paying close attention to reality, concentrating on facts and details, and taking advantage of practical experience. Since this team member only believes in facts and never relies on intuition, they demonstrate a Sensing personality type. Sensing is the opposite of intuition. The other options relate to different personality dimensions: Thinking vs. Feeling, and Judging vs. Perceiving.",
+      "difficulty": "hard",
+      "topic": "MBTI Personality Types and Team Dynamics",
+      "domain": 1,
+      "source_id": "yt_002",
+      "chunk_index": 23,
+      "video_segment": "5:47:38→6:02:42"
+    },
+    {
+      "question": "A product owner sends a document including all the product backlog items to the project manager. The project manager informs the product owner that these product backlog items should be prioritized throughout the project. What should the project manager recommend?",
+      "options": [
+        "A. The business analyst and project manager collaborate to define the priorities of the product backlog items.",
+        "B. The team prioritizes the product backlog items based on their size.",
+        "C. The product owner places the most valuable items at the top.",
+        "D. The sponsor decides the priority of product backlog items."
+      ],
+      "answer": "C",
+      "explanation": "In Agile/Scrum, the product owner is responsible for prioritizing product backlog items. Although the product owner may delegate this responsibility to others, they remain accountable for the prioritization. The product owner should place the most valuable items at the top of the backlog. The business analyst and project manager should not prioritize without the product owner. The team does not prioritize backlog items, and the sponsor should not be making prioritization decisions.",
+      "difficulty": "hard",
+      "topic": "Product Backlog Management and Product Owner Responsibilities",
+      "domain": 2,
+      "source_id": "yt_002",
+      "chunk_index": 23,
+      "video_segment": "5:47:38→6:02:42"
+    }
+  ]
+}

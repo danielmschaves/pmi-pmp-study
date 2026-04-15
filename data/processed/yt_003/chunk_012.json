@@ -1,0 +1,111 @@
+{
+  "source_id": "yt_003",
+  "chunk_index": 12,
+  "start_label": "3:01:15",
+  "end_label": "3:16:20",
+  "mode": "extract",
+  "questions": [
+    {
+      "question": "You are working in an agile team where executives in the team you are delivering to are asking for a large display of reports to be created every two weeks showing how the project is tracking and updating them on the cost and benefits. What will you do next?",
+      "options": [
+        "A. Collect the planned value versus earned value to show the executives any variance in the plan",
+        "B. Collocate the team with the executives so they can answer any questions as they arise",
+        "C. Suggest a demonstration of the feature developed during each sprint instead and a burndown chart of future product releases",
+        "D. Create the desired reports for the executives to keep them happy"
+      ],
+      "answer": "C",
+      "explanation": "In agile projects, the best approach is to demonstrate actual features delivered during sprint reviews and use information radiators instead of creating large formal reports. A burndown chart of future product releases provides visibility without the overhead of extensive reporting. Collecting earned value data (A) is more waterfall-oriented. While collocating teams (B) has benefits, it doesn't address the reporting request as effectively. Creating reports just to keep stakeholders happy (D) contradicts agile principles which emphasize demonstrating actual working features and using visual management tools.",
+      "difficulty": "hard",
+      "topic": "Agile Metrics and Stakeholder Communication",
+      "domain": 2,
+      "source_id": "yt_003",
+      "chunk_index": 12,
+      "video_segment": "3:01:15→3:16:20"
+    },
+    {
+      "question": "Multiple features have been released but they are not having the effect that the product owner believes they should. Your team is using some key performance indicators (KPIs) to track performance and you agree to move to more leading indicators. What could you use as examples of leading indicators on your project?",
+      "options": [
+        "A. An increase in customer usage once the feature is released such as sales and repeat purchasing",
+        "B. Stakeholders who are not engaged and a lack of a risk management process",
+        "C. Velocity of the work completed in each sprint and cycle time of the user stories",
+        "D. Variance in the schedule between planned and actual time taken"
+      ],
+      "answer": "B",
+      "explanation": "Leading indicators predict changes or trends in the project and help prevent problems before they occur. Disengaged stakeholders and lack of risk management process are leading indicators that will negatively impact future performance. Option A (increased customer usage) is a lagging indicator—it shows results that have already happened. Options C (velocity and cycle time) and D (schedule variance) are also lagging indicators because they measure work already completed. Understanding what success looks like and ensuring proper stakeholder engagement and risk processes are in place helps predict project success.",
+      "difficulty": "hard",
+      "topic": "Leading and Lagging Indicators in Performance Measurement",
+      "domain": 2,
+      "source_id": "yt_003",
+      "chunk_index": 12,
+      "video_segment": "3:01:15→3:16:20"
+    },
+    {
+      "question": "You are working in an agile project team that has increased in size and complexity since the project began. Upon reviewing the throughput of work with your team you notice fewer and fewer user stories being completed, and the roadmap of features scheduled to go live is being pushed out. What are you going to do next?",
+      "options": [
+        "A. Place a limit on the work in progress and work with the team to reduce the cycle time",
+        "B. Increase meetings with the team",
+        "C. Ask the team to work overtime until the number of completed stories reduces",
+        "D. Put a pull system in place where the team can pull work only when they are ready"
+      ],
+      "answer": "A",
+      "explanation": "Limiting work in progress (WIP) reduces context switching and multitasking, which are major productivity killers in larger teams. When teams juggle too many concurrent tasks, they waste time switching contexts and lose focus. By constraining WIP and reducing cycle time, throughput improves. Option B (more meetings) wastes time and reduces productivity. Option C (overtime) is anti-agile and unsustainable, leading to burnout. Option D (pull system) sounds good but can lead to even more WIP if team members pull new work while still blocked on current tasks rather than focusing on unblocking existing work.",
+      "difficulty": "hard",
+      "topic": "Work in Progress Management and Team Productivity",
+      "domain": 2,
+      "source_id": "yt_003",
+      "chunk_index": 12,
+      "video_segment": "3:01:15→3:16:20"
+    },
+    {
+      "question": "You are working on an agile project where the project customer wants a reliable way to measure the project performance. You first need to establish a baseline. What measures will you show to your customer as part of your agile project?",
+      "options": [
+        "A. Team velocity",
+        "B. Schedule and cost variance",
+        "C. The rate of features completed",
+        "D. Start and finish dates"
+      ],
+      "answer": "C",
+      "explanation": "In agile projects, the primary metric to show customers is the rate of features completed—demonstrating actual business value delivered. Agile projects have fixed schedules and budgets with variable scope. Team velocity (A) is an internal team metric not typically shared with customers. Schedule and cost variance (B) are waterfall concepts; in agile, cost is usually fixed and schedule is fixed, so scope becomes the variable. Start and finish dates (D) are less relevant when delivering incrementally. The customer cares about what features are being delivered and when, not internal velocity metrics.",
+      "difficulty": "hard",
+      "topic": "Agile Project Baselines and Customer-Facing Metrics",
+      "domain": 2,
+      "source_id": "yt_003",
+      "chunk_index": 12,
+      "video_segment": "3:01:15→3:16:20"
+    },
+    {
+      "question": "The product owner has worked with a team of senior users to gather feature ideas. They now have a list of more than 50 ideas for your team to develop, which is far too many to complete in the time frame that you have. What will you do next?",
+      "options": [
+        "A. Start work on the smallest features first",
+        "B. Ask the product owner to return and ask for a shortened list",
+        "C. Workshop the features with a wider audience to get their priority input",
+        "D. Ask the product owner to prioritize the features using cost-to-benefit analysis and deliver in their priority order until time or money runs out"
+      ],
+      "answer": "D",
+      "explanation": "Product owners prioritize features based on business value using metrics such as cost-to-benefit ratio, return on investment (ROI), and net present value. By prioritizing using these methods, the team delivers the highest value features first. If the 50 features cannot all be completed, at least the most valuable ones are done. Option A (smallest features first) ignores value and may deliver low-value items. Option B (shortened list) avoids the prioritization problem rather than solving it. Option C (wider audience workshop) creates scope creep and dilutes the product owner's authority; decisions should flow through the product owner to maintain speed and clarity.",
+      "difficulty": "hard",
+      "topic": "Product Backlog Prioritization and Business Value",
+      "domain": 2,
+      "source_id": "yt_003",
+      "chunk_index": 12,
+      "video_segment": "3:01:15→3:16:20"
+    },
+    {
+      "question": "Your agile project team has only recently formed. The product is still unclear and there have been disagreements and minor conflicts over the past two weeks as the team finds their rhythm. You would like things to improve but you cannot quite pinpoint or address the problem. What will you do next?",
+      "options": [
+        "A. Hold a retrospective to identify what is challenging the team and gather their feedback",
+        "B. Replace key team members who are causing conflict",
+        "C. Increase leadership oversight and direction to resolve disagreements",
+        "D. Wait for the team to naturally find their rhythm without intervention"
+      ],
+      "answer": "A",
+      "explanation": "A retrospective is the agile practice for identifying and addressing team challenges. When a team is stuck or struggling with unclear problems, a retrospective creates a safe space for team members to share feedback about what is working and what is not working. This allows the team to collaboratively identify root causes and agree on improvements. Since the product is unclear and there are minor conflicts, the retrospective will surface these issues. Option B (replacing members) is premature and destructive to team formation. Option C (increased oversight) contradicts agile principles of self-organizing teams. Option D (waiting) wastes time when the team is actively struggling.",
+      "difficulty": "hard",
+      "topic": "Team Development and Retrospectives",
+      "domain": 1,
+      "source_id": "yt_003",
+      "chunk_index": 12,
+      "video_segment": "3:01:15→3:16:20"
+    }
+  ]
+}

@@ -1,0 +1,111 @@
+{
+  "source_id": "yt_002",
+  "chunk_index": 10,
+  "start_label": "2:31:11",
+  "end_label": "2:46:17",
+  "mode": "extract",
+  "questions": [
+    {
+      "question": "A project manager is leading a three-year project that involves upgrading and improving an electrical engine for industrial use. Since the majority of project activities are hazardous, the project team will receive extensive safety training. The training will ensure the safety of workers and prevent delays caused by unsatisfactory work. The cost of the conducted safety training falls under which of the following?",
+      "options": [
+        "A. Cost of regulations",
+        "B. Cost of quality",
+        "C. Cost of conformance",
+        "D. Cost of nonconformance"
+      ],
+      "answer": "C",
+      "explanation": "The cost of conformance includes proactive measures taken to ensure quality and prevent failures. Safety training is a proactive measure to improve worker skills and ensure quality work, making it a cost of conformance. Cost of regulations does not apply as no regulatory compliance is mentioned. Cost of nonconformance involves costs of failures, which is not applicable here. While cost of quality could technically apply, cost of conformance is the more accurate and specific answer.",
+      "difficulty": "hard",
+      "topic": "Cost of Quality",
+      "domain": 2,
+      "source_id": "yt_002",
+      "chunk_index": 10,
+      "video_segment": "2:31:11→2:46:17"
+    },
+    {
+      "question": "While working on a large project to develop a fingerprint voting system, a project manager notices that lately a senior developer in the project team missed two consecutive deadlines. What should the project manager do?",
+      "options": [
+        "A. Verify whether the developer is a shared resource with another project",
+        "B. Give the developer a formal warning via email so he can work on improving his work quality",
+        "C. Meet with the developer in person and offer support if needed",
+        "D. Escalate the issue to the developer's line manager and ask him to immediately address the issue"
+      ],
+      "answer": "C",
+      "explanation": "The project manager should follow a servant leadership approach by meeting with the developer in person to understand the root cause of missed deadlines and offer appropriate support. This demonstrates active listening and leadership. Option A assumes the issue without investigation. Option B jumps to formal warnings prematurely and uses email rather than face-to-face communication. Option D escalates too early when the project manager should first attempt to resolve the issue directly with the team member.",
+      "difficulty": "hard",
+      "topic": "Servant Leadership and Team Support",
+      "domain": 1,
+      "source_id": "yt_002",
+      "chunk_index": 10,
+      "video_segment": "2:31:11→2:46:17"
+    },
+    {
+      "question": "Even though two user stories were estimated consecutively at two and three story points, their implementation took two days each. By how many story points do these two user stories contribute to the team velocity when calculated at the end of the iteration?",
+      "options": [
+        "A. Two story points",
+        "B. Three story points",
+        "C. Four story points",
+        "D. Five story points"
+      ],
+      "answer": "D",
+      "explanation": "Velocity is calculated based on the sum of all story point estimations of user stories completed within a sprint or iteration, not on actual time spent. The two user stories estimated at two and three story points contribute five story points total to team velocity (2 + 3 = 5). The actual implementation time of two days each is irrelevant to velocity calculation, as velocity is based on estimates, not actual hours worked.",
+      "difficulty": "hard",
+      "topic": "Team Velocity in Agile",
+      "domain": 2,
+      "source_id": "yt_002",
+      "chunk_index": 10,
+      "video_segment": "2:31:11→2:46:17"
+    },
+    {
+      "question": "A project manager is leading a one-year agile project. After a couple of months, the sponsor wanted to learn about the big picture of the project progress. More specifically, the implemented versus the pending features. Which of the following tools should the project manager use to provide this information?",
+      "options": [
+        "A. Cumulative flow diagram",
+        "B. Iteration burndown chart",
+        "C. Feature chart",
+        "D. Kanban board"
+      ],
+      "answer": "A",
+      "explanation": "The cumulative flow diagram is a high-level visualization tool designed for executives and sponsors to understand the big picture of project progress, showing the overall flow of work across the entire project or release. An iteration burndown chart only shows progress within a single iteration, not the complete project picture. A feature chart can also show the big picture but is less commonly used for executive reporting. A Kanban board either resets with each sprint (in Scrum) or becomes unwieldy with long lists in pure Kanban, making it unsuitable for viewing the big picture of a large project.",
+      "difficulty": "hard",
+      "topic": "Agile Reporting and Dashboards",
+      "domain": 2,
+      "source_id": "yt_002",
+      "chunk_index": 10,
+      "video_segment": "2:31:11→2:46:17"
+    },
+    {
+      "question": "A project manager is leading a project that follows a hybrid approach. Even though the project manager made sure that all iterations have a balanced workload, he noticed that a particular team member was getting overwhelmed while other members seem to be doing fine. What should the project manager do?",
+      "options": [
+        "A. Inform upper management",
+        "B. Personally meet with the stressed team member to discuss ways to better manage their time",
+        "C. Raise the issue with the team in the daily standup meeting",
+        "D. Track the stressed team member's tasks in a separate backlog for additional analysis and reporting"
+      ],
+      "answer": "B",
+      "explanation": "The project manager should demonstrate servant leadership by personally meeting one-on-one with the overwhelmed team member to understand the root cause and offer guidance and support. This respects privacy and allows for open discussion. Option A (informing upper management) is premature escalation. Option C (raising in daily standup) is not an appropriate forum for addressing individual team member struggles. Option D (creating a separate backlog) is not a recommended agile practice and does not address the underlying issue.",
+      "difficulty": "hard",
+      "topic": "Team Management and Servant Leadership",
+      "domain": 1,
+      "source_id": "yt_002",
+      "chunk_index": 10,
+      "video_segment": "2:31:11→2:46:17"
+    },
+    {
+      "question": "Before starting the project and after identifying all of the individuals and groups involved or affected by the project, the project manager took a step further by classifying stakeholders according to their level of power, interest, and influence. This step is referred to as which of the following?",
+      "options": [
+        "A. Stakeholder analysis",
+        "B. Stakeholder identification",
+        "C. Stakeholder monitoring",
+        "D. Stakeholder engagement"
+      ],
+      "answer": "A",
+      "explanation": "Stakeholder analysis is the process of classifying and evaluating stakeholders based on their power, interest, influence, and impact on the project. This occurs early in the project lifecycle after stakeholders have been identified. Stakeholder identification is the process of determining who the stakeholders are. Stakeholder monitoring occurs during execution to observe stakeholder positions. Stakeholder engagement is the process of communicating with and involving stakeholders throughout the project.",
+      "difficulty": "hard",
+      "topic": "Stakeholder Analysis",
+      "domain": 1,
+      "source_id": "yt_002",
+      "chunk_index": 10,
+      "video_segment": "2:31:11→2:46:17"
+    }
+  ]
+}

@@ -1,0 +1,60 @@
+{
+  "source_id": "yt_005",
+  "chunk_index": 47,
+  "start_label": "7:54:46",
+  "end_label": "8:04:51",
+  "mode": "extract",
+  "questions": [
+    {
+      "question": "Your project team are protected by a union agreement. You notice that they don't know how to use the product you're improving, they're slow to respond, and regularly complain about the work. Your project sponsor has had enough and threatens to shut down the project if improvements can't be made. What will you do next?",
+      "options": [
+        "A. Set up a new project with different team members and transfer the work to that team",
+        "B. Set a clear project purpose and vision and pair your team with a customer",
+        "C. Tell your project team that they will lose their jobs",
+        "D. Create a project Gantt chart schedule and burndown chart so the work is transparent to all"
+      ],
+      "answer": "B",
+      "explanation": "Setting a clear vision and purpose, and pairing the team with a customer, increases intrinsic motivation by showing team members how they are making a positive difference. Transferring to another team risks the same results and requires going through team development stages again. Threatening job loss embeds negative behavior further rather than changing it. While transparency is good, a Gantt chart and burndown chart don't directly address the core engagement and motivation issues.",
+      "difficulty": "expert",
+      "topic": "Leadership Skills, Motivation, Team Engagement",
+      "domain": 1,
+      "source_id": "yt_005",
+      "chunk_index": 47,
+      "video_segment": "7:54:46→8:04:51"
+    },
+    {
+      "question": "During a key scope meeting, an argument arises. The business manager accuses the technology manager of not delivering to their needs on past projects, and the technology manager accuses the business manager of changing requirements that impact the delivery schedule. The meeting is at risk with the stakeholders being closed off to any further discussion. What will you do next?",
+      "options": [
+        "A. Take the side of the technology manager as scope that impacts delivery should be controlled",
+        "B. Take the side of the business manager as we should always deliver to the customer specification",
+        "C. Facilitate to keep the communication respectful, focus on the issue in the present, and search for alternatives together",
+        "D. Ensure they both agree to the Change Control process to avoid disagreements in the future"
+      ],
+      "answer": "C",
+      "explanation": "Facilitating respectful communication, focusing on the issue (not the person) and the present (not the past), and searching for alternatives together leads to better decision-making and stronger solutions. Taking sides ignores that both perspectives have merit. While agreeing to a Change Control process is important, problem-solving and addressing the current issue must happen first. This approach aligns with open and respectful communication practices for conflict management.",
+      "difficulty": "expert",
+      "topic": "Conflict Management, Communication, Facilitation",
+      "domain": 1,
+      "source_id": "yt_005",
+      "chunk_index": 47,
+      "video_segment": "7:54:46→8:04:51"
+    },
+    {
+      "question": "You are working on a project where the project team is completely distributed around the country in multiple sites, including working from home. Some of the project team members have not been able to contribute to the project, and there are concerns from the program that the project will fall behind. What will you do next?",
+      "options": [
+        "A. Raise a request to the program to collocate all your project team members as soon as possible",
+        "B. Proceed with daily stand-ups and working group meetings with any team members in your area",
+        "C. Set team leaders for each area around the country to report back to you as the centralized project leader",
+        "D. Use technology to maintain ongoing contact with audio and video for meetings, a team website to keep all project information available"
+      ],
+      "answer": "D",
+      "explanation": "Using technology for audio, video, and messaging, combined with a centralized project website for transparency and information availability, enables effective collaboration across distributed teams without requiring collocation. Collocating is often not feasible. Meetings only with team members in your area excludes distributed members. Setting up separate area leaders creates silos and reduces collaboration. Technology-enabled transparency and ongoing contact keeps all team members engaged and informed.",
+      "difficulty": "expert",
+      "topic": "Distributed Project Teams, Remote Team Management, Communication",
+      "domain": 1,
+      "source_id": "yt_005",
+      "chunk_index": 47,
+      "video_segment": "7:54:46→8:04:51"
+    }
+  ]
+}

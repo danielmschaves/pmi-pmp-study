@@ -1,0 +1,60 @@
+{
+  "source_id": "yt_005",
+  "chunk_index": 2,
+  "start_label": "20:09",
+  "end_label": "30:14",
+  "mode": "extract",
+  "questions": [
+    {
+      "question": "You are managing a project where the majority of the product has been planned up front but an external system is needed from a vendor in partial pieces where the requirements are unclear. Half of your stakeholders want to use a waterfall approach and the other half are advocating for an agile approach. What will you do next?",
+      "options": [
+        "A. Use an agile methodology; the fixed scope is low risk and you can capture the changes using agile",
+        "B. Use a waterfall methodology",
+        "C. Proceed with a hybrid method to start with pre-planned scope but agile ceremonies that promote feedback",
+        "D. Use a combination of waterfall and agile to capture all the requirements and keep stakeholders happy"
+      ],
+      "answer": "C",
+      "explanation": "A hybrid approach combining waterfall and agile is the most appropriate when you have both predetermined scope requiring upfront planning and uncertain requirements that need iterative feedback. Option C specifically uses the terminology of hybrid method and applies it appropriately to the unique context. While option D is similar, option C uses specific terminology and is more precisely aligned with the tailoring principle of applying methods where they are most applicable.",
+      "difficulty": "expert",
+      "topic": "Project Life Cycle Selection, Hybrid Methodologies, Tailoring",
+      "domain": 2,
+      "source_id": "yt_005",
+      "chunk_index": 2,
+      "video_segment": "20:09→30:14"
+    },
+    {
+      "question": "You are working on a project where senior users have been testing the product as parts are released. They have found some missing requirements and defects. Their manager is worried that the project won't deliver a product that is fit for purpose without defects and within the time frame needed. What will you do next?",
+      "options": [
+        "A. Perform some of the testing yourself to ensure a quality product",
+        "B. Help every team member focus on quality from correct acceptance criteria to a developed and tested product",
+        "C. Limit testing until the very end of the project so you can do it all in one go when the product is completely ready",
+        "D. Increase the testing on your project and add more testing resources so no defect goes unnoticed"
+      ],
+      "answer": "B",
+      "explanation": "Quality is everyone's responsibility in an agile or adaptive project. Rather than the project manager performing testing themselves (which diverts from their orchestration role), or adding more resources (which doesn't necessarily improve quality), the best approach is to ensure the entire team focuses on quality throughout the process. This aligns with the principle that quality must be built into processes and deliverables from the start, not tested in at the end. Testing should occur at multiple levels (unit, system, user acceptance, and regression) throughout the project.",
+      "difficulty": "expert",
+      "topic": "Quality Management, Agile Quality Practices, Team Accountability",
+      "domain": 2,
+      "source_id": "yt_005",
+      "chunk_index": 2,
+      "video_segment": "20:09→30:14"
+    },
+    {
+      "question": "You are working through the risk assessment with your team who are having trouble coming up with ideas for risks. You decide to give them some guidance on types of complexity that might affect your new product. What will you do next?",
+      "options": [
+        "A. Ask them to brainstorm qualitative and quantitative risks",
+        "B. Ask them to perform the five whys and Ishikawa analysis to find the root cause of a problem",
+        "C. Ask them to brainstorm around possible unwanted human behavior, system behavior, ambiguity, and technical innovation impacts",
+        "D. Ask them to perform a retrospective to discover what isn't working well and what still puzzles us"
+      ],
+      "answer": "C",
+      "explanation": "Complexity is often the result of human behavior, system interactions, technical innovation, uncertainty, and ambiguity—collectively known as VUCA factors. By guiding the team to brainstorm around these specific types of complexity, you provide them with a structured framework to identify risks that might otherwise be missed. This approach connects complexity sources directly to risk identification, whereas option A is too general, option B addresses root causes rather than risk identification, and option D is retrospective rather than prospective.",
+      "difficulty": "expert",
+      "topic": "Risk Identification, Complexity Management, VUCA Analysis",
+      "domain": 2,
+      "source_id": "yt_005",
+      "chunk_index": 2,
+      "video_segment": "20:09→30:14"
+    }
+  ]
+}

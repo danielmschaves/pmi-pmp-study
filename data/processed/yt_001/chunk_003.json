@@ -1,0 +1,111 @@
+{
+  "source_id": "yt_001",
+  "chunk_index": 3,
+  "start_label": "45:20",
+  "end_label": "1:00:26",
+  "mode": "extract",
+  "questions": [
+    {
+      "question": "During the development of a new cloud-based analytical platform, the team has raised concerns about certain product backlog items that are challenging to implement due to technical and resource limitations. What should the project manager recommend for the product owner to do?",
+      "options": [
+        "A. Prioritize and address the impediment based on the impacts on the most valuable features on the platform",
+        "B. Conduct a risk assessment to evaluate how the impediment might affect the project timeline",
+        "C. Implement a phase-based approach to solving the issue, starting with those impediments that impact the current Sprint",
+        "D. Remove the items and add new items"
+      ],
+      "answer": "A",
+      "explanation": "The product owner's primary responsibility is to prioritize work in the product backlog. When there are impediments, the product owner should prioritize and address them based on the impact to the most valuable features. Conducting a risk assessment is the project manager and team's responsibility, not the product owner's. Implementing a phase-based approach doesn't address the core responsibility of prioritization. Removing items just because of problems is not appropriate if those items have high value.",
+      "difficulty": "expert",
+      "topic": "Product Owner Responsibilities in Agile",
+      "domain": 2,
+      "source_id": "yt_001",
+      "chunk_index": 3,
+      "video_segment": "45:20→1:00:26"
+    },
+    {
+      "question": "A project manager new to Agile methodologies is overseeing the development of a software tool. Observing that other projects stumble without a well-defined scope and completion criteria, leading to continuous scope expansion, the project manager wants to prevent similar issues. What proactive steps should the project manager take to establish clarity and prevent scope creep?",
+      "options": [
+        "A. Create a detailed timeline with milestones to monitor project progress and control changes",
+        "B. Introduce a rigorous change management process to evaluate and approve additional features",
+        "C. Promote regular synchronization meetings between the project team to discuss project schedule and what work to do first",
+        "D. Organize workshops with all stakeholders to collaboratively create the project charter and clearly define the definition of done"
+      ],
+      "answer": "D",
+      "explanation": "In Agile, preventing scope creep is best achieved by establishing a clear definition of done and ensuring all stakeholders have a shared understanding of the project goals. This is accomplished through collaborative workshops to create the project charter and define completion criteria. Rigorous change control processes are more traditional project management approaches. Regular meetings about schedule are not the primary way to prevent scope creep. A detailed timeline focuses on monitoring progress rather than preventing scope expansion.",
+      "difficulty": "expert",
+      "topic": "Scope Management in Agile, Definition of Done",
+      "domain": 2,
+      "source_id": "yt_001",
+      "chunk_index": 3,
+      "video_segment": "45:20→1:00:26"
+    },
+    {
+      "question": "Throughout a project, it becomes apparent that team members from different departments have different perspectives on what the final outcome of the project should be. What should the project manager do first?",
+      "options": [
+        "A. Facilitate a session to revise and clarify the project goal with the entire team",
+        "B. Meet with the sponsor to ensure alignment to the project objectives",
+        "C. Make sure the project outcome is aligned with the project charter and scope statement",
+        "D. Assign the department heads the responsibility of resolving the issue"
+      ],
+      "answer": "A",
+      "explanation": "When there is a conflict or misalignment among team members, the project manager should bring them together to discuss and clarify the issues collaboratively. This is a servant leadership approach that addresses the root problem directly. Meeting with the sponsor does not address the team's misalignment. The project charter and scope statement are already defined and the issue is that the team doesn't understand them clearly. Delegating to department heads avoids the problem rather than solving it.",
+      "difficulty": "expert",
+      "topic": "Team Collaboration, Conflict Resolution, Servant Leadership",
+      "domain": 1,
+      "source_id": "yt_001",
+      "chunk_index": 3,
+      "video_segment": "45:20→1:00:26"
+    },
+    {
+      "question": "A project manager is overseeing the construction of a new manufacturing facility when an economic downturn may suddenly threaten the project's viability. What should the project manager do?",
+      "options": [
+        "A. Adjust the project's financial forecast to account for the economic downturn",
+        "B. Suggest to the sponsor that the project should be postponed",
+        "C. Redirect some project resources to support other essential projects",
+        "D. Identify and document a new risk and create mitigation strategies"
+      ],
+      "answer": "D",
+      "explanation": "Since the economic downturn 'may' threaten viability (indicating a potential future occurrence), this is a risk, not an issue. The appropriate response is to identify and document the risk and develop mitigation strategies. This is not a situation where the project manager should immediately take action like adjusting forecasts or postponing the project without proper analysis. Redirecting resources would essentially shut down the project. All responses should follow a disciplined risk management process before any major decisions are made.",
+      "difficulty": "expert",
+      "topic": "Risk Identification and Response Planning",
+      "domain": 2,
+      "source_id": "yt_001",
+      "chunk_index": 3,
+      "video_segment": "45:20→1:00:26"
+    },
+    {
+      "question": "A project manager is starting a highway expansion project. The State Transportation Department requested an initial environmental impact assessment, after which they will decide whether to continue. A team member suggests planning for the full project based on past trends. What should the project manager do first?",
+      "options": [
+        "A. Advise the team member to focus on the current deliverable",
+        "B. Review the charter to confirm the high-level scope",
+        "C. Develop a detailed plan for the entire project based on history",
+        "D. Confirm with the stakeholders and plan the full project scope"
+      ],
+      "answer": "B",
+      "explanation": "This project is in the initiating phase and cannot proceed with full planning until the environmental impact assessment is completed. The project manager should first review and confirm the high-level scope from the charter while waiting for the assessment results. Planning the full project before the assessment is completed would be premature and could result in wasted effort if the project is not approved to continue. Doing nothing (just focusing on the current deliverable) is not the right approach. Confirming with stakeholders to plan the full scope cannot happen until the assessment is complete.",
+      "difficulty": "expert",
+      "topic": "Project Initiation, Progressive Elaboration",
+      "domain": 2,
+      "source_id": "yt_001",
+      "chunk_index": 3,
+      "video_segment": "45:20→1:00:26"
+    },
+    {
+      "question": "A project manager is overseeing the upgrade of an old manufacturing system to a new automated solution, aligning with organizational operational process changes. The project charter is approved and the PMO has provided templates for all new projects. What should the project manager prioritize?",
+      "options": [
+        "A. Align the project plan with the organization's strategic goals, working closely with senior management",
+        "B. Develop a training and communication management plan in collaboration with the team",
+        "C. Collaborate on a detailed budget and schedule with regular reviews with the finance team",
+        "D. Collaborate with the operations department to minimize disruption during the upgrade"
+      ],
+      "answer": "B",
+      "explanation": "After charter approval, the next priority is developing the project plan, which should begin with establishing effective communication. A communication and training management plan is critical for organizational change management and ensures the team can collaborate effectively. While aligning with strategic goals is important, senior management does not develop detailed project plans. Budget and schedule planning involve the project team primarily, not just the finance department. Coordination with operations is important but comes after establishing internal team communication and planning foundations.",
+      "difficulty": "expert",
+      "topic": "Project Planning, Change Management, Communication Management",
+      "domain": 2,
+      "source_id": "yt_001",
+      "chunk_index": 3,
+      "video_segment": "45:20→1:00:26"
+    }
+  ]
+}
