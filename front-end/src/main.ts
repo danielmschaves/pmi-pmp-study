@@ -2,6 +2,8 @@ import { renderHome } from "./views/home";
 import { renderSetup } from "./views/setup";
 import { renderPlay } from "./views/play";
 import { renderResults } from "./views/results";
+import { renderSessionHub } from "./views/session-hub";
+import { renderSessionReport } from "./views/session-report";
 import { installGlobalKeys, setKeyHandler } from "./lib/keys";
 
 const root = document.getElementById("app")!;
@@ -10,14 +12,24 @@ type Route =
   | { name: "home" }
   | { name: "setup"; examId: string }
   | { name: "play" }
-  | { name: "results" };
+  | { name: "results" }
+  | { name: "session-hub" }
+  | { name: "session-report"; id: string | null };
 
 function parseHash(): Route {
   const h = location.hash.replace(/^#/, "") || "/";
   if (h === "/" || h === "") return { name: "home" };
-  if (h.startsWith("/setup/")) return { name: "setup", examId: h.slice("/setup/".length) };
+  if (h.startsWith("/setup/")) {
+    const after = h.slice("/setup/".length);
+    const q = after.indexOf("?");
+    return { name: "setup", examId: q === -1 ? after : after.slice(0, q) };
+  }
   if (h.startsWith("/play")) return { name: "play" };
   if (h.startsWith("/results")) return { name: "results" };
+  if (h.startsWith("/session-report/"))
+    return { name: "session-report", id: h.slice("/session-report/".length) || null };
+  if (h.startsWith("/session-report")) return { name: "session-report", id: null };
+  if (h.startsWith("/session")) return { name: "session-hub" };
   return { name: "home" };
 }
 
@@ -42,6 +54,12 @@ function render(): void {
       break;
     case "results":
       renderResults(root);
+      break;
+    case "session-hub":
+      renderSessionHub(root);
+      break;
+    case "session-report":
+      renderSessionReport(root, route.id);
       break;
   }
 }

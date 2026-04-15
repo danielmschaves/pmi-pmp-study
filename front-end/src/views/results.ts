@@ -1,6 +1,7 @@
-import { getSession, setSession } from "../session";
+import { appendFinishedQuiz, getSession, setSession } from "../session";
 import { formatDuration } from "../lib/format";
-import type { Domain } from "../types";
+import { preloadSources, resolveSourceLink } from "../lib/source_links";
+import type { AnswerRecord, Domain } from "../types";
 
 const DOMAIN_NAMES: Record<Domain, string> = {
   1: "People",
@@ -8,11 +9,26 @@ const DOMAIN_NAMES: Record<Domain, string> = {
   3: "Business Env",
 };
 
+// Remember which sessions we've already promoted into the study session so a
+// back-nav to #/results doesn't double-append.
+const appended = new Set<string>();
+
 export function renderResults(root: HTMLElement): void {
   const sess = getSession();
   if (!sess || sess.answers.length === 0) {
     location.hash = "#/";
     return;
+  }
+
+  preloadSources();
+
+  const inSession = sess.studySessionId != null;
+  if (inSession) {
+    const key = `${sess.studySessionId}:${sess.startedAt}`;
+    if (!appended.has(key)) {
+      appendFinishedQuiz(sess);
+      appended.add(key);
+    }
   }
 
   const answered = sess.answers.length;
@@ -54,7 +70,7 @@ export function renderResults(root: HTMLElement): void {
     <main class="app stack">
       <header class="row">
         <div class="stack" style="gap:4px;">
-          <p class="muted" style="margin:0;font-size:13px;">Results</p>
+          <p class="muted" style="margin:0;font-size:13px;">${inSession ? "Quiz results" : "Results"}</p>
           <div class="row" style="gap:16px;align-items:flex-end;">
             <span class="score-big mono">${pct.toFixed(0)}%</span>
             <span class="badge ${status.cls}" style="font-size:12px;">${status.label}</span>
@@ -108,41 +124,127 @@ export function renderResults(root: HTMLElement): void {
           : ""
       }
 
+      <section class="stack">
+        <h2>Review each question</h2>
+        <div class="stack" id="review-list" style="gap:8px;"></div>
+      </section>
+
       <div class="footer-bar" style="flex-direction:column;">
         ${
-          missed.length
-            ? `<button class="btn btn-primary btn-block" id="retry">Retry missed (${missed.length})</button>`
-            : ""
+          inSession
+            ? `<button class="btn btn-primary btn-block" id="hub">Back to session hub</button>`
+            : missed.length
+              ? `<button class="btn btn-primary btn-block" id="retry">Retry missed (${missed.length})</button>`
+              : ""
         }
-        <button class="btn btn-secondary btn-block" id="new">New session</button>
+        ${
+          inSession
+            ? ""
+            : `<button class="btn btn-secondary btn-block" id="new">New session</button>`
+        }
       </div>
     </main>
   `;
 
-  document.getElementById("new")!.addEventListener("click", () => {
-    setSession(null);
-    location.hash = "#/";
+  renderReviewList(sess.answers);
+
+  if (inSession) {
+    document.getElementById("hub")!.addEventListener("click", () => {
+      setSession(null);
+      location.hash = "#/session";
+    });
+  } else {
+    document.getElementById("new")!.addEventListener("click", () => {
+      setSession(null);
+      location.hash = "#/";
+    });
+
+    const retry = document.getElementById("retry");
+    if (retry) {
+      retry.addEventListener("click", () => {
+        const missedQs = missed.map((a) => a.q);
+        setSession({
+          config: {
+            ...sess.config,
+            count: missedQs.length,
+            examMode: false,
+            timeLimitSec: null,
+          },
+          questions: missedQs,
+          index: 0,
+          answers: [],
+          startedAt: Date.now(),
+        });
+        location.hash = "#/play";
+      });
+    }
+  }
+}
+
+function renderReviewList(answers: AnswerRecord[]): void {
+  const list = document.getElementById("review-list");
+  if (!list) return;
+  list.innerHTML = "";
+  answers.forEach((a, idx) => {
+    const row = document.createElement("details");
+    row.className = "review-row";
+    row.innerHTML = `
+      <summary class="row">
+        <span class="badge mono ${a.correct ? "badge-accent" : "badge-danger"}" style="min-width:24px;justify-content:center;">
+          ${a.correct ? "✓" : "✗"}
+        </span>
+        <span class="review-q">${escapeHtml(truncate(a.q.question, 100))}</span>
+        <span class="mono dim" style="font-size:12px;">${DOMAIN_NAMES[a.q.domain]}</span>
+      </summary>
+      <div class="stack" style="gap:8px;padding:12px 0 0 0;">
+        <p style="margin:0;">${escapeHtml(a.q.question)}</p>
+        <div class="stack" style="gap:4px;">
+          ${a.q.options
+            .map((opt, i) => {
+              const letter = String.fromCharCode(65 + i);
+              const isCorrect = letter === a.q.answer;
+              const isPicked = letter === a.picked;
+              const cls = isCorrect ? "review-opt-correct" : isPicked ? "review-opt-wrong" : "";
+              return `<div class="review-opt ${cls}">${escapeHtml(opt)}</div>`;
+            })
+            .join("")}
+        </div>
+        <div class="explanation" style="padding:12px;font-size:14px;">
+          ${escapeHtml(a.q.explanation)}
+        </div>
+        <div class="row" style="gap:8px;">
+          <span class="mono dim" style="font-size:12px;">${escapeHtml(a.q.topic)}</span>
+          <span class="spacer"></span>
+          <a class="btn btn-secondary" data-src-link="${idx}" target="_blank" rel="noopener noreferrer" href="#">
+            ▶ Open source
+          </a>
+        </div>
+      </div>
+    `;
+    list.appendChild(row);
   });
 
-  const retry = document.getElementById("retry");
-  if (retry) {
-    retry.addEventListener("click", () => {
-      const missedQs = missed.map((a) => a.q);
-      setSession({
-        config: {
-          ...sess.config,
-          count: missedQs.length,
-          examMode: false,      // retry is always study mode
-          timeLimitSec: null,
-        },
-        questions: missedQs,
-        index: 0,
-        answers: [],
-        startedAt: Date.now(),
-      });
-      location.hash = "#/play";
+  answers.forEach((a, idx) => {
+    void resolveSourceLink(a.q).then((link) => {
+      const anchor = list.querySelector<HTMLAnchorElement>(`[data-src-link="${idx}"]`);
+      if (!anchor) return;
+      if (!link) {
+        anchor.textContent = "Source unavailable";
+        anchor.removeAttribute("href");
+        anchor.setAttribute("aria-disabled", "true");
+        anchor.style.opacity = "0.5";
+        anchor.style.pointerEvents = "none";
+        return;
+      }
+      anchor.href = link.href;
+      anchor.textContent = `▶ ${link.label}`;
+      if (!link.precise) anchor.title = "No precise timestamp available for this source";
     });
-  }
+  });
+}
+
+function truncate(s: string, n: number): string {
+  return s.length <= n ? s : `${s.slice(0, n - 1)}…`;
 }
 
 function escapeHtml(s: string): string {

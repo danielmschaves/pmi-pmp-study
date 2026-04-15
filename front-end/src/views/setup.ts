@@ -2,7 +2,13 @@ import { loadBank, loadExam, loadManifest } from "../lib/data";
 import { getExplanationsDefault, getSeen } from "../state";
 import { PROFILES, FULL_EXAM_SIZE, sampleQuestions, filterStaticExam } from "../sampling";
 import { defaultRng } from "../lib/prng";
-import { setSession } from "../session";
+import { getActiveStudySession, setSession } from "../session";
+import {
+  SECTION_LABELS,
+  SOURCE_LABELS,
+  type Section,
+  type SourceFamily,
+} from "../lib/sections";
 import type { Difficulty, Domain, ProfileId, SessionConfig } from "../types";
 
 const PROFILE_IDS = new Set<string>(Object.keys(PROFILES));
@@ -14,16 +20,29 @@ export async function renderSetup(root: HTMLElement, examId: string): Promise<vo
   const maxCount = isDynamic ? (staticMeta?.count ?? FULL_EXAM_SIZE) : (staticMeta?.count ?? 50);
   const defaultCount = isDynamic ? FULL_EXAM_SIZE : (staticMeta?.count ?? 25);
 
+  const activeStudySession = getActiveStudySession();
+  const inSession = activeStudySession !== null;
+  const quizNum = activeStudySession ? activeStudySession.quizzes.length + 1 : null;
+
+  // URL params let upstream views (session-hub) prefill format/source/domain
+  const urlParams = new URLSearchParams(location.hash.split("?")[1] ?? "");
+  const sectionFromUrl = parseSectionParam(urlParams.get("format"));
+  const sourceFromUrl = parseSourceParam(urlParams.get("source"));
+  const domainFromUrl = parseDomainParam(urlParams.get("domain"));
+
   const state = {
     count: Math.min(defaultCount, isDynamic ? 500 : maxCount),
-    domain: null as Domain | null,
+    domain: domainFromUrl,
     difficulty: null as Difficulty | null,
     showExplanation: getExplanationsDefault(),
+    section: sectionFromUrl,
+    source: sourceFromUrl,
   };
 
-  const title = isDynamic
+  const baseTitle = isDynamic
     ? `${examId[0].toUpperCase()}${examId.slice(1)} session`
     : prettyExamName(examId);
+  const title = inSession ? `Session quiz ${quizNum} · ${baseTitle}` : baseTitle;
 
   root.innerHTML = `
     <main class="app stack">
@@ -53,6 +72,16 @@ export async function renderSetup(root: HTMLElement, examId: string): Promise<vo
         <div class="seg" id="diff-seg"></div>
       </section>
 
+      <section class="stack">
+        <label class="muted" style="font-size:13px;">FORMAT</label>
+        <div class="seg" id="section-seg"></div>
+      </section>
+
+      <section class="stack">
+        <label class="muted" style="font-size:13px;">SOURCE</label>
+        <div class="seg" id="source-seg"></div>
+      </section>
+
       <section>
         <label class="toggle">
           <input type="checkbox" id="exp" ${state.showExplanation ? "checked" : ""} />
@@ -70,7 +99,7 @@ export async function renderSetup(root: HTMLElement, examId: string): Promise<vo
   `;
 
   document.getElementById("back")!.addEventListener("click", () => {
-    location.hash = "#/";
+    location.hash = inSession ? "#/session" : "#/";
   });
 
   const countInput = document.getElementById("count") as HTMLInputElement;
@@ -124,6 +153,33 @@ export async function renderSetup(root: HTMLElement, examId: string): Promise<vo
     },
   );
 
+  renderSeg<Section>(
+    "section-seg",
+    [
+      { label: "All", value: null },
+      { label: SECTION_LABELS.agile, value: "agile" },
+      { label: SECTION_LABELS.predictive, value: "predictive" },
+      { label: SECTION_LABELS.hybrid, value: "hybrid" },
+    ],
+    () => state.section,
+    (v) => {
+      state.section = v;
+    },
+  );
+
+  renderSeg<SourceFamily | null>(
+    "source-seg",
+    [
+      { label: "All", value: null },
+      { label: SOURCE_LABELS.studyhall, value: "studyhall" },
+      { label: SOURCE_LABELS.youtube, value: "youtube" },
+    ],
+    () => state.source,
+    (v) => {
+      state.source = v;
+    },
+  );
+
   (document.getElementById("exp") as HTMLInputElement).addEventListener("change", (e) => {
     state.showExplanation = (e.target as HTMLInputElement).checked;
   });
@@ -160,6 +216,10 @@ export async function renderSetup(root: HTMLElement, examId: string): Promise<vo
       timeLimitSec: null,
     };
 
+    const excludeIds = activeStudySession
+      ? new Set(activeStudySession.seenQuestionIds)
+      : undefined;
+
     let questions;
     if (isDynamic) {
       const bank = await loadBank();
@@ -170,6 +230,9 @@ export async function renderSetup(root: HTMLElement, examId: string): Promise<vo
         rng,
         domainFilter: cfg.domain,
         difficultyFilter: cfg.difficulty,
+        sectionFilter: state.section,
+        sourceFilter: state.source,
+        excludeIds,
       });
     } else {
       const exam = await loadExam(examId);
@@ -177,12 +240,19 @@ export async function renderSetup(root: HTMLElement, examId: string): Promise<vo
         count: cfg.count,
         domainFilter: cfg.domain,
         difficultyFilter: cfg.difficulty,
+        sectionFilter: state.section,
+        sourceFilter: state.source,
         rng,
+        excludeIds,
       });
     }
 
     if (questions.length === 0) {
-      alert("No questions match your filters.");
+      alert(
+        activeStudySession
+          ? "No new questions match — all of them have been shown in this session already."
+          : "No questions match your filters.",
+      );
       return;
     }
 
@@ -192,6 +262,7 @@ export async function renderSetup(root: HTMLElement, examId: string): Promise<vo
       index: 0,
       answers: [],
       startedAt: Date.now(),
+      studySessionId: activeStudySession?.id,
     });
 
     location.hash = "#/play";
@@ -228,4 +299,19 @@ function prettyExamName(id: string): string {
     .replace(/^exam_/, "")
     .replace(/_/g, " ")
     .replace(/\b\w/g, (m) => m.toUpperCase());
+}
+
+function parseSectionParam(v: string | null): Section {
+  if (v === "agile" || v === "predictive" || v === "hybrid") return v;
+  return null;
+}
+
+function parseSourceParam(v: string | null): SourceFamily | null {
+  if (v === "studyhall" || v === "youtube") return v;
+  return null;
+}
+
+function parseDomainParam(v: string | null): Domain | null {
+  if (v === "1" || v === "2" || v === "3") return Number(v) as Domain;
+  return null;
 }

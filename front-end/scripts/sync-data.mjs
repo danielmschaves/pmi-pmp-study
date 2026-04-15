@@ -23,10 +23,19 @@ const quizzesSrc = isDocker
   ? join(DOCKER_SRC, "quizzes")
   : resolve(root, "..", "study", "quizzes");
 
+const sourcesSrc = isDocker
+  ? join(DOCKER_SRC, "sources.yml")
+  : resolve(root, "..", "ingestion", "sources.yml");
+
 const outDir = join(root, "public", "data");
 mkdirSync(outDir, { recursive: true });
 
-const manifest = { generatedAt: new Date().toISOString(), bank: null, exams: [] };
+const manifest = {
+  generatedAt: new Date().toISOString(),
+  bank: null,
+  exams: [],
+  sources: null,
+};
 
 // Bank
 if (existsSync(bankSrc)) {
@@ -58,5 +67,65 @@ if (existsSync(quizzesSrc)) {
   console.warn(`[sync-data] quizzes dir not found at ${quizzesSrc}`);
 }
 
+// Sources — parse ingestion/sources.yml and emit sources.json (id, type, url, topic)
+if (existsSync(sourcesSrc)) {
+  const sources = parseSourcesYaml(readFileSync(sourcesSrc, "utf-8"));
+  const dest = join(outDir, "sources.json");
+  writeFileSync(dest, JSON.stringify(sources, null, 2));
+  manifest.sources = { path: "/data/sources.json", count: sources.length };
+  console.log(`[sync-data] sources -> ${dest} (${sources.length} sources)`);
+} else {
+  console.warn(`[sync-data] sources.yml not found at ${sourcesSrc}`);
+}
+
 writeFileSync(join(outDir, "index.json"), JSON.stringify(manifest, null, 2));
 console.log(`[sync-data] wrote manifest with ${manifest.exams.length} exams`);
+
+// Minimal parser for the flat sources.yml structure:
+//   sources:
+//   - id: yt_001
+//     type: youtube
+//     url: https://...
+//     topic: ...
+// We only need id, type, url, topic for the frontend.
+function parseSourcesYaml(text) {
+  const lines = text.split(/\r?\n/);
+  const out = [];
+  let inList = false;
+  let cur = null;
+  const flush = () => {
+    if (cur && cur.id) out.push(cur);
+    cur = null;
+  };
+  for (const raw of lines) {
+    const line = raw.replace(/\s+$/, "");
+    if (!line || line.trimStart().startsWith("#")) continue;
+    if (/^sources\s*:/.test(line)) { inList = true; continue; }
+    if (!inList) continue;
+    const listItem = line.match(/^-\s+(.*)$/);
+    if (listItem) {
+      flush();
+      cur = {};
+      const rest = listItem[1];
+      const kv = rest.match(/^([A-Za-z_][A-Za-z0-9_]*)\s*:\s*(.*)$/);
+      if (kv) cur[kv[1]] = cleanValue(kv[2]);
+      continue;
+    }
+    if (!cur) continue;
+    const kv = line.match(/^\s+([A-Za-z_][A-Za-z0-9_]*)\s*:\s*(.*)$/);
+    if (kv) cur[kv[1]] = cleanValue(kv[2]);
+  }
+  flush();
+  return out
+    .filter((s) => s.id && s.type && s.url)
+    .map((s) => ({ id: s.id, type: s.type, url: s.url, topic: s.topic ?? "" }));
+}
+
+function cleanValue(v) {
+  if (v == null) return "";
+  let s = String(v).trim();
+  if ((s.startsWith('"') && s.endsWith('"')) || (s.startsWith("'") && s.endsWith("'"))) {
+    s = s.slice(1, -1);
+  }
+  return s;
+}

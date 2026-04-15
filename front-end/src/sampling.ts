@@ -1,5 +1,17 @@
 import type { Difficulty, Domain, ProfileId, Question } from "./types";
 import { shuffle, type Rng } from "./lib/prng";
+import { getSection, getSourceFamily, type Section, type SourceFamily } from "./lib/sections";
+
+function applyExtras(
+  pool: Question[],
+  section: Section | undefined,
+  source: SourceFamily | null | undefined,
+): Question[] {
+  let out = pool;
+  if (section) out = out.filter((q) => getSection(q) === section);
+  if (source) out = out.filter((q) => getSourceFamily(q) === source);
+  return out;
+}
 
 export const PROFILES: Record<ProfileId, Record<Difficulty, number>> = {
   practice: { easy: 0.45, medium: 0.4, hard: 0.12, expert: 0.03 },
@@ -34,12 +46,18 @@ export function sampleQuestions(
     rng: Rng;
     domainFilter: Domain | null;
     difficultyFilter: Difficulty | null;
+    sectionFilter?: Section;
+    sourceFilter?: SourceFamily | null;
+    excludeIds?: Set<string>;
   },
 ): Question[] {
   let pool = bank;
+  if (opts.excludeIds && opts.excludeIds.size)
+    pool = pool.filter((q) => !opts.excludeIds!.has(q.id));
   if (opts.domainFilter != null) pool = pool.filter((q) => q.domain === opts.domainFilter);
   if (opts.difficultyFilter != null)
     pool = pool.filter((q) => q.difficulty === opts.difficultyFilter);
+  pool = applyExtras(pool, opts.sectionFilter, opts.sourceFilter);
 
   const ordered = sortUnseenFirst(pool, opts.seen, opts.rng);
 
@@ -88,9 +106,20 @@ export function sampleQuestions(
  */
 export function sampleBalanced(
   bank: Question[],
-  opts: { count: number; seen: Record<string, string>; rng: Rng },
+  opts: {
+    count: number;
+    seen: Record<string, string>;
+    rng: Rng;
+    excludeIds?: Set<string>;
+    sectionFilter?: Section;
+    sourceFilter?: SourceFamily | null;
+  },
 ): Question[] {
-  const ordered = sortUnseenFirst(bank, opts.seen, opts.rng);
+  let pool = bank;
+  if (opts.excludeIds && opts.excludeIds.size)
+    pool = pool.filter((q) => !opts.excludeIds!.has(q.id));
+  pool = applyExtras(pool, opts.sectionFilter, opts.sourceFilter);
+  const ordered = sortUnseenFirst(pool, opts.seen, opts.rng);
   const raw: [Domain, number][] = ([1, 2, 3] as Domain[]).map((d) => [
     d,
     opts.count * ECO_WEIGHTS[d],
@@ -119,12 +148,18 @@ export function filterStaticExam(
     domainFilter: Domain | null;
     difficultyFilter: Difficulty | null;
     rng: Rng;
+    excludeIds?: Set<string>;
+    sectionFilter?: Section;
+    sourceFilter?: SourceFamily | null;
   },
 ): Question[] {
   let out = exam;
+  if (opts.excludeIds && opts.excludeIds.size)
+    out = out.filter((q) => !opts.excludeIds!.has(q.id));
   if (opts.domainFilter != null) out = out.filter((q) => q.domain === opts.domainFilter);
   if (opts.difficultyFilter != null)
     out = out.filter((q) => q.difficulty === opts.difficultyFilter);
+  out = applyExtras(out, opts.sectionFilter, opts.sourceFilter);
   out = shuffle(out, opts.rng);
   if (opts.count != null) out = out.slice(0, opts.count);
   return out;

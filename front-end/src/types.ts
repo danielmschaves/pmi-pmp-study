@@ -23,6 +23,14 @@ export type Manifest = {
   generatedAt: string;
   bank: { path: string; count: number } | null;
   exams: { id: string; path: string; count: number }[];
+  sources?: { path: string; count: number } | null;
+};
+
+export type SourceInfo = {
+  id: string;
+  type: "youtube" | "youtube_playlist";
+  url: string;
+  topic: string;
 };
 
 export type SessionConfig = {
@@ -53,4 +61,23 @@ export type SessionState = {
   answers: AnswerRecord[];
   startedAt: number;
   finishedAt?: number;
+  studySessionId?: string;
+};
+
+export type QuizAttempt = {
+  id: string;
+  config: SessionConfig;
+  questions: Question[];
+  answers: AnswerRecord[];
+  startedAt: number;
+  finishedAt: number;
+  score: { correct: number; answered: number; total: number };
+};
+
+export type StudySession = {
+  id: string;
+  startedAt: number;
+  endedAt: number | null;
+  quizzes: QuizAttempt[];
+  seenQuestionIds: string[];
 };
