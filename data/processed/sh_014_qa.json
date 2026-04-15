@@ -1,0 +1,257 @@
+[
+  {
+    "question": "A multinational company with a cross-border project wants to implement new software that will impact several departments. The project manager needs to guarantee alignment of stakeholder expectations with the final product. What should the project team develop?",
+    "options": [
+      "A. Project statement of work (SOW)",
+      "B. Stakeholder engagement plan",
+      "C. Stakeholders engagement assessment matrix",
+      "D. Risk breakdown structure (RBS)"
+    ],
+    "answer": "B",
+    "explanation": "The stakeholder engagement plan defines the process to ensure the stakeholders are engaged in the manner necessary to manage their expectations, including those related to product deliverables.\n\nThe statement of work is an initial document developed, however does not address the management of stakeholder expectations.\n\nStakeholder engagement assessment matrix, if it was to be developed, would not address the issue the project manager is looking to address.\n\nA risk breakdown structure may be used to categorize and bring transparency to a risk, however does not make reference to any actions to address.",
+    "difficulty": "medium",
+    "topic": "Stakeholder Engagement",
+    "domain": 1,
+    "source_id": "sh_014",
+    "chunk_index": 0,
+    "video_segment": "PMI Study Hall — Mini-Exam 14 (paste line 9)"
+  },
+  {
+    "question": "A project manager identifies new risks that might affect the completion of critical tasks. The project manager needs to present these new risks to project stakeholders in the monthly status report. In addition to the risk report, which document should the project manager reference when preparing the status report?",
+    "options": [
+      "A. Risk register",
+      "B. Assumption log",
+      "C. Risk management plan",
+      "D. Probability and impact matrix"
+    ],
+    "answer": "A",
+    "explanation": "The project manager must check the risk register and risk report to see if this is indeed a new risk and to see if there was action already planned around it. If it was not previously identified, then the risk register should be updated and a risk response should be identified. The probability and impact matrix would already be outdated if the risk has been identified. The assumption log mainly concerns scope and schedule management, rather that risk management.\n\nOther options - Assumption log, Risk management plan and Probability and impact matrix are not correct for the explanation provided above",
+    "difficulty": "medium",
+    "topic": "Risk Reporting",
+    "domain": 2,
+    "source_id": "sh_014",
+    "chunk_index": 0,
+    "video_segment": "PMI Study Hall — Mini-Exam 14 (paste line 33)"
+  },
+  {
+    "question": "A project manager for an IT implementation is leveraging multiple IT resources. The functional manager of a technical specialist on the project team has pulled the specialist away from the project to deal with a critical customer issue. This delays meeting the project’s scheduled milestone. What should the project manager do first?",
+    "options": [
+      "A. Analyze the impact and delay losing the specialist will have on the schedule and budget.",
+      "B. Ensure that the specialist’s time working on the customer issue is not charged against the project’s budget.",
+      "C. Schedule a meeting with the project stakeholders to review and accept the communications management plan.",
+      "D. Speak with the functional manager and gain commitment to get the specialist back as soon as possible."
+    ],
+    "answer": "D",
+    "explanation": "By speaking with the functional manager and gaining commitment, the project manager can get the specialist back on the project and ensure that the project is not delayed any further.\n\nThe other answer choices are incorrect. The project manager needs to get the functional manager's commitment before they can start analyzing the impact of the delay. The project manager can worry about the budget later; the most important thing is to get the specialist back on the project as soon as possible.  The project manager does not need to schedule a meeting with the stakeholders to discuss the delay. They can simply update the stakeholders on the situation in their next communication.",
+    "difficulty": "medium",
+    "topic": "Resource Conflict Resolution",
+    "domain": 1,
+    "source_id": "sh_014",
+    "chunk_index": 0,
+    "video_segment": "PMI Study Hall — Mini-Exam 14 (paste line 53)"
+  },
+  {
+    "question": "A project team is working on an older server to develop a software application. The team has ordered a new server for end-user testing as the older server cannot perform this testing. The new server has not arrived in time for the scheduled testing window, delaying the end-user testing. What should the project manager do for this situation?",
+    "options": [
+      "A. Review and adjust the project timeline while waiting for the new server to arrive.",
+      "B. Perform user testing on the current server.",
+      "C. Bypass user testing and proceed to the next task.",
+      "D. Ask the supplier to rush the delivery of the new server."
+    ],
+    "answer": "A",
+    "explanation": "Review and adjust the timeline is the most appropriate thing to do as the current server cannot perform the testing\n\nBypass is inappropriate as testing is required\nAsk - it is likely the supplier has already been requested to rush the delivery",
+    "difficulty": "medium",
+    "topic": "Schedule Management",
+    "domain": 2,
+    "source_id": "sh_014",
+    "chunk_index": 0,
+    "video_segment": "PMI Study Hall — Mini-Exam 14 (paste line 73)"
+  },
+  {
+    "question": "A project team is regularly missing milestones. Stakeholders are concerned that the project will miss the deliverable due date. The project manager has been aware of team conflict and learns that a team member is missing some skills needed for project completion. What should the project manager do in this scenario?",
+    "options": [
+      "A. Reassign the team member who is missing the skills to another task.",
+      "B. Meet with the team to discuss the issues and develop a plan to address them.",
+      "C. Tell the stakeholders that the project will miss the deadline and nothing can be done.",
+      "D. Fire the team member who is missing the skills and hire someone else."
+    ],
+    "answer": "B",
+    "explanation": "Meeting with the team to discuss the issues will allow the project manager to identify the root causes of the team's problems, such as the team conflict and the team member's missing skills. This will provide the opportunity to develop a plan to address the root causes of the problems, such as implementing conflict resolution strategies and providing training to the team member that is missing skills. By meeting with the team the project manager will be able to get buy-in from the team on the plan and ensure that everyone is committed to working together to achieve the project goals.\nThe other options are incorrect because they are not as effective and do not address all of the problems described.\nReassigning the team member would only address the problem of the team member missing the skills, but it would not address the problem of team conflict.\nTelling the stakeholders that the project will miss the deadline and nothing can be done would simply ignore the issues, which is not an acceptable solution.\nFiring the team member with the missing skills would only address the problem of the team member missing the skills, but it would be disruptive to the team and could lead to further problems. Further, it may not be an appropriate or ethical course of action.",
+    "difficulty": "hard",
+    "topic": "Team Development and Conflict",
+    "domain": 1,
+    "source_id": "sh_014",
+    "chunk_index": 0,
+    "video_segment": "PMI Study Hall — Mini-Exam 14 (paste line 93)"
+  },
+  {
+    "question": "PMBOK Guide Sixth Edition - PMI/PMI/9.4.2.6/page 342 [Item] A project manager is having difficulty managing stakeholders because the stakeholder register does not distinguish how aware of the project they need to be in order for the project to be successful. What should the project manager do?",
+    "options": [
+      "A. Meet with the change control board (CCB) to assess the impact of identifying new stakeholders.",
+      "B. Update the stakeholder communication plan.",
+      "C. Determine each stakeholder's risk threshold.",
+      "D. Develop a stakeholder engagement assessment matrix."
+    ],
+    "answer": "D",
+    "explanation": "Stakeholder Engagement Assessment Matrix supports comparison between the current engagement levels of stakeholders and the desired engagement levels required for successful project delivery. [Reference PMBOK 13.2.2.5]\n\nThe other choices are incorrect. There are no specific instances that substantiate that the Project Manager in facing difficulties managing stakeholders.",
+    "difficulty": "medium",
+    "topic": "Stakeholder Analysis",
+    "domain": 1,
+    "source_id": "sh_014",
+    "chunk_index": 0,
+    "video_segment": "PMI Study Hall — Mini-Exam 14 (paste line 112)"
+  },
+  {
+    "question": "As a result of a drastic cut to the budget, a project's steering committee is replaced with a single sponsor. What should the project manager do?",
+    "options": [
+      "A. Draft a new project update and share it with the project sponsor",
+      "B. Modify the communications management plan to reflect the change in stakeholder community",
+      "C. Submit a change request to the change control board (CCB) to record the change in stakeholder structure",
+      "D. Schedule a meeting with the sponsor to discuss the change to the budget"
+    ],
+    "answer": "B",
+    "explanation": "The communications management plan describes the communications that the project makes to stakeholders: type of communications, recipients, how often, method of transmission. Because of the change in management from steering committee to single sponsor, changes in communications to them also would be necessary, as those that were appropriate in dealing with the committee would be different from those tailored to a single sponsor. Thus, the communications management plan would need to be modified.\n\nIt is not necessary to submit a change to the CCB to record a change of stakeholders, as they are listed on the stakeholder register, which does not require a change request to make periodic updates.\n\nThe other choices might be done, but they may or may not be necessary.",
+    "difficulty": "medium",
+    "topic": "Stakeholder Management",
+    "domain": 1,
+    "source_id": "sh_014",
+    "chunk_index": 0,
+    "video_segment": "PMI Study Hall — Mini-Exam 14 (paste line 130)"
+  },
+  {
+    "question": "A project team is learning how to leverage agile methods in their projects. While meeting performance goals, the team is losing motivation and is visibly bored during the daily standups, so much so that it is becoming a distraction. What could be done in this scenario?",
+    "options": [
+      "A. Work with the team to target higher levels of performance by providing more challenging goals.",
+      "B. Schedule team-building exercises focused on increasing engagement.",
+      "C. Have the sponsor attend the standup to address the distracting behavior.",
+      "D. Work with the sponsor to identify a budget that could be used to incentivize the team."
+    ],
+    "answer": "B",
+    "explanation": "Agile methodologies emphasize self-organizing teams and collaboration. Disengagement can undermine these principles. Team-building helps reinforce positive team dynamics, which is crucial for agile success.\n\nThe other answer choices are incorrect. While challenging goals can be motivating, the team is already meeting performance goals. Increasing the challenge might exacerbate the problem if the team is bored due to the nature of the work, not the difficulty. This is likely to create a negative and potentially intimidating environment. It addresses the symptom (distracting behavior) rather than the underlying cause (lack of motivation). While incentives can be motivating, they are often extrinsic motivators and may not lead to long-term engagement. Addressing the team's intrinsic motivation through team-building is generally a more sustainable solution.",
+    "difficulty": "medium",
+    "topic": "Team Motivation",
+    "domain": 1,
+    "source_id": "sh_014",
+    "chunk_index": 0,
+    "video_segment": "PMI Study Hall — Mini-Exam 14 (paste line 152)"
+  },
+  {
+    "question": "A project manager leading an agile project wants to motivate the project team to improve performance. How should the project manager accomplish this?",
+    "options": [
+      "A. Set up a benefits system to keep the team driven and involved in the project",
+      "B. Work with the sponsor to finance a celebration once the project has been completed.",
+      "C. Work with the human resources department to provide financial bonuses for all team members.",
+      "D. Monitor the team's daily accomplishments and recognize them after the successful Go-Live of the project."
+    ],
+    "answer": "A",
+    "explanation": "Setting up a benefits system to keep the team driven and involved in the project is the correct answer. The project manager should inspire and motivate the team and one of the tools available is the use of a reward system. Also as an agile servant leader, the project manager must promote team motivation and a reward system is a great tool for that.\n\nFinancing a celebration or recognizing the team after project completion will not motivate the team during project execution.\nSimilarly, financial bonuses for all team members will not motivate the team if not directly linked to individual & team performances.",
+    "difficulty": "medium",
+    "topic": "Team Motivation",
+    "domain": 1,
+    "source_id": "sh_014",
+    "chunk_index": 0,
+    "video_segment": "PMI Study Hall — Mini-Exam 14 (paste line 164)"
+  },
+  {
+    "question": "During iteration planning, a project manager discusses user stories with the team. While prioritizing the user stories, some with a higher value are also identified as having greater risks. What should the project manager do?",
+    "options": [
+      "A. Suggest that the stories with higher risk are included in the earlier sprints instead of the later ones.",
+      "B. Suggest that the stories with lower risk are included in the earlier sprints to increase team motivation.",
+      "C. Work with the product stakeholders to schedule which user stories should be worked on in which sprints.",
+      "D. Conduct a Monte Carlo analysis to identify which user stories should be completed first."
+    ],
+    "answer": "A",
+    "explanation": "By including the user stories with higher risks in the earlier sprints, the project team can address these risks sooner rather than later. This approach allows for early risk mitigation and provides more time to handle any potential issues or challenges associated with high-risk user stories. It is a proactive strategy that helps in managing and reducing project risks throughout the development process.\n\nThe other answer choices are incorrect because they do not directly address the issue of user stories with higher risks during iteration planning. Suggesting that the stories with lower risk be included in the earlier sprints to increase team motivation does not address the need to address the higher-risk stories. It focuses on team motivation rather than risk management. Working with product stakeholders to schedule user stories in sprints does not specifically address the prioritization of higher-risk stories. It may help with overall planning but does not address the risk aspect directly. Conducting a Monte Carlo analysis is a technique used for quantitative risk analysis and is not directly related to the immediate action of addressing higher-risk user stories during iteration planning.",
+    "difficulty": "hard",
+    "topic": "Agile Risk and Prioritization",
+    "domain": 2,
+    "source_id": "sh_014",
+    "chunk_index": 0,
+    "video_segment": "PMI Study Hall — Mini-Exam 14 (paste line 184)"
+  },
+  {
+    "question": "A project is nearing completion when the project manager learns that a change in market regulations may impact the project. What should the project manager do?",
+    "options": [
+      "A. Check the stakeholder register.",
+      "B. Update the cost baseline.",
+      "C. Review the risk management plan.",
+      "D. Perform a cost-benefit analysis."
+    ],
+    "answer": "C",
+    "explanation": "The correct answer is to review the risk management plan.\n\nThe risk management plan is a component of the project, program, or portfolio management plan that describes how risk management activities will be structured and performed. The risk management plan outlines the process to manage risk, including risk by a change in market regulations.\n\nChecking the stakeholder register is a passive activity that has no bearing on the issue at hand. A stakeholder register is a project document that includes information about project stakeholders.\n\nA cost baseline is the approved version of the time-phased project budget, excluding any management reserves, which can be changed only through formal change control procedures and is used as a basis for comparison to actual results. Updating the cost baseline is incorrect because there is no indication that there is any net effect on cost, and if there was, it would be addressed as a component of the change management process.\n\nPerforming a cost-benefit analysis has no bearing on the issue at hand. A cost-benefit analysis is a financial analysis method used to determine the benefits provided by a project against its costs.",
+    "difficulty": "hard",
+    "topic": "Compliance and Regulatory Change",
+    "domain": 3,
+    "source_id": "sh_014",
+    "chunk_index": 0,
+    "video_segment": "PMI Study Hall — Mini-Exam 14 (paste line 202)"
+  },
+  {
+    "question": "A project manager recognizes that certain components must be imported to meet the project's requirements. However, due to the potential impact of an unfavorable exchange rate, the project manager decides that incurring a loss is not justifiable and chooses not to take any action to mitigate it. Which risk response strategy did the project manager employ?",
+    "options": [
+      "A. Transfer",
+      "B. Avoid",
+      "C. Minimize",
+      "D. Accept"
+    ],
+    "answer": "D",
+    "explanation": "The project manager chose to accept the risk associated with the potentially unfavorable exchange rate. Accepting a risk means that no specific action is taken to mitigate or avoid it. In this case, the project manager decided that the potential loss resulting from the exchange rate was not significant enough to justify spending additional money or taking action to address it.\n\nThe other answer choices are incorrect. In this case, the project manager did not take action to transfer, avoid, or mitigate the risk; instead, they chose to accept it.",
+    "difficulty": "easy",
+    "topic": "Risk Response Strategy",
+    "domain": 2,
+    "source_id": "sh_014",
+    "chunk_index": 0,
+    "video_segment": "PMI Study Hall — Mini-Exam 14 (paste line 232)"
+  },
+  {
+    "question": "Who has the authority to act as an integral stakeholder and a key decision-maker throughout the life of each project in order to keep it aligned with the business objectives?",
+    "options": [
+      "A. PMO",
+      "B. Project Manager",
+      "C. Project Sponsor",
+      "D. Customer"
+    ],
+    "answer": "A",
+    "explanation": "A PMO may have the authority to act as an integral stakeholder and a key decision maker throughout the life of each project in order to keep it aligned with the business objectives. The PMO may: Make recommendations, Lead knowledge transfer, Terminate projects, and Take other actions, as required.\n\nProject manager manages the project and Project manager is not integral stake holder\n\nProject sponsor is the one who fund the project and not integral stake holder\n\nCustomer is the one who actually going to use the output of the project. They are one of the external stakeholders",
+    "difficulty": "easy",
+    "topic": "Business Alignment",
+    "domain": 3,
+    "source_id": "sh_014",
+    "chunk_index": 0,
+    "video_segment": "PMI Study Hall — Mini-Exam 14 (paste line 250)"
+  },
+  {
+    "question": "A project manager is attempting to engage project stakeholders in a new project and has invited them to daily standup meetings. However, none of the stakeholders have attended any of the project meetings. What should the project manager do?",
+    "options": [
+      "A. Reach out to stakeholders individually to understand their reasons for non-attendance.",
+      "B. Continue with the daily standup meetings as scheduled and wait for stakeholders to join.",
+      "C. Cancel the daily standup meetings and explore alternative communication methods.",
+      "D. Escalate the issue to higher management and request their intervention."
+    ],
+    "answer": "A",
+    "explanation": "Reaching out to stakeholders individually is correct because it demonstrates proactive engagement with stakeholders and a willingness to understand their reasons for non-attendance. By reaching out individually, the project manager can gather insights into any concerns or barriers that might be preventing stakeholders from attending the meetings. This approach allows for tailored solutions to address the specific needs of each stakeholder, ultimately improving engagement and participation in the project.\n\nThe other options are incorrect because they do not effectively address the issue of non-attendance.\n\nContinuing with the daily standup meetings and waiting for stakeholders to join is incorrect because it assumes that stakeholders will eventually attend without addressing the current issue. Continuing with the meetings without stakeholder participation can lead to a lack of communication, and alignment, and potentially wasted time.\n\nCanceling the meetings altogether is incorrect because it ignores the issue of nonattendance and may be detrimental. It's essential to first understand the reasons for non-attendance and attempt to rectify the situation. Exploring alternative communication methods should be considered after understanding the root causes of the problem and attempting to address them.\n\nEscalating the issue to higher management is incorrect because it should be a last resort. It's not advisable to immediately involve higher management without attempting to resolve the issue through direct communication and problem-solving.",
+    "difficulty": "medium",
+    "topic": "Stakeholder Engagement",
+    "domain": 1,
+    "source_id": "sh_014",
+    "chunk_index": 0,
+    "video_segment": "PMI Study Hall — Mini-Exam 14 (paste line 280)"
+  },
+  {
+    "question": "A project manager is leading a development project for an external customer in another country. The project manager's company is required to comply with certain regulations, and the project manager's project has been selected for an audit. The customer does not think the audit is necessary and has asked the project manager not to disturb the project team. What should the project manager do?",
+    "options": [
+      "A. Exclude the project development team from the compliance audit as requested by the customer.",
+      "B. Initiate the audit without informing the customer because the company is required to comply.",
+      "C. Schedule a steering committee meeting with all stakeholders to discuss and come to a common understanding.",
+      "D. Meet with the customer to explain the need to meet the compliance requirements and proceed with the audit."
+    ],
+    "answer": "D",
+    "explanation": "Meeting with the customer to explain the necessity of meeting compliance requirements and proceeding with the audit is the most responsible and ethical course of action. This allows the project manager to address the customer's concerns and maintain transparency while also ensuring that the company follows regulatory guidelines. The customer may not understand the need for the audit, so by explaining the need for the audit to the customer and working with them to minimize the disruption, the project manager can build trust and maintain a good relationship with the customer.\n\nThe other options are incorrect because they do not account for the customer's request or the organization's compliance requirements.\n\nExcluding the project development team from the compliance audit violates the organization's regulatory guidelines and could lead to legal and regulatory issues.\n\nInitiating the audit without informing the customer is not a transparent or ethical approach. It's important to maintain open communication with the customer and avoid behaviors that could erode trust and damage the working relationship.\n\nScheduling a steering committee meeting is not the most immediate response. It can be part of a broader effort to ensure all stakeholders are on the same page, but it should be done after meeting with the customer.",
+    "difficulty": "hard",
+    "topic": "Compliance and Regulatory Requirements",
+    "domain": 3,
+    "source_id": "sh_014",
+    "chunk_index": 0,
+    "video_segment": "PMI Study Hall — Mini-Exam 14 (paste line 304)"
+  }
+]

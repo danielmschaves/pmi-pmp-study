@@ -1,0 +1,227 @@
+[
+  {
+    "status": "ok",
+    "solution_line": 7,
+    "stem": "A functional manager wants to use resources already allocated to a project. What should the project manager of that project do?",
+    "options": [
+      "A.Escalate the issue to the project sponsor.",
+      "B.Ask the functional manager to delay their project.",
+      "C.Accept the project delay due to reassignment of resources.",
+      "D.Negotiate the resource requirement with the functional manager."
+    ],
+    "answer_letters": [
+      "D"
+    ],
+    "explanation": "Negotiate... (Correct alternative) Resources report to functional managers who manage resource allocation to various tasks.\n\nAsk... This option is incorrect as the relative importance of one project over the other is not taken into consideration.\n\nAccept...This alternative is not yet valid as the project manager must first engage the functional manager before at worse case scenarion this alternative becomes feasible. Generally projects should not be delayed as this leads to further disruption and losses.\n\nEscalate...The project sponsor is generally not involved in project resource allocations. If there were a impending delay as a result of the lack of resources then the project sponsor and associated project manage team would have to be advised."
+  },
+  {
+    "status": "ok",
+    "solution_line": 33,
+    "stem": "A project manager has been assigned to a newly approved multi-national project. The successful implementation of the project relies on deliverables from a variety of departments. What is the most important thing the project manager can do to ensure the successful implementation of the project?",
+    "options": [
+      "A.Work with the project team members to create ground rules for communications and develop a project plan.",
+      "B.Facilitate sessions with key stakeholders to gather relevant information and define detailed product requirements.",
+      "C.Meet with the functional managers of the relevant departments to ensure alignment with project objectives.",
+      "D.Develop a resource management plan to define the resources required from each department."
+    ],
+    "answer_letters": [
+      "C"
+    ],
+    "explanation": "Meeting with functional managers of relevant departments is the most important action that the project manager can take to ensure the successful implementation of the project because it will help to ensure that all of the departments involved in the project are working towards the same goals. In a multi-national project with deliverables from various departments, coordination among these departments is vital. When functional managers are on the same page, it reduces the likelihood of conflicting priorities, ensures that all departments are working towards the same goals, and allows the project manager to understand their concerns, constraints, and capabilities.\n\nThe other answer options are incorrect because they are not the most important things that the project manager can do to ensure the successful implementation of the project.\n\nWhile communication rules and project planning are crucial, they typically come after ensuring alignment with project objectives. Without clear objectives, communication rules and project planning may lack direction.\n\nFacilitating sessions with key stakeholders to gather relevant information and define detailed product requirements is also important, but it is not the initial step to ensure the project's successful implementation. Defining detailed product requirements should come after ensuring alignment with project objectives. Without clear objectives, it's difficult to determine what information is relevant.\n\nDeveloping a resource management plan to define the resources required from each department is important, but it's not the first step to ensure successful project implementation. Resource planning should follow the establishment of project objectives and alignment with relevant departments. Without clear project objectives, it's challenging to determine resource requirements accurately."
+  },
+  {
+    "status": "ok",
+    "solution_line": 59,
+    "stem": "A team for a project is composed of individuals from different backgrounds, ages, and interests. The team is struggling to work together. How would meeting with the team to develop mutual values and a shared vision enable the project manager to facilitate better teamwork?",
+    "options": [
+      "A.An official team meeting to discuss the importance of teamwork would motivate the team and improve project performance.",
+      "B.A better understanding of team members' priorities would create a common language that would foster cooperation.",
+      "C.Understanding each team member's viewpoint would pinpoint areas where education and training was necessary.",
+      "D.By developing its own understanding of the goals and objectives of the project, the team would gain confidence."
+    ],
+    "answer_letters": [
+      "B"
+    ],
+    "explanation": "The question is asking how meeting with the team will enable the project manager to facilitate better teamwork.\n\n\"A better...\" is the correct answer as it speaks to how, with a developing better understanding from where each of the team members is coming from helps to develop a shared vision and enhance teamwork\n\n\"An official team...\" is an approach to improve project performance, however, the question is asking about factors that will enable the project manager to facilitate better teamwork.\n\n\"Understanding each team...\" may be an appropriate course of action to define necessary training, however that does not answer the question.\n\n\"By developing...\" may help the team to gain confidence, however does not answer the question"
+  },
+  {
+    "status": "ok",
+    "solution_line": 89,
+    "stem": "During the planning phase for the expansion of a services company, stakeholders conducted a feasibility study to establish the type of new service the company should provide. During an alternatives analysis, another type of service was determined to be more effective. The change control board (CCB) has approved the change request for the alternative service. What should the project manager do?",
+    "options": [
+      "A.Implement the change as approved.",
+      "B.Modify the change to reduce the impact on the schedule and budget.",
+      "C.Request justification from the CCB for the change.",
+      "D.Conduct a cost-benefit analysis of the alternative service."
+    ],
+    "answer_letters": [
+      "A"
+    ],
+    "explanation": "\"Implement the change...\" (Correct option). This is the only viable option as in approving the change the CCB board would have taken all possible implications into consideration.\n\nThe other options are incorrect as only a portion of the question is answered."
+  },
+  {
+    "status": "ok",
+    "solution_line": 109,
+    "stem": "A project is entering the user acceptance testing phase. After several business end users raised questions and concerns, the project manager discovered that critical business requirements were omitted from the business requirements analysis. What should the project manager do to resolve this issue?",
+    "options": [
+      "A.Interview the team that conducted the analysis to learn why these business requirements were omitted.",
+      "B.Modify the requirements management plan and communicate to the stakeholders that the project schedule might be impacted.",
+      "C.Schedule a meeting with the project sponsor to report end users' concerns.",
+      "D.Meet with the change control board (CCB) to review change requests."
+    ],
+    "answer_letters": [
+      "D"
+    ],
+    "explanation": "The correct answer is \"Meet...\". If there are critical business requirements that failed to be included, a change request must be submitted to begin the process of review to see if they need to be.\n\n\"Interview...\" is not valid because, interviewing team that conducted requirements analysis is not going to help in this scenario\n\n\"Modify...\" is not valid because, requirements management plan can't be changed just like that and publish it to the stakeholder without CCB review and approval.\n\n\"Schedule...\" is not valid because, meeting a project sponsor and report the end user's concern is not going to help address the current situation without bringing to the notice of CCB"
+  },
+  {
+    "status": "ok",
+    "solution_line": 131,
+    "stem": "A project manager has been assigned to a new project that revisits a previously completed project. Why should the project manager refer to the previous project lessons learned knowledge base and historic information first?",
+    "options": [
+      "A.To identify resources who worked on the previous project",
+      "B.To define the project requirements and finalize the scope",
+      "C.To determine a baseline for the project budget",
+      "D.To understand issues in the previous project"
+    ],
+    "answer_letters": [
+      "D"
+    ],
+    "explanation": "To understand- Before planning a revisited project, the project manager should understand what happened on the prior project. The lessons learned report focuses on those activities, tasks or deliverables that didn't go as planned and the resolution. Historical information and Lessons Learned knowledge base will give primary inputs to start planning the new project.\n\nTo identify- Do not fully address lessons learned value\n\nTo define- Do not fully address lessons learned value\n\nTo determine- Do not fully address lessons learned value"
+  },
+  {
+    "status": "ok",
+    "solution_line": 159,
+    "stem": "A complex manufacturing project has multiple stakeholders in multiple locations. The project is entering a high-activity phase and the project manager needs to ensure that all stakeholders are kept informed with timely updates. What should the project manager do first?",
+    "options": [
+      "A.Schedule training sessions on effective communications with all stakeholders.",
+      "B.Determine the most appropriate technology to use to communicate with all stakeholders.",
+      "C.Schedule regular status reports to be sent to all stakeholders.",
+      "D.Revise the communications management plan to have a more frequent update schedule."
+    ],
+    "answer_letters": [
+      "D"
+    ],
+    "explanation": "The project manager should revise the communications management plan to have a more frequent update schedule because the project is entering a high-activity phase. The project manager needs to ensure that all stakeholders are kept informed with timely updates and information needed to make informed decisions to contribute to the success of the project.\n\nThe other answer choices are not as effective. Scheduling training sessions on effective communications, determining the most appropriate technology to use to communicate, and scheduling regular status reports to be sent to all stakeholders are not the most important thing to do at this point. The project manager should first revise the communications management plan to have a more frequent update schedule."
+  },
+  {
+    "status": "ok",
+    "solution_line": 179,
+    "stem": "A stakeholder requests more frequent and detailed project status reports than a previous agreement. The stakeholder also expresses interest in getting more involved with the project. How should the project manager address this situation?",
+    "options": [
+      "A.Provide the stakeholder with an update on the project's status and send detailed status reports as soon as possible.",
+      "B.Revise the stakeholder engagement assessment matrix to show the stakeholder's engagement level as supportive.",
+      "C.Update the stakeholder communication plan and ensure that the team is aligned on the new reporting requirements.",
+      "D.Develop a stakeholder cube that defines the relationship between the stakeholder and the project."
+    ],
+    "answer_letters": [
+      "C"
+    ],
+    "explanation": "Updating the stakeholder communication plan and ensuring that the team is aligned on the new reporting requirements is the most comprehensive and effective way to address the stakeholder's request. By updating the stakeholder communication plan, the project manager can ensure that the stakeholder is receiving the communication frequency and level of detail that they requested. The project manager should also ensure that the project team is aware of the new reporting requirements and can provide the stakeholder with the information they need in a timely and efficient manner.\n\nThe other options are incorrect.\n\nProviding the stakeholder with an update on the project's status and sending detailed status reports as soon as possible lacks the necessary emphasis on revising the communication plan and ensuring team alignment, which are critical aspects of effective project management when stakeholder expectations change.\n\nRevising the stakeholder engagement assessment matrix focuses primarily on recording the change in engagement level but does not facilitate effective communication or project management in response to the stakeholder's request.\n\nDeveloping a stakeholder cube is incorrect because it is a more complex tool than is needed in this situation. It is also not clear how it would help the project manager to address the stakeholder's requests."
+  },
+  {
+    "status": "ok",
+    "solution_line": 203,
+    "stem": "PMBOK® Guide Seventh Edition (2022) PMI/PMI [A GUIDE TO THE PROJECT MANAGEMENT BODY OF KNOWLEDGE 2.1 STAKEHOLDER PERFORMANCE DOMAIN] A project manager identifies a risk during the implementation phase of a project which was not anticipated during planning. How would facilitating a brainstorming session allow the project manager to mitigate the risk while keeping the project on schedule?",
+    "options": [
+      "A.Brainstorming would enable the project manager to apply qualitative data analysis techniques.",
+      "B.Brainstorming with the project team can identify multiple ideas in a short amount of time.",
+      "C.Brainstorming with project stakeholders can result in new assumptions regarding risk tolerance.",
+      "D.Brainstorming ways to add funding can help mitigate the risk and compress the schedule."
+    ],
+    "answer_letters": [
+      "B"
+    ],
+    "explanation": "Brainstorming with the project team will allow the team to generate a lot of ideas in a short period of time. This is the most effective and efficient approach.\n\nThe application of qualitative data analysis techniques does not address the need to mitigate the risk.\n\nWhile brainstorming with stakeholders maybe helpful, brainstorming with the project team is the most effective way to generate ideas to mitigate the risk.\n\nAdding funding will not address the generation of ideas to mitigate the risk."
+  },
+  {
+    "status": "ok",
+    "solution_line": 227,
+    "stem": "During a project status meeting, the project manager discovers that stakeholders have different expectations that are not aligned. None of these expectations have been met, which has created tension in the meeting. What should the project manager do to keep things moving on the project?",
+    "options": [
+      "A. Update the risk register to reflect the difference in expectations as a high risk.",
+      "B.Ask stakeholders to send their expectations by email to ensure that they are included in the project plan.",
+      "C.Meet with stakeholders privately and update the responsibility matrix.",
+      "D.Show stakeholders that the current status is aligned with the work breakdown structure (WBS)."
+    ],
+    "answer_letters": [
+      "C"
+    ],
+    "explanation": "The project manager should first meet with the stakeholders privately to understand their expectations and why they are not aligned. This will help the project manager to identify the root cause of the problem. Once the project manager understands the root cause of the problem, they can update the responsibility matrix to ensure that the right stakeholders are responsible for meeting the different expectations. This will help to clarify roles and responsibilities and to prevent future misunderstandings.\n\nThe other answer choices are incorrect. Updating the risk register to reflect the difference in expectations as high risk, is important, but it is not enough. The project manager also needs to meet with the stakeholders to understand their expectations and to update the Responsibility matrix. Asking the stakeholders to send their expectations by email, to ensure inclusiveness in the project plan may not be effective. The stakeholders may not be willing to send their expectations by email, or they may not be able to articulate their expectations clearly. Lastly, showing stakeholders that the current status is aligned with the work breakdown structure (WBS) may not be helpful. The stakeholders may not be concerned with the WBS, and they may still be unhappy with the project's progress."
+  },
+  {
+    "status": "ok",
+    "solution_line": 246,
+    "stem": "A new project is about to start and is subject to strict time and budget constraints. When reviewing the lessons learned repository, the project manager learns that constant scope creep caused a similar project to fail. What should the project manager do now to avoid project failure?",
+    "options": [
+      "A.Refuse to accept out-of-scope change requests that would increase project duration and budget.",
+      "B.Manage stakeholder expectations to exclude the possibility of changes in order to meet project goals.",
+      "C.Adjust the project scope and schedule to stay within constraints and avoid potential changes.",
+      "D.Establish formal change approval processes to guide teams to deliver essential features first."
+    ],
+    "answer_letters": [
+      "D"
+    ],
+    "explanation": "Having formal change approval processes is the best way to ensure compliance with the project plan and minimize scope creep. The key benefit of this process is that the scope baseline is maintained throughout the project and any changes are formally recognized along with impact on the budget and schedule.\n\nThe other answer choices are incorrect because they do not minimize the chances of scope creep. Controlling scope is the process of monitoring the status of the project and product scope and managing changes to the scope baseline."
+  },
+  {
+    "status": "ok",
+    "solution_line": 264,
+    "stem": "PMBOK Guide Seventh Edition (2022) /// [2.4.7 CHANGES] [2.5.7 MONITORING NEW WORK AND CHANGES] While developing the initial schedule baseline, the project manager learns that a functional manager reassigned two resources needed for a critical task to another strategic project. What should the project manager do?",
+    "options": [
+      "A.Perform a quantitative risk analysis to determine the impact of the change on the project.",
+      "B.Request a review of the reassignment by the change control board (CCB).",
+      "C.Meet with the functional manager to negotiate allocation of replacement resources.",
+      "D.Escalate the issue to the project sponsor."
+    ],
+    "answer_letters": [
+      "C"
+    ],
+    "explanation": "Since the functional manager controls the resources for this type of work, they will be the person who will be able to provide suitable replacements.\n\nPerforming a quantitative risk assessment is not the best first step if resources can be replaced.\n\nChange Control Boards are established to review changes to contracts not resource allocation.\n\nThe functional manager is responsible for resource allocation not the project sponsor. There is no need to escalate to the project sponsor."
+  },
+  {
+    "status": "ok",
+    "solution_line": 288,
+    "stem": "While reviewing the quality of deliverables with the team, the project manager determines that several quality issues could have been avoided by using a checklist. The project manager implements a checklist to ensure future deliverables would align with the project management plan. What did the project manager do in this situation?",
+    "options": [
+      "A.Defined new quality metrics.",
+      "B.Used corrective action.",
+      "C.Facilitated a retrospective.",
+      "D.Conducted a lessons learned meeting."
+    ],
+    "answer_letters": [
+      "B"
+    ],
+    "explanation": "Corrective Action is an intentional activity that realigns the performance of the project work with the project management plan.\n\nQuality Metrics are defined during the Plan Quality Management process, Lesson learned and retrospective meetings are conducted during the phase and project closure."
+  },
+  {
+    "status": "ok",
+    "solution_line": 306,
+    "stem": "A project manager learns that a stakeholder thinks that only certain stakeholders are getting all the project updates and feels left out of the information loop. What should the project manager do?",
+    "options": [
+      "A.Prepare a status update report and send it to all stakeholders.",
+      "B.Meet with all stakeholders together and ask them to compare information.",
+      "C.Review the communications management plan to ensure that all stakeholders are included.",
+      "D.Revise the project communications strategy to ensure more frequent distribution of status reports."
+    ],
+    "answer_letters": [
+      "C"
+    ],
+    "explanation": "It is important to insure that all stakeholders are being included in the communication management plan, not just the stakeholder who raised the issue.\n\nPreparing and sending a new status update to all stakeholders, or more frequent updates, will not resolve the issue if the stakeholder that raised the issue is not included in the communication management plan.\n\nMeeting with all stakeholders to compare information should not be needed if the communication management plan is being followed.\n\nRevising the project communications strategy does not ensure that all stakeholders are included in project communications."
+  },
+  {
+    "status": "ok",
+    "solution_line": 330,
+    "stem": "A complex project is in the planning phase. The sponsor assigns a newly certified project manager to the project. Upon review of the project charter, the project manager uncovers several factors that could impact the project in unpredictable ways. What should the project manager do?",
+    "options": [
+      "A.Update the project plan with details about schedule and budget forecasts.",
+      "B.Inform the project sponsor about the possible impacts these factors may have on the project.",
+      "C.Develop a risk management plan with details about the various factors.",
+      "D.Extend the issue log to include a what-if scenario analysis."
+    ],
+    "answer_letters": [
+      "C"
+    ],
+    "explanation": "\"Develop a risk management plan...\" (Correct option) A risk management plan is designed to identify and manage possible uncertain events on a project.\n\n\"Update the project plan....\"Updating the project plan without understanding the risks, impact of the risks and possible mitigations would not add value to the project.\n\n\"Inform the project sponsor...\" The project sponsor would need to know the risk detail in order to have a full understanding of the project impact.\n\n\"Extend the issue log...\" The issue log is meant for events that have happened not events that may happen."
+  }
+]

@@ -1,0 +1,257 @@
+[
+  {
+    "question": "A project manager is leading a project with numerous risks that may occur sequentially and could potentially result in significant financial consequences. What should the project manager do to better understand the risks?",
+    "options": [
+      "A. Perform a SWOT analysis with stakeholders.",
+      "B. Analyze a probability and impact matrix.",
+      "C. Participate in a brainstorming session.",
+      "D. Build a decision tree with the project team."
+    ],
+    "answer": "B",
+    "explanation": "The project manager can use the probability and impact matrix to identify the risks that are most likely to occur and have the most significant impact on the project. These risks can then be prioritized for mitigation or avoidance.\n\nThe other answer choices are incorrect because they are not tools used to assess risk. A SWOT analysis is a tool that helps to identify the strengths, weaknesses, opportunities, and threats of a project; brainstorming is a technique that is used to generate ideas; and a decision tree is a tool that is used to help make decisions under uncertainty.",
+    "difficulty": "medium",
+    "topic": "Risk Analysis",
+    "domain": 2,
+    "source_id": "sh_020",
+    "chunk_index": 0,
+    "video_segment": "PMI Study Hall — Mini-Exam 20 (paste line 9)"
+  },
+  {
+    "question": "PMI.org (2005) //Decisions, decisions/tefanovic, M. & Stefanovic, I. L/ [Item https://www.pmi.org/learning/library/decisions-quantitative-making-process-7466] A project manager is formally closing a project that has been completed. Why should the project manager document final project activities?",
+    "options": [
+      "A. To record case studies and customer references",
+      "B. To log final project performance metrics and quality analysis",
+      "C. To provide lessons learned and archive historical information",
+      "D. To allow the customer to submit invoices and get a receipt of final payment"
+    ],
+    "answer": "C",
+    "explanation": "To provide- Closing the project is the process of ﬁnalizing all activities for the project. The key benefits of this process are the project or phase information is archived, the planned work is completed, and organizational team resources are released to pursue new endeavors. The lessons learned will benefit future projects, add to organization assets.\n\nTo record- It does not speak to the question\n\nTo log- This action would have already been completed\n\nTo allow- This action would have already been completed, customer would not submit invoices they would pay them.",
+    "difficulty": "easy",
+    "topic": "Project Closure",
+    "domain": 2,
+    "source_id": "sh_020",
+    "chunk_index": 0,
+    "video_segment": "PMI Study Hall — Mini-Exam 20 (paste line 25)"
+  },
+  {
+    "question": "A project manager recently joined an organization that is implementing a portfolio of strategic initiatives aimed at enhancing profitability. The project manager reviews a past project's business case with the project sponsor to ensure that the project was aligned with the organization's goals and to learn from its successes and failures. Which of the following project outcomes would be considered most successful in the context of this organization's strategic initiatives?",
+    "options": [
+      "A. The project was delivered under budget by 25%, and the overall duration was 20% longer than initially scheduled.",
+      "B. The project was delivered on budget, and the project management office (PMO) approved the project closure.",
+      "C. The project was delivered early, entered the market before the competition, and exceeded the budget by 10%.",
+      "D. The project was delivered on schedule, within budget, and yielded a 5% increase in projected product sales."
+    ],
+    "answer": "D",
+    "explanation": "Delivering on schedule and within budget shows that the project's budget and resources were managed effectively and efficiently, which are key factors in project success. The 5% increase in projected product sales generated additional revenue and directly contributed to the organization's goal of profitability enhancement.\n\nDelivering the project under budget is good, being 20% over the originally planned timeline could have a significant negative impact on the organization's strategic goals. There may be losses associated with the extended timeline that being under budget does not compensate for.\n\nDelivering on budget and getting PMO approval indicates that the project met the necessary criteria but not that the project directly impacted the organization's profitability goals.\n\nDelivering early and entering the market before the competition is good but does not guarantee profitability. Further, the project exceeded the budget by 10%, which is a substantial overage. The increased budget could erode the benefit of entering the market early.\n\nThe project manager can use the insights gained by reviewing the past project's business case to identify areas where current and future projects can be improved.",
+    "difficulty": "medium",
+    "topic": "Benefits Realization",
+    "domain": 3,
+    "source_id": "sh_020",
+    "chunk_index": 0,
+    "video_segment": "PMI Study Hall — Mini-Exam 20 (paste line 49)"
+  },
+  {
+    "question": "PMBOK Guide Seventh Edition (2022) /// [2.5.1 PROJECT PROCESSES] [2.5.8 LEARNING THROUGHOUT THE PROJECT] A vendor submits a high-level project schedule for a three-year project, including a detailed design-phase schedule. What does this describe?",
+    "options": [
+      "A. Rolling wave planning",
+      "B. Decomposition",
+      "C. Expert judgment",
+      "D. Templates"
+    ],
+    "answer": "A",
+    "explanation": "Rolling wave planning is an iterative scheduling technique that uses progressive elaboration to plan the project as it becomes clearer. The WBS is at the highest level for the one's that is in the future. Hence this option is the correct answer.\n\nDecomposition is a technique that is used to break deliverables progressively into smaller and manageable components. Hence this is not the correct answer.\n\nExpert Judgement is a technique in the project planning process that refers to making a judgment based on skill, expertise, or specialized knowledge in a particular domain or area. Hence this is not the correct answer.\n\nProject Templates is a structure that is created which will facilitate the Project Manager and the team to customize the work that will be carried out. Hence this is not the correct answer.",
+    "difficulty": "easy",
+    "topic": "Schedule Planning",
+    "domain": 2,
+    "source_id": "sh_020",
+    "chunk_index": 0,
+    "video_segment": "PMI Study Hall — Mini-Exam 20 (paste line 73)"
+  },
+  {
+    "question": "A project manager is leading a project that will deliver a new product. The project manager needs to decide between options proposed by various cross-functional teams. The project manager uses a decision-making matrix and has identified criteria to evaluate the options and assign a relative weight to each criterion. What should the project manager do next?",
+    "options": [
+      "A. Draft a counter-proposal and share it with stakeholders.",
+      "B. Eliminate the alternative with the least weight.",
+      "C. Score each alternative for each criterion.",
+      "D. Choose the preferred alternative based on voting."
+    ],
+    "answer": "C",
+    "explanation": "The project manager has already identified the criteria and assigned relative weights to each criterion. The next step is to score each alternative against each criterion. This means assigning a number to each option that reflects how well it meets the criteria, like 1-10, with 10 being the best. Once the project manager has scored each option against each criterion, they can calculate the total score for each option. The total score is calculated by adding up the scores for each criterion and the option with the highest total score is the preferred alternative.\n\nThe other answer choices are incorrect. Eliminating the alternative with the least weight is not a good idea because it may eliminate the best option. Drafting a counter-proposal and sharing it with stakeholders is not necessary at this stage. Choosing the preferred alternative based on voting is not a fair or objective way to make a decision.\n\nThe process for using the decision-making matrix can be as follows:\n\nIdentify viable alternatives.\nIdentify criteria that are to be used for evaluating the alternatives.\nAssign relative weight (1-10, with 10 being the most important) to each criterion. Note that more than one criterion may have the same weight.\nScore each alternative for each criterion (again 1-10, with 10 being the best.)\nFor each alternative, multiply the score with the corresponding criteria weight and add these multiples in the last column. This is the total score for each alternative.\nChoose the preferred alternative based on the total score.",
+    "difficulty": "medium",
+    "topic": "Decision Making",
+    "domain": 2,
+    "source_id": "sh_020",
+    "chunk_index": 0,
+    "video_segment": "PMI Study Hall — Mini-Exam 20 (paste line 95)"
+  },
+  {
+    "question": "Two key stakeholders, who are also members of the change control board (CCB), complain they were not aware of an extension to the project schedule. The project manager knows that the extension was necessary to add value to the project. What should the project manager have done to avoid this issue?",
+    "options": [
+      "A. Submitted a change request to the entire CCB without discussing it first with the stakeholders.",
+      "B. Run a what-if analysis to determine the impact of the change.",
+      "C. Asked the project sponsor if there was any float in the project schedule.",
+      "D. Consulted the stakeholders before following the established change process."
+    ],
+    "answer": "D",
+    "explanation": "The project manager should have consulted the stakeholders before submitting the change request to the CCB. This would have allowed the stakeholders to understand the need for the change and to provide their input on how to implement it. By consulting the stakeholders first, the project manager could have avoided the issue of the stakeholders feeling blindsided by the change.\n\nThe other options are not as good as consulting the stakeholders. Submitting a change request to the CCB without discussing it first with the stakeholders would have been a mistake. This would have made the stakeholders feel like they were not being heard and that their opinions did not matter. Running a what-if analysis to determine the impact of the change would have been a good idea, but it would not have been enough. The project manager still needed to consult with the stakeholders to get their input. Asking the project sponsor if there was any float in the project schedule would have been a good question to ask, but it would not have addressed the issue of the stakeholders feeling blindsided by the change.",
+    "difficulty": "medium",
+    "topic": "Stakeholder Communication",
+    "domain": 1,
+    "source_id": "sh_020",
+    "chunk_index": 0,
+    "video_segment": "PMI Study Hall — Mini-Exam 20 (paste line 121)"
+  },
+  {
+    "question": "To handle a change in requirements, a project team needs to be motivated and flexible to reprioritize tasks. What leadership style would help the team to perform well in changing and uncertain conditions?",
+    "options": [
+      "A. A collaborative approach will boost motivation, learning, growth, and innovation around a project vision.",
+      "B. A directive approach will boost team confidence by ensuring that team members only work on the tasks suited to their qualifications.",
+      "C. A collaborative approach will ensure that project procedures are well-documented and complete enough to cover all situations.",
+      "D. A directive approach will prepare the team for frequent changes by adapting the project vision to new directions."
+    ],
+    "answer": "A",
+    "explanation": "Collaborative leadership empowers teams to adapt to new challenges through a learning culture and shared vision.\n\nThe other answer choices are incorrect because even in collaborative approach, all situations can't be documented in the form of project procedures. Directive approach will not boost team confidence, rather it will decease it and will not help the team to prepare for new changes.",
+    "difficulty": "medium",
+    "topic": "Leadership Style",
+    "domain": 1,
+    "source_id": "sh_020",
+    "chunk_index": 0,
+    "video_segment": "PMI Study Hall — Mini-Exam 20 (paste line 139)"
+  },
+  {
+    "question": "In an iteration review, the definition of done (DoD) was not met. What is an appropriate way for the project manager to proceed?",
+    "options": [
+      "A. Ask the project sponsor to update the project charter and reassign the authorities and responsibilities.",
+      "B. Request that the project team develop new features to replace the features that were rejected.",
+      "C. Determine the root cause with the team in the retrospective meeting and suggest plan to address the deficiencies.",
+      "D. Send a new change request to the change control board (CCB) for approval, adding budget to the baseline."
+    ],
+    "answer": "C",
+    "explanation": "In the retrospective, the project manager and team should work to identify the root cause of the problem and suggest a plan to correct the deficiency in the next iteration.\n\nThe other answer choices are incorrect. Accepting or rejecting an iteration's deliverable is part of the hybrid/agile process and for that updating project backlog; user stories dictate team performance so developing new features for replacement; seeking approval from the change control board is not applicable in an agile iteration.",
+    "difficulty": "medium",
+    "topic": "Agile/Scrum Quality",
+    "domain": 2,
+    "source_id": "sh_020",
+    "chunk_index": 0,
+    "video_segment": "PMI Study Hall — Mini-Exam 20 (paste line 159)"
+  },
+  {
+    "question": "A project manager notices that a new virtual team member does not respond to emails coherently and does not speak up in team discussions. What should the project manager do?",
+    "options": [
+      "A. Aid in developing the team member's communication skills.",
+      "B. Aid in developing the team member's self-direction.",
+      "C. Aid in developing the team member's expertise.",
+      "D. Aid in developing the team member's extrovert personality."
+    ],
+    "answer": "A",
+    "explanation": "Communication skills are essential for success in all areas of life, but they are especially important in the workplace, especially for virtual team members. When a team member is not able to communicate effectively, it can lead to misunderstandings, delays, and conflict. The project manager can help the team member develop their communication quality through feedback, encouraging participation, offering resources, and being patient and supportive.\n\nThe other answer choices are incorrect. Self-direction is an important skill, but it is not the primary issue in this case. The team member's communication challenges are likely preventing them from being fully self-directed. The team member's expertise is not the primary issue in this case. The team member is able to complete their work, but they are having difficulty communicating with their team members. Extroversion is a personality trait, and it is not something that can be changed easily. The project manager should focus on helping the team member develop their communication skills, regardless of their personality type.",
+    "difficulty": "medium",
+    "topic": "Team Development",
+    "domain": 1,
+    "source_id": "sh_020",
+    "chunk_index": 0,
+    "video_segment": "PMI Study Hall — Mini-Exam 20 (paste line 181)"
+  },
+  {
+    "question": "The project manager has identified all internal and external stakeholders in a project. The project manager now has to determine the best stakeholder engagement approach. What should the project manager do first?",
+    "options": [
+      "A. Conduct a stakeholder analysis.",
+      "B. Create a SWOT analysis.",
+      "C. Develop a multicriteria decision analysis.",
+      "D. Design a fishbone diagram."
+    ],
+    "answer": "A",
+    "explanation": "The project manager should use stakeholder analysis to decide the best customer engagement approach. Stakeholder analysis is a process of identifying and assessing the needs, interests, and potential impact of stakeholders on a project. It is a critical tool for project managers to use in order to develop and implement effective stakeholder engagement strategies. By conducting a stakeholder analysis, the project manager can better understand the customer's needs and expectations, and develop an engagement approach that is tailored to their specific requirements. The project manager can also identify and address any potential risks or challenges associated with the customer relationship.\n\nThe other answer choices are not as relevant or effective for deciding on the best stakeholder engagement approach. SWOT analysis is a technique used to identify the strengths, weaknesses, opportunities, and threats facing a project. It is not specifically designed to help project managers make decisions about customer engagement. Multicriteria decision analysis is a technique used to evaluate and select the best option from a set of alternatives, given multiple criteria. It is not specifically designed to help project managers make decisions about customer engagement. A fishbone diagram, also known as a cause-and-effect diagram, is a technique used to identify the root causes of a problem. It is not specifically designed to help project managers make decisions about customer engagement.",
+    "difficulty": "medium",
+    "topic": "Stakeholder Engagement",
+    "domain": 1,
+    "source_id": "sh_020",
+    "chunk_index": 0,
+    "video_segment": "PMI Study Hall — Mini-Exam 20 (paste line 199)"
+  },
+  {
+    "question": "A project manager is managing a project where requirements are fixed and the workflow is planned for the full development lifecycle. Additionally, the customer involvement is at specific milestones and testing happens post-build. Which methodology should a project manager use for this project?",
+    "options": [
+      "A. Agile",
+      "B. Hybrid",
+      "C. Predictive",
+      "D. Continuous Improvement"
+    ],
+    "answer": "C",
+    "explanation": "Project life cycles can range along a continuum from predictive approaches at one end to adaptive or agile approaches at the other. In a predictive life cycle, the project deliverables are defined at the beginning of the project and any changes to the scope are progressively managed. In an adaptive or agile life cycle, the deliverables are developed over multiple iterations where a detailed scope is defined and approved for each iteration when it begins",
+    "difficulty": "easy",
+    "topic": "Project Methodology",
+    "domain": 2,
+    "source_id": "sh_020",
+    "chunk_index": 0,
+    "video_segment": "PMI Study Hall — Mini-Exam 20 (paste line 221)"
+  },
+  {
+    "question": "After success in a challenging project phase, a project manager reassigned a high-performing team member to a more strategic task. This is an example of what?",
+    "options": [
+      "A. Recognition",
+      "B. Risk acceptance",
+      "C. Mentorship",
+      "D. Scope change"
+    ],
+    "answer": "A",
+    "explanation": "Recognition - singles out an individual by recognizing them as worthy of more of the work that satisfies them. In this case, the high-performing team member is recognized for their work and is reassigned to a more strategic task.\n\nRisk Acceptance - There is no identified risk here hence the option is incorrect.\n\nMentorship- the guidance provided by a mentor, especially an experienced person in a company or educational institution hence not the correct answer.\n\nScope Change - a scope change comes into effect when there is a significant change that impacts project parameters to a defined, accepted work package or project, hence not the correct answer.",
+    "difficulty": "easy",
+    "topic": "Motivation",
+    "domain": 1,
+    "source_id": "sh_020",
+    "chunk_index": 0,
+    "video_segment": "PMI Study Hall — Mini-Exam 20 (paste line 239)"
+  },
+  {
+    "question": "An external provider is late with the delivery of a finished item. As a measure of goodwill, and to maintain the project's schedule, the provider offers to bear the cost of renting a temporary system. Since no schedule slippage will occur, what should the project manager do next?",
+    "options": [
+      "A. Account for this additional resource in the work breakdown structure (WBS).",
+      "B. Take no further actions because there is no schedule slippage.",
+      "C. Conduct the Perform Integrated Change Control process.",
+      "D. Update the project documents."
+    ],
+    "answer": "C",
+    "explanation": "Performing integrated change control: It is great that the provider is picking up the cost however this still represents a change to the execution plan and will need to addressed accordingly.\n\nThe WBS captures the scope of work. There is no change of scope driving a change to the WBS, nor does the WBS manage resources.\n\nSchedule slippage: There is a change to the execution plan that needs to be addressed accordingly. The schedule may need to be modified to capture any related task changes.\n\nUpdate project documents: The change control process will drive any needed document updates.",
+    "difficulty": "hard",
+    "topic": "Procurement Management",
+    "domain": 2,
+    "source_id": "sh_020",
+    "chunk_index": 0,
+    "video_segment": "PMI Study Hall — Mini-Exam 20 (paste line 265)"
+  },
+  {
+    "question": "A new project manager resumes a project in its execution phase. During a project status meeting, a team member reports an issue shared by a stakeholder. What should the new project manager do first?",
+    "options": [
+      "A. Review the issue log.",
+      "B. Immediately address the issue.",
+      "C. Review the stakeholder engagement plan.",
+      "D. Update the risk management plan."
+    ],
+    "answer": "A",
+    "explanation": "There is no reason for the new project manager to consider this to be a new issue. By reviewing the issue log, the project manager can be satisfied that the issue has already been accounted for, and if not, take the necessary steps to address it.\n\nThe other options are incorrect because, until due diligence is performed, there is no reason to believe any action (immediate or otherwise) is needed.",
+    "difficulty": "medium",
+    "topic": "Issue Management",
+    "domain": 1,
+    "source_id": "sh_020",
+    "chunk_index": 0,
+    "video_segment": "PMI Study Hall — Mini-Exam 20 (paste line 289)"
+  },
+  {
+    "question": "PMBOK Guide Seventh Edition (2022) /// [4.6.2 LOGS AND REGISTERS] [2.8 UNCERTAINTY PERFORMANCE DOMAIN] A sponsor proposes a project scope change that is popular with the project team and key stakeholders. What should the project manager do?",
+    "options": [
+      "A. Follow the change management process.",
+      "B. Notify stakeholders of the change.",
+      "C. Update the project requirements.",
+      "D. Modify the work breakdown structure (WBS)."
+    ],
+    "answer": "A",
+    "explanation": "By following the change management process the project manager will be taking the needed steps to initially gain approval, then to incorporate and communicate the changes within the project.\n\nNotifying stakeholders, updating of project requirements and modification of the WBS (if needed) will take place as components of the change management process.",
+    "difficulty": "medium",
+    "topic": "Change Control",
+    "domain": 2,
+    "source_id": "sh_020",
+    "chunk_index": 0,
+    "video_segment": "PMI Study Hall — Mini-Exam 20 (paste line 307)"
+  }
+]

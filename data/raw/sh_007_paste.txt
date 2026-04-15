@@ -1,0 +1,301 @@
+During a high-risk project, several risks have been materialized and responses have been implemented, However, the project still appears to be in trouble. The project manager is concerned that the risk management rules are not being carried out as specified. 
+
+What should the project manager do to identify the weaknesses of the risk management process?
+
+A.Transfer the risks.
+B.Update the risk register.
+C.Request a risk audit.
+D.Analyze the risks.
+Solution: C. Request a risk audit
+
+Periodic risk audits help to identify the strengths and weaknesses in handling risks. This entails identifying any barriers to the effectiveness of the risk management process. Risk audits evaluate whether or not the risk management rules are being carried out as specified and whether or not they are adequate. These audits can help to determine whether or not the process is still relevant and is being used effectively.
+
+The other options are incorrect because they do not address the core issue. Transferring the risks may not be appropriate and does not solve any process-based issues or weaknesses. Updating the risk register is not applicable at this stage because it has not yet been determined why the project seems to be in trouble. Risk analysis defines the characteristics of a risk and the degree to which it can impact objectives. In this case, there is no clear indication as to why the project appears to be in trouble, so risk analysis is not an effective way to identify the weaknesses of the risk management process.
+
+This question and rationale were developed in reference to:
+
+Project Manager's Spotlight on Change Management (No Date) Claudia Baca/Sybex © 2005 Citation/7/risk audits [Item]
+
+PMBOK Sixth Edition (2018) PMI/PMI/11 Project Risk Management/456 (11.7.2.2 Risk Audit ).
+
+PMBOK Guide Seventh Edition (2022) /// [2.8.5 RISK] [2.5.10 CHECKING RESULTS]
+
+After completing a project, the team meets to conduct a lessons learned session. During this meeting, the team sees that all deliverables were completed to the defined parameters. However, during the testing, there were a large number of errors identified.
+
+What should the project manager have done in this situation?
+
+A.Set up a meeting with the testing team to get more information about the testing methods to be used.
+B.Evaluated when the mitigation strategy will be implemented to prepare for future projects.
+C.Conducted a Monte Carlo analysis which will determine potential outcomes and responses.
+D.Planned for these errors in the risk register as something to look for in future projects.
+Solution: C. Conducted a Monte Carlo analysis which will determine potential outcomes and responses
+
+Variability risks are uncertainties about the characteristics of a planned event to a decision. The number of errors found during testing may be higher or lower than expected, this is a variability risk. They can't be identified and managed because they are non-event-related. The project manager can use a Monte Carlo analysis, with the range of variation as probability distributions, and actions to reduce the impact of this risk on the outcome.
+
+Since variability risks cannot be identified and managed, they would not have a mitigation strategy, or be in the risk register. Since the project is completed and the deliverables met the parameters, there is no need to understand the testing methods further.
+
+This question and rationale were developed in reference to:
+
+PMBOK Guide Sixth Edition (2018) PMI/PMI/11/398-399 [Item]
+
+| The Agile Practice Guide (No Date) PMI/PMI/5.2.1- Retrospectives/50-51 [Item]
+
+A project manager for an important agile project has a key stakeholder who was actively involved at the beginning of the project. Early in the project, the stakeholder received a promotion and has significantly reduced their participation in the project. Nearing the end of the project, the stakeholder did not accept a deliverable, resulting in significant rework that threatens the project deadline.
+
+What should the project manager have done to avoid this situation?
+
+A.Update the risk management plan to document the stakeholder’s promotion.
+B.Monitor the stakeholder attributes and make necessary adjustments to engage the key stakeholder actively.
+C.Reach out to the sponsor to manage stakeholder engagement.
+D.Removed the key stakeholder from the decision-making process.
+Solution: B. Monitor the stakeholder attributes and make necessary adjustments to engage the key stakeholder actively
+
+The key stakeholder became less involved as the project progressed. The project manager should have analyzed the changes in the stakeholder attributes and take appropriate action by engaging him/her actively.
+
+Updating the risk management plan is incorrect as the promotion of the stakeholder is not a risk to the project.
+
+The project manager does not need to approach Project Sponsor to manage stakeholder engagement
+
+and the project manager would not recommend the removal of a stakeholder.
+
+This question and rationale were developed in reference to:
+
+O'Reilly Platform (No Date) //6.4.2/ [Item Book name: Agile Foundations]
+
+| O'Reilly Platform (No Date) //Mastering Project Human Resource Management: Effectively Organize and Communicate with All Project Stakeholders - Ch 9/Managing Stakeholder Engagement [Item]
+
+| PMBoK, Sixth edition (2021) PMI/PMI/13/ [Item 13.2 Plan Stakeholder Engagement]
+
+A project manager is leading a team that is developing a new software product. The deadline for the product launch is approaching, but the team is very behind schedule. The project manager has tried to motivate the team and help them catch up, but they have been unwilling and unsuccessful.
+
+What should the project manager do first?
+
+A.Meet with the project sponsor to discuss and develop a revised project plan.
+B.Request a project deadline extension and continue motivating the team.
+C.Use the forcing method to require the team to work overtime to meet the deadline.
+D.Escalate the issue to the functional manager for additional resources.
+Solution: A. Meet with the project sponsor to discuss and develop a revised project plan.
+
+The most important thing for the project manager to do is meet with the project sponsor to discuss the situation and develop a revised project plan. The project manager should be transparent with the project sponsor about the team's progress and challenges. The project manager should also work with the project sponsor to develop a revised plan that is realistic and achievable.
+
+The other answer choices are incorrect as they are last-resort options. Requesting a project deadline extension, using the forcing method, and escalating the issue to the functional manager should be a last resort. The project manager should work with the project sponsor to develop a revised plan and motivate the team before escalating the issue.
+
+This question and rationale were developed in reference to:
+
+PMBOK Guide Seventh Edition (2021) / 14 [Section 2.3.4]
+
+During a project team meeting, the project manager notices a conflict between three key team members who have very different personalities.
+
+What should the project manager do first?
+
+A.Plan a team-building event where different personality types are required to solve problems.
+B.Remind the team members that emotions should not impair their work performance.
+C.Assign project tasks to avoid contact between the three members.
+D.Identify the root cause of the conflict and support a resolution between the team members.
+Solution: D. Identify the root cause of the conflict and support a resolution between the team members.
+
+Before taking any action, it is important to understand the root cause of the conflict. This will help the project manager to develop the most effective solution. The project manager can gather information by talking to the team members individually, observing their interactions, and reviewing relevant documentation.
+
+The other answer choices are incorrect. Planning a team-building event where different personality types are required to solve problems is a good idea in general, but it is not the first step that the project manager should take when addressing a conflict between team members. Reminding the team members that as professionals, emotions should not impair their work performance is unlikely to address the underlying conflict between the team members. Assigning project tasks to avoid contact between the three members is not a long-term solution. The team members will eventually have to work together, and the conflict will likely resurface. 
+
+This question and rationale were developed in reference to:
+
+PMBOK Guide Seventh Edition (2021) / 168-169 [Section 4: Models, Methods and Artifacts, 4.2.7.1]
+
+A large project involving functional groups in four countries is nearing completion. The project manager is meeting with the functional managers to prepare closeout documents.
+
+Why should the project sponsor sign off on the acceptance of project deliverables?
+
+A.Because the project sponsor is responsible for procuring funding and committing resources to the project
+B.Because the project sponsor communicates directly with the customer regarding acceptance of deliverables
+C.Because the functional managers have authority to approve project objectives but not final deliverables
+D.Because the functional managers are too geographically dispersed to sign off on the deliverables
+Solution: A. Because the project sponsor is responsible for procuring funding and committing resources to the project
+
+The sponsor provided the resources for the project. Thus, it is their responsibility to officially sign off on the project deliverables. The sponsor may not be the one to communicate directly with the customer. Geographically dispersed would not be a hindrance to signing off on the deliverables. Functional managers provide management oversight for a functional unit but may not have the authority to approve project objectives or final deliverables.
+
+This question and rationale were developed in reference to:
+
+PMBOK Guide Sixth Edition (2018) PMI/PMI/4.7/121 [Item]
+
+| Project management : A Systems Approach to Planning, Scheduling, and Controlling (2013) Harold Kerzner/John Wiley/10/ [Item]
+
+A project manager is working on an agile project. The project has 100 user stories broken down into ten iterations. Each user story is worth US$100. The actual expenditure is US$4,500 and 50 user stories have been delivered after 5 iterations.
+
+Which statement is accurate?
+
+A.The project is behind schedule and is over budget.
+B.The project is on schedule and is under budget.
+C.The project is on schedule and on budget.
+D.The project is behind schedule and under budget.
+Solution: B. The project is on schedule and is under budget.
+
+The project is on schedule because after five iterations, 50 user stories have been delivered. It is under budget because the actual expenditure of $4,500 is less than the expected expenditure of $5,000.
+
+This question and rationale were developed in reference to:
+
+PMBOK Guide Sixth Edition (2018) PMI/PMI/Chapter 6 & 7 - Earned Value Management/ [Item]
+
+| The Agile Practice Guide (No Date) PMI/PMI/5/61 [Item Agile favors empirical and value based measurements instead of predictive measurements. The earned value concept helps accomplish that. ]
+
+A project manager is assigned to join a mega industrial project already underway. The latest performance indices are CPI=0.42 and SPI=0.20. This project is:
+
+A.Ahead of schedule and under budget
+B.Ahead of schedule and over budget
+C.Behind schedule and under budget
+D.Behind schedule and over budget
+Solution: D. Behind schedule and over budget
+
+Cost Performance Index (CPI) less than one indicates over budget; CPI greater than one is under budget.
+
+Schedule Performance Index (SPI) less than one indicates behind schedule; SPI greater than one is ahead of schedule.
+
+This project is over budget and behind schedule.
+
+This question and rationale were developed in reference to:
+
+PMBOK Guide Sixth Edition (2018) PMI/PMI// [Item]
+
+| Practice Standard for Project Risk Management (7/1/2009) Project Management Institute/PMI// [Item]
+
+The company's top executives are embarking on a pivotal project that holds immense importance for the organization's future. This project involves a comprehensive overhaul of their production system. Given the project's high-risk nature, the executives emphasize that its success is non-negotiable.
+
+What should the project manager prioritize as the initial step?
+
+A.Implementing an appropriate method for the project rollout, prioritizing the components with the highest business value.
+B.Developing a comprehensive communication management plan to ensure timely project progress updates for everyone.
+C.Ensuring unanimous agreement among stakeholders and the project sponsor about the project plan, scope, and deliverables.
+D.Collaborating closely with the marketing team to ensure the end products align seamlessly with customer communication.
+Solution: C. Ensuring unanimous agreement among stakeholders and the project sponsor about the project plan, scope, and deliverables.
+
+The project manager should prioritize ensuring that all key stakeholders and the project sponsor are on the same page regarding the project's plan, scope, and deliverables. Establishing a clear vision that key stakeholders agree on is the most important step to take at the beginning of any project, especially a high-risk one. Defining and sharing a clear vision at the start of the project can enable good relationships and alignment throughout the project. This alignment sets a strong foundation for project success and minimizes the risk of misunderstandings or scope changes later on.
+
+The other answer options are important steps in the project management process, but they should not be prioritized as the initial step. Before focusing on project rollout, communication management plans, or collaboration with other teams, it's essential to establish a solid foundation through stakeholder agreement on project fundamentals. The project manager can address all of these actions once everyone is in agreement about the project plan, scope, and deliverables.
+
+This question and rationale were developed in reference to:
+
+PMBOK Guide Seventh Edition (2022) /// [2.1 STAKEHOLDER PERFORMANCE DOMAIN]
+
+An organization has just has been shortlisted to win a project for implementing three magnetic resonance units in the main hospital for the country. The hospital's CEO asked the project manager for an updated proposal where the implementation time is reduced by 30%.
+
+Who should the project manager consult with to reduce the estimates in the most realistic way?
+
+A.Hospital radiology team
+B.Project team
+C.Project sponsor
+D.Hospital procurement officer
+Solution: A. Hospital radiology team
+
+The project manager should consult with the hospital radiology team to obtain their insights and expertise regarding the implementation of the magnetic resonance units. They can provide valuable input on the specific requirements, technical aspects, and potential challenges involved in the implementation process. By involving the radiology team, the project manager can gather realistic information and identify opportunities for reducing the implementation time without compromising the quality or safety of the project.
+
+The other answer choices are incorrect. In this scenario, the project team, project sponsor, and hospital procurement officer may not have all the relevant information to reduce the implementation time for the magnetic resonance units.
+
+This question and rationale were developed in reference to:
+
+https://standardsplus.pmi.org/posts/Res_12/7d6a6ee4-1406-4567-850c-4de24db881c3 [Item]
+
+| Practice Standard for Project Estimating, Second edition (2019) /PMI/4.2.1/46 [Item Estimates are highly individualized and best produced by engaging the people performing the work. Each individual works differently, best knows his or her capabilities in a given situation, and is most likely to produce the most accurate estimates. ]
+
+The project sponsors for a multinational project have put a process in place that generates emails and reports at the end of each phase. The goal is to ensure the project remains unified across the company. The company plans to use the process as a model for future, similar projects.
+
+What should the project manager do?
+
+A.Update the communications management plan to include details about the emails and reports.
+B.Include a formal sign-off at the end of each phase to engage the stakeholders.
+C.Hold status meetings to solicit input from project sponsors for the emails and reports.
+D.Update the stakeholder engagement plan at the end of each phase to maintain their commitment to the project's success.
+Solution: A. Update the communications management plan to include details about the emails and reports
+
+The communication management plan can include templates for project status meetings, project team meetings and email messages
+
+This question and rationale were developed in reference to:
+
+Information Technology Project Management, 7th Ed. (2015) Kathy Schwalbe/Course Technology/3(The Project Management Process Groups)/97 [Item]
+
+| PMBOK Guide Sixth Edition (2018) PMI/PMI//138 [Item]
+
+A project manager is hired by an organization and is given a project that has a vague scope and unclear deliverable requirements.
+
+How should the project manager proceed with this project?
+
+A.Schedule a meeting with the project team and the sponsor to clarify the scope.
+B.Develop the project plan based on the current scope by breaking down the deliverables and requirements.
+C.Escalate to the project management office (PMO) to clarify the unclear scope.
+D.Submit a request to the PMO to be paired with someone familiar with the organization’s project management approach.
+Solution: A. Setup the project team and schedule a meeting with the team and the sponsor to clarify the scope.
+
+The project manager should first meet with the project team and sponsor to define and clarify the vague scope. Then, they can develop the project plan based on the established scope by breaking down the deliverables and requirements.
+
+Escalating to the PMO deflects responsibility and does not help the project manager understand the scope.
+
+This question and rationale were developed in reference to:
+
+Choose Your WoW! A Disciplined Agile Delivery Handbook for Optimizing Your Way of Working (January 2019) Scott W Ambler and Mark Lines//Section 3. 16/225 [Item]
+
+| PMBOK Guide Sixth Edition (2018) PMI/PMI/Chapter 5/619 [Item plan and manage scope]
+
+Multiple stakeholders express dissatisfaction with a project deliverable. 
+
+What should the project manager do next?
+
+A.Review the final scope statement.
+B.Update the risk management plan.
+C.Review the documented project requirements.
+D.Schedule a meeting with the stakeholders.
+Solution: D. Schedule a meeting with the stakeholders.
+
+Open communication and addressing stakeholder concerns are paramount. Scheduling a meeting allows the project manager to gather details, collaborate on solutions, and manage expectations.
+
+The other answer choices are incorrect. Updating the risk plan might not be the most immediate action. The focus is on understanding the specific stakeholder concerns. The plan can be updated later if necessary. While reviewing requirements might be helpful in context, understanding stakeholder concerns is the priority. Similar to requirements, the scope statement provides context but doesn't address immediate stakeholder concerns.
+
+This question and rationale were developed in reference to:
+
+Project management: A Systems Approach to Planning, Scheduling, and Controlling (2009) Harold Kerzner/John Wiley/8/1822
+
+PMBOK Guide (6th edition) - Chapter 13: Agile Project Management: This chapter outlines stakeholder communication strategies relevant to project execution.
+
+PMI Article - "The Agile Project Manager's Guide to Stakeholder Engagement": https://www.pmi.org/learning/library/stakeholder-management-task-project-success-7736
+
+A project manager is managing a credit card acceptance software project. During testing, it is learned that the application cannot accept foreign credit cards, making the application nearly useless. The team leader had entered a user story that said “Customer can pay using credit card”, but it was put into the backlog as too large for the sprint.
+
+As a project manager, what should have been done to prevent this issue?
+
+A.Ensure that a detailed user story was presented to the project team.
+B.Have the project team implement the user story during the next sprint.
+C.Ensure that the team performs iterative backlog refinement.
+D.Ensure that the team recorded detailed application functionality requirements from the stakeholders.
+Solution: A. Ensure that a detailed user story was presented to the project team.
+
+If foreign credit card acceptance is a key feature, then it should have been identified as such and prioritized and refined accordingly. The project manager should have Ensured that a detailed user story was presented to the project team early specifying acceptable credit cards. 
+
+This question and rationale were developed in reference to:
+
+Essential Scrum: A Practical Guide to the Most Popular Agile Process (No Date) Kenneth S. Rubin///Table 6.2 [Item]
+
+| Project Management Institute (2021) /Project Management Institute/5/ [Item Backlog Refinement]
+
+| User Stories Applied (No Date) Mike Cohn//7/Kindle 1720 [Item]
+
+A local government passes a law that affects the scope of a project that is currently in the execution phase. The regulation change was unforeseen and will take effect within weeks of the law passing. The project manager knows that the project schedule and budget will be impacted as a result.
+
+What should the project manager do?
+
+A.Immediately halt the project until the regulation change can be incorporated into the project plan.
+B.Delegate the responsibility for assessing the impact of the regulation change to a team member.
+C.Proceed with the project as planned until the new regulation is implemented and the impacts are known.
+D.Seek expert judgment to assess the impact of the regulation change on the project schedule and budget.
+Solution: D. Seek expert judgment to assess the impact of the regulation change on the project schedule and budget.
+
+Seeking expert judgment allows the project manager to access specialized knowledge and experience to accurately assess the regulatory change's impact. The regulation change may be complex or have unintended consequences, so it is important to seek expert judgment from someone who understands the new law and its potential impact on the project.
+
+Immediately halting the project may not be necessary and could result in significant delays and increased costs. The project manager should first seek to understand the impact of the regulation change before taking action. 
+
+Delegating the responsibility for assessing the impact of a significant regulatory change without proper guidance and oversight is risky. The regulation change may have complex implications, and the project manager should be actively involved in assessing its impact.
+
+Proceeding with the project as planned could put the project at risk of non-compliance, legal issues, and budget overruns.
+
+This question and rationale were developed in reference to:
+
+Fundamentals of Technology Project Management, 2nd Ed (2015) Colleen Garton, Erika McCulloch/Mc Press/5/181 [Item]
+
+PMBOK Guide Seventh Edition (2022) /// [2.4.7 CHANGES] [2.8.1 GENERAL UNCERTAINTY]

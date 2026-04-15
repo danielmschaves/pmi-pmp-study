@@ -1,0 +1,227 @@
+[
+  {
+    "status": "ok",
+    "solution_line": 11,
+    "stem": "1 of 15 Question A company has been following a predictive approach and always waits for the preceding phase to be completed before evaluating the quality of their products. A new project manager with experience in hybrid approaches has been assigned to help increase the efficiency of the company's quality management process. What should the new project manager do to address the process improvements?",
+    "options": [
+      "A.Continue with the process as is, and wait until the next phase to suggest any improvements.",
+      "B.Define a ground rule to comply with the quality standard and ask the team members to apply it.",
+      "C.Discuss the process improvement with the project management office (PMO) lead to update the project delivery framework.",
+      "D.Understand the context and interdependencies of the process from the team members and then define improvements."
+    ],
+    "answer_letters": [
+      "D"
+    ],
+    "explanation": "In an hybrid approach, understanding the context and addressing problems together with the team members will help solve problems efficiently. Hence this option is the correct answer.\n\nContinuing with the existing process or asking the team to comply with the quality standard or discussing with the PMO lead to update the project delivery framework are predictive approach techniques which should be avoided as they do not help in increasing the efficiency of the company's quality management process."
+  },
+  {
+    "status": "ok",
+    "solution_line": 33,
+    "stem": "2 of 15 Question Operations for a new technology-based project are being transitioned to a new project team. Early in the execution phase, the project manager discovers major gaps in the documentation, which will hamper knowledge transfer. The solution launch date cannot be delayed, and the budget cannot be increased. How should the project manager structure the project to optimize the work within the project constraints?",
+    "options": [
+      "A.Double the team size by assigning less expensive, outsourced resources.",
+      "B.Split knowledge transfer and knowledge testing to run in parallel.",
+      "C.Eliminate all slack and re-plan the tasks using a rolling wave approach.",
+      "D.Use agile sprints and Kanban to accelerate learning and fault-finding."
+    ],
+    "answer_letters": [
+      "D"
+    ],
+    "explanation": "\"Use agile sprints...\" (Correct Option) An agile team works together to remove impediments, through knowledge transfer, to achieve goals.\n\n\"Double the team size...\" Increasing team size does not increase the probability of project success.\n\n\"Eliminate all slack...\" Collapsing the schedule does not lead to knowledge transfer.\n\n\"Split knowledge transfer...\" This will not improve knowledge transfer."
+  },
+  {
+    "status": "ok",
+    "solution_line": 61,
+    "stem": "A project manager conducts a lessons learned meeting and project team members mention that they are not always aware of the progress occurring during sprints. What can the project manager do to address this concern?",
+    "options": [
+      "A.Mentor the team about how to use the project iteration board.",
+      "B.Assign a project team member to prepare daily status reports and distribute to all team members.",
+      "C.Coach the team about how to use the project backlog report.",
+      "D.Establish a process to address the confusion at the next retrospective session."
+    ],
+    "answer_letters": [
+      "A"
+    ],
+    "explanation": "\"Mentor the team...\" (Correct option). The project iteration board shows the project's status. All project members should know how the iteration board can assist in their tasks.\n\n\"Assign a project team...\"This approach does not assist the individual team members to learn how to find the project status on their own.\n\n\"Coach the team...\"The project backlog report is generally used for stakeholder communication whereas the project iteration board is used by the team.\n\n\"Establish a process...\" Establishing a new process when existing best practice processes exist will confuse the team."
+  },
+  {
+    "status": "ok",
+    "solution_line": 85,
+    "stem": "A new college graduate with a degree in computer science was recently hired by an organization. The new employee has been assigned to work on a short-term application development project. The employee is excited but nervous about the new assignment. What should the project manager do to better ensure success?",
+    "options": [
+      "A.Request that the sponsor replace the new employee with someone more familiar with the organization to ensure project success.",
+      "B.Fast-track the new employee’s new-hire training so that they better understand the organization.",
+      "C.Assign the new employee to less important tasks on the project.",
+      "D.Pair the new employee with a more experienced project team member so that they can work together."
+    ],
+    "answer_letters": [
+      "D"
+    ],
+    "explanation": "Pair the new employee with a more experienced project team member so that they can work together\" (Correct option) In short term projects, pairing is beneficial option to help keep on up the learning curve of the team members.\n\n\"Request that the sponsor replace the new employee with someone more familiar with the organization to ensure project success\", is not correct as new employees should be accepted into the organization and provided with guidance\n\n\"Fast-track the new employee’s new-hire training so that they better understand the organization\", is not correct because because training does not provide experience.\n\n\"Assign the new employee to less important tasks on the project\", is not correct because the project manager should not deny a new employee the opportunity to progress and learn."
+  },
+  {
+    "status": "ok",
+    "solution_line": 109,
+    "stem": "A project manager is overseeing a project with an extremely tight schedule. During a meeting, the project stakeholders express concerns about the project's ability to meet critical business demands. What should the project manager do in response to these concerns?",
+    "options": [
+      "A.Work with the sponsor to revise the project scope to address stakeholder concerns.",
+      "B.Meet with the project team and stakeholders to identify the minimum viable product (MVP).",
+      "C.Assure the stakeholders that the project is on schedule and will meet all business demands.",
+      "D.Update the schedule and the communication plans to ensure the stakeholders are updated."
+    ],
+    "answer_letters": [
+      "B"
+    ],
+    "explanation": "The project manager must address the stakeholders' concerns about the project's ability to meet critical business demands. Defining the minimum viable product would give the stakeholders an overview of the business value it will deliver within the timeline. By focusing on delivering the MVP first, the project team can increase the chances of meeting critical business requirements, even with a tight schedule. Meeting with the project team and stakeholders promotes collaboration, aligns priorities, and ensures that the project remains on track to meet key business objectives.\n\nThe other options are incorrect because they do not appropriately address the stakeholders' concerns.\n\nWorking with the sponsor to revise the project scope without understanding the minimum viable product would not resolve the issue. Before taking action, the project manager must understand the full scope of the stakeholders' concerns and the potential impact of any changes to the scope. It is also important to get input from the project team to ensure that any changes to the scope are feasible.\n\nAssuring the stakeholders that the project is on schedule and will meet all business demands does not address their concerns and may lead to mistrust. It's important to provide reassurance based on actions and strategies.\n\nUpdating the schedule and communication plans does not directly address the stakeholders' concerns. Updating the schedule and communication plan may or may not be necessary, and can only be determined once the MVP is identified."
+  },
+  {
+    "status": "ok",
+    "solution_line": 135,
+    "stem": "What is the best course of action to take as project manager?",
+    "options": [
+      "A.Change the earned value management tracking technique.",
+      "B.Change the contract according to new changes.",
+      "C.Negotiate scope changes with stakeholders and keep it minimized as possible.",
+      "D.Close this project and request a new project from the project sponsor."
+    ],
+    "answer_letters": [
+      "D"
+    ],
+    "explanation": "\"Close this project...(Correct option)\"Since there have been issues in the past and major scope changes are anticipated, its better to close this project and charter a new project.\n\n\"Change the earned value management...\" Changing the performance measurement technique will not affect the project performance and there is no issue with the adopted performance measurement technique i.e.; Earned Value Management.\n\n\"Change the contract...\" Change the contract is incorrect as the changes are yet to be evaluated and finalized.\n\n\"Negotiate scope changes...\" with stakeholders is incorrect as it will not rectify the issues that have occurred in the past and may lead to stakeholders disengagement."
+  },
+  {
+    "status": "ok",
+    "solution_line": 157,
+    "stem": "During the execution phase of a project, a change in the baseline requirements needs to be done. As the project manager, which of the following is necessary to be performed?",
+    "options": [
+      "A.Invoke the project's change management procedure.",
+      "B.Re-estimate the impacts on cost and schedule.",
+      "C.Validate among stakeholders.",
+      "D.Root cause analysis."
+    ],
+    "answer_letters": [
+      "A"
+    ],
+    "explanation": "\"Invoke the...\" (Correct option). Any changes to baseline requirements must be done using the change management procedure.\n\n\"Re-estimating...\" this option is not the first option that is followed.\n\n\"Validation...\" this option forms part of the change management procedure.\n\n\"Root...\" This is not a problem therefore there is no need for RCA."
+  },
+  {
+    "status": "ok",
+    "solution_line": 177,
+    "stem": "A project manager is working on a new project that is expected to take 12 months to complete. Due to the condensed timeline, the team must ensure that the small group of stakeholders is actively engaged throughout the project. What should the project manager emphasize as the most important activities in effective stakeholder engagement? (Choose 2)",
+    "options": [
+      "A.Building the stakeholder map and maintaining it as the project progresses.",
+      "B.Prioritizing stakeholders and revisiting assumptions annually.",
+      "C.Creating more hierarchical structures among stakeholders.",
+      "D.Engaging key stakeholders and building their commitment to the project."
+    ],
+    "answer_letters": [
+      "A"
+    ],
+    "explanation": "Building a stakeholder map is important because it helps the project manager to identify all of the stakeholders, understand their interests and needs, and determine how they can be engaged throughout the project.\n\nEngaging key stakeholders is important because they can have a significant impact on the success or failure of the project. By engaging them early and often, the project manager can build their support and ensure that they are committed to the project's success.\n\nThe other options are incorrect because they are not as important in this case.\n\nPrioritizing stakeholders and revisiting assumptions annually is a good practice, but it is not as critical for a small group of stakeholders with a condensed timeline. Further, the project is only intended to take 12 months to complete, so revisiting assumptions annually is not necessary.\n\nCreating more hierarchical structures among stakeholders can be helpful in some cases, but it is not necessary in this case."
+  },
+  {
+    "status": "ok",
+    "solution_line": 201,
+    "stem": "PMBOK Guide Seventh Edition (2022) /// [2.1.1 STAKEHOLDER ENGAGEMENT] Which two decision-making styles are quickest and would be used when there is little time to make a decision? (check two choices)",
+    "options": [
+      "A.Command Style",
+      "B.Consultative Style",
+      "C.Consensus Style",
+      "D.Majority Vote Style"
+    ],
+    "answer_letters": [
+      "A"
+    ],
+    "explanation": "The correct choices are command style and majority vote style. In command style, the leader unilaterally makes a decision. In majority vote style, the group decides with a vote.\n\nConsultative style and consensus style are more time consuming and thus are not the correct choices. In consultative style, the leader makes the decision, but with advice from the group. In consensus style, the leader guides the group to a decision."
+  },
+  {
+    "status": "ok",
+    "solution_line": 219,
+    "stem": "A project manager is leading Project A, which is a project to update a customer’s database. The project manager is monitoring international business news and reads of pending legislation that would require companies to maintain a strict level of protection regarding customer personal data. This new level of protection is stricter than what Project A currently achieves. What should the project manager do in this scenario?",
+    "options": [
+      "A.Meet with the customer to immediately update the level of customer data protection in the project contract.",
+      "B.Bring this information to your organization’s legal department requesting that they renegotiate the customer’s contract.",
+      "C.Note this information in the project risk register and work with the customer and the sponsor to develop a mitigation plan.",
+      "D.Work with the organization’s legal department to update the contract to include protections against the pending legislation."
+    ],
+    "answer_letters": [
+      "C"
+    ],
+    "explanation": "The risk register should be regularly reviewed and as such, including the risk in the risk register with a mitigation plan will ensure that this risk is regularly monitored and mitigated. There is no need to update the contract immediately since the legal requirements are not yet certain. Parking this risk till the next contract negotiation or waiting until the legal requirements are certain might be too late to act. The risk can potentially turn out to be a non issue."
+  },
+  {
+    "status": "ok",
+    "solution_line": 237,
+    "stem": "During nondestructive testing at a construction site, it was discovered that certain components are failing workability tests. The project team has identified the root cause of these failures and proposed a solution. However, the project deadline is tight and the solution would require an increase in the budget. What should the project manager do?",
+    "options": [
+      "A.Invite suppliers to submit bids for a lower-cost solution.",
+      "B.Submit a change request to the change control board (CCB).",
+      "C.Request additional funding from the project sponsor.",
+      "D.Update the risk management plan to include the solution."
+    ],
+    "answer_letters": [
+      "B"
+    ],
+    "explanation": "A CCB is a formally chartered group responsible for reviewing, evaluating, approving, deferring, or rejecting changes to the project and for recording and communicating such decisions. Submitting a change request to the CCB allows for a structured evaluation of the proposed solution, its cost implications, and its impact on the project's objectives. This will ensure that the change is properly evaluated and approved before it is implemented.\n\nThe other options are incorrect because they do not ensure that the change is properly evaluated and approved before it is implemented.\n\nInviting suppliers to submit bids for lower-cost solutions does not address the immediate need to resolve the failing workability tests and can introduce delays and uncertainty into the project. The team has identified the root cause of the failures, and exploring lower-cost options might not address the specific issue identified.\n\nRequesting additional funding from the sponsor without going through the formal change control process can lead to uncontrolled scope and budget changes. The project sponsor may be involved in approving the change, but it's essential to involve the CCB, requesting additional funds should typically follow the submission of a change request to the CCB.\n\nIn this scenario, the primary issue is not related to risk management but to a change in project scope and budget due to failing workability tests and a proposed solution. Updating the risk management plan is a good practice, but it does not address the need to get approval for the change."
+  },
+  {
+    "status": "ok",
+    "solution_line": 261,
+    "stem": "PMBOK Guide Seventh Edition (2022) /// [2.6.2 DELIVERABLES] Midway through a project, a project manager learns that the project management planning application is failing to record updates to the project. What should the project manager do in this situation?",
+    "options": [
+      "A.Task a project team member to manually update the project plan from now on.",
+      "B.Inform the project management office (PMO) and have them resolve this issue.",
+      "C.Update the project plan to allow the project team to focus on the project deliverables.",
+      "D.Record this issue in the issue register and work with the sponsor to implement a new project management application."
+    ],
+    "answer_letters": [
+      "C"
+    ],
+    "explanation": "The project manager should look at resolving any impediments, such as updating the project plan manually, and protecting the team in needing to be engaged in project deliverables. Assigning a team member to update the project plan will take them away from their other project tasks. Implementing a new project management application is a whole separate project. The project manager may inform the PMO and ask for the issue to be resolved but the main priority is to get the plan updated and keep the project team focused."
+  },
+  {
+    "status": "ok",
+    "solution_line": 279,
+    "stem": "A project is experiencing delays because cultural differences are causing misunderstandings among some stakeholders. What should the project manager do to handle this situation?",
+    "options": [
+      "A.Review the stakeholder register to identify potential replacements for the stakeholders having difficulties.",
+      "B.Review the stakeholder engagement plan to determine the strategies to improve stakeholder communication.",
+      "C.Submit a change request to the change control board (CCB) to replace the stakeholders.",
+      "D.Monitor the communication between the stakeholders to identify any misunderstandings."
+    ],
+    "answer_letters": [
+      "B"
+    ],
+    "explanation": "The project manager should review the stakeholder engagement plan to determine the strategies to improve stakeholder communication because the root cause of the delays is the cultural differences that are causing misunderstandings. By improving communication, the project manager can mitigate the impact of cultural differences on the project.\n\nThe other answer choices are not as effective. Replacing stakeholders can be time-consuming and disruptive to the project, and it is not always necessary. Submitting a change request to the change control board (CCB) to replace the stakeholders is likely to be rejected by the CCB, as it is not a necessary change. Monitoring the communication between the stakeholders to identify any misunderstandings is important, but it is not enough to solve the problem as it is reactive. The project manager needs to be proactive and take steps to improve communication and address the root cause of the misunderstandings. By taking a proactive approach, the project manager can demonstrate their leadership and communication skills."
+  },
+  {
+    "status": "ok",
+    "solution_line": 298,
+    "stem": "A project approval committee is concerned about a project plan that will take three years to complete. The committee is concerned that the deliverable may not meet industry needs and may be less valuable than anticipated. What can the project manager do to demonstrate the value of the deliverable to stakeholders?",
+    "options": [
+      "A.Add an additional sprint to the timeline for potential modifications.",
+      "B.Have the project team build a prototype to share with stakeholders.",
+      "C.Record the committee's expressed concerns in the issue log.",
+      "D.Add the committee to the communication management plan."
+    ],
+    "answer_letters": [
+      "B"
+    ],
+    "explanation": "Building a prototype is one of the best ways to demonstrate the value of a deliverable to stakeholders. Prototypes provide a tangible representation of the final product, allowing stakeholders to visualize how it will work and look, which helps them understand its functionality and usability. By sharing the prototype with stakeholders, the project team can gather early feedback and make necessary adjustments to align the deliverable with industry needs and expectations. It also helps mitigate risks related to delivering a final product that may not meet stakeholders' requirements.\n\nThe other options are incorrect because they do not directly address the committee's concerns.\n\nAdding an additional sprint may allow the project team to make modifications to the deliverable, but it does not guarantee that the deliverable will meet industry needs or be valuable to stakeholders. Extending the timeline can increase project duration and costs, which might not be acceptable to stakeholders or necessary to address the value concern.\n\nRecording the committee's concerns in the issue log captures the concerns but doesn't actively address them or provide a tangible demonstration of value.\n\nAdding the committee to the communication management plan will ensure that they are kept informed of the project's progress, but it doesn't inherently address the committee's specific concerns about the deliverable's value."
+  },
+  {
+    "status": "ok",
+    "solution_line": 322,
+    "stem": "A project manager is on a hybrid project. The project manager meets with the sponsor to get the project milestones. The sponsor requests for more specific information in the project charter. How should the project manager respond to this request?",
+    "options": [
+      "A.Provide the sponsor with a project charter from a similar project as a reference.",
+      "B.Meet with the project stakeholders to get the project schedule approved first.",
+      "C.Inform the sponsor that before detailed team planning can occur, the project charter needs approval first.",
+      "D.Invite the sponsor to the team retrospective meeting so the sponsor can get the information requested."
+    ],
+    "answer_letters": [
+      "C"
+    ],
+    "explanation": "The project scope and objectives in the Project Charter document needs to be approved by the Sponsor before the team starts detailed planning. Milestones should be known before the schedule can be developed and approved. Providing a similar project charter as a reference may not be useful is the sponsor does not understand that it needs to be approved prior to detailed planning. Retrospective meetings check on the quality processes effectiveness, they would not be occurring prior to the Charter being approved."
+  }
+]

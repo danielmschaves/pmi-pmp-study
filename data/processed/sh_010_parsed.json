@@ -1,0 +1,212 @@
+[
+  {
+    "status": "ok",
+    "solution_line": 7,
+    "stem": "After all deliverables have been completed, a project manager needs to formally close a project. What should the project manager do?",
+    "options": [
+      "A.Update the project documents with quality control measurements to prove deliverables have been met.",
+      "B.Obtain stakeholder acceptance and initiate project closeout.",
+      "C.Release the project team and estimate any unused funds.",
+      "D.Incorporate the issue log into the lessons learned register to produce the final report."
+    ],
+    "answer_letters": [
+      "B"
+    ],
+    "explanation": "The PM should obtain the acceptance of the Stakeholders who had initiated the project.\n\nThe remaining answers are activities to be completed as part of the Project Closeout and are, therefore, not the correct answer."
+  },
+  {
+    "status": "ok",
+    "solution_line": 29,
+    "stem": "A project manager is leading a complex system improvement project. During the integration phase, an upgrade to one component causes an outage on an existing critical component that is currently in use by all departments to access inventory data. What should the project manager do first?",
+    "options": [
+      "A.Consult the operations plan to determine the best way to resolve the issue.",
+      "B.Follow the communications management plan to notify the stakeholders of the issue.",
+      "C.Update the issue log with details about a final solution for the issue.",
+      "D.Review the strategy documented in the risk management plan to manage the issue."
+    ],
+    "answer_letters": [
+      "D"
+    ],
+    "explanation": "The best thing for the project manager to do first is to review the strategy documented in the risk management plan to manage the issue. This is because the risk management plan should contain a list of potential risks, as well as strategies for mitigating those risks. The outage of the critical component is a risk that should have been identified in the risk management plan, and there should be a strategy in place for managing this risk.\n\nThe other answer choices are not as effective. Consulting the operations plan to determine the best way to resolve the issue is important but the project manager should first review the risk management plan to understand the root cause of the issue and to determine the best way to mitigate the risk. Following the communications management plan to notify the stakeholders of the issue is important, but this should not be the first thing that the project manager does. The project manager should first review the risk management plan to determine the best way to mitigate the risk and to develop a plan to resolve the issue. Updating the issue log with details about a final solution for the issue. The issue log should be updated with information about the issue, but the final solution should not be documented until the project manager has had a chance to review the risk management plan and to develop a plan to resolve the issue."
+  },
+  {
+    "status": "ok",
+    "solution_line": 49,
+    "stem": "During project execution, key stakeholders request a change to ensure that the final product will satisfy their requirements. Why should the project manager submit a change request?",
+    "options": [
+      "A.To record the requirements needed for the stakeholders' sign-off in order to update the issues log.",
+      "B.To ensure that the request is formally documented and incorporated according to the integrated change control process.",
+      "C.To provide justification for any impact the change might have on the project's budget or schedule.",
+      "D.To ensure stakeholder responsibility regarding potential impact of the change on project budget and schedule."
+    ],
+    "answer_letters": [
+      "B"
+    ],
+    "explanation": "A change request formally documents a proposed modification to the project plan, and is the first step of implementing a change.\n\nThe project manager's responsibilities include verifying that changes are registered, assessed, approved, tracked, and communicated to stakeholders.\n\nThe other choices do not describe the purposes of a change request."
+  },
+  {
+    "status": "ok",
+    "solution_line": 73,
+    "stem": "A new project manager joins a project overseen by a senior project manager. The sponsor asks the new project manager to develop the quality management plan. Why should the project manager initially consult with the senior project manager?",
+    "options": [
+      "A.To learn the established quality processes and plans and how appropriate standards were selected.",
+      "B.To determine what product requirements have already been collected and to gather more as needed.",
+      "C.To develop cost-benefit analyses and benchmarking samples to be used for risk management.",
+      "D.To draft a change request for revision to the quality metrics and quality checklists."
+    ],
+    "answer_letters": [
+      "A"
+    ],
+    "explanation": "The new project manager should consult with the senior project manager to find out what practices and processes are already in place.\n\nProduct requirements are not captured in the quality management plan.\n\nDeveloping cost-benefit analysis and benchmarking samples are not something the new project manager should start doing when the new project manager joins the project.\n\nThe new project manager needs to understand what quality metrics and quality checklists are in place before making any changes to them."
+  },
+  {
+    "status": "ok",
+    "solution_line": 97,
+    "stem": "A customer wants to add new features to the project deliverable. Before the project manager can begin work on these new features, what should the project manager do first?",
+    "options": [
+      "A.Document the list of additional features in an email to the customer as a notification that the team will start working on the new features.",
+      "B.Draft the change request in the appropriate format to seek approval from the change control board (CCB) and start working on the new features only after approval is given.",
+      "C.Notify the project sponsor that the customer wants to add new features and wait for their approval to work on these new features.",
+      "D.Consult a subject matter expert (SME) and start working on the new features after there are no further concerns raised."
+    ],
+    "answer_letters": [
+      "B"
+    ],
+    "explanation": "The change control board is a formally chartered group responsible for reviewing, evaluating, approving, deferring, or rejecting changes to the project and for recording and communicating such decisions. The options to email the customer, notify the project sponsor and consult an SME are not sufficient to change control actions to be completed before spending resources on the new feature."
+  },
+  {
+    "status": "ok",
+    "solution_line": 119,
+    "stem": "A project manager and the project team identified risks, performed a qualitative risk analysis, and prepared a risk response plan. However, delays in the response to risk events are affecting the project schedule. How would assigning risk owners to the risk responses help avoid these delays?",
+    "options": [
+      "A.Risk owners work with the project sponsor to ensure the risk response plan will be effective.",
+      "B.Risk owners identify likely constraints and assumptions before the risk events occur.",
+      "C.Risk owners are responsible for implementing the appropriate risk response strategy.",
+      "D.The risk report assigns management of delays in the project schedule to the appropriate risk owner."
+    ],
+    "answer_letters": [
+      "C"
+    ],
+    "explanation": "The correct answer is risk owners are responsible for implementing the appropriate risk response strategy.\nRisk owners for each risk are nominated as part of the Identify Risks process and confirmed while performing qualitative risk analysis. A risk owner is a person responsible for monitoring the risk and for selecting and implementing an appropriate risk response strategy. If a risk owner is not assigned to a risk, then the risk response will not be implemented in a timely manner and delays to the schedule could occur.\nThe other options are incorrect because they do not address the issue in this case, which is that delays in the response to risk events are affecting the project schedule. Working to ensure the response plan will be effective, and/or identifying constraints and assumptions, does not address the fact that delays in implementing risk responses are affecting the project schedule. The risk report is a project document developed progressively throughout the risk management processes and summarizes information on individual project risks and the level of overall project risk. A risk report does not assign management of delays in the project schedule to the appropriate risk owner."
+  },
+  {
+    "status": "ok",
+    "solution_line": 136,
+    "stem": "A project manager is managing an agile project where the team is regularly missing user story due dates. What should the project manager do to resolve this situation?",
+    "options": [
+      "A.Work with the sponsor to move out the deliverable hand over date.",
+      "B.Review the time allotted to iterations and sprints, adjusting them as needed.",
+      "C.Meet with the project team to identify if further agile methodologies training is necessary.",
+      "D.Implement a reward program for the project team to encourage completing stories on the due dates."
+    ],
+    "answer_letters": [
+      "C"
+    ],
+    "explanation": "It is important for the project manager to meet with the team and analyze the issue before proceeding. This will help identify gaps in training to ensure user story due dates are met.\n\nThen, the project manager and team members can review the time allotted to iterations and sprints, adjusting them as needed. Working with the sponsor to push delivery dates will be unnecessary when the issue is resolved and a reward system may not work for a team with differing preferences."
+  },
+  {
+    "status": "ok",
+    "solution_line": 156,
+    "stem": "A new project is initiated to develop several new financial products and services for a company with offices in several countries. The project manager has researched the regulations for each of the countries. Based on the research, the project manager is concerned that some new products and services do not offer enough protection for the consumer. What should the project manager do first?",
+    "options": [
+      "A.Identify all of the project risks.",
+      "B.Quantify the project risks in the risk register.",
+      "C.Develop a risk response strategy.",
+      "D.Perform scheduled risk audits."
+    ],
+    "answer_letters": [
+      "A"
+    ],
+    "explanation": "The correct answer is to identify all of the project risks.\nThe first step is to identify the risks, which is the process of determining and documenting the risks that might affect the intended outcomes. Regulations are requirements imposed by a governmental body. These requirements can establish product, process, or service characteristics, including applicable administrative provisions that have government-mandated compliance. The project manager has to account for the regulations of each country and identify the risks associated with those regulations.\nOnce the risks are identified, they can be quantified and a response strategy can be developed and a schedule for a risk audit can be developed. A risk audit would not be helpful if all of the risks have not been identified. Periodic audits should be performed to determine strengths and weaknesses in handling risks within the project."
+  },
+  {
+    "status": "ok",
+    "solution_line": 181,
+    "stem": "Path A: Tasks 1-2-3-4 (all with a duration of 5 days each) Path B: Tasks 5-6-7 (durations of 3, 7, and 2 days respectively) There are no external dependencies between these paths. What is the critical path for this project?",
+    "options": [
+      "A.1-2-3-4",
+      "B.5-6-7",
+      "C.1-2-3-4-5-6-7",
+      "D.1-2-6-7"
+    ],
+    "answer_letters": [
+      "A"
+    ],
+    "explanation": "The critical path refers to the longest sequence of dependent tasks that must be completed on time for the entire project to finish on schedule. Since there are no external dependencies between Path A and Path B, analyze their individual durations. Path A: Tasks 1-2-3-4 (all with a duration of 5 days each) has a total duration of 20 days (5 days/task * 4 tasks = 20). Path B: Tasks 5-6-7 (durations of 3, 7, and 2 days respectively) has a total duration of 12 days (3 days + 7 days + 2 days = 12). Because Path A has a longer total duration (20 days) compared to Path B (12 days), it represents the critical path for this project.\n\nThe other answer choices are incorrect. The combination of both paths is not necessary since the paths are independent, thus there's no dependency between tasks 1-2-3-4 and 5-6-7, nor tasks 1-2 and 6-7."
+  },
+  {
+    "status": "ok",
+    "solution_line": 199,
+    "stem": "During a status review meeting, it was determined that the product will not meet project scope requirements in a particular scenario. What should the project manager do?",
+    "options": [
+      "A.Perform risk analysis and update project scope.",
+      "B.Initiate integrated change control process.",
+      "C.Review the baselines to determine the critical path.",
+      "D.Inform customer and negotiate an extended deadline."
+    ],
+    "answer_letters": [
+      "B"
+    ],
+    "explanation": "The product not meeting project scope is a \"Risk\" that needs to be managed. This is managed through Integrated Change Control Process. Project scope may change to include this particular scenario after the CCP is initiated.\n\nThere is no baseline review nor renegotiation with the customer until after the CCP is initiated."
+  },
+  {
+    "status": "ok",
+    "solution_line": 223,
+    "stem": "A project manager was recently hired in a new organization and has been assigned to their first project. A colleague of the project manager warns about too much stakeholder involvement and adding extra complexity to the project. Which behavior will neither add complexity nor uncertainty to the project during project scope process?",
+    "options": [
+      "A.Influential stakeholders understanding and agreement",
+      "B.Stakeholder setting achievable goals",
+      "C.Disagreement between stakeholders",
+      "D.Optimistic biases on project scope"
+    ],
+    "answer_letters": [
+      "A"
+    ],
+    "explanation": "Stakeholder setting achievable goals is desirable but the key here is in the understanding and agreement among the influential stakeholders.\n\nDisagreement between stakeholders will increase complexity.\n\nOptimistic biases will increase uncertainty."
+  },
+  {
+    "status": "ok",
+    "solution_line": 245,
+    "stem": "A project manager is assigned to a project that has completed the planning phase. The project sponsor is confident that the project management plan has allowed for sufficient budget and scheduled time. The project manager believes that unforeseen events could affect the ability to complete the project successfully. What should the project manager do?",
+    "options": [
+      "A.Identify and evaluate potential risks and develop a risk action plan.",
+      "B.Meet with the project sponsor to request additional funding to mitigate potential risks.",
+      "C.Discuss the risk potential with the functional manager and identify resources that could ensure project success.",
+      "D.Document potential constraints and limitations in the risk management plan."
+    ],
+    "answer_letters": [
+      "A"
+    ],
+    "explanation": "The correct response is to identify and evaluate risks, and develop an action plan. The project manager needs to be proactive and anticipate uncertain events and create plans to avoid, mitigate, transfer, or accept them.\n\nRequesting additional funding is premature until the risks are understood, as are other resource discussions with the functional manager.\n\nThe risk management plan describes the process by which the project approaches risk, and nothing in the question indicates that it is inadequate; documenting constraints and limitations also is premature."
+  },
+  {
+    "status": "ok",
+    "solution_line": 267,
+    "stem": "While reviewing the approved project schedule, the project manager realizes that the milestones are unrealistic due to longer-than-expected procurement lead times for certain key project components. The project manager needs to update the schedule baseline to reflect the long lead times. What should the project manager do first?",
+    "options": [
+      "A.Modify the work breakdown structure (WBS).",
+      "B.Update the assumption log.",
+      "C.Modify the procurement management plan.",
+      "D.Submit a change request."
+    ],
+    "answer_letters": [
+      "D"
+    ],
+    "explanation": "Change request is the correct answer as every baseline change should go through an integrated change control process.\n\nProcurement lead times are the issue here. Therefore, there is no need to modify the WBS nor to update the assumption log. It is the lead times that were defined but not accounted in schedule baseline. There is no need to change the procurement management plan."
+  },
+  {
+    "status": "ok",
+    "solution_line": 306,
+    "stem": "How should the project manager proceed to ensure the project will be completed on schedule?",
+    "options": [
+      "A.Schedule weekly co-located sessions with the project team and key stakeholders.",
+      "B.Email weekly status updates to the project team.",
+      "C.Meet individually with the stakeholders once a week to provide status updates.",
+      "D.Conduct daily teleconference sessions with the sponsor."
+    ],
+    "answer_letters": [
+      "A"
+    ],
+    "explanation": "In this situation, where communication is critical and the project involves both agile and waterfall methodologies, scheduling weekly co-located sessions with the project team and key stakeholders is the most effective approach. This allows for face-to-face interaction, promotes collaboration, and enables timely discussions and decision-making.\n\nThe other answer choices are incorrect. Emailing weekly status updates to the project team may not be sufficient for effective communication and collaboration, especially when dealing with a project that involves different methodologies and complex integration requirements. Meeting individually with stakeholders once a week may not facilitate cross-team communication and may lead to siloed information. It may also consume significant time and hinder overall coordination efforts. Conducting daily teleconference sessions with the sponsor can be excessive and impractical, as daily meetings may not be necessary for the entire project team. Weekly sessions are usually sufficient for stakeholders to stay informed and engaged."
+  }
+]

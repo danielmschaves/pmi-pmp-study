@@ -1,0 +1,37 @@
+[
+  {
+    "status": "multi_answer",
+    "solution_line": 106,
+    "stem": "In a scaled agile framework, which responsibilities of a release train engineer can be performed by a project manager? (Choose 3).",
+    "options": [
+      "A.Managing risks",
+      "B.Coaching on global technical excellence",
+      "C.Escalating impediments",
+      "D.Coaching on global continual improvement",
+      "E.Coaching on team continual improvement"
+    ],
+    "answer_letters": [
+      "A",
+      "C"
+    ],
+    "explanation": "The Release Train Engineer is a Program Level role who facilitates program level processes and execution, drives continuous development, manages risks and escalates impediments\n\nThe following can be done by Project Manager as well:\n\nManaging Risk\nEscalating impediments\nCoaching on global continual improvement.\nThe other responsibilities are only to be done by release train engineer."
+  },
+  {
+    "status": "multi_answer",
+    "solution_line": 220,
+    "stem": "Which three factors should the project manager prioritize to ensure a successful transition to agile practices?",
+    "options": [
+      "A.Identifying key stakeholders and involving them in the agile transformation process.",
+      "B.Providing extensive training and coaching to team members on agile principles and practices.",
+      "C.Promoting a culture of collaboration, transparency, and continuous improvement among team members.",
+      "D.Ignoring customer feedback at the beginning of the project and focusing solely on internal team dynamics.",
+      "E.Establishing a rigid and inflexible project plan to ensure strict adherence to timelines."
+    ],
+    "answer_letters": [
+      "A",
+      "B",
+      "C"
+    ],
+    "explanation": "Identifying key stakeholders and involving them in the agile transformation process.\nProviding extensive training and coaching to team members on agile principles and practices.\nPromoting a culture of collaboration, transparency, and continuous improvement among team members.\nInvolving key stakeholders is crucial because they have a significant influence on the project's success and expect a seamless transition. By involving key stakeholders early on, the project manager can help to build consensus and support for the agile transformation.\n\nProviding training and coaching equips team members with the knowledge and skills necessary to embrace and implement agile techniques effectively.\n\nPromoting a culture of collaboration, transparency, and continuous improvement encourages open communication, knowledge sharing, and adaptability, all of which are essential for successful agile implementation.\n\nThe other options are incorrect because they do not align with agile principles.\n\nIgnoring customer feedback is a detrimental approach in agile projects. Customer feedback is essential for agile teams. Focusing solely on internal team dynamics while neglecting customer input contradicts agile principles.\n\nEstablishing a rigid and inflexible project plan stifles innovation and makes it difficult for the team to adapt to change, which is counterproductive in an agile context. Agile projects use adaptive planning and value customer collaboration over following a rigid plan."
+  }
+]

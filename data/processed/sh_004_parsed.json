@@ -1,0 +1,227 @@
+[
+  {
+    "status": "ok",
+    "solution_line": 7,
+    "stem": "At the end of an iteration, a team member tells the project manager that a planned task is unfinished because of an issue that appeared days ago but could not be resolved. Why should the project manager discuss the issue during the retrospective to prevent this type of situation in the future?",
+    "options": [
+      "A.It is a timely opportunity to discuss issues and ideas for improvement to encourage team-based problem solving.",
+      "B.It allows the project manager to address the issue during a demo, which leads to high levels of buy-in from the team members.",
+      "C.The team member will have the opportunity to resolve the issue before the retrospective.",
+      "D.The project manager can emphasize how to maximize the time available to resolve the issue."
+    ],
+    "answer_letters": [
+      "A"
+    ],
+    "explanation": "The retrospective allows issues with the execution approach to be identified and discussed in a timely fashion along with ideas for improvements. Retrospectives are a primary tool to manage project knowledge and develop the team through discussions of what is working well and team-based problem solving.\n\nA retrospective does not require presenting a demo, so that choice is not correct. In addition, nothing in the question suggests that a demo would be helpful in preventing recurrence of the issue.\n\nThe other choices speak to resolution of the issue at hand, but do not answer the question, which asks how a retrospective might help in preventing future occurrences."
+  },
+  {
+    "status": "ok",
+    "solution_line": 29,
+    "stem": "A project manager has been assigned to a big project. The project sponsor would like the project manager to perform a stakeholder analysis. Which points should the project manager consider while performing this analysis?",
+    "options": [
+      "A.Interests, rights, ownership, knowledge, and contribution.",
+      "B.Interests, requirements, rights, knowledge, and impact.",
+      "C.Power, impact, influence, requirements, and expectations.",
+      "D.Project role, impact, rights, knowledge, and interests."
+    ],
+    "answer_letters": [
+      "C"
+    ],
+    "explanation": "While performing stakeholder analysis, the project manager should consider the power dynamics, the impact stakeholders may have on the project, their level of influence, and their requirements and expectations. This information helps the project manager understand the stakeholders' perspectives, engage with them effectively, and manage their involvement in the project.\n\nThe other answer choices are incorrect because they either miss or incorrectly state some key aspects of stakeholder analysis."
+  },
+  {
+    "status": "ok",
+    "solution_line": 51,
+    "stem": "After monitoring a product’s development after the first three releases, the product owner wants to launch a product even though it lacks some features identified in the minimum viable product (MVP). A stakeholder is not satisfied with this version and feels it needs to meet the previously agreed-upon MVP definition. How should the project manager proceed?",
+    "options": [
+      "A.Review the positives and negatives of releasing the product in its current format and bring this analysis to the project sponsor to decide.",
+      "B.Work with the stakeholder and the product owner to try and find alignment but support the product owner as they are ultimately responsible for the product.",
+      "C.Schedule a meeting with all stakeholders and the product owner to review the project’s Pareto Chart.",
+      "D.Empower the project team to decide how to proceed as the product’s development is the project team’s responsibility."
+    ],
+    "answer_letters": [
+      "B"
+    ],
+    "explanation": "\"Work with the stakeholders...\" (Correct option) On agile projects, teams are empowered to make decisions. It is important to support the team through the process. In Agile, a product owner is responsible for refining and prioritizing the items in the back log.\n\n\"Review the positives...\" This option is not correct because the product owner must be involved to resolve the issue and assist with the decision.\n\n\"Schedule a meeting...\" A Pareto chart is a type of chart that contains both bars and a line graph, where individual values are represented in descending order by bars, and the cumulative total is represented by the line. Reviewing Pareto chart is not going to help us in this scenario\n\n\"Empower the project team...\" The project team would not prioritize the items in the back log."
+  },
+  {
+    "status": "ok",
+    "solution_line": 77,
+    "stem": "An agile project team has implemented design changes over several iterations. The data privacy officer is concerned because their team wasn't involved in these decisions. How should the project manager address these concerns?",
+    "options": [
+      "A.Ensure that a data privacy team member attends every future daily standup.",
+      "B.Request the data privacy officer assign a data privacy team member to join the project team.",
+      "C.Set up a meeting with the data privacy officer to identify and implement a process to meet requirements.",
+      "D.Meet with the project owner to reverse the changes the project team made without consulting the data privacy team."
+    ],
+    "answer_letters": [
+      "C"
+    ],
+    "explanation": "Scheduling a meeting fosters open communication and allows for the collaborative development of a process to integrate security considerations into future iterations.\n\nThe other answer choices are incorrect. While including data privacy in future standups is beneficial, it might not address past decisions or establish a long-term communication strategy. Adding a permanent team member might not be necessary. The best approach should be determined collaboratively. Reversing changes disrupts the agile process and disregards past efforts. The project manager should focus on moving forward with a clear data privacy process."
+  },
+  {
+    "status": "ok",
+    "solution_line": 99,
+    "stem": "A project manager is responsible for a new agile project that is global in nature. After a few sprints have been completed, the quality assurance team, based in a different country from the PM, has generated a long defect list. The PM is certain that these issues are not related to project quality, but are from language misinterpretation. What should the project manager do to address these issues",
+    "options": [
+      "A.Request additional budget to hire a local quality assurance team.",
+      "B.When the project is nearing completion, merge the development team with the quality assurance team to test the deliverables.",
+      "C.Meet with the quality assurance team to criticize the list they provided.",
+      "D.While performing sessions with the full project team, review the project requirements and their descriptions."
+    ],
+    "answer_letters": [
+      "D"
+    ],
+    "explanation": "The best response is to review project requirements with the entire team at a meeting, so that a common understanding can be reached, since the project manager believes that language misinterpretations are the root of the problem.\n\nCriticizing the quality team is inappropriate, as there is no indication that they are performing incompetently. Since this is a global project, hiring a local team (which presumably speaks the project manager's language) will not address the project needs to have diverse representation, and would be unfair to the existing quality team.\n\nMerging the quality and development teams near the end of the project is unwise, as it may lose opportunities to address problems sooner. In addition, in many organizations, quality must be assessed by a department independent of other functions."
+  },
+  {
+    "status": "ok",
+    "solution_line": 121,
+    "stem": "A team member is working on a critical task for a project, and approaches the project manager immediately before the start of a project meeting and informs the project manager that the task was not completed on time. What should the project manager do?",
+    "options": [
+      "A.Dismiss the team member from the meeting and ask him/her to continue working on the task.",
+      "B.Reallocate the task to another team member and emphasize the importance of finishing it on a time.",
+      "C.Send an e-mail to the whole team and ask them for support in completing this specific task.",
+      "D.During the meeting, review all open tasks with the team and jointly decide on which action to take."
+    ],
+    "answer_letters": [
+      "D"
+    ],
+    "explanation": "The best choice would be to review all open tasks during the meeting and use the team's collective wisdom in assessing options and deciding how to proceed. While the project manager might lead the discussion, the team can come up with more options than the project manager alone.\n\nThe other choices are not the best, as they focus on efforts of a single team member or completion of a single task, while excluding other perhaps more creative solutions."
+  },
+  {
+    "status": "ok",
+    "solution_line": 139,
+    "stem": "A project manager has started a new project with a 24 month timeline. Soon after the kickoff, the sponsor informs the project manager that the timeline needs to be shortened to 6 months. What should the project manager do in this scenario?",
+    "options": [
+      "A.Focus on developing a minimum viable product (MVP) by referencing the product backlog for items with the highest prioritization that can be completed in the new timeline.",
+      "B.Refer to the product backlog to identify the items that can be completed in the shortest amount of time and add them to the project to complete in the new timeline.",
+      "C.Work with the sponsor to increase the budget to hire vendors to develop the deliverables in the compressed timeline.",
+      "D.Implement fast tracking and record this timeline change in the risk register."
+    ],
+    "answer_letters": [
+      "A"
+    ],
+    "explanation": "The best approach to meet such an aggressive timeline is to re-evaluate the scope based on stakeholder value, and focus on the highest priority features that can be delivered within the allotted time, i.e., the concept of Minimum Viable Product (MVP).\n\nSimply identifying the items in the product backlog that take the least time to complete is incorrect, as it does not consider stakeholder value, and could result in a product with lots of low-value features.\n\nThe choices for increasing the budget to hire more resources (crashing) and fast tracking (parallel pathing tasks normally done in series) are incorrect. Although they represent common ways to compress a timeline and retain the full scope, it is questionable whether a project schedule could be shortened by 75% with these techniques. It is more realistic to concentrate on a reduced scope (MVP) that delivers the highest priority features."
+  },
+  {
+    "status": "ok",
+    "solution_line": 167,
+    "stem": "The stakeholders and project team working on an agile project meet with the project manager at the end of an iteration. The project manager learns that the schedule is slipping, although all work was planned to meet the high-level objectives outlined in the project scope. What should the project manager have done to keep the project on track?",
+    "options": [
+      "A.Worked with the team to understand their expectations of using the agile approach.",
+      "B.Empowered team members to self-organize specific tasks to meet the objectives.",
+      "C.Prioritized work that could have had an early finish to allow for early benefits realization.",
+      "D.Selected and sequenced the work in order to meet the high-level objectives."
+    ],
+    "answer_letters": [
+      "B"
+    ],
+    "explanation": "For agile projects, rather than a project manager prioritizing, selecting, and sequencing work, they should ensure that higher-level objectives are explained and the team members are empowered to self-organize specific tasks as a group to best meet those objectives. This leads to the creation of practical plans with high levels of buy-in from the team members.\n\nThe other answer choices are incorrect. The project manager does not prioritize work or select and sequence the work. The agile team prioritizes work after the product manager has decided on a Minimum Viable Product (MVP). Working with the team to understand expectations does not address prioritizing work."
+  },
+  {
+    "status": "ok",
+    "solution_line": 187,
+    "stem": "A project management organization needs to assess the performance of two project teams that completed projects with identical scopes. Team 1, working virtually, completed 100 story points, while Team 2, working in the office, completed 80 story points. Which team demonstrated better performance?",
+    "options": [
+      "A.Team 1 because they work virtually.",
+      "B.Team 2 because they work in the office.",
+      "C.Team 1 with 100 story points performed better than Team 2 with 80 story points.",
+      "D.Team 2 with 80 story points performed better than Team 1 with 100 story points."
+    ],
+    "answer_letters": [
+      "C"
+    ],
+    "explanation": "In Agile project management, story points are a measure of effort and complexity for the work to be completed. A higher number of story points completed indicates a larger amount of work completed. Therefore, Team 1, which has completed 100 story points, has accomplished more work than Team 2, which has completed 80 story points.\n\nThe other answer choices are incorrect. The opposite scenario suggests that Team 2 performed better despite having fewer story points. This challenges the assumption that higher story points indicate better performance. Team office location does not necessarily factor in performance, however, in this case, the virtual team performed better than the in-office team."
+  },
+  {
+    "status": "ok",
+    "solution_line": 213,
+    "stem": "During the fourth iteration of an agile project, the customer requests a technical change to the development of the project deliverable. What should the project manager do in this situation?",
+    "options": [
+      "A.Update the project scope for this change and inform the sponsor",
+      "B.Inform the project team of the request, have them decide how to proceed with development, and have them coordinate the changes with the stakeholders.",
+      "C.Work with the stakeholders to decide how best to proceed and communicate the process changes to the project team.",
+      "D.Calculate the impact of the customer’s request on the schedule performance index (SPI) and communicate this to the sponsor."
+    ],
+    "answer_letters": [
+      "B"
+    ],
+    "explanation": "The best choice is for the project manager to notify the team of the request, and have them proceed with the development.\n\nThe other choices involve first approaching the sponsor or stakeholders, which is not correct. The customer requested a technical change, which is within the team's scope to decide how to address. Since this is an agile project, the team will consider the change and develop options, and involve the appropriate stakeholders."
+  },
+  {
+    "status": "ok",
+    "solution_line": 237,
+    "stem": "A key stakeholder has submitted several requests for new functions for a product under development. The project manager just completed the scope definition for the product's next version release and communicated the scope statement to all stakeholders. What should the project manager do next?",
+    "options": [
+      "A.Revise the communications management plan to define the number of new feature and function requests that can be submitted.",
+      "B.Review the acceptance criteria for the product deliverables as defined in the scope statement.",
+      "C.Meet with stakeholders to emphasize their alignment with product objectives and the goals of the project.",
+      "D.Review the scope management plan to determine how new functionality requests are to be accommodated."
+    ],
+    "answer_letters": [
+      "D"
+    ],
+    "explanation": "The scope management plan documents how the project and product scope will be deﬁned, validated, and controlled. The key benefit of this document is that it provides guidance and direction on how scope will be managed throughout the project.\n\nThe other choices are incorrect, as they have nothing to do with handling NEW changes to project scope."
+  },
+  {
+    "status": "ok",
+    "solution_line": 259,
+    "stem": "A project manager and team have worked together in a predictive project management environment for five years. The organization has decided to implement agile project management and trains the project manager on this approach. The team begins their next project using agile, but after five sprints the team still is dependent on the project manager to make decisions related to the project. How can the project manager help the team?",
+    "options": [
+      "A.Regularly provide the team members feedback on all tasks.",
+      "B.Inform the team that they can make their own decisions.",
+      "C.Appoint a different project team with agile project management experience.",
+      "D.Support the team and mentor them on how they can make their own decisions related to the project."
+    ],
+    "answer_letters": [
+      "D"
+    ],
+    "explanation": "The correct choice would be for the project manager to support and mentor the team in making its own decisions. While predictive project management relies on the project manager to direct the work, agile emphasizes self-organizing teams. Since the team in this question had been operating in a predictive environment, they need training in agile methods, which the project manager should promote.\n\nSimply informing the team that they can make their own decisions is inadequate; the team needs more support in adopting agile practices.\n\nRegularly providing team members feedback on all tasks would be reverting to predictive practices, and does not promote an agile environment.\n\nAppointing an experienced agile team instead of developing the current one is unfair to the existing team, and in doing so, the PM would be shirking their responsibility to support the team."
+  },
+  {
+    "status": "ok",
+    "solution_line": 289,
+    "stem": "13 of 15 Question The director of security compliance is upset because the compliance team has not been informed about the product design decisions taken by the agile team members over the past five iterations. What should the project manager do to start correcting the situation?",
+    "options": [
+      "A.Invite a delegate from the security compliance team to attend the daily standup meetings.",
+      "B.Ask the security compliance director to assign a delegate from the compliance team to work full time with the agile team.",
+      "C.Meet with the security compliance director to determine a strategy to fulfill the compliance requirements.",
+      "D.Ask the product owner to increase the budget to add iterations for the re-work needed for compliance."
+    ],
+    "answer_letters": [
+      "C"
+    ],
+    "explanation": "The project manager should interactively collaborate to understand and implement the key stakeholder's needs throughout the project duration, rather than assume a specific method of interaction.\n\nThe other answer choices may come after meeting with the security compliance director and reviewing the compliance requirements. This will start correcting the situation."
+  },
+  {
+    "status": "ok",
+    "solution_line": 313,
+    "stem": "14 of 15 Question A project manager is working with a new team on an agile project. The team is regularly missing milestones and are unable to meet the pace of the sprints. How should the project manager proceed?",
+    "options": [
+      "A.Contact the sponsor to see if additional budget can be made available to incent the team members financially to improve performance.",
+      "B.Reference earlier sprints completed by the team and modify future sprints to align with the team’s velocity to enable success.",
+      "C.Reach out to stakeholders to identify individuals with more experience to replace the slower project team members.",
+      "D.Train the team on how to use Kanban to improve their overall performance."
+    ],
+    "answer_letters": [
+      "B"
+    ],
+    "explanation": "\"Referencing earlier sprints...\" (Correct option) The best indicator of team capacity is the historical velocity metric and the delivery plan should take that in account prior to any solid commitment by the team.\n\n\"Contact the sponsor...\" additional compensation will not necessarily lead to increased productivity.\n\n\"Additional budget\" will not determine the velocity of the team. Agile is all about team velocity and not \"individuals with more experience\".\n\n\"Kanban\" helps to limit work-in-progress for better efficiency."
+  },
+  {
+    "status": "ok",
+    "solution_line": 337,
+    "stem": "A project team has an after-hours get-together. One of the team members who was recently hired and new to the team did not receive an invitation to the get-together. At the next few standups, the new employee is visibly upset and does not participate much during the sessions. How should the project manager address this situation?",
+    "options": [
+      "A.Schedule another after-hours get-together and invite the new team member.",
+      "B.Meet with the new team member to talk about their concerns.",
+      "C.During the next standup, ask the new team member to participate more.",
+      "D.Invite the new team member to meet after-hours to discuss the project."
+    ],
+    "answer_letters": [
+      "B"
+    ],
+    "explanation": "\"Meet with the...\" (Correct option) The individual may be affected by the situation, however, the distraction could be something entirely unrelated. While the Servant Leader should empower the team, this is a sensitive issue which is best handled at an individual level.\n\nThe other options do not address the question as there is a lack of investigation into the root cause."
+  }
+]

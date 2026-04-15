@@ -1,0 +1,227 @@
+[
+  {
+    "status": "ok",
+    "solution_line": 9,
+    "stem": "A project manager is managing an important agile project. During the kick-off meeting, the project manager sets the policies and procedures to be followed throughout the project. Midway through the project, the project manager finds that some of the project team are failing to follow the established procedures. What should the project manager do in this scenario?",
+    "options": [
+      "A.Work with the legal department to document the policies and procedures and have the project team members sign this document.",
+      "B.Work with the project sponsor to replace team members not following the established procedures.",
+      "C.Meet with the project team to review the policies and procedures again and stress their importance.",
+      "D.Develop an incentive program for those who correctly follow the ground rules."
+    ],
+    "answer_letters": [
+      "C"
+    ],
+    "explanation": "The project manager should be a servant leader and facilitate the delivery of this information (and expectations) to the team. The project manager should educate the team again on the ground rules before doing any escalation\n\nAsking team members to sign legal document or replacing individual team members will demotivate the team impacting project performance.\n\nThe team must follow all the ground rules and it should not be tied up with any incentive program."
+  },
+  {
+    "status": "ok",
+    "solution_line": 30,
+    "stem": "How should the project manager address this situation?",
+    "options": [
+      "A.Meet with the product owner to discuss both the opportunity and concern about the proposed modification.",
+      "B.Have the project team vote whether or not to include the modification.",
+      "C.Note the opportunity in the project backlog and table the discussion. Ask the project team to consider the modification and decide on how to proceed at the next scheduled meeting.",
+      "D.Meet with stakeholders and the project team to discuss how to proceed regarding the proposed modifications."
+    ],
+    "answer_letters": [
+      "A"
+    ],
+    "explanation": "Product owner is ultimately responsible for the product"
+  },
+  {
+    "status": "ok",
+    "solution_line": 46,
+    "stem": "Which is a key factor that servant leadership aims to establish in order to improve team performance?",
+    "options": [
+      "A.Trust",
+      "B.Concentration",
+      "C.Speed",
+      "D.Accuracy"
+    ],
+    "answer_letters": [
+      "A"
+    ],
+    "explanation": "Servant leaders work to develop trust to give the team greater confidence and collaborative attitudes."
+  },
+  {
+    "status": "ok",
+    "solution_line": 64,
+    "stem": "In a new agile project, the team is using Kanban Method. Kanban board acts as an information radiator to anyone who sees it, providing up-to-date information on the status of the work of the team. How is the Kanban board technology considered?",
+    "options": [
+      "A.Low-tech, high-touch",
+      "B.Tool used in PDCA",
+      "C.Used to show the work done",
+      "D.Board for story point estimates"
+    ],
+    "answer_letters": [
+      "A"
+    ],
+    "explanation": ""
+  },
+  {
+    "status": "ok",
+    "solution_line": 78,
+    "stem": "During a team meeting, team members were discussing the external dependencies of a project and asked the project manager for advice. What should the project manager ask the team to do?",
+    "options": [
+      "A.Team must list out products launched by the competitors and try to copy their style.",
+      "B.Team must list out all external dependencies and assess the impact of it on project deliveries.",
+      "C.Team must list out impact of a new competitor in the market.",
+      "D.Team must concentrate on their assigned work and forget external dependencies. This will not affect their work."
+    ],
+    "answer_letters": [
+      "B"
+    ],
+    "explanation": "The competition is not an impediment , New technology or version is a technical dependency not an external one. Project manager must know how to handle external dependencies like political influence, govt laws and regulations etc."
+  },
+  {
+    "status": "ok",
+    "solution_line": 94,
+    "stem": "A project management office (PMO) is moving from waterfall to agile project management. The project team has been trained on agile but encounter issues working with company executives using the new processes. How should project manager address this issue?",
+    "options": [
+      "A.Invite the executives to the project standups so they can learn the importance of the project.",
+      "B.Meet with the executives to train them on the benefits of agile practices.",
+      "C.Inform the PMO that the project needs to use waterfall as the project will not succeed without executive acceptance.",
+      "D.Replace the current project stakeholders with the executives."
+    ],
+    "answer_letters": [
+      "B"
+    ],
+    "explanation": "Many a times it is felt that executives know all, but as key stakeholders, they also need to have the Agile mindset and training needs to be planned for all executives at the beginning of digital transformation.\n\nBy attending the project standups alone executives can't learn about agile and importance of project\n\nTraining the executives about agile practices will be helpful in this situation\n\n\"informing PMO about waterfall method\" is not going to resolve the issue\n\n\"replacing project stake holder with executives\" is the worst option in this current situation and it is not at all possible also"
+  },
+  {
+    "status": "ok",
+    "solution_line": 124,
+    "stem": "An agile project that the current project manager has been managing for three years is replacing one of the stakeholders with one more familiar with the project’s technology. Additionally, the current project manager is being moved to a more urgent project and is instructed to hand off project management duties to a new project manager. The project is scheduled to run for another three years. What step should the current project manager take next?",
+    "options": [
+      "A.Recommend that the new stakeholder meet with the product owner to ensure expectations are in alignment.",
+      "B.Clarify the new stakeholder's expectations for the project and update the engagement plan.",
+      "C.Meet with the new stakeholder to learn their expectations for this project and update the other stakeholders on these proposed revisions.",
+      "D.Ensure that the new stakeholder can attend all future sprint meetings and update the project plan with the stakeholder’s proposed revisions."
+    ],
+    "answer_letters": [
+      "B"
+    ],
+    "explanation": "The current project manager is responsible for a smooth handover and successful project continuation, which require a clear understanding of the new stakeholder's needs and preferences. Integrating them effectively involves understanding expectations and updating the engagement plan. Based on these insights, the project manager can revise the engagement plan to define how the new stakeholder will be involved in meetings, reports, and decision-making processes. The new project manager will eventually take over.\n\nThe other answer choices are incorrect. Recommending a meeting with the product owner is a good idea later however the initial focus should be on understanding the new stakeholder specifically. Updating other stakeholders can be done later, after integrating the new stakeholder's needs into the engagement plan. Attending all sprint meetings and updating the plan is not the initial priority. Extensive plan revisions based on initial input might not be necessary."
+  },
+  {
+    "status": "ok",
+    "solution_line": 146,
+    "stem": "A project manager is struggling to keep a technical system implementation on track after the loss of a key team member two months ago. The project has missed multiple milestones and is now in critical status. What should the project manager have done to prevent this situation?",
+    "options": [
+      "A.Replaced the key member with a more experienced one.",
+      "B.Reassigned the key member's tasks to other team members.",
+      "C.Motivated the team to meet all milestones and deadlines.",
+      "D.Identified the risks early and developed a mitigation plan."
+    ],
+    "answer_letters": [
+      "D"
+    ],
+    "explanation": "The project manager should have created a mitigation plan and identified risks like the loss of key team members.\n\nThe other answer choices are incorrect. Replacing the key member may not be possible, or it may be time-consuming to find a replacement. Reassigning the key member's tasks to other team members may not be feasible, as it can add workload and stress to team members, potentially impacting overall productivity and efficiency. Motivating the team may not be enough to overcome the loss of a key team member and ensure milestones are met."
+  },
+  {
+    "status": "ok",
+    "solution_line": 165,
+    "stem": "A stakeholder of an agile project asks the project manager to provide the remaining time planned for the project. What tool should the project manager use to provide this information?",
+    "options": [
+      "A.The planning poker analysis",
+      "B.The release burndown chart",
+      "C.The count of story points for the remaining user stories",
+      "D.The work breakdown structure"
+    ],
+    "answer_letters": [
+      "B"
+    ],
+    "explanation": "The project manager will need to understand and apply which tools are suitable for certain tasks. Release Burndown Chart helps in tracking the remaining work of the project. Planning poker is estimation technique. Count of story points will provide the size of the remaining work and not remaining time. Work breakdown structure is used for breaking the project into smaller manageable components"
+  },
+  {
+    "status": "ok",
+    "solution_line": 183,
+    "stem": "A project manager typically conducts retrospective sessions at the end of a project. However, the sponsor believes that retrospectives are a waste of time and budget, and instructs the project manager to significantly reduce or eliminate retrospectives in future projects. What potential outcome could arise from the sponsor's directive?",
+    "options": [
+      "A.The focus shifts towards discussing issues instead of identifying ways to improve for future projects.",
+      "B.The opportunity to improve team processes based on specific project observations is missed.",
+      "C.The emphasis is placed on stakeholder observations about project performance.",
+      "D.The time management plan is not properly updated."
+    ],
+    "answer_letters": [
+      "A"
+    ],
+    "explanation": "In this scenario, the most likely outcome of the sponsor's directive is that the focus shifts toward discussing issues instead of identifying ways to improve future projects. Removing or reducing retrospectives can hinder the project team's ability to learn, adapt, and continuously improve its processes.\n\nThe other answer choices are incorrect. One suggests that the removal or significant shortening of retrospectives would improve team processes based on specific project observations. reality, retrospectives are intended to reflect on the project as a whole and identify areas for improvement, not just based on specific project observations. While stakeholder observations are valuable, retrospectives primarily focus on internal team reflection and improvement. The time management plan itself is not directly dependent on retrospectives. Failing to update the time management plan would be a separate issue that should be addressed through effective project management practices, regardless of the presence or absence of retrospectives."
+  },
+  {
+    "status": "ok",
+    "solution_line": 203,
+    "stem": "A project manager secures project approval with a constrained budget due to fiscal limitations. The sponsor emphasizes no additional funds are available during the current fiscal year. The product owner is concerned that the tight budget will impact the project. What should the project manager prioritize?",
+    "options": [
+      "A.Monitoring the budget throughout the project and demonstrating the value of the project to the company.",
+      "B.Meeting with the sponsor to express the need for a potential budget increase or the project will be delayed.",
+      "C.Removing secondary deliverables from the project plan and monitoring the budget after each iteration.",
+      "D.Requesting the sponsor to allocate funds from the next fiscal year to supplement the current budget."
+    ],
+    "answer_letters": [
+      "A"
+    ],
+    "explanation": "Given the limited budget and unavailable additional funds, the primary focus for the project manager should be proactive monitoring, budget tracking, and communicating the value of the project.\n\nThe other answer choices are incorrect. Expressing concerns about a budget increase is not the initial priority given the sponsor's clear statement about the budget. Removing deliverables might impact the project's scope and functionality, potentially compromising its success. Requesting funds from the next fiscal year contradicts the sponsor's statement and isn't a viable solution at this stage. It's essential to work within the approved budget and explore alternative solutions within the current fiscal year."
+  },
+  {
+    "status": "ok",
+    "solution_line": 223,
+    "stem": "An organization has implemented agile for its recent projects, but all of the recent agile projects have missed their delivery milestones. The sponsors for the agile projects are regularly adding new requests to the projects. A project manager is given a new agile project and finds that it has a vague project objective and no clear definition of done (DoD). What should the project manager do?",
+    "options": [
+      "A.Set up a meeting with the project stakeholders to ensure the communication management plan is clearly defined.",
+      "B.Ensure the sponsor allows the project team to include the most technical resources to better ensure project success.",
+      "C.Work closely with the project team to develop and clearly define the project vision.",
+      "D.Work with the project stakeholders to ensure that the project charter and deliverables are clearly defined."
+    ],
+    "answer_letters": [
+      "C"
+    ],
+    "explanation": "The project manager should work closely with the project team to develop and clearly define the project vision. This will help to ensure that everyone on the team understands and agrees to the project goals. The project manager should also work with the project team to define a DoD for each backlog item. This will help to ensure that everyone on the team is working towards the same goal and that the project delivers the expected results.\n\nThe other answer choices are not as relevant or effective. Setting up a meeting with the project stakeholders to ensure the communication management plan is clearly defined is important but will not address the root cause of the problem, which is the vague project objective and no clear DoD. Ensuring the sponsor allows the project team to include the most technical resources to better ensure project success is important but it is not a guarantee of success. The project manager needs to make sure that the team has a clear understanding of the project goals and requirements. Working with the project stakeholders to ensure that the project charter and deliverables are clearly defined is not enough to ensure success. The project manager also needs to make sure that the team has a clear understanding of the project vision and DoD."
+  },
+  {
+    "status": "ok",
+    "solution_line": 243,
+    "stem": "Two agile teams are collaborating on a project. Team A's output is not complete enough for Team B to integrate into their backlog. According to servant leadership and agile principles, how will the project manager resolve this situation?",
+    "options": [
+      "A.The project manager helps Team A solve the issue, and Team A decides how to implement the solution.",
+      "B.Team B submits a change request to Team A, and Team A validates the change.",
+      "C.Team B decides how Team A implements the change, project manager supervises.",
+      "D.The project manager decides how Team A implements the change, and defines acceptance criteria."
+    ],
+    "answer_letters": [
+      "A"
+    ],
+    "explanation": "The servant leader facilitates the agile teams' work by coordinating external blockers between teams but empowers teams to control their own work. The project manager should help Team A solve the issue, and Team A should take ownership and decide how to implement the solution.\n\nThe other answer choices are incorrect. Having Team B submit a change request to Team A does not involve the project manager in the decision-making process, and having Team B or the project manager decide how Team A should implement the change does not allow Team A to be self-organizing."
+  },
+  {
+    "status": "ok",
+    "solution_line": 263,
+    "stem": "A project manager is leading a development project for a high-profile client with strict deadlines. During a sprint, the project manager notices that the team is struggling to complete user stories as planned due to unforeseen technical complexities. What is the most appropriate action to take?",
+    "options": [
+      "A.Request additional resources to accelerate development and mitigate the impact of delayed user stories and technical complexities.",
+      "B.Meet with the team to analyze the root causes of the complexities and ask the product owner to adjust the sprint backlog.",
+      "C.Ask the sponsor to extend the sprint duration to accommodate the delays caused by unforeseen technical complexities.",
+      "D.Arrange a meeting with the client and request an extension of the project's timeline to compensate for the delayed user stories."
+    ],
+    "answer_letters": [
+      "B"
+    ],
+    "explanation": "When unforeseen technical complexities arise during a sprint, it's crucial to work collaboratively with the team to understand the root causes of these issues. The product owner can prioritize the project backlog so that high-priority items are scheduled for upcoming iterations. This approach maintains the focus on delivering value, adapting to changing circumstances, and maximizing the chances of successfully meeting project goals.\n\nThe other options are not the most appropriate actions to take at this stage.\n\nRequesting additional resources, extending the sprint duration, and requesting a project timeline extension may not be necessary or feasible and may not address the underlying issues causing the complexities."
+  },
+  {
+    "status": "ok",
+    "solution_line": 283,
+    "stem": "PMBOK Guide Seventh Edition (2022) /// [2.6 DELIVERY PERFORMANCE DOMAIN] [2.4.7 CHANGES] A project manager receives an email from a customer detailing reservations about the project deliverables. How should the project manager address the customer’s reservations?",
+    "options": [
+      "A.Meet with the customer to discuss the project scope.",
+      "B.Note the reservations in the risk register and prepare a mitigation plan.",
+      "C.Schedule additional time during the deliverable hand over to discuss the customer’s reservations.",
+      "D.Set up a meeting with the product owner and the customer to discuss the criteria for an acceptable deliverable."
+    ],
+    "answer_letters": [
+      "D"
+    ],
+    "explanation": "To align the customer expectations with the upcoming deliveries the product owner should work with the customer to describe functional behavior as acceptance criteria (definition of Done)."
+  }
+]

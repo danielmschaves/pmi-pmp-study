@@ -1,0 +1,313 @@
+A project team often asks questions about the rationale for their work and how the client perceives their progress and deliverables. What should the project manager do to build trust and get the team engaged?
+
+A.Share feedback and invite team members to status meetings with the stakeholders.
+B.Assure the team that the client is happy and you are handling the expectations.
+C.Present the project plan and progress report to the team with regular updates when revised
+D.Compare the pending tasks to the completed tasks so the team has a sense of accomplishment.
+Solution: A. Share feedback and invite team members to status meetings with the stakeholders
+
+The concern is based on the relationship with the client so we should engage the team members on that process of the project.
+
+This question and rationale were developed in reference to:
+
+Effective PM: Trad, Agile, Extreme (2015) Robert K. Wysocki/Wiley/Chapter 10: Agile Project Management/Implementing APM Projects [Item Adding more functions and features to the solution and implementing them at the same time sounds great. The client and the end user can benefit from whatever business value can be attained, experience the solution unfolding over short time periods, work with the solution, and provide valuable feedback to the developers about further additions and changes to the solution. But there is another side to this story, and that is the implementation of a constantly evolving solution. Iterations and cycles are short duration—2 to 4 weeks is typical. The end users will give up and surrender if you expect them to change how they do their work by implementing a new solution every few weeks. How about your organization? What is its organizational velocity? Can it absorb change that fast? Most can't or won't. So what are the client and the project manager to do? Getting frequent client feedback is critical to discovering the complete solution and ultimately to project success, but the organization can't absorb change as fast as the APM models would like. There is also the question of the project team's ability to support frequent releases. Training, documentation, and a support group are needed. Let's see, what release are you using again?https://learning.oreilly.com/library/view/effective-project-management/9781118729311/9781118729311c10.xhtml]
+
+| https://snippets.pmi.org/snippet/7-ways-to-build-your-leadership-skills/ [Item]
+
+A project incurs a 4-week delay. If delayed another 2 weeks or longer, the project will be penalized. In order to be able to deliver on time, the team is offered an appealing financial compensation and 2 days of vacation.
+
+What theory is being applied?
+
+A.Achievement theory
+B.Expectancy theory
+C.Maslow’s theory
+D.Contingency theory
+Solution: B. Expectancy theory
+
+Expectancy theory proposes that employees are motivated when they are given assignments they feel confident they can achieve, when they value the compensation you offer and when they believe you will compensate them as promised.
+
+The aim of need achievement theory is to explain why certain individuals are more motivated to achieve than others.
+
+Maslow's hierarchy of needs is a theory of motivation which states that five categories of human needs dictate an individual's behavior. Those needs are physiological needs, safety needs, love and belonging needs, esteem needs, and self-actualization needs.
+
+The contingency theory emphasizes the importance of both the leader's personality and the situation in which that leader operates.
+
+This question and rationale were developed in reference to:
+
+https://www.pmi.org/learning/library/motivating-construction-productivity-learning-disciplines-5731 [Item Expectancy theory argues that the motivational force to perform or expend effort is a multiplicative function of the expectancies that individuals have concerning future outcomes and the value they place on those outcomes.]
+
+| PMP: Project Management Professional Study Guide, Nineth Edition, 9th edition (2018) Kim Heldman/Sybex/9/408 [Item]
+
+Due to increased price volatility, a vendor asks the project manager of a large development project to make a price change that will affect the project contract. 
+
+What should the project manager do?
+
+A.Request the change control board (CCB) to meet with the vendor to discuss the change.
+B.Execute the price change requested by the vendor and update the project contract.
+C.Comply with the vendor's request and update the project management plan.
+D.Analyze the impact and submit a formal change request, if appropriate.
+Solution: D. Analyze the impact and submit a formal change request, if appropriate.
+
+The project manager should thoroughly asses how the proposed price change will affect various aspects of the project, including scope, budget, schedule, and quality. If it is determined that the vendor's request would significantly impact the project, such as changes to the project's cost, scope, or schedule, the project manager should submit a formal change request. Submitting a formal change request is the appropriate way to document and communicate the proposed change to relevant stakeholders and decision-makers.
+
+Requesting a meeting with the CCB and the vendor is not the most efficient approach. It is important to keep the CCB informed of any potential changes to the project, but the project manager should first assess the impact of the price change before requesting a meeting. 
+
+Complying with the vendor's request and executing the price change without prior analysis and approval disregards the need to understand how the change affects the overall project. The price change may significantly impact the project's scope, budget, schedule, and other aspects, potentially leading to uncontrolled project changes. Further, it is important to get input from all stakeholders before making a decision. 
+
+This question and rationale were developed in reference to:
+
+PMBOK Guide Seventh Edition (2022) PMI/PMI/ [2.4.7 CHANGES]
+
+A project manager has finished a qualitative risk analysis with their team. Which project documents may require updating based on this information?
+
+A.Risk Register, Risk Report, Lessons Learned
+B.Plan Risk Management, Assumption Log
+C.Risk Register, Assumption Log, Issue Log, Risk Report
+D.Risk Register, Risk Report
+Solution: C. Risk Register, Assumption Log, Issue Log, Risk Report
+
+The correct answer is risk register, assumption log, issue log, and risk report.
+At a minimum, the risk register, issue log, assumption log, and risk report should be reviewed for revision upon completion of the qualitative risk analysis. Other documents, such as the lessons learned database and stakeholder register may require an update, but it is likely that the four above will be affected. The other answers are either incomplete or include possible optional but not the most likely affected documents.
+The next step after qualitative risk analysis is to update those all-important project documents. These include:
+Risk register: The results of qualitative risk analysis will largely be added to the risk register. These items include probability and impact assessments for each individual project risk, as well as priority levels, identified risk owners, risk urgency information, and risk categories. Risks judged to be a high priority should be separated for further analysis and response planning (in general, they should also be monitored more frequently). A watch list should also be created for low-priority risks.
+Risk report: The risk report should be updated to indicate the overall project risk and the most important individual project risks, sorted by category and trends. It should also include a prioritized list and summary of all identified risks.
+Assumption log: The log should be updated if new assumptions have come to light or new constraints have been identified during the process.
+Issue log: This should be updated to capture any new issues you’ve discovered or changes in currently logged issues. 
+
+This question and rationale were developed in reference to:
+https://standardsplus.pmi.org/posts/idbeta5/13aec16b-9482-47f7-88e6-72e3449b604f 
+
+A large risk to a project is identified, and the risk management plan is executed. Upon completion of the approved actions, what should the project manager do?
+
+A.Update the risk management plan.
+B.Revise the project schedule and the budget.
+C.Update the lessons learned.
+D.Identify new risks, and monitor residual risks.
+Solution: D. Identify new risks, and monitor residual risks
+
+PMBoK Sixth Edition states: "11.2 IDENTIFY RISKS
+
+Identify Risks is the process of identifying individual project risks as well as sources of overall project risk, and documenting their characteristics. The key benefit of this process is the documentation of existing individual project risks and the sources of overall project risk. It also brings together information so the project team can respond appropriately to identified risks. This process is performed throughout the project
+
+Identify Risks considers both individual project risks and sources of overall project risk. Participants in risk identification activities may include the following: project manager, project team members, project risk specialist (if assigned), customers, subject matter experts from outside the project team, end users, other project managers, operations managers, stakeholders, and risk management experts within the organization. While these personnel are often key participants for risk identification, all project stakeholders should be encouraged to identify individual project risks. It is particularly important to involve the project team so they can develop and maintain a sense of ownership and responsibility for identified individual project risks, the level of overall project risk, and associated risk response actions"
+
+The correct answer is: "Identify new risks and monitor residual risks"
+
+The distractors are valid
+
+This question and rationale were developed in reference to:
+
+e-Reads (No Date) ///Modern Corporate Risk Management: A Blueprint for Positive Change and Effectiveness by Glenn Koller, Chapter 7 - Solutions to the Problems-The Aftermath [Item]
+
+| e-Reads (No Date) ///Practical Project Risk Management: The ATOM Methodology by David Hillson and Peter Simon, Chapter 9 - Just Do It (Implementation) [Item]
+
+| PMBoK, Sixth edition (2021) PMI/PMI/11/ [Item Identify risks]
+
+| PMBOK® Guide--Fifth Edition (5th) PMI/PMI//Chapter A1.7.9 control risk, pg 457 [Item]
+
+The project manager is having difficulties persuading stakeholders to adopt new technlogy in the project.
+What should the project manager have done to avoid this resistance? 
+
+A.Invest in stakeholders' communication
+B.Provide technical support to stakeholders
+C.Propose an agreement to stakeholders
+D.Engage stakeholders as early as possible
+Solution: D. Engage stakeholders as early as possible
+
+The best way to avoid resistance to new technology is to engage stakeholders as early as possible. This means involving them in the decision-making process from the beginning and giving them a chance to provide input on the new technology. By engaging stakeholders early on, the project manager can assess their needs and concerns, address objections, build trust and rapport,  and get their buy-in.
+
+The other answer choices are incorrect. Investing in stakeholders' communication is important, but it is not enough to avoid resistance. The project manager also needs to engage stakeholders early on. Providing technical support to stakeholders may help to address some of their concerns, but it is not enough to overcome their resistance. Proposing an agreement with stakeholders may be a good way to get their buy-in, but it is not as effective as engaging them early on.
+
+This question and rationale were developed in reference to:
+
+https://www.pmi.org/learning/library/improve-stakeholder-management-9901 [Item Utilizing change management tools and techniques can help a project or program manager more effectively identify, plan, and engage stakeholders. This targeted approach can strengthen stakeholder assessment capabilities to build a better stakeholder management plan, communications plan, schedule, budget, and other project management tools. It can also help build value into the delivery of the changes themselves by strengthening adoption]
+
+A project's outcome is highly sensitive to and dependent upon financial market activity. Therefore, the company's financial advisor delivers daily exchange-rate forecasts. The project's budget was planned using a conservative scenario with high exchange-rate variations. The project manager now wants to review this budget to update the probability and impact of a possible new scenario using current financial conditions.
+
+To what should the project manager refer?
+
+A.Stakeholder register
+B.Risk register
+C.Lessons learned
+D.Marketplace conditions
+Solution: B. Risk register
+
+The correct answer is the risk register.
+A risk register is a repository in which outputs of risk management processes are recorded. The risk register captures details of identified individual project risks. Information in a risk register can include the person responsible for managing the risk, probability, impact, risk score, planned risk responses, and other information used to get a high-level understanding of individual risks. 
+The other answers are incorrect because they do not contain all of the information needed. 
+A stakeholder register is incorrect because a stakeholder register is a project document that includes information about project stakeholders including an assessment and classification of project stakeholders. 
+Lessons learned is incorrect because they reflect the knowledge gained during a project, which shows how project events were addressed or should be addressed in the future, for the purpose of improving future performance. 
+Marketplace conditions are factors external to the organization that can enhance, constrain, or have a neutral influence on project outcomes. Marketplace conditions include competitors, market share, brand recognition, technology trends, and trademarks. The marketplace conditions option is incorrect because the company's financial advisor delivers daily exchange-rate forecasts, and the project manager wants to review the budget to update the probability and impact of a possible new scenario.
+
+This question and rationale were developed in reference to:
+PMBOK Guide Seventh Edition (2022) /// [Item] | PMBoK, Sixth edition (2021) PMI/PMI/11/ [Item Risk Register]
+
+A supplier reports that they are over capacity, which may delay their delivery. What should the project manager update?
+
+A.Risk register
+B.Stakeholder register
+C.Issue log
+D.Project schedule
+Solution: A. Risk register
+
+PMBoK Sixth Edition Chapter 4 and 11 states: "
+
+11.2.3.1 RISK REGISTER
+
+The risk register captures details of identified individual project risks. The results of Perform Qualitative Risk Analysis, Plan Risk Responses, Implement Risk Responses, and Monitor Risks are recorded in the risk register as those processes are conducted throughout the project. The risk register may contain limited or extensive risk information depending on project variables such as size and complexity.
+
+On completion of the Identify Risks process, the content of the risk register may include but is not limited to:
+
+List of identified risks. Each individual project risk is given a unique identifier in the risk register. Identified risks are described in as much detail as required to ensure unambiguous understanding. A structured risk statement may be used to distinguish risks from their cause(s) and their effect(s).
+
+Potential risk owners. Where a potential risk owner has been identified during the Identify Risks process, the risk owner is recorded in the risk register. This will be confirmed during the Perform Qualitative Risk Analysis process.
+
+List of potential risk responses. Where a potential risk response has been identified during the Identify Risks process, it is recorded in the risk register. This will be confirmed during the Plan Risk Responses process.
+
+Additional data may be recorded for each identified risk, depending on the risk register format specified in the risk management plan. This may include: a short risk title, risk category, current risk status, one or more causes, one or more effects on objectives, risk triggers (events or conditions that indicate that a risk is about to occur), WBS reference of affected activities, and timing information (when was the risk identified, when might the risk occur, when might it no longer be relevant, and what is the deadline for taking action).
+
+4.4.3.1 LESSONS LEARNED REGISTER
+
+The lessons learned register can include the category and description of the situation. The lessons learned register may also include the impact, recommendations, and proposed actions associated with the situation. The lessons learned register may record challenges, problems, realized risks and opportunities, or other content as appropriate.
+
+The lessons learned register is created as an output of this process early in the project. Thereafter it is used as an input and updated as an output in many processes throughout the project. The persons or teams involved in the work are also involved in capturing the lessons learned. Knowledge can be documented using videos, pictures, audios, or other suitable means that ensure the efficiency of the lessons captured.
+
+At the end of a project or phase, the information is transferred to an organizational process asset called a lessons learned repository"
+
+Therefore, the correct answer is: "Risk Register", because that is where all the risks related to the project should be recorded.
+
+The Distractors are correctly worded and accepted
+
+This question and rationale were developed in reference to:
+
+PMBoK, Sixth edition (2021) PMI/PMI/4 and 11/ [Item Risk Register and Lessons Learned Register]
+
+| PMBOK® Guide--Fifth Edition (5th) PMI/PMI/11.6/349 [Item]
+
+| Project Risk Management Guidelines: Managing Risk in Large Projects and Complex Procurements (2005) Dale Cooper, Stephen Grey, Geoff Raymond and Phil Walker/John Wiley & Sons/7/ [Item]
+
+Which of the following combination of approaches should a team lead take to have a highly motivated and high-performing project team? (Choose three)
+
+A.Build strong relationships, Provide context to work and the big picture, Implement customized incentives.
+B.Ensure team peer review is done, Emphasize on team performance management, Prioritize individual rewards
+C.Emphasize on team dynamics, Plan and deliver regular training on team dynamics, Hold regular team building activities
+D.Foster a competitive environment, Prioritize reward for team member excellence, Hold regular team meetings
+Solution: A, B and C. Build strong relationships, Provide context to work and the big picture, Implement customized incentives, Ensure team peer review is done, Emphasize on team performance management, Prioritize individual rewards and Emphasize on team dynamics, Plan and deliver regular training on team dynamics, Hold regular team building activities
+
+Competitive environments don't help with motivation and high performance for all team members.
+
+This question and rationale were developed in reference to:
+
+https://snippets.pmi.org/snippet/motivate-teams-to-achieve-better-outcomes/ [Item]
+
+A project manager with a directive behavioral orientation is leading a virtual team of software developers. The project manager wants to build a high-performing team that is motivated and productive. The team is working on a complex project with a tight deadline.
+
+How should the project manager lead this team?
+
+A.Build rapport and develop strong relationships with team members.
+B.Motivate team members with achievement awards.
+C.Influence team decisions and control the delivery process.
+D.Implement communication channels to announce task completion. 
+Solution: D. Implement communication channels to announce task completion. 
+
+In this situation, the project manager has a directive behavioral orientation and is task-oriented and results-driven. Directive orientation is characterized by a focus on results, a willingness to take charge, and a preference for clear and concise communication. These qualities are essential for a project manager who is responsible for ensuring that a complex project with a tight deadline is completed successfully.
+
+The other answer choices are incorrect. Building rapport and relationships is aligned with affiliation orientation, motivating team members is aligned with achievement orientation, and influencing and controlling team members is aligned with power orientation.
+
+This question and rationale were developed in reference to:
+
+https://www.pmi.org/learning/library/successful-motivational-techniques-virtual-teams-8161 [Item]
+
+After weeks of dealing with conflicts, compromising, and achieving the project goal, team members are focusing on documenting the lessons learned to be shared with stakeholders, sponsors, and future project teams.
+
+What phase are they most likely in?
+
+A.Forming
+B.Storming
+C.Performing
+D.Adjourning
+Solution: D. Adjourning
+
+During this final phase, the successful completion of the project is often celebrated, and the team members focus on documenting the lessons learned as part of the project closure activities. A team that has successfully built trusting relationships is likely to be better equipped to honestly evaluate its processes, issues, and achievements to glean the lessons that can be shared with stakeholders, sponsors, and future project teams.
+
+The other answer choices are incorrect. They describe prior stages before lessons learned are documented to be shared with stakeholders, sponsors, and future project teams. The team has already handled conflicts, made compromises, and achieved the project goal, the team would then enter the adjourning stage.
+
+This question and rationale were developed in reference to:
+
+Building a trust-based team (pmi.org)
+
+PMBOK Guide Seventh Edition (2022) ///[4.2.6.1 Tuckman Ladder]
+
+A vendor informs a project manager that the project's equipment can be delivered earlier than anticipated. The project manager recognizes that this is an opportunity to complete the project ahead of schedule.
+
+What should the project manager do next?
+
+A.Request management approval.
+B.Use the equipment offered.
+C.Revise the project schedule.
+D.Determine if there is a risk.
+Solution: D. Determine if there is a risk
+
+The project manager should determine if there is a risk before making any decisions. The early delivery of equipment could create a risk if the project team is not prepared to use it or if the vendor is unable to meet the quality standards. The project manager should assess the impact of the early delivery on the project schedule and budget, and review the vendor's quality assurance process to ensure that the equipment meets the project's requirements.
+
+The other answer choices are incorrect. Requesting management approval is important, but it should not be done before the project manager has determined if there is a risk. Using the equipment offered could create a risk if the project team is not prepared to use it or if the vendor is unable to meet the quality standards. Revising the project schedule should not be done before the project manager has determined if there is a risk. 
+
+This question and rationale were developed in reference to:
+
+PMBOK Guide Sixth Edition (2018) PMI/PMI// [Item]
+
+| PMBoK, Sixth edition (2021) PMI/PMI/3, 9 and 11/ [Item Identify Risks
+
+Acquire Resources]
+
+A project manager implements multi-factor authentication, daily backups, and strict access controls to mitigate the risk of security breaches and data leaks during a product development project. Despite these measures, some risk remains that sensitive data could still be compromised through unforeseen vulnerabilities.
+
+What type of risk does this remaining risk represent?
+
+A.Secondary risk
+B.Residual risk
+C.Primary risk
+D.Compliance risk
+Solution: B. Residual risk
+
+Residual risk is the portion of risk that remains after all planned risk mitigation responses have been implemented, or any risk that has been deliberately accepted. In this case, the project manager has addressed the original security risks with various controls; however, some exposure remains.
+
+The other answer choices are incorrect. Secondary risk arises as a direct result of executing a risk response. Here, no new risk was introduced by the security measures themselves; only the original risk remains at a reduced level. The primary risk refers to the original risk before any mitigation actions; here, it was the initial risk of a security breach before implementing controls. Compliance risk involves possible violations of regulatory requirements, not residual technical risk after mitigation measures.
+
+A project manager is leading a project to develop a new system for a government agency using a predictive approach. The project's governance framework is designed to ensure that the system meets the needs of the stakeholders and complies with all applicable regulations. The project manager receives an approved change request related to a project's governance framework. 
+
+What should the project manager do to implement this change?
+
+A.Review the changes to the governance framework and update relevant planning documents.
+B.Recalculate the durations of project activities affected by the change to the governance framework.
+C.Put the project on hold until the impact of the governance framework can be assessed.
+D.Submit the formal change request to the project steering committee for final approval.
+Solution: A. Review the changes to the governance framework and update relevant planning documents.
+
+The project manager needs to fully understand the nature and extent of the approved changes. Without a thorough review, it's impossible to know how these changes will impact the project. After reviewing the changes, the project manager should update planning documents to ensure that the project aligns with the new governance framework and maintains alignment with stakeholder needs and regulatory requirements.
+
+Recalculating the durations of project activities is not necessary until the project manager has reviewed the changes and determined their impact on the project.
+
+Putting the project on hold is not necessary unless the changes require a major overhaul of the project plan. Putting the project on hold could be costly and disruptive; the focus should be on implementing the approved changes effectively.
+
+Submitting the formal change request to the project steering committee is not necessary, as the change request has already been approved.
+
+This question and rationale were developed in reference to:
+
+Adv PM: A Structured Approach 4th Ed (Jan 1 2004 12:00AM) Frederick Harrison and Dennis Lock/Gower Publishing Co.//Change implementation and integration, page 253 [Item]
+
+PMBOK Guide Seventh Edition (2022) /// [2.5.7 MONITORING NEW WORK AND CHANGES] 
+
+Which is the process that the project manager performs to prioritize individual project risks for further analysis or action by assessing their probability of occurrence and impact, as well as other characteristics?
+
+A.Quantitative Risk Analysis
+B.Qualitative Risk Analysis
+C.Identify Risks
+D.Plan Risk Management
+Solution: B. Qualitative Risk Analysis
+
+The choices list four processes within Risk Management. They are done in the order of 1) Plan Risk Management, 2) Identify Risks, 3) Qualitative Risk Analysis, 4) Quantitative Risk Analysis. Qualitative Risk Analysis prioritizes identified risks by assessing their probability and impact, and is relatively simple, compared to Quantitative Risk Analysis. Quantitative analysis uses mathematical models to calculate risk responses, and can be time consuming and expensive. Therefore, only the highest priority risks are advanced to quantitative analysis.
+
+This question and rationale were developed in reference to:
+
+https://standardsplus.pmi.org/posts/idbeta5/13aec16b-9482-47f7-88e6-72e3449b604f [Item This process allows you to prioritize individual project risks for further analysis or action so you can focus your energy on the risks that pose the greatest threat to the project.]

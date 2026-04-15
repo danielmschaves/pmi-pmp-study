@@ -1,0 +1,18 @@
+[
+  {
+    "status": "multi_answer",
+    "solution_line": 195,
+    "stem": "Which of the following combination of approaches should a team lead take to have a highly motivated and high-performing project team? (Choose three)",
+    "options": [
+      "A.Build strong relationships, Provide context to work and the big picture, Implement customized incentives.",
+      "B.Ensure team peer review is done, Emphasize on team performance management, Prioritize individual rewards",
+      "C.Emphasize on team dynamics, Plan and deliver regular training on team dynamics, Hold regular team building activities",
+      "D.Foster a competitive environment, Prioritize reward for team member excellence, Hold regular team meetings"
+    ],
+    "answer_letters": [
+      "A",
+      "B"
+    ],
+    "explanation": "Competitive environments don't help with motivation and high performance for all team members."
+  }
+]

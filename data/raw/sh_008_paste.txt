@@ -1,0 +1,325 @@
+A project manager is part of a project that has a scrum team. The team members are unfamiliar with the distinction between risks and issues and prefer to use the concept of impediments.
+
+For which of the following would the team be unable to apply the concept of impediments?
+
+A.One of the junior members of the team cannot work at full capacity for a week.
+B.One of the competitors announced the imminent release of a new version of their product.
+C.The administration of the building announced that for the next couple of weeks there will be maintenance work on the air conditioning system.
+D.The project manager is on leave and scrum master has to take a lead for distinguishing risk from issues.
+Solution: B. One of the competitors announced the imminent release of a new version of their product.
+
+The competitor launch does not prohibit the team from doing work and does not impact team velocity. Thus, it would not be considered an impediment.
+
+This question and rationale were developed in reference to:
+
+PMI.org (2018) //Impediment Logs in Scrum/Denise Canty/ [Item https://www.projectmanagement.com/blog-post/46050/Impediment-Logs-in-Scrum]
+
+A project manager is leading a daily standup meeting when a team member requests that other team members take on some of their assigned work because they are feeling overwhelmed with an upcoming deadline. 
+
+What should the project manager do next?
+
+A.Reassign the team member's work to other team members without asking for their input.
+B.Ask the team member to identify the tasks they need assistance with in another meeting.
+C.Tell the team member to go for training to figure out how to complete their work on time.
+D.Dismiss the team member's concerns and move on with the daily standup meeting.
+Solution: B. Ask the team member to identify the tasks they need assistance with in another meeting.
+
+The best way for the project manager to handle this situation is to ask the team member to identify the tasks that they need assistance with in another meeting, to avoid interrupting the daily standup. This will give the project manager a better understanding of the situation and allow them to develop a plan to help the team member. The project manager can then work with the team member to reprioritize their work, assign some of their work to other team members, or provide them with additional support.
+
+The other answer choices are incorrect. Reassigning the team member's work to other team members without asking for their input does not respect the other team members' autonomy. Telling the team member to go for training to figure out how to complete their work on time is not a supportive approach, and it may not be realistic. Dismissing the team member's concerns and move on with the daily standup meeting is also not supportive and could create a negative atmosphere in the team.
+
+This question and rationale were developed in reference to:
+
+Succeeding with Agile (No Date) //18/381 [Item]
+
+| The Agile Practice Guide (No Date) PMI/PMI//54 [Item]
+
+Which of the following steps should an Agile project manager of a newly formed virtual team take to help the organization succeed? (Choose 2).
+
+A.Provide clear goals, direction, or priorities.
+B.Help establish cooperation and trust.
+C.Let the team decide and evolve their roles and responsibilities.
+D.Neglect "Face time" and regular check-ins with team members.
+Solution: B and C. Help establish cooperation and trust and Let the team decide and evolve their roles and responsibilities.
+
+In Agile, the team is "self-organized" so the project manager should build trust and let individuals get comfortable taking responsibility in their roles in a virtual setting instead of providing directions, as suggested in answer choice A. Neglecting face time and check-ins will reduce communication and negatively impact the project.
+
+This question and rationale were developed in reference to:
+
+https://www.pmi.org/learning/library/successful-leadership-virtual-project-teams-6039
+
+A project manager is running an agile project that is half completed. During the most recent sprint retrospective, the team members see that they worked more hours than were originally scheduled.
+
+How should the project manager address this situation?
+
+A.Note the additional hours in the budget and leverage the budget reserves.
+B.Reach out to the sponsor asking for additional project team members to increase velocity.
+C.Work with the project team to identify why this occurred and what can be done to prevent it in future sprints.
+D.Empower the team to address this issue and present the sponsor with the proposed resolution.
+Solution: C. Work with the project team to identify why this occurred and what can be done to prevent it in future sprints.
+
+The project manager has to help the team to figure out how to maintain or improve the productivity and avoid the problem in future sprints.
+
+Providing additional hours is not a correct response because it does not allow the team to evaluate why the problem happened.
+
+Reaching out to the project sponsor will not solve the root of the problem.
+
+Empowering the team doesn't allow the project manager the opportunity to determine the cause of the problem.
+
+This question and rationale were developed in reference to:
+
+Choose Your WoW! A Disciplined Agile Delivery Handbook for Opitimizing Your Way of Working (January 2019) Scott W Ambler and Mark Lines//23/313 [Item]
+
+| The Agile Practice Guide (No Date) PMI/PMI/5/ [Item]
+
+A software developer who is working on a critical component has to take emergency leave from the project. Due to time constraints, the project manager cannot hire a new replacement developer for the team.
+
+What should the project manager do to manage the situation?
+
+A.Move the critical component to the final iteration it can be worked on after the developer returns from leave.
+B.Request the project sponsor to extend the project until the developer returns and finishes the work.
+C.Prolong the iteration to allow time for the developer to return and complete the component.
+D.Ask team members to find a way to complete the missing developer's work in this iteration.
+Solution: D. Ask team members to find a way to complete the missing developer's work in this iteration.
+
+The best choice is to find a way to complete the absent developer's work as originally scheduled (in this iteration) by relying on other team members.
+
+The other choices involve waiting for the developer to return from leave, and while they are possible, nothing in the question states that other team members do not have the skills to fill in and maintain the project schedule as much as possible.
+
+This question and rationale were developed in reference to:
+
+Agile Practice Guide (2017) PMI/PMI/3 Life Cycle Selection/ [Item Project Factors that influence tailoring
+
+Project factor - Demand pattern steady or sporadic
+
+Tailoring options - Many teams find that using a cadence ( in the form of a regular timebox) helps the demo, retrospect, and take in a new work, in addition, some teams need more flexibility in their acceptance of more work. Teams can use flow-based agile with a cadence to get the best of both worlds]
+
+| https://www.pmi.org/learning/library/motivation-project-management-leadership-perspective-2390 (2008) Project Management Journal, 39(2)//Motivation in project management: the project manager's perspective./Schmid, B. & Adams, J./60–71. [Item "If the manager instead only specifies ends and allows the individual or team to develop their own means, stronger motivation and a heightened work morale will manifest itself. According to Ambrose and Kulik (1999), research addressing action regulation theory has also found that autonomy (decision latitude) results in maximal motivation."]
+
+In a scaled agile framework, which responsibilities of a release train engineer can be performed by a project manager? (Choose 3).
+
+A.Managing risks
+B.Coaching on global technical excellence
+C.Escalating impediments
+D.Coaching on global continual improvement
+E.Coaching on team continual improvement
+Solution: A, C and D. Managing risks, Escalating impediments and Coaching on global continual improvement.
+
+The Release Train Engineer is a Program Level role who facilitates program level processes and execution, drives continuous development, manages risks and escalates impediments
+
+The following can be done by Project Manager as well:
+
+Managing Risk
+Escalating impediments
+Coaching on global continual improvement.
+The other responsibilities are only to be done by release train engineer.
+
+This question and rationale were developed in reference to:
+
+PMI.org (2010) //Information systems project manager soft competencies/Skulmoski, Gregory J., Hartman, Francis T./ [Item https://www.pmi.org/learning/library/information-systems-project-manager-soft-competencies-2431]
+
+During an iteration the team realizes that the project will overrun the budget. This is due to the support resources being involved for longer than planned. Company policy requires immediate notification when there is any change to the budget.
+
+What should project manager do to manage the project budget?
+
+A.Estimate the additional project cost and plan to propose the new budget to the change review board.
+B.Reduce the resources and ask the team to manage tasks within the planned cost.
+C.Discuss with the project team to reduce the use of support resources by the project.
+D.Accept the cost overrun risk, depending on the contingency amount of the project.
+Solution: C. Discuss with the project team to reduce the use of support resources by the project.
+
+Resource sharing is one of the key approaches to optimize costs. To manage the project budget, the project manager should discuss with the project team to reduce the use of support resources by the project.
+
+The other answer choices are incorrect. These options are more for a predictive approach. A change review board is not common practice in agile; the project is not plan driven so there is no cost constraint.
+
+This question and rationale were developed in reference to:
+
+Agile Estimating and Planning (No Date) Mike Cohn//Part 1/9 [Item What Makes Planning Agile]
+
+| The Agile Practice Guide (No Date) PMI/PMI/6.4/79 [Item]
+
+A project manager is new to the organization and is assigned to replace the project manager of an active project. What should be one of the first things the project manager does?
+
+A.Schedule meetings with the project stakeholders to learn more about the project deliverables.
+B.Setup meetings with the team members to discuss the project’s status and risks.
+C.Conduct a Pareto analysis to identify which tasks need to be prioritized.
+D.Prepare by reviewing the risk register and mitigation strategies.
+Solution: B. Setup meetings with the team members to discuss the project’s status and risks.
+
+An understanding of agile and it's marriage to risk is important to effectively get an overview from the entire team of the risks a project will face.
+
+Project manager should understand the project status and risks first from the team members. This is the right choice
+
+scheduling meeting with stake holders is the second step after understanding the project status and risk
+
+Conducting pareto analysis is the fourth step after understanding the project status and deliverables
+
+Without understanding project status, it is difficult to understand the risk register
+
+This question and rationale were developed in reference to:
+
+Choose Your WoW! A Disciplined Agile Delivery Handbook for Opitimizing Your Way of Working (January 2019) Scott W Ambler and Mark Lines//25/357 [Item]
+
+| O'Reilly Platform (No Date) //Chapter 10: Agile Risk Management/ [Item Agile for Project Managers]
+
+A project that should have been 90 percent complete by now is only 45 percent complete. The total project budget is US$110,000 and the actual cost of work performed is US$60,000.
+
+What can be determined from this information?
+
+A.The project is under budget with a CPI of 1.21.
+B.The project is over budget with a CPI of 0.83.
+C.The project is under budget CPI of 0.83.
+D.The project is over budget with a CPI of 1.21.
+Solution: B. The project is over budget with a CPI (cost performance index) of 0.83.
+
+EV = % completed * budget = 45% * $110,000 = $49,500
+
+AC = $60,000
+
+CPI = EV/AC = 49,500/60,000 = 0.83
+
+A CPI under 1 means the project is over budget.
+
+This question and rationale were developed in reference to:
+
+PMBOK® Guide--Fifth Edition (No Date) PMI/PMI/7/219 [Item]
+
+| Practice Standard for Earned Value Management (10/1/2011) PMI/PMI/9/58 [Item]
+
+| Project management : A Systems Approach to Planning, Scheduling, and Controlling (2009) Harold Kerzner/Wiley/15/752-758 [Item]
+
+Which agile project parameter is least likely to change during project execution?
+
+A.Project vision
+B.Definition of done
+C.Product owner
+D.Product backlog
+Solution: A. Project vision
+
+The Project Vision describes why the project is initiated, and any change would change all other parameters.
+
+The other listed parameters are more likely to change than Project Vision.
+
+This question and rationale were developed in reference to:
+
+https://www.pmi.org/learning/library/five-team-leadership-principles-project-success-6250 [Item Juli, T. (2011) article citation:
+
+"There is one very important and significant difference between a project vision and project objectives: Project objectives are subject to change more frequently than a project vision. While project objectives can change due to external or internal influences without stopping the project, a change to a project vision also changes the purpose of the project. As such, it may end the project."]
+
+| Project Management Body of Knowledge (11/02/16) Project Management Institute//5.1/ [Item "At a minimum, for an agile project, the team needs the product vision or purpose."]
+
+A project manager in a project management office (PMO) is tasked with implementing an agile framework. The leadership team expects a seamless transition to agile practices. However, the project team has no experience with agile projects. The project manager recognizes that the team will face challenges in this transformation. 
+
+Which three factors should the project manager prioritize to ensure a successful transition to agile practices?
+
+A.Identifying key stakeholders and involving them in the agile transformation process.
+B.Providing extensive training and coaching to team members on agile principles and practices.
+C.Promoting a culture of collaboration, transparency, and continuous improvement among team members.
+D.Ignoring customer feedback at the beginning of the project and focusing solely on internal team dynamics.
+E.Establishing a rigid and inflexible project plan to ensure strict adherence to timelines.
+Solution: A, B, and C. 
+
+Identifying key stakeholders and involving them in the agile transformation process.
+Providing extensive training and coaching to team members on agile principles and practices.
+Promoting a culture of collaboration, transparency, and continuous improvement among team members.
+Involving key stakeholders is crucial because they have a significant influence on the project's success and expect a seamless transition. By involving key stakeholders early on, the project manager can help to build consensus and support for the agile transformation.
+
+Providing training and coaching equips team members with the knowledge and skills necessary to embrace and implement agile techniques effectively.
+
+Promoting a culture of collaboration, transparency, and continuous improvement encourages open communication, knowledge sharing, and adaptability, all of which are essential for successful agile implementation.
+
+The other options are incorrect because they do not align with agile principles.
+
+Ignoring customer feedback is a detrimental approach in agile projects. Customer feedback is essential for agile teams. Focusing solely on internal team dynamics while neglecting customer input contradicts agile principles.
+
+Establishing a rigid and inflexible project plan stifles innovation and makes it difficult for the team to adapt to change, which is counterproductive in an agile context. Agile projects use adaptive planning and value customer collaboration over following a rigid plan.
+
+This question and rationale were developed in reference to:
+
+O'Reilly Platform (No Date) //7/ [Item Book name: Agile Foundations]
+
+The Agile Practice Guide (No Date) PMI/PMI/3 Life-cycle selection/23 [Item 3.1.3]
+
+PMBOK Guide Seventh Edition (2022) /// [2.3.3 DEVELOPMENT APPROACHES] [4.2.4 CHANGE MODELS]
+
+An agile team finds it difficult to complete a checklist because they have different interpretations of what the project aims to achieve. How can the project manager help them gain a common understanding of the project's overall purpose?
+
+A.Review the project vision.
+B.Review the full list of user stories.
+C.Review the Agile Manifesto.
+D.Conduct the first sprint retrospective.
+Solution: A. Review the project vision.
+
+The Project Vision describes the overall purpose of the project and potentially its key benefits. Project objectives without a vision may describe the desired end result and time frame, but they do not form an underlying meaning for the work. Sharing a common project vision and having the same understanding about tracking the progress towards this vision is one of the key factors in the success of a project and team.
+
+This question and rationale were developed in reference to:
+
+Agile Practice Guide (2017) PMI/PMI/5.1/ [Item "...project objectives without a vision may describe the desired end result and time frame, but they ... do not form an underlying meaning for the work.."]
+
+| https://www.pmi.org/learning/library/five-team-leadership-principles-project-success-6250 [Item Juli, T. (2011) article citation: "Build vision. Sharing a common project vision and goals and having the same understanding about tracking the progress towards this vision is one of the key factors in the success of a project and team.."]
+
+| PMBoK, Sixth edition (2021) PMI/PMI/5/ [Item Consideration for Agile/Adaptive Environments]
+
+A project manager is assigned a project for a customer with a history of being demanding and unclear about requirements. The customer has refused to accept previous deliverables without providing clear feedback.
+
+How should the project manager proceed with this project?
+
+A.Meet with the sponsor to define a detailed schedule leading to project completion on time.
+B.Work with the customer and the product owner to clearly define the minimum viable product (MVP).
+C.Implement an iterative approach in order to obtain formal acceptance of each deliverable.
+D.Request to terminate the project until the customer is able to provide concrete expectations.
+Solution: B. Work with the customer and the product owner to clearly define the minimum viable product (MVP).
+
+Working with the customer and the product owner addresses the root problem of unclear expectations and involves key stakeholders in defining the project's scope. By working with the customer and product owner to define the MVP, the project manager can ensure that everyone is on the same page and that the project deliverables are accepted by the customer.
+
+The other options are incorrect because they do not appropriately address the unclear requirements.
+
+Meeting with the sponsor to define a detailed schedule will not be worthwhile. If the requirements remain ambiguous, creating a realistic schedule will be difficult and will likely be inaccurate.
+
+Implementing an iterative approach is not sufficient because the customer has not been clear about what they expect and will likely reject the deliverables regardless of the approach.
+
+Requesting to terminate the project should only be considered as a last resort and does nothing to address the issue at hand. It's better to work towards clarifying expectations rather than immediately seeking termination. 
+
+This question and rationale were developed in reference to:
+
+| O'Reilly Platform (No Date) //Agile Management - Chapter 12 - Do phase-experiment/ [Item]
+
+PMBOK Guide Seventh Edition (2022) /// [3.9 NAVIGATE COMPLEXITY]
+
+A team member informs the project manager during a project meeting that a due task was not completed on time because of a last-minute work crisis.
+
+What should the project manager do?
+
+A.Check the task dependency, priority and impact of delay on the whole project
+B.Talk to to the team member privately, ask him/her to work overtime on the task
+C.Ask other team members to step in and assist in the completion of the task
+D.Review the task progress with the team and decide the course of action
+Solution: D. Review the task progress with the team and decide the course of action
+
+The project manager is responsible for timely delivery, if task not completed on time, it can be reviewed and rescheduled after impact analysis on whole project. The team may already have made some progress, or have plans in place to finish the task. The PM should understand the progress and then decide course of action. Other team members may not have the correct skills for the task, and asking them to help may jeopardize other tasks. There is no need to talk to the team member privately. The PM can check the dependency, priority, and impact to the project, after they understand the current progress and plan for the delayed task.
+
+This question and rationale were developed in reference to:
+
+Choose Your WoW! A Disciplined Agile Delivery Handbook for Opitimizing Your Way of Working (January 2019) Scott W Ambler and Mark Lines//22/312 [Item]
+
+During a daily standup, a stakeholder unexpectedly joins the meeting and criticizes the performance of one of the team members. After this, the team member is very distracted from their work and their productivity noticeably decreases.
+
+What should the team member do in this scenario?
+
+A.Schedule a meeting with the stakeholder to discuss the stakeholder’s actions during the standup.
+B.Email the stakeholder to request that future communications should come through the project manager.
+C.Meet with the scrum master to discuss what occurred and how it has affected productivity.
+D.Meet with the project manager and sponsor to request reassignment to a different project.
+Solution: C. Meet with the scrum master to discuss what occurred and how it has affected productivity.
+
+The scrum master's role is to remove obstacles and impediments from the team. In this case, the stakeholder approaching a team member is interfering with the team. The scrum master should talk with the stakeholder to understand their concerns and ensure they know the correct process for handling disputes with the team.
+
+The choices relating to the team member communicating directly with the stakeholder are not likely to be productive, as the question indicates that there already is a conflict between them that needs to be addressed by a third party.
+
+Requesting reassignment to a different project does not address the underlying problem.
+
+This question and rationale were developed in reference to:
+
+O'Reilly Platform (No Date) ///97 [Item Kindle Platform: The Scrum Master - training manual ]
+
+| The Agile Practice Guide (No Date) PMI/PMI/4/41 [Item]

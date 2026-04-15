@@ -1,0 +1,14 @@
+[
+  {
+    "status": "malformed",
+    "solution_line": 162,
+    "stem": "Collaboratively review project objectives with the sponsor to agree on achievable plans and deliverables.",
+    "options": [
+      "D.Create a business case after a market review to adjust project deliverables based on new objectives."
+    ],
+    "answer_letters": [
+      "C"
+    ],
+    "explanation": "Given the project's focus on agility, adaptability, and responsiveness to market trends, the project manager should establish clear and achievable goals. Collaboration with the sponsor ensures a shared understanding of priorities and market realities, alignment between project plans and expectations, and flexibility to adapt plans based on evolving market trends.\n\nThe other answer choices are incorrect. Conducting periodic reviews might delay adaptation. Requesting more funding might be reactive rather than proactive and doesn't address the core need for flexibility. Creating a new business case implies starting over, potentially delaying the project, and neglecting existing plans."
+  }
+]

@@ -1,0 +1,227 @@
+[
+  {
+    "status": "ok",
+    "solution_line": 9,
+    "stem": "A project manager needs to formally complete a project, but a supplier says an invoice has been paid twice. The project manager knows that the invoice was approved, but cannot find evidence of a duplicate payment. The project manager needs to close out this project in order to start a new project. What should the project manager do?",
+    "options": [
+      "A.Inform the supplier that payment was made only once, begin the close project process, and begin work on the new project.",
+      "B.Postpone project closure until the accounts payable department can document that the invoice was paid correctly.",
+      "C.Complete all final project documents, delay work on the new project, and update the documents after payment is verified.",
+      "D.Meet with the sponsor of the existing project to obtain approval to begin the new project before the existing project is closed."
+    ],
+    "answer_letters": [
+      "B"
+    ],
+    "explanation": "The finance department is the only one in this scenario that can provide proof if a payment was made. The PM should not close the project until this is confirmed\n\nThe other choices are not in line with the Project Closure process and hence are incorrect choices."
+  },
+  {
+    "status": "ok",
+    "solution_line": 29,
+    "stem": "A project team received training on the technology involved with a project deliverable. In nine months of working on the project, several team members have been replaced. Productivity has slowed because new team members are not familiar with the technology and the project schedule is at risk of delay. What should the project manager do?",
+    "options": [
+      "A.Meet with the entire team and ask existing members to train the new team members.",
+      "B.Negotiate an increase in budget with the project sponsor for additional training for the new team members.",
+      "C.Issue a change request for new team members already trained in the relevant technology.",
+      "D.Facilitate a workshop with a subject matter expert to familiarize team members with the technology."
+    ],
+    "answer_letters": [
+      "A"
+    ],
+    "explanation": "The issue is there are new team members unfamiliar with the technology.\n\nA: PMBOK 6, Chapter 9.4.2.6 notes that on-the-job training from another project team member, as a method to enhance the competencies of team members.\n\nB: Is not a preferred option as there are skilled resources within the team to support, and no indication additional funds could be made available.\n\nC: References that the new team members are already trained, therefore no need for additional training.\n\nD: May hold merit, however A provides a more direct approach with those team members familiar with both the technology and the work the team needs to perform."
+  },
+  {
+    "status": "ok",
+    "solution_line": 57,
+    "stem": "What can be determined from this information?",
+    "options": [
+      "A.The project is under budget, has an SPI of 0.94, and a CPI of 1.04.",
+      "B.The project is over budget, has an SPI of 1.04, and a CPI of 0.94.",
+      "C.The project is over budget, has an SPI of 1.18, and a CPI of 0.87.",
+      "D.The project is under budget, has an SPI of 0.87, and a CPI of 1.18."
+    ],
+    "answer_letters": [
+      "D"
+    ],
+    "explanation": "CPI stands for Cost Performance Index. It is a measure of how well the project is meeting its budget. A CPI of 1 means that the project is on budget, a CPI of less than 1 means that the project is over budget, and a CPI of greater than 1 means that the project is under budget.\nSPI stands for Schedule Performance Index. It is a measure of how well the project is meeting its schedule. An SPI of 1 means that the project is on schedule, an SPI of less than 1 means that the project is behind schedule, and an SPI of greater than 1 means that the project is ahead of schedule.\n\nEV = % completed * budget = 65% * $200,000 = $130,000\n\nPV = % expected * budget = 75% * $200,000 = $150,000\n\nAC = $110,000\n\nCPI = EV/AC = 130,000/110,000 = 1.18\n\nSPI = EV/PV = 130,000/150,000 = 0.87\n\nIn this case, the CPI is 1.18, which means that the project is under budget. This is because the actual cost of the project is less than the budget for the project. The SPI is 0.87, which means that the project is behind schedule. This is because the project is only 65% complete, but it should have been 75% complete by now."
+  },
+  {
+    "status": "ok",
+    "solution_line": 90,
+    "stem": "A project team uses the influence/commitment matrix to identify key stakeholders and prioritize them for specific action planning. For a specific group, the project team plans to keep them informed and feed them with any “early win” good news about the project. In which quadrant of the matrix are they located?",
+    "options": [
+      "A.Low Influence / Low Commitment",
+      "B.Low Influence / High Commitment",
+      "C.High Influence / Low Commitment",
+      "D.High Influence / High Commitment"
+    ],
+    "answer_letters": [
+      "B"
+    ],
+    "explanation": "Using “commitment to the change” as the x-axis and “influence” as the y-axis, this chart can be used to facilitate discussion on how to manage important stakeholders. It may also be possible to group particular stakeholders and develop actions that are targeted at the group rather than specific individuals.\n\nProject teams want to encourage these people to stay supportive without expending too much energy. It is very easy to spend too much time with these people because they support the project; yet they have little power to move it along. Try and keep them informed and feed them with any “early win” good news about the project."
+  },
+  {
+    "status": "ok",
+    "solution_line": 110,
+    "stem": "A project in the execution phase is on track and within budget. A key stakeholder requests a change in communication frequency. They want to discontinue receiving weekly status reports and instead be notified only if an issue arises that requires their attention. What should the project manager do?",
+    "options": [
+      "A.Review the stakeholder engagement plan to ascertain the stakeholder's involvement.",
+      "B.Ask the other stakeholders if they would also like less frequent notifications.",
+      "C.Revise the communications management plan to reflect the stakeholder's request.",
+      "D.Meet with the stakeholder to discuss the amount and type of information that should be communicated."
+    ],
+    "answer_letters": [
+      "C"
+    ],
+    "explanation": "The project manager should revise the communications management plan to reflect the stakeholder's request. This will ensure that the project manager is communicating with the stakeholder in a way that meets their needs and that the stakeholder is only receiving the information they need. A revised communications plan can specify when and how these notifications will occur, maintaining transparency and alignment.\n\nThe other options are incorrect.\n\nReviewing the stakeholder engagement plan is incorrect because the stakeholder's involvement is not changing. The stakeholder's request is primarily about how information is communicated, not about their overall involvement in the project.\n\nAsking the other stakeholders if they would also like less frequent notifications is incorrect because decisions about communication frequency should be based on the preferences and needs of each stakeholder individually. Decisions should not be made solely based on one stakeholder's request.\n\nMeeting with the stakeholder to discuss the amount and type of information that should be communicated is not necessary in this case because the stakeholder has already specified that they only want to be notified if an issue arises."
+  },
+  {
+    "status": "ok",
+    "solution_line": 136,
+    "stem": "A project manager is preparing the charter for a software development project that will outsource 33 percent of user interface (UI) evaluation. The project manager needs software developers to identify the parts of the UI that a third-party can evaluate. However, the software functional manager believes that the project will reduce staff in the software development department and refuses to cooperate. What should the project manager do first?",
+    "options": [
+      "A.Meet with the functional manager to review the statement of work (SOW).",
+      "B.Ask the project sponsor to explain the rationale for third-party evaluation to the functional manager.",
+      "C.Provide a cost/benefit analysis of third-party evaluation to the functional manager.",
+      "D.Explain the intent of the UI evaluation to the functional manager."
+    ],
+    "answer_letters": [
+      "A"
+    ],
+    "explanation": "In the early stage of a project, during the preparation of the project charter, the first thing to do is review the Statement of Work (SOW) with all the stakeholders. The statement of work (SOW) is typically created before the project charter, so the project manager should discuss the staff needs with the functional manager to address concerns early.\n\nThe other answer choices are not correct. Asking the project sponsor to intervene may not resolve the issue. The functional manager may not be interested in the cost/benefit analysis or the intent of the UI evaluation until the SOW and what is required of the software development staff  is understood."
+  },
+  {
+    "status": "ok",
+    "solution_line": 156,
+    "stem": "A technology project has members of a project team from multiple countries. The stakeholders have stated that this arrangement will keep the project within budget. However, the project manager believes that the stakeholders have not accounted for issues that might arise that could affect the success of the project. What should the project manager do to record this concern?",
+    "options": [
+      "A.Document the risks in the risk register.",
+      "B.Revise the stakeholder engagement plan.",
+      "C.Capture the information in the issues log.",
+      "D.Update the resource management plan."
+    ],
+    "answer_letters": [
+      "A"
+    ],
+    "explanation": "The correct answer is to document the risks in the risk register.\n\nHaving a dispersed project team does not come without risks. These risks need to be identified and documented in the risk register for the project. A risk register is a repository in which outputs of risk management processes are recorded. Information in a risk register can include the person responsible for managing the risk, probability, impact, risk score, planned risk responses, and other information used to get a high-level understanding of individual risks.\n\nRevising the stakeholder engagement plan will not help in documenting the project risk. A stakeholder engagement plan is a component of the project management plan that identifies the strategies and actions required to promote the productive involvement of stakeholders in a project or program decision-making and execution.\n\nAn issue log is a project document where information about issues is recorded and monitored. An issue is a current condition or situation that has occurred that may have an impact on the project objectives. Whereas a risk is an uncertain event or condition that, if it occurs, has a positive or negative effect on one or more project objectives.\n\nThe resource management plan provides guidance on how project resources should be categorized, allocated, managed, and released, and doesn't help in capturing risks/issues that might arise."
+  },
+  {
+    "status": "ok",
+    "solution_line": 182,
+    "stem": "PMBOK Guide Seventh Edition (2022) /// [4.6.3 PLANS] A project manager learns that the project team will miss a milestone because team member A has not completed the task requirements needed by team member B. When meeting with team member A, what should the project manager do?",
+    "options": [
+      "A.Direct team member A to turn over the responsibilities for completing the task requirements to team member B.",
+      "B.Identify any obstacles to meeting the task requirements and determine if team member A needs help completing them.",
+      "C.Ask team member A to work directly with team member B to complete the requirements in order to meet the milestone.",
+      "D.Ask team member A to recommend a replacement who can complete the task requirements."
+    ],
+    "answer_letters": [
+      "B"
+    ],
+    "explanation": "The correct answer is B, Project manager's goal is to make sure the all the task gets completed. the best option is to meet with the resource and understand what is constraining the resource and provide assistance where possible. Directing a team member to hand over responsibility to another member or to replace him is not a logical step which could entail cost and approvals."
+  },
+  {
+    "status": "ok",
+    "solution_line": 198,
+    "stem": "A company that manufactures standard equipment for municipalities needs to ensure consistency in tasks performed regularly during product assembly. What should the project manager develop to achieve this?",
+    "options": [
+      "A.Estimate Activity Resources process.",
+      "B.Design for X (DfX) guidelines.",
+      "C.Quality checklists.",
+      "D.Subject matter expert (SME) interviews."
+    ],
+    "answer_letters": [
+      "C"
+    ],
+    "explanation": "By developing quality checklists, the project manager can ensure that tasks are performed correctly and consistently. This will help to ensure the quality of the products and the satisfaction of the customers.\n\nThe other answer choices are incorrect. The Estimate Activity Resources process is a process used to estimate the resources needed for a project; it is not specifically designed to ensure consistency in tasks. The Design for X (DfX) guidelines are guidelines used to design products that are safe, reliable, and easy to use; they are not specifically designed to ensure consistency in tasks. Subject matter expert (SME) interviews are interviews with experts in a particular field; they are not specifically designed to ensure consistency in tasks."
+  },
+  {
+    "status": "ok",
+    "solution_line": 216,
+    "stem": "Two stakeholders inform the project manager that the status of a critical project phase was not communicated to them. Although the project phase is in these stakeholders' area of interest, the stakeholders have only recently been identified.What should the project manager do first?",
+    "options": [
+      "A.Review the communications management plan.",
+      "B.Perform a stakeholder analysis and update the stakeholder register.",
+      "C.Identify new ways to send project status reports to all stakeholders.",
+      "D.Schedule a status meeting and invite the two new stakeholders."
+    ],
+    "answer_letters": [
+      "B"
+    ],
+    "explanation": "As stakeholder identification continues throughout the project, new stakeholders, or new information about stakeholders, may result in a change request to the product, project management plan, or project documents. This register needs to be constantly examined and updated.\n\nThe process of identifying and engaging stakeholders for the project's benefit is a recurring one. Stakeholder identification, prioritising, and involvement should be revisited and updated on a regular basis in Project Stakeholder Management."
+  },
+  {
+    "status": "ok",
+    "solution_line": 236,
+    "stem": "A project depends on the reliability of one component. The project manager proposes designing redundancy into the system to reduce the impact that failure of this component would have on the success of the project. What type of risk response is the project manager demonstrating?",
+    "options": [
+      "A.Transfer",
+      "B.Mitigate",
+      "C.Accept",
+      "D.Avoid"
+    ],
+    "answer_letters": [
+      "B"
+    ],
+    "explanation": "The correct answer is mitigate.\n\nThe project manager is attempting to reduce or mitigate the impact that failure of the component would have on the success of the project. Risk mitigation is an action that is taken to reduce the probability of occurrence and/ or impact of a threat. Early mitigation action is often more effective than trying to repair the damage after the threat has occurred. Where it is not possible to reduce probability, a mitigation response might reduce the impact by targeting factors that drive the severity.\n\nRisk transference is a risk response strategy whereby the project team shifts the impact of a threat to a third party, together with ownership of the response.\n\nRisk avoidance is a risk response strategy whereby the project team acts to eliminate the threat or protect the project from its impact.\n\nRisk acceptance acknowledges the existence of a risk, but no proactive action is planned. Actively accepting a risk can include developing a contingency plan that would be triggered if the event occurred; or it can include passive acceptance, which means doing nothing."
+  },
+  {
+    "status": "ok",
+    "solution_line": 262,
+    "stem": "The day before construction is scheduled to begin, the project manager learns that the structure blueprint was not accepted by the customer. What should the project manager do first to ensure that the project timeline is met?",
+    "options": [
+      "A.Meet with the customer as soon as possible to discuss changes to the blueprint.",
+      "B.Begin construction as scheduled while simultaneously reviewing the blueprint with the customer.",
+      "C.Discuss the process of deliverable component acceptance with the customer.",
+      "D.Review the stakeholder engagement plan and stakeholder expectations."
+    ],
+    "answer_letters": [
+      "A"
+    ],
+    "explanation": "The first thing the project manager should do in this scenario is to meet with the customer as soon as possible to discuss changes to the blueprint. The blueprint is a critical document that outlines the design of the structure, and any changes to the blueprint could impact the project timeline. By meeting with the customer to discuss the changes, the project manager can get a clear understanding of what needs to be done and develop a plan for how to update the blueprint and adjust the project timeline accordingly.\n\nThe other answer choices are not as important to do first. Beginning construction as scheduled while simultaneously reviewing the blueprint with the customer is not the best course of action because it could lead to delays in the project if the changes to the blueprint are significant. Discussing the process of deliverable component acceptance with the customer is not the first thing that the project manager should do because it is not as critical as discussing the changes to the blueprint; it can be discussed with the customer at a later date. Reviewing the stakeholder engagement plan and stakeholder expectations is not the first thing that the project manager does; the project manager can review the stakeholder engagement plan and stakeholder expectations at a later date. By meeting with the customer as soon as possible to discuss changes to the blueprint, the project manager can take the necessary steps to minimize the impact on the project timeline and ensure the success of the project."
+  },
+  {
+    "status": "ok",
+    "solution_line": 280,
+    "stem": "During a kick-off meeting for a critical project, three stakeholders with varying perspectives and interests engaged in a heated argument about the project's goals. How should the project manager address this situation?",
+    "options": [
+      "A.Interrupt the argument and firmly assert their authority to maintain order and control over the meeting.",
+      "B.Facilitate a structured discussion to understand each stakeholder's perspective and find common ground.",
+      "C.Conclude the meeting prematurely to allow stakeholders to cool off and reschedule it at a later date.",
+      "D.Ignore the argument and proceed with the meeting's agenda as planned, addressing the conflict afterward."
+    ],
+    "answer_letters": [
+      "B"
+    ],
+    "explanation": "Facilitating a structured discussion demonstrates a proactive approach to resolving conflicts as they arise and promotes collaboration and problem-solving among stakeholders. It allows the project manager to address the immediate issue, reducing the likelihood of further tension and unproductive discussions. Once the project manager has a better understanding of each stakeholder's perspective, they can start to identify the root cause of the conflict. This understanding is essential for finding common ground and aligning the stakeholders' interests with the project's goals and will help them to develop a more effective solution.\n\nThe other options are incorrect because they do not work to resolve the issue and may only escalate the situation.\n\nInterrupting and asserting authority may escalate tensions further and hinder productive discussion. It's generally more effective to seek understanding and resolution before resorting to assertive measures.\n\nEnding the meeting prematurely may disrupt the project timeline and create scheduling challenges. This approach may send the message that the project manager is not taking the stakeholders' concerns seriously or that they are not committed to finding a solution.\n\nIgnoring the argument is incorrect because postponing conflict resolution allows issues to grow and become more challenging to resolve in the future. It's generally advisable to address conflicts as they arise to maintain a productive and collaborative environment."
+  },
+  {
+    "status": "ok",
+    "solution_line": 306,
+    "stem": "A company is venturing into a new business but has no previous experience in that market. The project manager is having trouble visualizing project requirements. What should the project manager do next?",
+    "options": [
+      "A.Consult the project charter.",
+      "B.Reevaluate the business venture's objectives.",
+      "C.Seek potential customer input.",
+      "D.Conduct a feasibility study."
+    ],
+    "answer_letters": [
+      "C"
+    ],
+    "explanation": "The project manager is having difficulty visualizing the project's requirements, and the best way to understand what the requirements are is to engage with the people who will be using the product or service that is being developed. Potential customers can provide valuable information about their needs and wants, which can help the project manager visualize the project's requirements.\n\nThe other answer choices are incorrect. Referencing the project charter is not helpful if the project manager is having trouble visualizing the requirements. Reevaluating the business venture's goals is not the next step that the project manager should take. The project manager must first understand the customer's needs before they can reevaluate the business venture's goals. Conducting a feasibility study is not the most appropriate next step. The project manager should first seek potential customer input to get a better understanding of the requirements."
+  },
+  {
+    "status": "ok",
+    "solution_line": 328,
+    "stem": "A project manager is leading a project with an aggressive timeline that requires fast time to market because a competitor is working on a similar product. The project team cannot meet the go live date, and there are no other internal resources that can assist with the project. How should the project manager mitigate this risk?",
+    "options": [
+      "A.Look for external resources who can assist in meeting the required go live date.",
+      "B.Ask the team to remove the obstacles preventing them from meeting the go live date.",
+      "C.Ask the project sponsor to set a new go live date based on available resources.",
+      "D.Ask the team to focus only on the critical features and meet the go live date."
+    ],
+    "answer_letters": [
+      "A"
+    ],
+    "explanation": "From the stem it is clear that the issue can't be resolved with internal resources, the team doesn't have the capacity to deliver and the go live date is critical to the organization.\n\nThe only solution is to engage external resources."
+  }
+]

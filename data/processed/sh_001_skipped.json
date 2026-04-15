@@ -1,0 +1,20 @@
+[
+  {
+    "status": "multi_answer",
+    "solution_line": 28,
+    "stem": "An organization is undergoing a transformation from predictive to agile development. The organization plans to adopt an agile development process incrementally. A project manager is hired to lead the organizational transformation and product development. What should the project manager do? (Choose 3)",
+    "options": [
+      "A.Understand the current state of the organization and pilot agile practices.",
+      "B.Build a work authorization and work breakdown structure (WBS).",
+      "C.Develop a transformation roadmap and educate stakeholders and teams.",
+      "D.Propose that the organization maintain a predictive development approach.",
+      "E.Implement iterative planning cycles to regularly review progress."
+    ],
+    "answer_letters": [
+      "A",
+      "C",
+      "E"
+    ],
+    "explanation": "A. Understand the current state of the organization and pilot agile practices.\n\nC. Develop a transformation roadmap and educate stakeholders and teams\n\nE. Implement iterative planning cycles to regularly review progress.\n\nAssessing and understanding the current state of the organization's processes, culture, and readiness for change is vital. This involves understanding existing workflows, identifying key stakeholders, and recognizing potential resistance to change.\n\nDeveloping a transformation roadmap should include specific goals, timelines, and milestones for adopting agile practices incrementally.Providing training and resources to educate stakeholders and teams about agile principles, practices, and roles is crucial when an organization goes through a transformation from one approach to another.\n\nImplementing iterative planning cycles to regularly review progress, gather feedback, and adjust plans as needed will help the project manager enact change comfortably and confidently. This helps align the project with business objectives and ensures the team is responsive to changes.\n\nThe other options are incorrect.\n\nWork authorization and work breakdown structures are tools commonly used in predictive or waterfall approaches, and are not typically emphasized in agile transformations.\n\nProposing that the organization not adopt an agile approach and instead maintain predictive methods is counter to the organization's needs and wants. The organization has already decided to switch to agile practices, so it would be counterproductive to suggest that they maintain predictive development approaches."
+  }
+]

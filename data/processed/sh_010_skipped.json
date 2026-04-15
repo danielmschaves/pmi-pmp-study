@@ -1,0 +1,20 @@
+[
+  {
+    "status": "multi_answer",
+    "solution_line": 288,
+    "stem": "A project manager for a cross-functional team realizes that there is a lack of commitment from stakeholders to the project following a review meeting. This could lead to project failure. Which three of the following actions should be avoided to mitigate this risk? (Choose 3).",
+    "options": [
+      "A.Creating a weak communication plan",
+      "B.Allowing stakeholders to use information radiators",
+      "C.Not prioritizing stakeholders’ communication needs",
+      "D.Using fishbowl windows and remote pairing",
+      "E.Not updating the communication plan"
+    ],
+    "answer_letters": [
+      "A",
+      "C",
+      "E"
+    ],
+    "explanation": "The three actions that should be avoided by the project manager to mitigate the risk are those that are most likely to lead to a lack of commitment from stakeholders. A weak communication plan, not prioritizing stakeholders' communication needs, and not updating the communication plan as the project progresses are all likely to lead to misunderstandings and a lack of information for stakeholders. This can lead to stakeholders feeling like they are not being kept in the loop, which can damage relationships and lead to a lack of commitment to the project.\n\nThe other two options, stakeholders using information radiators and using fishbowl windows and remote pairing, are not as likely to lead to a lack of commitment from stakeholders. Information radiators are visual displays of project information that can be helpful in keeping stakeholders informed. Fishbowl windows and remote pairing are techniques that can be used to improve communication and collaboration between stakeholders, which can help to build relationships and increase buy-in."
+  }
+]

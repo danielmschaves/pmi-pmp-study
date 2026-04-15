@@ -1,0 +1,197 @@
+[
+  {
+    "status": "ok",
+    "solution_line": 9,
+    "stem": "A project manager is part of a project that has a scrum team. The team members are unfamiliar with the distinction between risks and issues and prefer to use the concept of impediments. For which of the following would the team be unable to apply the concept of impediments?",
+    "options": [
+      "A.One of the junior members of the team cannot work at full capacity for a week.",
+      "B.One of the competitors announced the imminent release of a new version of their product.",
+      "C.The administration of the building announced that for the next couple of weeks there will be maintenance work on the air conditioning system.",
+      "D.The project manager is on leave and scrum master has to take a lead for distinguishing risk from issues."
+    ],
+    "answer_letters": [
+      "B"
+    ],
+    "explanation": "The competitor launch does not prohibit the team from doing work and does not impact team velocity. Thus, it would not be considered an impediment."
+  },
+  {
+    "status": "ok",
+    "solution_line": 25,
+    "stem": "A project manager is leading a daily standup meeting when a team member requests that other team members take on some of their assigned work because they are feeling overwhelmed with an upcoming deadline. What should the project manager do next?",
+    "options": [
+      "A.Reassign the team member's work to other team members without asking for their input.",
+      "B.Ask the team member to identify the tasks they need assistance with in another meeting.",
+      "C.Tell the team member to go for training to figure out how to complete their work on time.",
+      "D.Dismiss the team member's concerns and move on with the daily standup meeting."
+    ],
+    "answer_letters": [
+      "B"
+    ],
+    "explanation": "The best way for the project manager to handle this situation is to ask the team member to identify the tasks that they need assistance with in another meeting, to avoid interrupting the daily standup. This will give the project manager a better understanding of the situation and allow them to develop a plan to help the team member. The project manager can then work with the team member to reprioritize their work, assign some of their work to other team members, or provide them with additional support.\n\nThe other answer choices are incorrect. Reassigning the team member's work to other team members without asking for their input does not respect the other team members' autonomy. Telling the team member to go for training to figure out how to complete their work on time is not a supportive approach, and it may not be realistic. Dismissing the team member's concerns and move on with the daily standup meeting is also not supportive and could create a negative atmosphere in the team."
+  },
+  {
+    "status": "ok",
+    "solution_line": 43,
+    "stem": "Which of the following steps should an Agile project manager of a newly formed virtual team take to help the organization succeed? (Choose 2).",
+    "options": [
+      "A.Provide clear goals, direction, or priorities.",
+      "B.Help establish cooperation and trust.",
+      "C.Let the team decide and evolve their roles and responsibilities.",
+      "D.Neglect \"Face time\" and regular check-ins with team members."
+    ],
+    "answer_letters": [
+      "B"
+    ],
+    "explanation": "In Agile, the team is \"self-organized\" so the project manager should build trust and let individuals get comfortable taking responsibility in their roles in a virtual setting instead of providing directions, as suggested in answer choice A. Neglecting face time and check-ins will reduce communication and negatively impact the project."
+  },
+  {
+    "status": "ok",
+    "solution_line": 59,
+    "stem": "A project manager is running an agile project that is half completed. During the most recent sprint retrospective, the team members see that they worked more hours than were originally scheduled. How should the project manager address this situation?",
+    "options": [
+      "A.Note the additional hours in the budget and leverage the budget reserves.",
+      "B.Reach out to the sponsor asking for additional project team members to increase velocity.",
+      "C.Work with the project team to identify why this occurred and what can be done to prevent it in future sprints.",
+      "D.Empower the team to address this issue and present the sponsor with the proposed resolution."
+    ],
+    "answer_letters": [
+      "C"
+    ],
+    "explanation": "The project manager has to help the team to figure out how to maintain or improve the productivity and avoid the problem in future sprints.\n\nProviding additional hours is not a correct response because it does not allow the team to evaluate why the problem happened.\n\nReaching out to the project sponsor will not solve the root of the problem.\n\nEmpowering the team doesn't allow the project manager the opportunity to determine the cause of the problem."
+  },
+  {
+    "status": "ok",
+    "solution_line": 83,
+    "stem": "A software developer who is working on a critical component has to take emergency leave from the project. Due to time constraints, the project manager cannot hire a new replacement developer for the team. What should the project manager do to manage the situation?",
+    "options": [
+      "A.Move the critical component to the final iteration it can be worked on after the developer returns from leave.",
+      "B.Request the project sponsor to extend the project until the developer returns and finishes the work.",
+      "C.Prolong the iteration to allow time for the developer to return and complete the component.",
+      "D.Ask team members to find a way to complete the missing developer's work in this iteration."
+    ],
+    "answer_letters": [
+      "D"
+    ],
+    "explanation": "The best choice is to find a way to complete the absent developer's work as originally scheduled (in this iteration) by relying on other team members.\n\nThe other choices involve waiting for the developer to return from leave, and while they are possible, nothing in the question states that other team members do not have the skills to fill in and maintain the project schedule as much as possible."
+  },
+  {
+    "status": "ok",
+    "solution_line": 129,
+    "stem": "What should project manager do to manage the project budget?",
+    "options": [
+      "A.Estimate the additional project cost and plan to propose the new budget to the change review board.",
+      "B.Reduce the resources and ask the team to manage tasks within the planned cost.",
+      "C.Discuss with the project team to reduce the use of support resources by the project.",
+      "D.Accept the cost overrun risk, depending on the contingency amount of the project."
+    ],
+    "answer_letters": [
+      "C"
+    ],
+    "explanation": "Resource sharing is one of the key approaches to optimize costs. To manage the project budget, the project manager should discuss with the project team to reduce the use of support resources by the project.\n\nThe other answer choices are incorrect. These options are more for a predictive approach. A change review board is not common practice in agile; the project is not plan driven so there is no cost constraint."
+  },
+  {
+    "status": "ok",
+    "solution_line": 147,
+    "stem": "A project manager is new to the organization and is assigned to replace the project manager of an active project. What should be one of the first things the project manager does?",
+    "options": [
+      "A.Schedule meetings with the project stakeholders to learn more about the project deliverables.",
+      "B.Setup meetings with the team members to discuss the project’s status and risks.",
+      "C.Conduct a Pareto analysis to identify which tasks need to be prioritized.",
+      "D.Prepare by reviewing the risk register and mitigation strategies."
+    ],
+    "answer_letters": [
+      "B"
+    ],
+    "explanation": "An understanding of agile and it's marriage to risk is important to effectively get an overview from the entire team of the risks a project will face.\n\nProject manager should understand the project status and risks first from the team members. This is the right choice\n\nscheduling meeting with stake holders is the second step after understanding the project status and risk\n\nConducting pareto analysis is the fourth step after understanding the project status and deliverables\n\nWithout understanding project status, it is difficult to understand the risk register"
+  },
+  {
+    "status": "ok",
+    "solution_line": 173,
+    "stem": "What can be determined from this information?",
+    "options": [
+      "A.The project is under budget with a CPI of 1.21.",
+      "B.The project is over budget with a CPI of 0.83.",
+      "C.The project is under budget CPI of 0.83.",
+      "D.The project is over budget with a CPI of 1.21."
+    ],
+    "answer_letters": [
+      "B"
+    ],
+    "explanation": "EV = % completed * budget = 45% * $110,000 = $49,500\n\nAC = $60,000\n\nCPI = EV/AC = 49,500/60,000 = 0.83\n\nA CPI under 1 means the project is over budget."
+  },
+  {
+    "status": "ok",
+    "solution_line": 197,
+    "stem": "Which agile project parameter is least likely to change during project execution?",
+    "options": [
+      "A.Project vision",
+      "B.Definition of done",
+      "C.Product owner",
+      "D.Product backlog"
+    ],
+    "answer_letters": [
+      "A"
+    ],
+    "explanation": "The Project Vision describes why the project is initiated, and any change would change all other parameters.\n\nThe other listed parameters are more likely to change than Project Vision."
+  },
+  {
+    "status": "ok",
+    "solution_line": 251,
+    "stem": "PMBOK Guide Seventh Edition (2022) /// [2.3.3 DEVELOPMENT APPROACHES] [4.2.4 CHANGE MODELS] An agile team finds it difficult to complete a checklist because they have different interpretations of what the project aims to achieve. How can the project manager help them gain a common understanding of the project's overall purpose?",
+    "options": [
+      "A.Review the project vision.",
+      "B.Review the full list of user stories.",
+      "C.Review the Agile Manifesto.",
+      "D.Conduct the first sprint retrospective."
+    ],
+    "answer_letters": [
+      "A"
+    ],
+    "explanation": "The Project Vision describes the overall purpose of the project and potentially its key benefits. Project objectives without a vision may describe the desired end result and time frame, but they do not form an underlying meaning for the work. Sharing a common project vision and having the same understanding about tracking the progress towards this vision is one of the key factors in the success of a project and team."
+  },
+  {
+    "status": "ok",
+    "solution_line": 271,
+    "stem": "A project manager is assigned a project for a customer with a history of being demanding and unclear about requirements. The customer has refused to accept previous deliverables without providing clear feedback. How should the project manager proceed with this project?",
+    "options": [
+      "A.Meet with the sponsor to define a detailed schedule leading to project completion on time.",
+      "B.Work with the customer and the product owner to clearly define the minimum viable product (MVP).",
+      "C.Implement an iterative approach in order to obtain formal acceptance of each deliverable.",
+      "D.Request to terminate the project until the customer is able to provide concrete expectations."
+    ],
+    "answer_letters": [
+      "B"
+    ],
+    "explanation": "Working with the customer and the product owner addresses the root problem of unclear expectations and involves key stakeholders in defining the project's scope. By working with the customer and product owner to define the MVP, the project manager can ensure that everyone is on the same page and that the project deliverables are accepted by the customer.\n\nThe other options are incorrect because they do not appropriately address the unclear requirements.\n\nMeeting with the sponsor to define a detailed schedule will not be worthwhile. If the requirements remain ambiguous, creating a realistic schedule will be difficult and will likely be inaccurate.\n\nImplementing an iterative approach is not sufficient because the customer has not been clear about what they expect and will likely reject the deliverables regardless of the approach.\n\nRequesting to terminate the project should only be considered as a last resort and does nothing to address the issue at hand. It's better to work towards clarifying expectations rather than immediately seeking termination."
+  },
+  {
+    "status": "ok",
+    "solution_line": 297,
+    "stem": "A team member informs the project manager during a project meeting that a due task was not completed on time because of a last-minute work crisis. What should the project manager do?",
+    "options": [
+      "A.Check the task dependency, priority and impact of delay on the whole project",
+      "B.Talk to to the team member privately, ask him/her to work overtime on the task",
+      "C.Ask other team members to step in and assist in the completion of the task",
+      "D.Review the task progress with the team and decide the course of action"
+    ],
+    "answer_letters": [
+      "D"
+    ],
+    "explanation": "The project manager is responsible for timely delivery, if task not completed on time, it can be reviewed and rescheduled after impact analysis on whole project. The team may already have made some progress, or have plans in place to finish the task. The PM should understand the progress and then decide course of action. Other team members may not have the correct skills for the task, and asking them to help may jeopardize other tasks. There is no need to talk to the team member privately. The PM can check the dependency, priority, and impact to the project, after they understand the current progress and plan for the delayed task."
+  },
+  {
+    "status": "ok",
+    "solution_line": 313,
+    "stem": "During a daily standup, a stakeholder unexpectedly joins the meeting and criticizes the performance of one of the team members. After this, the team member is very distracted from their work and their productivity noticeably decreases. What should the team member do in this scenario?",
+    "options": [
+      "A.Schedule a meeting with the stakeholder to discuss the stakeholder’s actions during the standup.",
+      "B.Email the stakeholder to request that future communications should come through the project manager.",
+      "C.Meet with the scrum master to discuss what occurred and how it has affected productivity.",
+      "D.Meet with the project manager and sponsor to request reassignment to a different project."
+    ],
+    "answer_letters": [
+      "C"
+    ],
+    "explanation": "The scrum master's role is to remove obstacles and impediments from the team. In this case, the stakeholder approaching a team member is interfering with the team. The scrum master should talk with the stakeholder to understand their concerns and ensure they know the correct process for handling disputes with the team.\n\nThe choices relating to the team member communicating directly with the stakeholder are not likely to be productive, as the question indicates that there already is a conflict between them that needs to be addressed by a third party.\n\nRequesting reassignment to a different project does not address the underlying problem."
+  }
+]

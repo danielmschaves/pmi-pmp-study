@@ -1,0 +1,227 @@
+[
+  {
+    "status": "ok",
+    "solution_line": 9,
+    "stem": "A project manager is on a project with a very involved customer. The customer demands regular updates on the project, including the current project status and planned next steps. What is the best way to communicate with the customer?",
+    "options": [
+      "A.Email the customer weekly updates including the project risk register and notes from daily standups.",
+      "B.Document a detailed summary of the project along with a list of stakeholders, and send it to the customer monthly.",
+      "C.Schedule daily meetings to provide a brief project summary and details on what the project team is currently working on.",
+      "D.Schedule weekly meetings with the customer to present incremental project updates and to have the customer validate project progress."
+    ],
+    "answer_letters": [
+      "D"
+    ],
+    "explanation": "The best way for a project manager to communicate with a very involved customer who demands regular updates on the project is to schedule weekly meetings with the customer to present incremental project updates and to have the customer validate project progress.\n\nThe other answer choices are incorrect. Emailing the customer weekly updates, including the project risk register and notes from daily standups, and documenting a detailed summary of the project along with a list of stakeholders may not be effective if the customer does not have the time to read and review the updates. Additionally, emailing the project risk register may not be necessary, as the customer may not need to be aware of all of the project's risks. Monthly updates may not be frequent enough for a demanding customer. Schedule daily meetings to provide a brief project summary and details on what the project team is currently working on is not as effective because the customer may not have the time to attend daily meetings, and the meetings may not be as productive"
+  },
+  {
+    "status": "ok",
+    "solution_line": 29,
+    "stem": "A project is in progress and the project plan follows waterfall but deliverables are incrementally given to the customer in an agile manner. The project team is comfortable with the hybrid approach and has successfully made important decisions for previous projects. How should the project manager proceed?",
+    "options": [
+      "A.Take control of the decision-making process.",
+      "B.Provide the team with a detailed process for making decisions.",
+      "C.Support the team’s choices and project decisions.",
+      "D.Train the project team on decision-making techniques."
+    ],
+    "answer_letters": [
+      "C"
+    ],
+    "explanation": "The best way for the project manager to proceed is to support the project team’s choices and allow them to assume control of project decisions. The project team has successfully made important decisions for previous projects, and they are comfortable with the hybrid approach. They are also familiar with the project plan, so they are well-positioned to make decisions that are aligned with the project's goals and objectives.\n\nThe other answer choices are incorrect. The project manager taking control of the decision-making process would be a top-down approach that could stifle innovation and creativity. Providing the team with a detailed process would be rigid and could prevent the team from adapting to changes in the project's scope or requirements. Training the team members on decision-making would not be enough to ensure that the project team is successful."
+  },
+  {
+    "status": "ok",
+    "solution_line": 49,
+    "stem": "Since it is a fixed price project, what approach should the project manager use?",
+    "options": [
+      "A.Use a predictive approach and send the daily status report to the customer.",
+      "B.Use an Agile approach and showcase each successful completion of the story.",
+      "C.Use a hybrid approach and showcase each successful completion of each module.",
+      "D.Use a predictive approach and showcase each successful completion of each module."
+    ],
+    "answer_letters": [
+      "C"
+    ],
+    "explanation": "Waterfall Plan – Agile Execution many organizations seek the security of waterfall planning and a more deliberate approach to project initiation while also seeking the agility and opportunities for incremental and rapid value realization that exist with agile execution. These organizations recognize that there is value in planning, but that the plans themselves are less valuable and, in most projects, will change. They therefore embrace change by executing their planned projects using agile tactics.\n\nThis is a fixed time and cost project with a clear scope.\n\nThe PM needs to use the hybrid approach to provide the customer with details of completion ofeach module\n\nThe customer wants to monitor the progress regularly NOT receive daily status reports nor wants to analyze the completion of each successful story"
+  },
+  {
+    "status": "ok",
+    "solution_line": 73,
+    "stem": "A stakeholder that is not experienced with agile has emailed the project team expressing frustration and displeasure with their work. In the email, the stakeholder is demanding significant changes in both the project scope and deliverables. How should the project manager address this situation?",
+    "options": [
+      "A.At the next team standup, ask the team why the stakeholder is upset.",
+      "B.Update the scope and project plan to meet the stakeholder’s requests.",
+      "C.Communicate with both the stakeholder and the product owner to foster project alignment.",
+      "D.Meet individually with the stakeholder to review the project backlog."
+    ],
+    "answer_letters": [
+      "C"
+    ],
+    "explanation": "Daily standup is not the place for this sort of discussion.\n\nAltering the backlog scope and project plan without team input may result adverse effects/issues.\n\nThe Product Owner should have been working with this stakeholder to understand the backlog. Communicate with both the stakeholder and the product owner to foster project alignment is the right choice.\n\nThis request is best handled during a backlog refinement meeting. There may be global impact on other scheduled work. so meeting individually with the stakeholder to review the project backlog is not the right choice"
+  },
+  {
+    "status": "ok",
+    "solution_line": 99,
+    "stem": "An organization is launching a new product that is critical to the company's success. The stakeholders have identified three key factors for success: market adaptation, rapid response to market offerings, and agility. What should the project manager do to ensure the project's success?",
+    "options": [
+      "A.Work closely with the marketing team to promote the product and adapt to market changes.",
+      "B.Ensure that the project has sufficient budget and resources to address any challenges.",
+      "C.Be actively involved in the project by monitoring progress, making necessary changes, and capturing data.",
+      "D.Invite the stakeholders to attend all standups to ensure they are actively involved in the project’s success."
+    ],
+    "answer_letters": [
+      "A"
+    ],
+    "explanation": "The best answer is Work closely with the marketing team to promote the product and adapt to market changes. This is because the stakeholders have identified market adaptation as one of the key factors for success. The project manager can work with the marketing team to develop a marketing plan that will reach the target market and adapt the plan as needed to respond to changes in the market.\n\nThe other answer choices are also important, but they are not as critical as market adaptation. Ensure that the project has sufficient budget and resources to address any challenges is important, but the project manager can still work with the marketing team to develop a marketing plan even if the budget is limited. Be actively involved in the project by monitoring progress, making necessary changes, and capturing data is also important, but the project manager can still do this even if they are not invited to all standups. Invite the stakeholders to attend all standups to ensure they are actively involved in the project’s success is important, but it is not as important as market adaptation."
+  },
+  {
+    "status": "ok",
+    "solution_line": 121,
+    "stem": "A project manager notices a potential conflict between a remote developer and an on-site tester during a sprint; the developer feels the tester is being overly critical of their code, while the tester is concerned about potential bugs impacting the release schedule. What should the project manager do first?",
+    "options": [
+      "A.Categorize the conflict as \"interpersonal\" and direct the team members to handle it themselves.",
+      "B.Publicly discuss the conflict during the next daily standup to encourage open communication.",
+      "C.Schedule a private one-on-one meeting with each team member to understand their perspective.",
+      "D.Add the conflict to the shared project backlog and prioritize its resolution alongside other tasks."
+    ],
+    "answer_letters": [
+      "C"
+    ],
+    "explanation": "By creating a safe space for individual expression in private one-on-one meetings, the project manager can identify the root cause of the conflict and guide each team member toward a solution that addresses both the technical concerns and interpersonal dynamics.\n\nThe other answer choices are incorrect.  Leaving it solely to the team members to resolve may cause delays, thus immediate intervention is crucial when a disruptive conflict is brewing. While transparency is valuable, public discussion can embarrass or escalate the situation, especially if team members are unprepared. Treating the conflict as a mere task disregards its human element and risks delaying its resolution, potentially impacting the sprint."
+  },
+  {
+    "status": "ok",
+    "solution_line": 139,
+    "stem": "During a meeting with stakeholders, the project manager received multiple concerns about the quality of the project’s deliverables. The customer feels so strongly about these concerns that they decide they will not approve any future deliverables. What should the project manager do in this scenario?",
+    "options": [
+      "A.Inform the sponsor that the project has ended explaining the reason for the project termination.",
+      "B.Leveraging notes from the meeting, work with the project team to improve the deliverables.",
+      "C.Meet with the stakeholders to identify how to address the identified issues and how to proceed with the project.",
+      "D.Document the concerns presented and send them to the change control board (CCB) for guidance on how to proceed."
+    ],
+    "answer_letters": [
+      "C"
+    ],
+    "explanation": "The most important thing for the project manager to do first is to meet with the stakeholders to identify how to address the identified issues and how to proceed with the project. This will help to ensure that the project can be brought back on track and that the customer's concerns are addressed.\n\nThe other answer choices are not as important as meeting with the stakeholders. Informing the sponsor that the project has ended and explaining the reason for the project termination should be a last resort. The project manager should try to work with the stakeholders to resolve the issues before terminating the project. Leveraging notes from the meeting and working with the project team to improve the deliverables should be done after meeting with the stakeholders to understand their priorities and concerns. Documenting the concerns presented and sending them to the change control board (CCB) for guidance on how to proceed should be done after meeting with the stakeholders and developing a plan to address the issues. By meeting with the stakeholders first, the project manager can show that they are committed to resolving the issues and that they value the customer's input. This will help to build trust and confidence with the stakeholders and increase the chances of a successful project outcome."
+  },
+  {
+    "status": "ok",
+    "solution_line": 157,
+    "stem": "A project manager is a part of a project that is using the Scrum framework. The project manager needs to monitor the impediments log and facilitate the resolution of impediments raised by the team. What is the correct order of the five steps used to manage the impediments log?",
+    "options": [
+      "A.Prioritize, record, publish, communicate and address",
+      "B.Record, publish, communicate, prioritize and address",
+      "C.Record, prioritize, publish, address and communicate",
+      "D.Prioritize, record, publish, address and communicate"
+    ],
+    "answer_letters": [
+      "C"
+    ],
+    "explanation": "The correct order is record, prioritize, publish, address, and communicate.\n\nProcess\n\nDescription\n\nRecord\nThe Daily Standup Meeting is the best time to document impediments in the Impediments Log as each team member reveals them. After the brief meeting, the Scrum Master will gather additional information so that the impediments can be prioritized.\n\nPrioritize\nImpediments should be prioritized based on their levels of importance and in relation to those on that are already on the log.\n\nPublish\nThe Impediments Log should be made visible to everyone and posted for all to view.\n\nAddress\nThe Scrum Master should address the highest priority impediments from the log and ensure that it is removed so that the team can continue to reach the Sprint’s objective.\n\nCommunicate\nWhen the impediment is removed, this information should be communicated to the involved parties and the Impediments Log is updated."
+  },
+  {
+    "status": "ok",
+    "solution_line": 192,
+    "stem": "A global organization that has always used predictive project management is now moving towards agile project management. In the first agile project of the organization, members from remote teams are failing to attend the daily standup meetings. How can the project manager resolve this issue?",
+    "options": [
+      "A.Replace remote project team members with co-located team members.",
+      "B.Assign tasks of lower priority to the remote team members.",
+      "C.Leverage online meeting platforms for the standups and consider the working hours of remote team members when scheduling.",
+      "D.Use some of the project budget to provide training on agile methods for all remote team members."
+    ],
+    "answer_letters": [
+      "C"
+    ],
+    "explanation": "When a company is moving to Agile or Hybrid methodology these remote teams need to be taken in consideration to design the appropriate dynamics and infrastructure to work together. From a timing perspective, a daily stand up needs to take into consideration time zones and availability."
+  },
+  {
+    "status": "ok",
+    "solution_line": 210,
+    "stem": "A project is currently halfway through its timeline when one of the external resources becomes unexpectedly unavailable for the rest of the project. This unavailability puts the project's successful completion within budget and on time at risk. What should the project manager do as the initial step in addressing this?",
+    "options": [
+      "A.Update the resource management plan and record the necessary skills in the issues log.",
+      "B.Engage with stakeholders to find a qualified replacement for the external resource.",
+      "C.Initiate training for an internal resource on the required skills and assign the remaining tasks.",
+      "D.Revise the project's schedule and budget estimates and submit a change request."
+    ],
+    "answer_letters": [
+      "A"
+    ],
+    "explanation": "Before moving forward, the project manager should assess the impact, update the resource management plan, and document the skills needed for this role in the issues log. By documenting the skills required, the project manager can assess whether internal team members possess those skills or if external resources need to be sought. It provides a clear and transparent record of the specific skills and qualifications required to fill the gap left by the unavailable resource.\n\nEngaging with stakeholders to find a qualified replacement or training an internal resource should not be the initial step. Searching for a replacement is necessary, but the project manager may not have a clear understanding of what skills and qualifications are needed for the replacement. When considering potential replacements, having a documented list of required skills ensures that any decisions made align with the project's needs.\n\nUpdating estimates and submitting a change request is a necessary step, but it is not the initial step in this specific scenario."
+  },
+  {
+    "status": "ok",
+    "solution_line": 232,
+    "stem": "A project manager is halfway through a project using a predictive methodology when the organization announces a transition to a hybrid approach. The project sponsor instructs the team to transition to this new hybrid approach immediately, even though the team has no prior experience with hybrid projects. What is the best course of action for the project manager to take?",
+    "options": [
+      "A.Finish project delivery with the predictive methodology.",
+      "B.Extend the project timeline to accommodate the change.",
+      "C.Reevaluate project scope and prioritize critical tasks.",
+      "D.Request a complete overhaul of the project plan."
+    ],
+    "answer_letters": [
+      "C"
+    ],
+    "explanation": "Transitioning from a predictive methodology to a hybrid approach involves incorporating adaptive and flexible elements. Reevaluating the project scope is crucial because hybrid approaches often require more flexibility and adaptability. When transitioning to a new methodology, it is important to focus on the most critical tasks that need to be completed in order to achieve the project goals. This helps the team navigate the change and empowers them to effectively embrace the principles of hybrid project management, including adaptability, collaboration, and delivering value to the customer.\n\nThe other options are incorrect\n\nFinishing the project with the predictive methodology is not ethical or feasible, as the project sponsor has already instructed the team to transition to a hybrid approach. Disregarding this instruction may lead to misalignment with the organization's strategic goals.\n\nExtending the project timeline might be necessary in some cases but, it's not the best initial course of action. It's more effective to first reevaluate and then consider timeline adjustments as needed.\n\nRequesting a complete overhaul of the project plan is disruptive and could lead to significant delays and potential confusion among the project team."
+  },
+  {
+    "status": "ok",
+    "solution_line": 258,
+    "stem": "A project manager is planning a worldwide product launch. Manufacturing the product is subject to rigid time constraints related to the production line and raw material availability. There are also uncertainties around regional labeling regulations that are expected to evolve within the launch period. How can the project manager integrate planning and development for the unknown labeling requirements?",
+    "options": [
+      "A.Use a hybrid approach, integrating predictive labeling work streams into an agile roll-out schedule.",
+      "B.Use a hybrid approach, integrating an agile labeling workflow into a predictive roll-out schedule.",
+      "C.Apply agile planning to both the manufacturing and labeling work streams to align the workflows.",
+      "D.Apply predictive planning to the labeling work stream and streamline the change control process."
+    ],
+    "answer_letters": [
+      "B"
+    ],
+    "explanation": "The project manager has to balance the predictability needed for manufacturing with the flexibility required for adapting to unknown regulations. A hybrid approach allows for agile labeling workflow and a predictive roll-out schedule. Merging these approaches offers the best of both worlds: early preparation and predictive planning for activities where requirements are known ensures a timely launch; agile flexibility for labeling allows quick adjustments based on evolving regulations without disrupting the overall schedule.\n\nThe other answer choices are incorrect. Applying agile planning for both lacks the necessary structure for manufacturing, potentially leading to delays and missed deadlines. Predictive labeling risks wasted effort if regulations change, potentially jeopardizing the launch date. Predictive planning and streamlined change control do not provide the flexibility needed to adapt to unknown regulations."
+  },
+  {
+    "status": "ok",
+    "solution_line": 278,
+    "stem": "A project manager is assigned to a new environmental project. When reviewing a vendor's proposal, the project manager identifies a technical risk that will have an impact on the project manager's company's operational cost. What should the project manager do first?",
+    "options": [
+      "A.Consult with their functional manager.",
+      "B.Accept the risk and move on.",
+      "C.Update the project risk register.",
+      "D.Assess the risk in a workshop."
+    ],
+    "answer_letters": [
+      "C"
+    ],
+    "explanation": "The best course of action for a project manager who has identified a technical risk in a vendor's proposal that will impact the project's company's operational cost is to update the project risk register. By updating the project risk register with information about the technical risk, the project manager can begin to develop a plan to mitigate the risk.\n\nThe other answer choices are incorrect. Consulting with the functional manager may be helpful, but the project manager should first update the project risk register with information about the technical risk. Assessing the risk in a workshop may be helpful, but it is not the first step that the project manager should take. Accepting the risk and moving on is not a good idea, as it could have a negative impact on the project's budget and schedule."
+  },
+  {
+    "status": "ok",
+    "solution_line": 298,
+    "stem": "A project manager for a cross-functional team is finding it difficult to schedule regular meetings and communicate with all team members and stakeholders due to various time zones. What should the project manager do?",
+    "options": [
+      "A.Use asynchronous communication tools.",
+      "B.Schedule two meetings that accommodate most.",
+      "C.Rotate the meeting time on a weekly basis.",
+      "D.Meet with team members in the same time zone."
+    ],
+    "answer_letters": [
+      "A"
+    ],
+    "explanation": "Asynchronous communication tools, such as email and chat, allow team members to communicate with each other without having to be in the same place at the same time. This is the best way for a project manager to schedule regular meetings with all team members and stakeholders in different time zones.\n\nThe other answer choices are incorrect. Scheduling two meetings that accommodate most may not be possible, as it is already challenging to find a time that works for everyone. Rotating the meeting time on a weekly basis may help to ensure that everyone has a chance to participate, but it may still be challenging to find a time that works for everyone.\nMeeting with team members in the same timezone may not be practical for cross-functional teams and will leave out other team members not in the same time zone."
+  },
+  {
+    "status": "ok",
+    "solution_line": 317,
+    "stem": "A project manager is assigned to a project with a lot of stakeholders and competing priorities. What will be the main objective to initiate and conduct negotiations?",
+    "options": [
+      "A.To define the scope",
+      "B.To resolve conflict",
+      "C.To minimise the cost",
+      "D.To reduce the delivery time"
+    ],
+    "answer_letters": [
+      "B"
+    ],
+    "explanation": "To resolve the conflict, we need to initiate and conduct negotiations. Conflict resolution involves negotiations.\n\nTo define the scope is the next step.\n\nTo minimize the cost or to reduce the delivery time are the secondary objectives"
+  }
+]

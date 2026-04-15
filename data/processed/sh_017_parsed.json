@@ -1,0 +1,227 @@
+[
+  {
+    "status": "ok",
+    "solution_line": 7,
+    "stem": "An approved change request adds an incentive to a lump sum contract if the contractor is able to maintain the current baseline schedule. What should now be updated?",
+    "options": [
+      "A.Scope baseline",
+      "B.Project management plan",
+      "C.Cost baseline",
+      "D.Schedule baseline"
+    ],
+    "answer_letters": [
+      "C"
+    ],
+    "explanation": "The approved change request has an affect on cost. The cost baseline is to be updated reflecting the incentive payment.\n\nThe change order has no effect on the scope or schedule baseline (scope and schedule stay the same)\n\nThere is nothing in the approved change order that drives any needed change to the project management plan."
+  },
+  {
+    "status": "ok",
+    "solution_line": 29,
+    "stem": "All four key stakeholders of a project are concerned that the current release plan will not meet urgent business needs. The project manager needs to help ensure that the team delivers business value within the required timelines. What should the project manager do?",
+    "options": [
+      "A.Assess the work breakdown structure (WBS) and renegotiate scope with the project sponsor.",
+      "B.Engage with the stakeholders and team members to determine the minimum viable product (MVP) necessary for the launch.",
+      "C.Calculate the schedule performance index (SPI) and escalate the schedule risk to the project sponsor.",
+      "D.Modify the schedule baseline to meet stakeholder needs and monitor progress using a burndown chart."
+    ],
+    "answer_letters": [
+      "B"
+    ],
+    "explanation": "Defining the minimum viable product would allow the team to release business value within timelines by focusing only on the must-have items that the business stakeholders need.\n\nThe other answer choices are incorrect. Assessing WBS and renegotiating scope will not deliver business value within the required timeline. Similarly, calculating SPI or modifying schedule baseline will not help to meet the required timeline."
+  },
+  {
+    "status": "ok",
+    "solution_line": 52,
+    "stem": "A hybrid project has the following characteristics: It is in the early stages. It has a brand new team. The project manager will be very busy executing other projects during the first two weeks of the project. During this early stage, how should the project manager develop the new project team?",
+    "options": [
+      "A.Ensure the team understands self-organizing principles.",
+      "B.Plan and host several team-building events to normalize the team.",
+      "C.Provide daily project status updates to keep the team informed.",
+      "D.Get to know each team member through one-on-one conversations."
+    ],
+    "answer_letters": [
+      "A"
+    ],
+    "explanation": "The project manager needs to make sure that the team is capable of working on the project during their absence in the first two weeks of the project. To do so, the project manager should ensure that the team understands self-organizing principles. A self-organizing team is a cross-functional team in which people assume leadership as needed to achieve the team’s objectives. Some projects benefit from decentralized coordination in which project team members self-organize and self-manage. In this case, the project manager can not devote their full attention to managing the team, so the team must understand how to self-organize and self-manage.\n\nThe other answer choices are incorrect. Team-building events may be productive, but the project manager will be very busy and not consistently available during the first two weeks. Hosting several team-building events will be a drain on the project manager's bandwidth and may not be possible until after the project manager can focus on the team.\n\nProviding project status updates is incorrect because the project manager will not be consistently available. The team will be working on the project in the project manager's absence, it is more likely that they will provide the manager with status updates.\n\nHaving one-on-one conversations may result in deeper relationships but would have to wait until the project manager can focus on the team."
+  },
+  {
+    "status": "ok",
+    "solution_line": 80,
+    "stem": "Within the fourth iteration of product development, the project manager realizes that the software used for the project management plan is not permitting planned updates. Which action should the project manager take?",
+    "options": [
+      "A.Select a team resource who can update the project management plan template.",
+      "B.Based on business value for the upcoming iterations, choose a priority for the activities.",
+      "C.Resolve the issue independently so that team members do not become distracted.",
+      "D.Add the problem as a new project risk in the risk register and suggest corrective actions."
+    ],
+    "answer_letters": [
+      "C"
+    ],
+    "explanation": "A project manager's job is to remove impediments to team performance, therefore software deficiencies must be addressed at an administrative level and not at the team level.\n\nThe other answer choices are incorrect. They are not valid because administrative resources, rather than team resources, will be used to address the issue."
+  },
+  {
+    "status": "ok",
+    "solution_line": 102,
+    "stem": "A project has the following characteristics: The project manager is being asked to deliver a business result in a compressed timeline; the original timeline was one month, but the new requested timeline is two weeks. In the resource planning activity, the project manager heard from another team member that no technical resources are available to join the team; however, the project manager knows the technical resource manager from a previous project. What is the first action the project manager should take?",
+    "options": [
+      "A.Ensure the product owner knows that there is an issue with acquiring a technical resource.",
+      "B.Escalate the technical resource issue to upper management.",
+      "C.Verify the availability of resources by meeting with the previously known technical resource manager.",
+      "D.Contact a third-party vendor to obtain a technical resource."
+    ],
+    "answer_letters": [
+      "C"
+    ],
+    "explanation": "Per agile manifesto, it values individual and interactions over processes and tools. Thus, it is best to meet with the resource manager to understand the real situation rather than informing sponsor first which might be the false alarm.\n\nThe other answer choices are incorrect. The product owner and upper management should not be informed of an issue, nor should a third-party vendor be hired, until the project manager can confirm from the technical resource manager that there is a real shortage of technical resources."
+  },
+  {
+    "status": "ok",
+    "solution_line": 122,
+    "stem": "A goal has been set at four months for a project team to distribute a product. Unfortunately, it will be difficult to adhere to that time frame due to team members having individual tasks to complete. How should the project manager handle this situation?",
+    "options": [
+      "A.Encourage members of the team to alter their tasks in order to not impede with meeting the project deadline.",
+      "B.Aid team members in prioritizing their personal tasks against the project's goals.",
+      "C.Postpone the delivery date of the project to a later time so the team can complete their personal tasks.",
+      "D.Request a delay to the teams’ individual tasks and offer assistance finding alternative times to complete tasks outside of work hours."
+    ],
+    "answer_letters": [
+      "B"
+    ],
+    "explanation": "In the case that there is limited time, the team must prioritize the delivery-related tasks to get the product distributed on time. The project manager should handle this situation by aiding team members in prioritizing their personal tasks against the project's goals.\n\nThe other answer choices do not lead to the desired outcome."
+  },
+  {
+    "status": "ok",
+    "solution_line": 142,
+    "stem": "A project manager is working on an complex project with multiple stakeholders and competing priorities. Each stakeholder wants to maximize its share of the allocated resources for the requested functionality. What should the project manager focus on?",
+    "options": [
+      "A.Meeting the personal interests of stakeholders.",
+      "B.Meeting the mutual interests of all stakeholders.",
+      "C.Preserving the relationships and rapport with stakeholders.",
+      "D.Pushing stakeholders to accept the project manager's viewpoint."
+    ],
+    "answer_letters": [
+      "B"
+    ],
+    "explanation": "The project manager should focus on finding a solution that meets the needs of all stakeholders, even if it means making some compromises. This will help ensure the project's success and maintain good relationships with stakeholders.\n\nThe other answer choices are incorrect. Meeting the personal interests of stakeholders is not always possible, and it may not be in the project's best interests. Preserving the relationships and rapport with stakeholders is important but not the most important thing. The project manager should focus on meeting the needs of stakeholders, even if it means some relationships are impacted. Pushing stakeholders to accept the project manager's viewpoint is not a good strategy. This will only alienate stakeholders and make it more difficult to reach a consensus."
+  },
+  {
+    "status": "ok",
+    "solution_line": 161,
+    "stem": "A project manager is leading a key flagship solution initiative prioritizing agility, market adaptation, and rapid response to market trends. Which activity should the project manager prioritize first to ensure success?",
+    "options": [
+      "A.Conduct periodic reviews of project plans, objectives, and deliverables to ensure all data is captured.",
+      "B.Request more funding from the sponsor to hire additional skilled resources and improve quality.",
+      "C.Collaboratively review project objectives with the sponsor to agree on achievable plans and deliverables.",
+      "D.Create a business case after a market review to adjust project deliverables based on new objectives."
+    ],
+    "answer_letters": [
+      "C"
+    ],
+    "explanation": "Given the project's focus on agility, adaptability, and responsiveness to market trends, the project manager should establish clear and achievable goals. Collaboration with the sponsor ensures a shared understanding of priorities and market realities, alignment between project plans and expectations, and flexibility to adapt plans based on evolving market trends.\n\nThe other answer choices are incorrect. Conducting periodic reviews might delay adaptation. Requesting more funding might be reactive rather than proactive and doesn't address the core need for flexibility. Creating a new business case implies starting over, potentially delaying the project, and neglecting existing plans."
+  },
+  {
+    "status": "ok",
+    "solution_line": 183,
+    "stem": "A company that is heavily focused on delivering projects using predictive approaches on-boards a new project manager who uses hybrid approaches. The scope of the project contains a number of unclear requirements. How should the project manager plan the delivery of the project?",
+    "options": [
+      "A.Escalate the issue of unclear requirements to the management team and wait for final authorization.",
+      "B.Break down the requirements and prioritize the requirements into iterative work packages.",
+      "C.Ignore the unclear requirements and focus on the delivery plan of the project.",
+      "D.Wait for the requirements to be more clear before any further action is taken on the project."
+    ],
+    "answer_letters": [
+      "B"
+    ],
+    "explanation": "In a hybrid approach, the key for the team is to prioritize the known requirements and move forward in the iterative planning. Hence this option is correct.\n\nIn a hybrid approach, the team does not ignore the unclear requirements nor wait for all requirements to be clear nor wait for the final authorization to start the project. Hence, all the remaining options are incorrect ."
+  },
+  {
+    "status": "ok",
+    "solution_line": 203,
+    "stem": "A project is using a hybrid approach and team performance is consistently excellent during the predictive stages. During the incremental stages, the team begins to show signs of low morale, low commitment, conflicts, and confusion. However, one team member continues to be very confident and excels in performance during this stage. What should the project manager do first?",
+    "options": [
+      "A.Recognize the high-performing team member as an example to be followed by the others.",
+      "B.Provide additional training to the team on agile processes.",
+      "C.Discuss the issue with the project sponsor and revert the project to use only a predictive approach.",
+      "D.Meet with the team to discuss the issues and develop a plan to address them."
+    ],
+    "answer_letters": [
+      "D"
+    ],
+    "explanation": "The project manager should meet with the team to discuss the issues and develop a plan to address them. This is the most effective way to identify the root causes of the team's performance issues and develop strategies for addressing them.\n\nThe other answer choices are not as effective and they do not address the root cause of the team's performance issues. Recognizing the high-performing team member as an example to be followed by the others is a good idea, but it is not enough to address the root causes of the team's performance issues. Providing additional training to the team on agile processes may be helpful, but it is not enough to address the root causes of the team's performance issues. Discussing the issue with the project sponsor and reverting the project to use only a predictive approach does not address the root causes of the team's performance issues and reverting to a predictive approach may not be possible or desirable."
+  },
+  {
+    "status": "ok",
+    "solution_line": 219,
+    "stem": "PMBOK Guide Seventh Edition (2021) / 14 [Section 2.3.2], 29 [Section 2.2.4.4] & 168 [Section 4.2.7.1] An organization is developing a new product. What should the project manager of this development do first to improve the success of the project?",
+    "options": [
+      "A.Work with the project management office (PMO) to develop a detailed project schedule.",
+      "B.Work with the marketing team to conduct an impact analysis to identify the target market.",
+      "C.Work with the project sponsor to define the project vision and overall initiative.",
+      "D.Work with the stakeholders to identify the appropriate project team members."
+    ],
+    "answer_letters": [
+      "C"
+    ],
+    "explanation": "For project success, it is critical to initially define vision and mission of the overall initiative before even focusing on detailed planning. Impact Analysis, detailed project schedule and identification of project team members will follow once the project vision and overall initiative is defined"
+  },
+  {
+    "status": "ok",
+    "solution_line": 239,
+    "stem": "A project has the following characteristics: Reoccurring project reviews are set up for the project. During the fourth review, the customer requests to change the technical approach for the product in development. Which action should the project manager take?",
+    "options": [
+      "A.Inform the team members to immediately implement the new approach.",
+      "B.Allow the team to select the most appropriate approach and verify findings with stakeholders.",
+      "C.Research the proposed approach with the stakeholders and select what is best for the team.",
+      "D.Have the team benchmark the approach to obtain support from the sponsor."
+    ],
+    "answer_letters": [
+      "B"
+    ],
+    "explanation": "As it is a technical issue, the project manager should address the team to assess and select the best options to solve, empower them and improve engagement.\n\nThe other answer choices are incorrect. Implementing a new approach without impact analysis might lead to project failure. Researching the proposed approach without team's involvement will not empower the team. Benchmarking is not a user story so the team will not benchmark the approach to obtain sponsor support."
+  },
+  {
+    "status": "ok",
+    "solution_line": 263,
+    "stem": "A project manager is working on an IT project. During an iteration review meeting, a couple of key stakeholders enter into a heated discussion about the prototype's capabilities. What should the project manager do next?",
+    "options": [
+      "A.Plan a brainstorming session with the project team to find a resolution to the problem.",
+      "B.Identify the source of the conflict between the stakeholders and address the issue.",
+      "C.List the positives and negatives of the situation to determine the impact of this conflict.",
+      "D.Invite the project sponsor to intervene and act as a negotiator for the key stakeholders."
+    ],
+    "answer_letters": [
+      "B"
+    ],
+    "explanation": "Projects operate in dynamic environments and face many mutually exclusive constraints including budget, scope, schedule, and quality, which can lead to conflicts. There are many potential sources of conflict regarding the prototype's capabilities, and without understanding the source of the conflict, the project manager cannot effectively resolve it. The project manager should seek to identify the source of the conflict, address the issue, and work to resolve it. Addressing conflict before it escalates beyond useful debate leads to better outcomes.\n\nThe other answer choices are incorrect because without knowing the source of the conflict, it can't be known whether inviting the project sponsor to intervene or planning a brainstorming session will resolve the conflict. Generating a list of positives and negatives is not an effective way to address the situation. While understanding the impact of the conflict may be helpful, it is not as important as identifying the source of the conflict and working to resolve it. If it is not resolved, the impact will grow."
+  },
+  {
+    "status": "ok",
+    "solution_line": 283,
+    "stem": "PMBOK Guide Seventh Edition (2022) /// [2.2.4 LEADERSHIP SKILLS] [4.2.7.1 Conflict Model] What is the reason for relationship network change?",
+    "options": [
+      "A.Roles and titles are formally assigned",
+      "B.Evolves over time as people gain and lose influence",
+      "C.Built-in advance by corporate management",
+      "D.Visible to everyone in the organization"
+    ],
+    "answer_letters": [
+      "B"
+    ],
+    "explanation": "Relationship network changes over time as the project progresses people lose or gain influence. Other options are incorrect as they are true in essence but are not the reason the Relationship network changes over time"
+  },
+  {
+    "status": "ok",
+    "solution_line": 299,
+    "stem": "As a project manager of a technology firm, a change in the scope is required to implement a change in the project. What tools can be utilized to better understand the impact of the change?",
+    "options": [
+      "A.Pareto chart",
+      "B.Fishbone diagram",
+      "C.Deming's PDCA cycle",
+      "D.Cause and effect diagram"
+    ],
+    "answer_letters": [
+      "C"
+    ],
+    "explanation": "Deming's PDCA cycle is the correct option. The other options are not used to understand change impact."
+  }
+]

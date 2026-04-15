@@ -1,0 +1,257 @@
+[
+  {
+    "question": "A project manager identifies the risk that installing new hardware may cause downtime for critical business applications. To mitigate this, the team schedules upgrades overnight. However, this strategy increases the risk of staff fatigue and errors due to working extended night hours. What kind of risk is introduced by scheduling overnight work?",
+    "options": [
+      "A. Secondary risk",
+      "B. Residual risk",
+      "C. Primary risk",
+      "D. Compliance risk"
+    ],
+    "answer": "A",
+    "explanation": "A secondary risk is a new risk that arises directly from the implementation of a risk response. In this case, staff fatigue and increased error are risks caused by the overnight work schedule. This risk would not exist if the project stuck to daytime hours, so it is secondary to the risk response.\n\nThe other answer choices are incorrect. Residual risk is the risk that still exists after mitigation efforts have reduced the original risk; it does not refer to new risks created by mitigation actions. Primary risk is the initial concern about application downtime, not the new risk of staff fatigue and errors. Compliance risk concerns regulatory violations.",
+    "difficulty": "medium",
+    "topic": "Hybrid / Risk Response - Secondary Risk",
+    "domain": 2,
+    "source_id": "sh_003",
+    "chunk_index": 0,
+    "video_segment": "PMI Study Hall — Mini-Exam 3 (Hybrid) (paste line 9)"
+  },
+  {
+    "question": "A project manager works at a private aerospace company. Risk management has become one of the top priorities of the company. Which is the first step the project manager needs to take while doing risk management?",
+    "options": [
+      "A. Risk analysis",
+      "B. Risk acceptance",
+      "C. Risk identification",
+      "D. Risk register"
+    ],
+    "answer": "C",
+    "explanation": "The correct answer is risk identification.\nOnce the risk management scope and objectives are agreed upon, the process of identifying risks begins, with care taken to distinguish genuine risks from nonrisks, such as concerns and issues. It is unlikely that all risks are, or even can be, identified at the outset. Over time, the level of risk exposure may change as a result of the decisions and actions taken previously and of externally imposed changes\nRisk analysis happens after risk identification.\nRisk acceptance is a risk response strategy whereby the project team decides to acknowledge the risk and not take any action unless the risk occurs.\nThe risk register is an output of the risk identification process that captures the details of identified individual project risks.",
+    "difficulty": "easy",
+    "topic": "Hybrid / Risk Management Process",
+    "domain": 2,
+    "source_id": "sh_003",
+    "chunk_index": 0,
+    "video_segment": "PMI Study Hall — Mini-Exam 3 (Hybrid) (paste line 23)"
+  },
+  {
+    "question": "During a team discussion, several members are debating whether the project manager’s approach reflects management or leadership. The team agrees that the project manager emphasizes authority over processes, ensures tasks are completed efficiently, and focuses on meeting project objectives. Based on the characteristics being described, which of the following is the most accurate assessment?",
+    "options": [
+      "A. The project manager acts as a leader by maintaining authority and personal accountability.",
+      "B. The project manager acts as a leader by aligning people, setting direction, and driving work.",
+      "C. The project manager acts as a manager by maintaining motivation and focusing on objectives.",
+      "D. The project manager acts as a manager by focusing on control, efficiency, and effectiveness."
+    ],
+    "answer": "D",
+    "explanation": "The project manager's approach reflects management rather than leadership, as it centers on control, efficiency, and effectiveness, which are key aspects of managerial roles. The project manager emphasizes authority over processes, ensures tasks are completed efficiently, and focuses on meeting project objectives. These are typical characteristics of management, which often involve planning, organizing, and controlling resources to achieve specific goals efficiently and effectively. Leadership typically involves inspiring and motivating people, setting a vision, and aligning team members towards achieving that vision.\n\nThe other options do not align with the information provided or the specifics of the approaches.\n\nAuthority and personal accountability are not defining traits of leadership in this context.\n\nAligning people, setting direction, and driving momentum describe leadership, but these actions are not mentioned when describing the project manager in the scenario.\n\nManagers do focus on objectives, but maintaining motivation is typically seen as a leadership function. Motivation comes from inspiring and influencing people, which are characteristics of leadership.",
+    "difficulty": "medium",
+    "topic": "Hybrid / Management vs Leadership",
+    "domain": 1,
+    "source_id": "sh_003",
+    "chunk_index": 0,
+    "video_segment": "PMI Study Hall — Mini-Exam 3 (Hybrid) (paste line 44)"
+  },
+  {
+    "question": "PMI-ACP Exam Prep, 2nd Ed edition (Oct, 15) Mike Griffiths/RMC/1/66 [Item] In a hybrid project, the project manager receives a notification that, in response to a recent court decision, a new project requirement must be incorporated into the project scope. What should the project manager do?",
+    "options": [
+      "A. Accept the new requirement as part of the project scope.",
+      "B. Exclude the new requirement from the project scope.",
+      "C. Submit a change request to the change control board (CCB).",
+      "D. Incorporate the new requirement after meeting with stakeholders."
+    ],
+    "answer": "C",
+    "explanation": "The CCB is responsible for reviewing, evaluating, approving, delaying, or rejecting changes to the project, and for recording and communicating such decisions. In a hybrid project, it is important to balance the need for agility and adaptability with the need for control and predictability. Following a formalized change control process and submitting a change request to the CCB will help to achieve this balance by providing a structured way to assess and approve changes to the project scope. The CCB will evaluate the impact of the new requirement on both the predictive and agile aspects of the project and make an informed decision.\n\nThe other options are incorrect because they lack a structured evaluation process and may lead to uncontrolled scope changes.\n\nIt's crucial to avoid hasty decisions and assess the impact of the new requirement before accepting or excluding it from the scope. In a hybrid project, maintaining agility and adaptability is essential, and outright exclusion without evaluation can limit these qualities. Bypassing the formal change control process can lead to uncontrolled scope expansion.\n\nIncorporating the new requirement after meeting with stakeholders does not follow the formal change management process. After the CCB reviews and approves the change request, the project manager can then involve stakeholders to ensure alignment and understanding.",
+    "difficulty": "medium",
+    "topic": "Hybrid / Scope Change Management",
+    "domain": 2,
+    "source_id": "sh_003",
+    "chunk_index": 0,
+    "video_segment": "PMI Study Hall — Mini-Exam 3 (Hybrid) (paste line 66)"
+  },
+  {
+    "question": "The degree to which risk management is pursued can be the difference between success and failure. In an attempt to avoid project failure, what risks should be assessed and categorized?",
+    "options": [
+      "A. All identified risks",
+      "B. Only risks identified as high probability of occurrence",
+      "C. Only risks identified as high potential impact",
+      "D. All risks identified as high probability of occurrence and high potential impact"
+    ],
+    "answer": "A",
+    "explanation": "The correct answer is all identified risks.\nRisk management allows organizations and teams to increase the predictability of outcomes, both qualitatively and quantitatively. The project manager should assess and categorize all possible risks. Project team members should proactively identify risks throughout the project to avoid or minimize the impacts of threats and trigger or maximize the impacts of opportunities. Both threats and opportunities have a set of possible response strategies that can be planned for implementation should the risk occur. The remaining options are incorrect because failing to assess and categorize all risks leaves the team unprepared and vulnerable.",
+    "difficulty": "easy",
+    "topic": "Hybrid / Risk Identification",
+    "domain": 2,
+    "source_id": "sh_003",
+    "chunk_index": 0,
+    "video_segment": "PMI Study Hall — Mini-Exam 3 (Hybrid) (paste line 91)"
+  },
+  {
+    "question": "6 of 15 Question Throughout the life cycle of a project, the project manager will normally face problems, gaps, inconsistencies, or conflicts that occur unexpectedly. This requires some action so that project performance is not impacted. Which project document will be used to record and track this?",
+    "options": [
+      "A. Issue log",
+      "B. Risk register",
+      "C. Lessons learned",
+      "D. Project management plan"
+    ],
+    "answer": "A",
+    "explanation": "The correct answer is the issue log.\nThe issue log is a project document where all the issues are recorded and monitored. An issue is a current condition or situation that may have an impact on the project objectives. An issue log is used to record and monitor information on active issues. Issues are assigned to a responsible party for follow up and resolution.\nA risk register is a repository in which outputs of risk management processes are recorded.\nThe project management plan is the document that describes how the project will be executed, monitored and controlled, and closed.\nLessons learned is the knowledge gained during a project, which shows how project events were addressed or should be addressed in the future, for the purpose of improving future performance.",
+    "difficulty": "easy",
+    "topic": "Hybrid / Issue Log",
+    "domain": 2,
+    "source_id": "sh_003",
+    "chunk_index": 0,
+    "video_segment": "PMI Study Hall — Mini-Exam 3 (Hybrid) (paste line 110)"
+  },
+  {
+    "question": "A real estate organization conducts a monthly review of its strategic project portfolio. Project A\tProject B Start date\tMarch 2016\tMay 2017 Expected completion date\tApril 2019\tJuly 2020 Project manager\tPM-A\tPM-B During a review in March 2018, it was found that Project B is experiencing problems that had previously not been identified in its risk management process. With Project A starting approximately one year prior, what information should be requested from Project A so that Project B may take preventive and/or corrective actions?",
+    "options": [
+      "A. Work performance reports",
+      "B. Lessons learned repository",
+      "C. Issue log",
+      "D. Activity list"
+    ],
+    "answer": "B",
+    "explanation": "This portfolio contains a set of projects that are structured to achieve the organization's strategic objectives. Since both projects are within this portfolio, the projects have similar external factors. Thus the lessons learned from Project A may benefit Project B. The lessons learned repository contains what went well, and what did not. All projects should update their lessons learned registry throughout the lifecycle of the project so that other projects may benefit.\n\nThe issue log will not list the challenges that Project B is facing since they are different projects. The activity list for the two projects is different and will not contain what went well or not. The work performance reports are high-level reports that will only provide variance analysis, earned value data, and forecasting information.",
+    "difficulty": "hard",
+    "topic": "Hybrid / Risk Lessons Learned",
+    "domain": 2,
+    "source_id": "sh_003",
+    "chunk_index": 0,
+    "video_segment": "PMI Study Hall — Mini-Exam 3 (Hybrid) (paste line 133)"
+  },
+  {
+    "question": "What leadership quality must a project manager have?",
+    "options": [
+      "A. Honesty",
+      "B. Aggressiveness",
+      "C. Powerful",
+      "D. Servant leader"
+    ],
+    "answer": "A",
+    "explanation": "Honesty is a leadership quality that a project manager must possess. Project managers must report the realities of the project and should be transparent. Aggression and power are to forceful, and servant leadership is more for agile practices.",
+    "difficulty": "easy",
+    "topic": "Hybrid / Leadership Qualities",
+    "domain": 1,
+    "source_id": "sh_003",
+    "chunk_index": 0,
+    "video_segment": "PMI Study Hall — Mini-Exam 3 (Hybrid) (paste line 151)"
+  },
+  {
+    "question": "An organization conducted an external audit in an Offshore Data Centre (ODC). The audit team noticed that the project manager is using an old version of the risk register template. The auditor raised a Non-Conformity (NC). How could the project manager have avoided this gap?",
+    "options": [
+      "A. It is not the project manager’s mistake since they are using the risk register template provided by their organization",
+      "B. It is always better to conduct one round of internal audit before allowing an external audit to avoid such a gap",
+      "C. It is suitable to conduct a risk management plan before preparing the risk register",
+      "D. It is appropriate to update the risk register with a new template and close the NC"
+    ],
+    "answer": "C",
+    "explanation": "The risk management plan may be developed as part of the project kick-off meeting, or a specific planning meeting may be held. Attendees may include the project manager, project team members, key stakeholders, or other team members who are responsible for the risk management process for the project. Others outside the organization may also be invited, as needed, including customers, sellers, and regulators. A skilled facilitator can help participants remain focused on the task, agree on key aspects of the risk approach, identify and overcome sources of bias, and resolve any disagreements that may arise. Additionally, as part of the risk plan, monitoring the risk process should be conducted periodically to ensure that the risk plan and risk register are properly updated.\nThe other options are incorrect. It is not a matter of having the right template to secure updated registers. Project managers should comply with the risk plan to have an updated risk register, and reviewing it periodically is part of the monitoring risk process. Reactive actions do not guarantee to avoid the problem again.",
+    "difficulty": "medium",
+    "topic": "Hybrid / Compliance and Standards",
+    "domain": 3,
+    "source_id": "sh_003",
+    "chunk_index": 0,
+    "video_segment": "PMI Study Hall — Mini-Exam 3 (Hybrid) (paste line 169)"
+  },
+  {
+    "question": "A project manager is leading a complex initiative with diverse stakeholders and must cultivate strong stakeholder relationships. The project manager also has to build a shared understanding of the project with all stakeholders. What should the project manager do?",
+    "options": [
+      "A. Facilitate interactive workshops to discuss goals and expectations.",
+      "B. Conduct detailed stakeholder mapping exercises.",
+      "C. Deliver formal presentations summarizing project updates.",
+      "D. Distribute comprehensive project documentation for individual review."
+    ],
+    "answer": "A",
+    "explanation": "By facilitating interactive workshops, the project manager can cultivate strong stakeholder relationships and build a shared understanding of the project.\n\nThe other answer choices are incorrect. While stakeholder mapping is crucial for identifying and understanding stakeholder interests, it primarily serves as a preparatory step. It doesn't directly address building understanding or relationships. Formal presentations may be one-way and may limit engagement and understanding, as stakeholders have fewer opportunities to clarify doubts or contribute input. This can also lead to a more passive relationship with the project. While providing project documents is valuable, relying solely on individual review lacks the direct interaction and discussion necessary for building shared understanding and strong relationships. Stakeholders might have different interpretations or questions that wouldn't be addressed in this format.",
+    "difficulty": "medium",
+    "topic": "Hybrid / Stakeholder Engagement",
+    "domain": 1,
+    "source_id": "sh_003",
+    "chunk_index": 0,
+    "video_segment": "PMI Study Hall — Mini-Exam 3 (Hybrid) (paste line 187)"
+  },
+  {
+    "question": "After the kickoff meeting for an industrial project, the assigned project manager must lead the team in identifying project risks. As team members are distributed in 6 countries, which risk identification method is best used in this situation?",
+    "options": [
+      "A. Affinity diagram",
+      "B. Decision tree analysis",
+      "C. The Delphi technique",
+      "D. Monte Carlo analysis"
+    ],
+    "answer": "C",
+    "explanation": "The correct answer is the Delphi technique.\nThe Delphi technique uses facilitated anonymous polling to identify risks. The facilitator gathers the initial poll responses and circulates them without attribution to the entire group. The group members may then revise their contributions based on those of others. The process often generates a consensus after a few iterations. This makes it an appropriate method to use when participants can’t meet in one place, like the team members in 6 different countries.\nThe other answers are incorrect because they are not risk identification techniques, they are risk analysis techniques.\nMonte Carlo analysis is a quantitative risk analysis technique that computes or iterates the project cost or project schedule many times using input values, selected at random from probability distributions of possible costs or durations, to calculate a distribution of possible total project costs or completion dates.\nDecision tree analysis is a quantitative risk analysis technique used to determine partial and global probabilities of occurrence\nAn affinity diagram is a qualitative risk analysis technique used to organize specific ideas or factors that contribute to a risk. It helps to sort risks by similarities or generic risk categories.",
+    "difficulty": "medium",
+    "topic": "Hybrid / Risk Identification Methods",
+    "domain": 2,
+    "source_id": "sh_003",
+    "chunk_index": 0,
+    "video_segment": "PMI Study Hall — Mini-Exam 3 (Hybrid) (paste line 203)"
+  },
+  {
+    "question": "A project manager is working on a critical project for which historical data is unavailable. This may put the project at risk. What should the project manager do?",
+    "options": [
+      "A. Plan project execution based on stakeholders' risk appetites.",
+      "B. Develop the project management plan to identify and prioritize opportunities and threats.",
+      "C. Inform the sponsor of the risk involved, then continue with project delivery.",
+      "D. Develop a risk management plan and inform key stakeholders about the risks involved."
+    ],
+    "answer": "D",
+    "explanation": "The correct answer is to develop a risk management plan and inform key stakeholders about the risks involved. Historical records and data from past projects help to identify common risks and prevent repeating mistakes. Historical data is used to identify systemic risks and automate their treatment. Without historical data, the project manager must start from scratch to create a detailed risk management plan. It is integral to the success of any project that stakeholders are kept engaged and aware. This is especially important given the lack of historical data.\nA risk management plan is a component of the project management plan that describes how risk management activities will be structured and performed. A risk management plan should align with the organization's risk tolerance. Planning the project based on stakeholders' risk attitudes is not effective on its own. Not all stakeholders will have the same risk appetite, risk management also needs to be aligned with the overall organization. Opportunities and threats are identified as part of the risk management plan, which is a component of the overall project management plan. Simply informing the sponsor will not provide a mitigation strategy should the risk occur.",
+    "difficulty": "medium",
+    "topic": "Hybrid / Risk Assessment - Limited Data",
+    "domain": 2,
+    "source_id": "sh_003",
+    "chunk_index": 0,
+    "video_segment": "PMI Study Hall — Mini-Exam 3 (Hybrid) (paste line 228)"
+  },
+  {
+    "question": "Tools, such as checklists, brainstorming, SWOT analysis, and assumptions analysis are used for which of the following?",
+    "options": [
+      "A. Risk sharing",
+      "B. Risk identification",
+      "C. Risk analysis",
+      "D. Risk enhancement"
+    ],
+    "answer": "B",
+    "explanation": "Tools like checklists, brainstorming, SWOT analysis, and assumption analysis, are used to identify risks.\nThe other options are incorrect because they do not typically use the tools listed. Risk sharing is a risk response strategy whereby the project team allocates ownership of an opportunity to a third party who is best able to capture the benefit of that opportunity. Risk analysis involves the activities related to defining the characteristics of a risk and the degree to which it can impact objectives. Risk enhancement is a risk response strategy whereby the project team acts to increase the probability of occurrence or impact of an opportunity.",
+    "difficulty": "easy",
+    "topic": "Hybrid / Risk Identification Tools",
+    "domain": 2,
+    "source_id": "sh_003",
+    "chunk_index": 0,
+    "video_segment": "PMI Study Hall — Mini-Exam 3 (Hybrid) (paste line 245)"
+  },
+  {
+    "question": "PMBOK Guide Sixth Edition (2018) PMI/PMI/11 Project Risk Management/414-415 (11.2.2 Identify risks: tools and Techniques) A company, which is conducting a critical bidding process, included a penalty clause in an agreement specifying that the selected supplier must pay a significant liquidated damages penalty in the event of non-performance. Given that this bidding process is extremely attractive to the supplier with a medium risk threshold, how should the supplier's project manager budget for it?",
+    "options": [
+      "A. Increase the quote to mitigate the risk and support the above clause.",
+      "B. Advise management not to participate in the request for proposals (RFP) since it is a big risk.",
+      "C. Advise management to purchase insurance coverage to transfer the risk and include it in the budget.",
+      "D. Record it as a risk in the risk register and review it regularly to avoid the penalty."
+    ],
+    "answer": "C",
+    "explanation": "Transferring a risk involves shifting ownership of a threat to a third party to manage the risk and to bear the impact if the threat occurs. Risk transfer often involves payment of a risk premium to the party taking on the threat. Transfer can be achieved by a range of actions including, but not limited to, the use of insurance, performance bonds, warranties, guarantees, etc. Agreements may be used to transfer ownership and liability for specified risks to another party. Transferring the risk is a preferable strategy for average risk threshold takers.\n\nIncreasing the quote for this project may lead to not getting this project, especially when the bidding process is attractive for the vendor/supplier with an average risk threshold.\nAvoiding the risk solely based on penalty charges is incorrect because the project can't be eliminated, especially when it is attractive for the vendor/supplier with an average risk threshold.\nRecording the penalty charge as a risk in the risk register alone is not going to help.",
+    "difficulty": "hard",
+    "topic": "Hybrid / Risk Budgeting and Procurement Risk",
+    "domain": 2,
+    "source_id": "sh_003",
+    "chunk_index": 0,
+    "video_segment": "PMI Study Hall — Mini-Exam 3 (Hybrid) (paste line 261)"
+  },
+  {
+    "question": "A project manager is managing the build of an off-shore data center. In addition, the project manager is the custodian of the assets procured by the project. The project manager is informed by a team member that an asset was lost, and the team member is ready to pay for the missing asset. How should the project manager handle this situation?",
+    "options": [
+      "A. Request your team member to purchase, replace and update the asset register with a new asset tag",
+      "B. Inform the customer, purchase the new asset, and update the asset and risk register",
+      "C. Inform management, replace the asset with the help of an insurance claim, and update the asset register",
+      "D. Inform customer and management immediately, launch an investigation, update the risk register and take action based on outcome"
+    ],
+    "answer": "D",
+    "explanation": "The correct answer is to inform the customer and management immediately, launch an investigation, update the risk register, and take action based on the outcome.\nRisk management is everyone's job. Without an investigation, it may be difficult to accurately identify where the failures were, who is responsible, how to respond, and how to prevent this from happening again. Choosing not to inform the customer and management is inappropriate because all risk owners and risk action owners must be briefed on any changes that may affect their responsibilities. Updating the risk register is imperative as this is an incident that may be repeated and may trigger corrective actions to avoid a repeat. There are a lot of unknowns here that rule out the other options. Risk responses should be appropriate for the significance of the risk, cost-effective in meeting the challenge, realistic within the project context, agreed upon by all parties involved, and owned by a responsible person. Projects that are performed under contract may have contract terms that specify how these types of situations should be handled. Requesting that the team member purchase the replacement is incorrect because there should be an investigation before making that decision. Further, the project manager is the custodian of the assets, so the team member may not be considered financially responsible at all. We do not know if there is an insurance policy associated with the asset or the extent of coverage, so that is not necessarily an option.",
+    "difficulty": "hard",
+    "topic": "Hybrid / Ethics and Asset Management",
+    "domain": 3,
+    "source_id": "sh_003",
+    "chunk_index": 0,
+    "video_segment": "PMI Study Hall — Mini-Exam 3 (Hybrid) (paste line 286)"
+  }
+]

@@ -1,0 +1,317 @@
+A project manager is leading a project with numerous risks that may occur sequentially and could potentially result in significant financial consequences.
+
+What should the project manager do to better understand the risks? 
+
+A.Perform a SWOT analysis with stakeholders.
+B.Analyze a probability and impact matrix.
+C.Participate in a brainstorming session.
+D.Build a decision tree with the project team.
+Solution: B. Analyze a probability and impact matrix.
+
+The project manager can use the probability and impact matrix to identify the risks that are most likely to occur and have the most significant impact on the project. These risks can then be prioritized for mitigation or avoidance.
+
+The other answer choices are incorrect because they are not tools used to assess risk. A SWOT analysis is a tool that helps to identify the strengths, weaknesses, opportunities, and threats of a project; brainstorming is a technique that is used to generate ideas; and a decision tree is a tool that is used to help make decisions under uncertainty.
+
+This question and rationale were developed in reference to:
+
+PMI.org (2005) //Decisions, decisions/tefanovic, M. & Stefanovic, I. L/ [Item https://www.pmi.org/learning/library/decisions-quantitative-making-process-7466]
+
+A project manager is formally closing a project that has been completed. Why should the project manager document final project activities?
+
+A.To record case studies and customer references
+B.To log final project performance metrics and quality analysis
+C.To provide lessons learned and archive historical information
+D.To allow the customer to submit invoices and get a receipt of final payment
+Solution: C. To provide lessons learned and archive historical information
+
+To provide- Closing the project is the process of ﬁnalizing all activities for the project. The key benefits of this process are the project or phase information is archived, the planned work is completed, and organizational team resources are released to pursue new endeavors. The lessons learned will benefit future projects, add to organization assets.
+
+To record- It does not speak to the question
+
+To log- This action would have already been completed
+
+To allow- This action would have already been completed, customer would not submit invoices they would pay them.
+
+This question and rationale were developed in reference to:
+
+PM: The Managerial Process - 5th ed (5th) Clifford F. Gray & Erik W. Larson///Chapter 14 - Project Closure, page 505-506 [Item]
+
+| PMBOK® Guide--Fifth Edition (5th) PMI/PMI//4.6 - Close Project or Phase, page 100 [Item]
+
+A project manager recently joined an organization that is implementing a portfolio of strategic initiatives aimed at enhancing profitability. The project manager reviews a past project's business case with the project sponsor to ensure that the project was aligned with the organization's goals and to learn from its successes and failures.
+
+Which of the following project outcomes would be considered most successful in the context of this organization's strategic initiatives?
+
+A.The project was delivered under budget by 25%, and the overall duration was 20% longer than initially scheduled.
+B.The project was delivered on budget, and the project management office (PMO) approved the project closure.
+C.The project was delivered early, entered the market before the competition, and exceeded the budget by 10%.
+D.The project was delivered on schedule, within budget, and yielded a 5% increase in projected product sales.
+Solution: D. The project was delivered on schedule, within budget, and yielded a 5% increase in projected product sales.
+
+Delivering on schedule and within budget shows that the project's budget and resources were managed effectively and efficiently, which are key factors in project success. The 5% increase in projected product sales generated additional revenue and directly contributed to the organization's goal of profitability enhancement.
+
+Delivering the project under budget is good, being 20% over the originally planned timeline could have a significant negative impact on the organization's strategic goals. There may be losses associated with the extended timeline that being under budget does not compensate for.
+
+Delivering on budget and getting PMO approval indicates that the project met the necessary criteria but not that the project directly impacted the organization's profitability goals.
+
+Delivering early and entering the market before the competition is good but does not guarantee profitability. Further, the project exceeded the budget by 10%, which is a substantial overage. The increased budget could erode the benefit of entering the market early.
+
+The project manager can use the insights gained by reviewing the past project's business case to identify areas where current and future projects can be improved. 
+
+This question and rationale were developed in reference to:
+
+PMI.org (2012) //Achieve project success by delivering business value/James, Vicki M./ [Item https://www.pmi.org/learning/library/achieve-project-success-delivering-business-value-6055]
+
+PMBOK Guide Seventh Edition (2022) /// [2.5.1 PROJECT PROCESSES] [2.5.8 LEARNING THROUGHOUT THE PROJECT]
+
+A vendor submits a high-level project schedule for a three-year project, including a detailed design-phase schedule. What does this describe?
+
+A.Rolling wave planning
+B.Decomposition
+C.Expert judgment
+D.Templates
+Solution: A. Rolling wave planning
+
+Rolling wave planning is an iterative scheduling technique that uses progressive elaboration to plan the project as it becomes clearer. The WBS is at the highest level for the one's that is in the future. Hence this option is the correct answer.
+
+Decomposition is a technique that is used to break deliverables progressively into smaller and manageable components. Hence this is not the correct answer.
+
+Expert Judgement is a technique in the project planning process that refers to making a judgment based on skill, expertise, or specialized knowledge in a particular domain or area. Hence this is not the correct answer.
+
+Project Templates is a structure that is created which will facilitate the Project Manager and the team to customize the work that will be carried out. Hence this is not the correct answer.
+
+This question and rationale were developed in reference to:
+
+Adv PM: A Structured Approach 4th Ed (Jan 1 2004 12:00AM) Frederick Harrison and Dennis Lock/Gower Publishing Co.//Chapter 9 Structured Project Planning - With the Dimension of Time included, Page 135 [Item]
+
+A project manager is leading a project that will deliver a new product. The project manager needs to decide between options proposed by various cross-functional teams. The project manager uses a decision-making matrix and has identified criteria to evaluate the options and assign a relative weight to each criterion. 
+
+What should the project manager do next?
+
+A.Draft a counter-proposal and share it with stakeholders. 
+B.Eliminate the alternative with the least weight.
+C.Score each alternative for each criterion.
+D.Choose the preferred alternative based on voting.
+Solution: C. Score each alternative for each criterion.
+
+The project manager has already identified the criteria and assigned relative weights to each criterion. The next step is to score each alternative against each criterion. This means assigning a number to each option that reflects how well it meets the criteria, like 1-10, with 10 being the best. Once the project manager has scored each option against each criterion, they can calculate the total score for each option. The total score is calculated by adding up the scores for each criterion and the option with the highest total score is the preferred alternative.
+
+The other answer choices are incorrect. Eliminating the alternative with the least weight is not a good idea because it may eliminate the best option. Drafting a counter-proposal and sharing it with stakeholders is not necessary at this stage. Choosing the preferred alternative based on voting is not a fair or objective way to make a decision.
+
+The process for using the decision-making matrix can be as follows:
+
+Identify viable alternatives.
+Identify criteria that are to be used for evaluating the alternatives.
+Assign relative weight (1-10, with 10 being the most important) to each criterion. Note that more than one criterion may have the same weight.
+Score each alternative for each criterion (again 1-10, with 10 being the best.)
+For each alternative, multiply the score with the corresponding criteria weight and add these multiples in the last column. This is the total score for each alternative.
+Choose the preferred alternative based on the total score.
+This question and rationale were developed in reference to:
+
+PMI.org (2005) //Decisions, decisions/Stefanovic, M. & Stefanovic, I. L./ [Item https://www.pmi.org/learning/library/decisions-quantitative-making-process-7466]
+
+Two key stakeholders, who are also members of the change control board (CCB), complain they were not aware of an extension to the project schedule. The project manager knows that the extension was necessary to add value to the project.
+
+What should the project manager have done to avoid this issue?
+
+A.Submitted a change request to the entire CCB without discussing it first with the stakeholders.
+B.Run a what-if analysis to determine the impact of the change.
+C.Asked the project sponsor if there was any float in the project schedule.
+D.Consulted the stakeholders before following the established change process.
+Solution: D. Consulted the stakeholders before following the established change process
+
+The project manager should have consulted the stakeholders before submitting the change request to the CCB. This would have allowed the stakeholders to understand the need for the change and to provide their input on how to implement it. By consulting the stakeholders first, the project manager could have avoided the issue of the stakeholders feeling blindsided by the change.
+
+The other options are not as good as consulting the stakeholders. Submitting a change request to the CCB without discussing it first with the stakeholders would have been a mistake. This would have made the stakeholders feel like they were not being heard and that their opinions did not matter. Running a what-if analysis to determine the impact of the change would have been a good idea, but it would not have been enough. The project manager still needed to consult with the stakeholders to get their input. Asking the project sponsor if there was any float in the project schedule would have been a good question to ask, but it would not have addressed the issue of the stakeholders feeling blindsided by the change.
+
+This question and rationale were developed in reference to:
+
+Fundamentals of Technology Project Management, 2nd Ed (2015) Colleen Garton, Erika McCulloch/Mc Press/11/401 [Item]
+
+| PMBOK Guide Sixth Edition (2018) PMI/PMI/4/120 [Item]
+
+To handle a change in requirements, a project team needs to be motivated and flexible to reprioritize tasks. What leadership style would help the team to perform well in changing and uncertain conditions?
+
+A.A collaborative approach will boost motivation, learning, growth, and innovation around a project vision.
+B.A directive approach will boost team confidence by ensuring that team members only work on the tasks suited to their qualifications.
+C.A collaborative approach will ensure that project procedures are well-documented and complete enough to cover all situations.
+D.A directive approach will prepare the team for frequent changes by adapting the project vision to new directions.
+Solution: A. A collaborative approach will boost motivation, learning, growth, and innovation around a project vision
+
+Collaborative leadership empowers teams to adapt to new challenges through a learning culture and shared vision.
+
+The other answer choices are incorrect because even in collaborative approach, all situations can't be documented in the form of project procedures. Directive approach will not boost team confidence, rather it will decease it and will not help the team to prepare for new changes.
+
+This question and rationale were developed in reference to:
+
+Agile Practice Guide (2017) PMI/PMI/table A1-2/ [Item "Collaborative teams are often critical to the success of projects with a high degree of variabiity and rapid changes, because there is less time for centralized tasking and decision making.]
+
+| https://www.pmi.org/learning/library/five-team-leadership-principles-project-success-6250 [Item Juli, T. (2011) article citation: "Involving the complete team in building a project vision, nurturing collaboration, promoting performance, cultivating learning, and ensuring results helps create an atmosphere of mutual respect and commitment toward the project vision."]
+
+In an iteration review, the definition of done (DoD) was not met.
+
+What is an appropriate way for the project manager to proceed?
+
+A.Ask the project sponsor to update the project charter and reassign the authorities and responsibilities.
+B.Request that the project team develop new features to replace the features that were rejected.
+C.Determine the root cause with the team in the retrospective meeting and suggest plan to address the deficiencies.
+D.Send a new change request to the change control board (CCB) for approval, adding budget to the baseline.
+Solution: C. Determine the root cause with the team in the retrospective meeting and suggest plan to address the deficiencies
+
+In the retrospective, the project manager and team should work to identify the root cause of the problem and suggest a plan to correct the deficiency in the next iteration.
+
+The other answer choices are incorrect. Accepting or rejecting an iteration's deliverable is part of the hybrid/agile process and for that updating project backlog; user stories dictate team performance so developing new features for replacement; seeking approval from the change control board is not applicable in an agile iteration.
+
+This question and rationale were developed in reference to:
+
+O'Reilly Platform (No Date) /// [Item Improving Agile Retrospectives: Helping Teams Become More Efficient, 1/e
+
+by Marc Loeffler, Published by Addison-Wesley Professional, 2017 THE RETROSPECTIVE PHASE MODEL.]
+
+| PMBOK Guide Sixth Edition (2018) PMI/PMI/5/615 [Item]
+
+A project manager notices that a new virtual team member does not respond to emails coherently and does not speak up in team discussions.
+
+What should the project manager do?
+
+A.Aid in developing the team member's communication skills.
+B.Aid in developing the team member's self-direction.
+C.Aid in developing the team member's expertise.
+D.Aid in developing the team member's extrovert personality.
+Solution: A. Communication Quality
+
+Communication skills are essential for success in all areas of life, but they are especially important in the workplace, especially for virtual team members. When a team member is not able to communicate effectively, it can lead to misunderstandings, delays, and conflict. The project manager can help the team member develop their communication quality through feedback, encouraging participation, offering resources, and being patient and supportive.
+
+The other answer choices are incorrect. Self-direction is an important skill, but it is not the primary issue in this case. The team member's communication challenges are likely preventing them from being fully self-directed. The team member's expertise is not the primary issue in this case. The team member is able to complete their work, but they are having difficulty communicating with their team members. Extroversion is a personality trait, and it is not something that can be changed easily. The project manager should focus on helping the team member develop their communication skills, regardless of their personality type.
+
+This question and rationale were developed in reference to:
+
+https://www.pmi.org/learning/library/virtual-teams-leadership-practices-framework-6603 
+
+The project manager has identified all internal and external stakeholders in a project. The project manager now has to determine the best stakeholder engagement approach.
+
+What should the project manager do first?
+
+A.Conduct a stakeholder analysis.
+B.Create a SWOT analysis.
+C.Develop a multicriteria decision analysis.
+D.Design a fishbone diagram.
+Solution: A. Conduct a stakeholder analysis.
+
+The project manager should use stakeholder analysis to decide the best customer engagement approach. Stakeholder analysis is a process of identifying and assessing the needs, interests, and potential impact of stakeholders on a project. It is a critical tool for project managers to use in order to develop and implement effective stakeholder engagement strategies. By conducting a stakeholder analysis, the project manager can better understand the customer's needs and expectations, and develop an engagement approach that is tailored to their specific requirements. The project manager can also identify and address any potential risks or challenges associated with the customer relationship.
+
+The other answer choices are not as relevant or effective for deciding on the best stakeholder engagement approach. SWOT analysis is a technique used to identify the strengths, weaknesses, opportunities, and threats facing a project. It is not specifically designed to help project managers make decisions about customer engagement. Multicriteria decision analysis is a technique used to evaluate and select the best option from a set of alternatives, given multiple criteria. It is not specifically designed to help project managers make decisions about customer engagement. A fishbone diagram, also known as a cause-and-effect diagram, is a technique used to identify the root causes of a problem. It is not specifically designed to help project managers make decisions about customer engagement.
+
+This question and rationale were developed in reference to:
+
+https://www.pmi.org/learning/library/project-group-decision-making-process-6797 [Multi Criteria Decision Analysis]
+
+| PMBOK Guide Seventh Edition (2022) PMI/PMI/ [2.1.1 STAKEHOLDER ENGAGEMENT]
+
+ https://www.pmi.org/learning/library/decision-analysis-projects-utlity-multi-criteria-10379
+
+A project manager is managing a project where requirements are fixed and the workflow is planned for the full development lifecycle. Additionally, the customer involvement is at specific milestones and testing happens post-build.
+
+Which methodology should a project manager use for this project?
+
+A.Agile
+B.Hybrid
+C.Predictive
+D.Continuous Improvement
+Solution: C. Predictive
+
+Project life cycles can range along a continuum from predictive approaches at one end to adaptive or agile approaches at the other. In a predictive life cycle, the project deliverables are defined at the beginning of the project and any changes to the scope are progressively managed. In an adaptive or agile life cycle, the deliverables are developed over multiple iterations where a detailed scope is defined and approved for each iteration when it begins
+
+This question and rationale were developed in reference to:
+
+PMBOK Guide Sixth Edition (2017) /PMI// [Item]
+
+| PMI.org Article (November 2017) /PMI/PMI (2017). Deliver Projects Better with any Approach.// [Item https://www.pmi.org/learning/thought-leadership/series/achieving-greater-agility/deliver-projects-better-with-any-approach]
+
+After success in a challenging project phase, a project manager reassigned a high-performing team member to a more strategic task.
+
+This is an example of what?
+
+A.Recognition
+B.Risk acceptance
+C.Mentorship
+D.Scope change
+Solution: A. Recognition
+
+Recognition - singles out an individual by recognizing them as worthy of more of the work that satisfies them. In this case, the high-performing team member is recognized for their work and is reassigned to a more strategic task.
+
+Risk Acceptance - There is no identified risk here hence the option is incorrect.
+
+Mentorship- the guidance provided by a mentor, especially an experienced person in a company or educational institution hence not the correct answer.
+
+Scope Change - a scope change comes into effect when there is a significant change that impacts project parameters to a defined, accepted work package or project, hence not the correct answer.
+
+This question and rationale were developed in reference to:
+
+https://www.pmi.org/learning/library/motivation-project-management-leadership-perspective-2390 [Item Schmid, B. & Adams, J. (2008) article citation : " Intrinsic motivation involves people doing an activity because they find it interesting and derive spontaneous satisfaction from the activity itself... The overall philosophy of rewards (extrinsic motivation) and recognition (intrinsic motivation) is to motivate the employee and to let the employee stand out.."]
+
+| Project Management Body of Knowledge (11/02/16) Project Management Institute//9.4.2.5, 9.5/ [Item 9.5: "Project managers should provide challenging assignments to team members and provide recognition for high performance ."
+
+section 9.4.2.5:: "People are motivated when they feel they are valued … Most project team members are motivated by an opportunity to grow, accomplish, be appreciated and apply their professional skills to meet new challenges.A good strategy is to give the team recognition throughout the life cycle of the project." ]
+
+An external provider is late with the delivery of a finished item. As a measure of goodwill, and to maintain the project's schedule, the provider offers to bear the cost of renting a temporary system.
+
+Since no schedule slippage will occur, what should the project manager do next?
+
+A.Account for this additional resource in the work breakdown structure (WBS).
+B.Take no further actions because there is no schedule slippage.
+C.Conduct the Perform Integrated Change Control process.
+D.Update the project documents.
+Solution: C. Conduct the Perform Integrated Change Control process
+
+Performing integrated change control: It is great that the provider is picking up the cost however this still represents a change to the execution plan and will need to addressed accordingly.
+
+The WBS captures the scope of work. There is no change of scope driving a change to the WBS, nor does the WBS manage resources.
+
+Schedule slippage: There is a change to the execution plan that needs to be addressed accordingly. The schedule may need to be modified to capture any related task changes.
+
+Update project documents: The change control process will drive any needed document updates.
+
+This question and rationale were developed in reference to:
+
+Information Technology Project Management, 7th Ed. (2015) Kathy Schwalbe/Published/4/171-175 [Item]
+
+| PMBoK, Sixth edition (2021) PMI/PMI/4/ [Item PROJECT INTEGRATION MANAGEMENT]
+
+A new project manager resumes a project in its execution phase. During a project status meeting, a team member reports an issue shared by a stakeholder.
+
+What should the new project manager do first?
+
+A.Review the issue log.
+B.Immediately address the issue.
+C.Review the stakeholder engagement plan.
+D.Update the risk management plan.
+Solution: A. Review the issue log
+
+There is no reason for the new project manager to consider this to be a new issue. By reviewing the issue log, the project manager can be satisfied that the issue has already been accounted for, and if not, take the necessary steps to address it.
+
+The other options are incorrect because, until due diligence is performed, there is no reason to believe any action (immediate or otherwise) is needed. 
+
+This question and rationale were developed in reference to:
+
+Implementing Program Management: Templates and Forms Aligned with the Standard for Program Management, Second Edition (2008) (2010) Ginger Levine, Allen R. Green/Auerbach Publications/5/1 [Item]
+
+PMBOK Guide Seventh Edition (2022) /// [4.6.2 LOGS AND REGISTERS] [2.8 UNCERTAINTY PERFORMANCE DOMAIN]
+
+A sponsor proposes a project scope change that is popular with the project team and key stakeholders. What should the project manager do?
+
+A.Follow the change management process.
+B.Notify stakeholders of the change.
+C.Update the project requirements.
+D.Modify the work breakdown structure (WBS).
+Solution: A. Follow the change management process
+
+By following the change management process the project manager will be taking the needed steps to initially gain approval, then to incorporate and communicate the changes within the project.
+
+Notifying stakeholders, updating of project requirements and modification of the WBS (if needed) will take place as components of the change management process.
+
+This question and rationale were developed in reference to:
+
+Information Technology Project Management, 7th Ed. (2015) Kathy Schwalbe/Published/5/190 [Item]
+
+| PMBoK, Sixth edition (2021) PMI/PMI/4.3.2.1/ [Item Change management plan. Describes how the change requests throughout the project will be formally authorized and incorporated.]

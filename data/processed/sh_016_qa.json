@@ -1,0 +1,257 @@
+[
+  {
+    "question": "The supplier of a tool for a manufacturing project informs the project manager that delivery of the tool will be late. The project manager orders the tool from another supplier. After the tool from the second supplier arrives, the original supplier delivers the tool and submits an invoice according to the procurement agreement. What should the project manager do next?",
+    "options": [
+      "A. Return the tool to the original supplier and refuse to pay the invoice because delivery was late.",
+      "B. Keep the extra tool as a spare, pay the invoice from the contingency reserve, and update the lessons learned log.",
+      "C. Consult the original supplier's procurement agreement to apply late delivery terms, and inform legal counsel of the issue.",
+      "D. Compare the quality of both tools, select the tool that gives the best value, and return the other tool."
+    ],
+    "answer": "C",
+    "explanation": "A contract should clearly state the deliverables and results expected, including any late delivery. Anything not in the contract may not be legally enforced and therefore it is important to consult with legal or procurement before any action should be taken.",
+    "difficulty": "medium",
+    "topic": "Predictive / Procurement Management",
+    "domain": 2,
+    "source_id": "sh_016",
+    "chunk_index": 0,
+    "video_segment": "PMI Study Hall — Mini-Exam 16 (Predictive) (paste line 9)"
+  },
+  {
+    "question": "A project team implements a change that was approved by the change control board (CCB). The change was intended to minimize a risk but it had the opposite effect. What should the project manager have done to avoid this outcome?",
+    "options": [
+      "A. Confirmed the effectiveness of the risk response and monitored progress.",
+      "B. Updated the assumption log with details concerning the risk.",
+      "C. Performed a risk analysis to quantify project risk exposure.",
+      "D. Developed a probability and impact matrix to determine the risk's priority level."
+    ],
+    "answer": "A",
+    "explanation": "Project work should be continuously monitored for new, changing, and outdated individual project risks and for changes in the level of overall project risk by applying the Monitor Risks process. The Monitor Risks process uses performance information generated during project execution to determine if the response was effective.",
+    "difficulty": "medium",
+    "topic": "Predictive / Risk Response Planning",
+    "domain": 2,
+    "source_id": "sh_016",
+    "chunk_index": 0,
+    "video_segment": "PMI Study Hall — Mini-Exam 16 (Predictive) (paste line 27)"
+  },
+  {
+    "question": "A project manager is leading a complex infrastructure project that is vital for the company's growth. During the project's initial stages, the project manager identifies a highly influential stakeholder who is resistant to the project. This stakeholder's support is crucial for the project's success, but they have expressed concerns and reservations. How should the project manager handle this situation?",
+    "options": [
+      "A. Develop a stakeholder engagement plan that includes strategies to address the concerns of the resistant stakeholder.",
+      "B. Exclude the resistant stakeholder from the project to prevent potential disruptions and maintain project focus.",
+      "C. Assign the task of managing the resistant stakeholder to a team member and focus on engaging other stakeholders.",
+      "D. Seek senior management's intervention to convince the resistant stakeholder of the project's importance."
+    ],
+    "answer": "A",
+    "explanation": "Developing a stakeholder engagement plan is correct because it addresses the root cause of the problem, which is the stakeholder's concerns and reservations. By developing a stakeholder engagement plan that specifically addresses these concerns, the project manager can build trust and rapport with the stakeholder and increase their chances of supporting the project. It demonstrates a commitment to engaging with and addressing the concerns of key stakeholders, which is essential for project success.\n\nThe other options are not as appropriate and do not address the core issue of this scenario.\n\nExcluding a resistant stakeholder, especially one whose support is crucial, is not advisable as it may lead to further conflicts and challenges.\n\nAssigning the task of managing the resistant stakeholder to a team member is incorrect because completely shifting the responsibility to a team member without addressing the stakeholder's concerns and building a positive relationship may not effectively resolve the situation.\n\nInvolving senior management should only be considered if initial efforts to engage directly with the resistant stakeholder through a stakeholder engagement plan are unsuccessful.",
+    "difficulty": "medium",
+    "topic": "Predictive / Stakeholder Engagement",
+    "domain": 1,
+    "source_id": "sh_016",
+    "chunk_index": 0,
+    "video_segment": "PMI Study Hall — Mini-Exam 16 (Predictive) (paste line 43)"
+  },
+  {
+    "question": "A stakeholder learns that the equipment purchased for a project is of higher quality than originally agreed upon. The stakeholder is concerned that this deviation has negatively impacted the budget. The stakeholder contacts the project manager and demands clarification. What action should the project manager have taken to avoid the situation?",
+    "options": [
+      "A. Updated the communications management plan.",
+      "B. Shared results of risk analysis for the equipment.",
+      "C. Performed integrated change control procedures.",
+      "D. Conducted regular equipment quality assessments."
+    ],
+    "answer": "C",
+    "explanation": "The project manager should have performed integrated change control procedures to seek approval for the change to the equipment before purchasing it. This would have prevented the stakeholder's concern from arising in the first place. Integrated change control is the appropriate process to address changes to the project's scope, quality, or other parameters. Even if the change is small and appears to have no impact, small changes can have unintended consequences. In the context of predictive project management, it is especially important to follow a change process, even for small, low-impact changes. Evaluating the impact of the change, obtaining necessary approvals, and communicating the decision to stakeholders ensures that the change is managed in a structured and controlled manner.\n\nThe other options are incorrect because they do not directly address the issue of preventing unauthorized changes.\n\nUpdating the communications management plan does not effectively address the issue. If the project manager had adhered to the change control process, they would have obtained approval for the change from the appropriate stakeholders, including the stakeholder who is concerned about the cost.\n\nSharing the results of a risk analysis is good practice, but does not address the stakeholder's concerns or replace the need for an integrated change control procedure.\n\nPerforming regular equipment quality assessments is part of ongoing project execution, but doesn't replace the need for integrated change control when there's a change that impacts project parameters.",
+    "difficulty": "medium",
+    "topic": "Predictive / Scope Management",
+    "domain": 2,
+    "source_id": "sh_016",
+    "chunk_index": 0,
+    "video_segment": "PMI Study Hall — Mini-Exam 16 (Predictive) (paste line 69)"
+  },
+  {
+    "question": "A project team lead meets with the project manager before a scheduled kick-off meeting. The team lead is worried that expectations regarding project deliverables might not be realistic. What should the project manager do?",
+    "options": [
+      "A. Review the project business case and the results of the feasibility study.",
+      "B. Facilitate a meeting between the project sponsor and the team lead to discuss the concerns.",
+      "C. Meet with the stakeholders to discuss the concerns and record their conclusions in the stakeholder engagement plan.",
+      "D. Identify the risks and agreed-upon risk responses and modify the risk register accordingly."
+    ],
+    "answer": "A",
+    "explanation": "To ensure that the deliverables are realistic, the project manager needs to review the feasibility study and then evaluate the results. The objectives of the project will be determined in the business case, along with the feasibility study to determine the validity of the project. This may result in a go/no-do decision to initiate the project.\n\nNone of the other choices will ensure this\n\nMeeting with the project sponsor or stakeholders will not be helpful before you know how feasible the project is.\n\nThe risk register can be updated after the the validity of the project is determined.",
+    "difficulty": "easy",
+    "topic": "Predictive / Stakeholder Communication",
+    "domain": 1,
+    "source_id": "sh_016",
+    "chunk_index": 0,
+    "video_segment": "PMI Study Hall — Mini-Exam 16 (Predictive) (paste line 95)"
+  },
+  {
+    "question": "A project is in the execution phase when the project manager finds that information has not been sent to stakeholders in the level of detail they expected. Which of the following is the most likely consequence of poor stakeholder communication in a project in the execution phase?",
+    "options": [
+      "A. Decreased project confidence.",
+      "B. Increased project costs.",
+      "C. Decreased project quality.",
+      "D. Delayed project schedule."
+    ],
+    "answer": "A",
+    "explanation": "The most likely consequence of poor stakeholder communication in a project in the execution phase is decreased project confidence. If stakeholders are not kept informed, they may lose confidence in the project manager and in the project's ability to succeed.\n\nThe other answer choices are also possible consequences of poor stakeholder communication, but they are not as likely as decreased project confidence from the stakeholder.",
+    "difficulty": "easy",
+    "topic": "Predictive / Stakeholder Communication",
+    "domain": 1,
+    "source_id": "sh_016",
+    "chunk_index": 0,
+    "video_segment": "PMI Study Hall — Mini-Exam 16 (Predictive) (paste line 121)"
+  },
+  {
+    "question": "A functional manager questions whether certain aspects of a project are in compliance with the project's goals. Which document should the project manager review to address the functional manager's concern?",
+    "options": [
+      "A. Statement of work (SOW)",
+      "B. Project charter",
+      "C. Project management plan",
+      "D. Project management information system (PMIS)"
+    ],
+    "answer": "B",
+    "explanation": "The project charter is deﬁned as a document issued by the project sponsor that formally authorizes the project, defines the project objectives and constraints, and provides the project manager with the authority to apply organizational resources to project activities.",
+    "difficulty": "easy",
+    "topic": "Predictive / Scope Management",
+    "domain": 2,
+    "source_id": "sh_016",
+    "chunk_index": 0,
+    "video_segment": "PMI Study Hall — Mini-Exam 16 (Predictive) (paste line 137)"
+  },
+  {
+    "question": "An expert resource avoids assignments that include working with a foreign contractor. How should the project manager resolve the situation?",
+    "options": [
+      "A. Question the expert privately about their reluctance or biases and insist on an inclusive attitude.",
+      "B. Issue a disciplinary warning to the expert and advise their functional manager to send them to diversity training.",
+      "C. Prevent delays and conflicts by hiring a consultant that the expert is willing to work with.",
+      "D. Reprimand the expert about their discriminatory behavior during a team meeting to set the right example."
+    ],
+    "answer": "A",
+    "explanation": "The project manager should understand the reason or root cause on why the expert resource is avoiding assignment before doing any disciplinary warning or other action to replace the expert resource.",
+    "difficulty": "medium",
+    "topic": "Predictive / Conflict Resolution",
+    "domain": 1,
+    "source_id": "sh_016",
+    "chunk_index": 0,
+    "video_segment": "PMI Study Hall — Mini-Exam 16 (Predictive) (paste line 153)"
+  },
+  {
+    "question": "A key stakeholder requests a change that will solve a critical issue that might affect continuity of operations. However, the project is nearing completion and the change would increase the overall project cost and delay the completion date. What should the project manager do?",
+    "options": [
+      "A. Assign the decision regarding the critical nature of the change to a more knowledgeable stakeholder.",
+      "B. Submit a change request to the change control board (CCB).",
+      "C. Revise the work breakdown structure (WBS) and the project scope statement to include the change.",
+      "D. Communicate the impact on the budget and schedule to the project sponsor."
+    ],
+    "answer": "B",
+    "explanation": "The Project Management Plan defines how to handle changes, including submitting them to a change control board (CCB). The Project Manager must follow the defined procedure.\n\nAssigning the decision to a more knowledgeable stakeholder as this change raised by the key stakeholder needs to be managed correctly via the change request process.\n\nThe Project Manager can't revise the WBS before the change request is approved to proceed.\n\nCommunicating the impact on the budget and schedule will be discussed after the change request is submitted.",
+    "difficulty": "hard",
+    "topic": "Predictive / Change Control",
+    "domain": 2,
+    "source_id": "sh_016",
+    "chunk_index": 0,
+    "video_segment": "PMI Study Hall — Mini-Exam 16 (Predictive) (paste line 171)"
+  },
+  {
+    "question": "A project manager notices schedule performance issues due to the expertise levels of project resources. Some experienced resources check unnecessary details, and some junior-level resources take a long time to complete tasks. What should the project manager do to help the team enhance their performance?",
+    "options": [
+      "A. Identify each individual's knowledge gaps and address those gaps through training.",
+      "B. Note this in the risk register and address this with the team during a retrospective session.",
+      "C. Inform the sponsor that the deliverable will not be available on time due to insufficient expertise.",
+      "D. Meet with human resources to have them address the individuals that are missing skills."
+    ],
+    "answer": "A",
+    "explanation": "It is important to make sure that project team members understand and fulfill their roles and responsibilities. Identifying each individual's knowledge gaps and addressing those gaps through training is the best way to help the team enhance their performance. Proactively guiding the team members to gain the skills and understanding they lack will help them on this and future projects.\n\nThe other opinions are incorrect because they do not help the team enhance their performance.\n\nNoting this in the risk register is a good idea, but it does not go far enough. The project manager needs to take specific action to address the performance issues.\n\nInforming the sponsor that the deliverable will not be available on time is not a good option because it does not address the root cause of the problem. The project manager should focus on helping the team improve their performance, not simply giving up.\n\nMeeting with human resources may be necessary in some cases, but it is not always the best solution. The project manager may be able to identify training opportunities that will help the team members develop the skills they need.",
+    "difficulty": "medium",
+    "topic": "Predictive / Resource Management",
+    "domain": 1,
+    "source_id": "sh_016",
+    "chunk_index": 0,
+    "video_segment": "PMI Study Hall — Mini-Exam 16 (Predictive) (paste line 195)"
+  },
+  {
+    "question": "During a periodic review with stakeholders, the project sponsor asks how the project will measure satisfactory completion of the deliverables and how those measurements are applied. Where can the project manager find this information?",
+    "options": [
+      "A. Scope management plan.",
+      "B. Requirements management plan.",
+      "C. Quality management plan.",
+      "D. Work performance reports."
+    ],
+    "answer": "B",
+    "explanation": "The Requirements Management Plan is correct because it is a component of the project or program management plan that describes how requirements will be analyzed, documented and managed.\n\nThe Quality Management Plan is incorrect because it identifies the quality requirements and/or standards for the project and its deliverables, and documenting how the project will demonstrate compliance with quality requirements and/ or standards.\n\nThe Scope Management Plan is incorrect because it's a component of a project or program management plan that describes how the scope will be defined, developed, monitored, controlled and validated.\n\nThe Work Performance Reports is incorrect because it is the physical or electronic representation of the work performance information compiled in project documents, intended to generate decisions, actions or awareness.",
+    "difficulty": "easy",
+    "topic": "Predictive / Quality Management",
+    "domain": 2,
+    "source_id": "sh_016",
+    "chunk_index": 0,
+    "video_segment": "PMI Study Hall — Mini-Exam 16 (Predictive) (paste line 221)"
+  },
+  {
+    "question": "A project manager is concerned that team members spend too much time assisting operations and maintenance staff with a recently completed and delivered project component. The project manager has referred to the organizational process assets document to validate that the component was signed off and ownership was transferred. To which additional documents should the project manager refer?",
+    "options": [
+      "A. Procurement statement of work (SOW) and work performance report",
+      "B. Requirements management plan and change management plan",
+      "C. Procurement management plan and project charter",
+      "D. Final report and project document updates"
+    ],
+    "answer": "D",
+    "explanation": "When closing the project, the project manager reviews the project management plan to ensure that all project work is completed and that the project has met its objectives. The project documents are updated accordingly.\n\nThe other documents - SOW, Work Performance Report, Requirements Management Plan, Change Management Plan, Procurement Management Plan, Project Charter - are all deliverables earlier on the project and not during project closure.",
+    "difficulty": "medium",
+    "topic": "Predictive / Project Closure",
+    "domain": 2,
+    "source_id": "sh_016",
+    "chunk_index": 0,
+    "video_segment": "PMI Study Hall — Mini-Exam 16 (Predictive) (paste line 245)"
+  },
+  {
+    "question": "Upon completion of a long-term contract, the project manager confirms with the release manager that all planned features are functioning properly as verified by the quality assurance team. The project manager informs the same to the customer and project stakeholders and obtains the approval to close the project. The project is now closed. For ensuring that the knowledge gained during this project remains available for future reference, what should the project manager do next?",
+    "options": [
+      "A. Update the lessons learned knowledge base.",
+      "B. Update the risk register before informing project team members.",
+      "C. Update and archive the final procurement file.",
+      "D. Close out the seller performance evaluation documentation."
+    ],
+    "answer": "A",
+    "explanation": "During the project closure phase, lessons learned and knowledge gained throughout the project are transferred to the lessons learned repository for use by future projects.\n\nUpdating the risk register is usually done throughout the project, and a closed project is likely to require risk updates and the need to inform team members. The other options on updating procurement files and closing out evaluation documentation are not likely to be part of the knowledge transfer for future reference. The most likely option to ensure knowledge is passed on is to update the lessons learned knowledge base.",
+    "difficulty": "medium",
+    "topic": "Predictive / Project Closure",
+    "domain": 2,
+    "source_id": "sh_016",
+    "chunk_index": 0,
+    "video_segment": "PMI Study Hall — Mini-Exam 16 (Predictive) (paste line 267)"
+  },
+  {
+    "question": "A project manager is leading a project to deliver a new product to the market. The project sponsor has asked for a broadened scope and to deliver a \"scaled-up version\" of the final product. What should the project manager do?",
+    "options": [
+      "A. Request a formal confirmation of the change.",
+      "B. Get stakeholder approval to revise the budget.",
+      "C. Initiate integrated change control process.",
+      "D. Update project management plan."
+    ],
+    "answer": "C",
+    "explanation": "Any product and project scope change requested by a client can extensively impact the Project Management Plan. The project manager must start the Integrated Change Control Process to evaluate impacts on schedule, costs, and other knowledge areas before the change approval and implementation. Whenever a change request could affect any one of the project baselines, an integrated change control process is necessary.\n\nThe other answer choices are incorrect. Requesting a formal confirmation of the change cannot happen because the change has not been defined to warrant the sign-off. Getting stakeholder approval to revise the budget can only happen if the change request is approved. Updating the project management plan would only happen after the change has been approved.",
+    "difficulty": "medium",
+    "topic": "Predictive / Scope Management",
+    "domain": 2,
+    "source_id": "sh_016",
+    "chunk_index": 0,
+    "video_segment": "PMI Study Hall — Mini-Exam 16 (Predictive) (paste line 287)"
+  },
+  {
+    "question": "A project manager must get approval for a complex project management plan from multiple stakeholders in various countries before the project can be kicked off. The time to gain approval is limited. What should the project manager first do?",
+    "options": [
+      "A. Schedule a meeting with the stakeholders and walk them through the project plan to gain their approval.",
+      "B. Distribute the plan to the stakeholders for their review days before scheduling a meeting to obtain approvals.",
+      "C. Tell the project sponsor that the stakeholder approvals will require more time and adjust the schedule.",
+      "D. Obtain partial stakeholder approvals and track incomplete approvals as a risk to be managed later."
+    ],
+    "answer": "B",
+    "explanation": "By sending the project management plan to the attendees in advance, the PM can ensure that the meeting is most productive.\n\nThe other choices are incorrect as they do not address the two vital constraints for the project namely diversified project stakeholders and limited time to gain approval. Some choices even create a greater risk to the project.",
+    "difficulty": "medium",
+    "topic": "Predictive / Stakeholder Engagement",
+    "domain": 1,
+    "source_id": "sh_016",
+    "chunk_index": 0,
+    "video_segment": "PMI Study Hall — Mini-Exam 16 (Predictive) (paste line 309)"
+  }
+]

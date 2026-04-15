@@ -1,0 +1,318 @@
+After all deliverables have been completed, a project manager needs to formally close a project. What should the project manager do?
+
+A.Update the project documents with quality control measurements to prove deliverables have been met.
+B.Obtain stakeholder acceptance and initiate project closeout.
+C.Release the project team and estimate any unused funds.
+D.Incorporate the issue log into the lessons learned register to produce the final report.
+Solution: B. Obtain stakeholder acceptance and initiate project closeout.
+
+The PM should obtain the acceptance of the Stakeholders who had initiated the project.
+
+The remaining answers are activities to be completed as part of the Project Closeout and are, therefore, not the correct answer.
+
+This question and rationale were developed in reference to:
+
+A Guide to the Project Management Body of Knowledge, Fifth Edition (2015) PMI/PMI/3/58 [Item]
+
+| PMBoK, Sixth edition (2021) PMI/PMI/4/ [Item Section 4.7.3 Close Project or Phase: Outputs]
+
+| Project Management: The Managerial Process (2015) Clifford F. Gray & Erik W. Larson/McGraw-Hill Irwin/14/527-528 [Item]
+
+A project manager is leading a complex system improvement project. During the integration phase, an upgrade to one component causes an outage on an existing critical component that is currently in use by all departments to access inventory data. 
+
+What should the project manager do first?
+
+A.Consult the operations plan to determine the best way to resolve the issue.
+B.Follow the communications management plan to notify the stakeholders of the issue.
+C.Update the issue log with details about a final solution for the issue.
+D.Review the strategy documented in the risk management plan to manage the issue.
+Solution: D. Review the strategy documented in the risk management plan to manage the issue.
+
+The best thing for the project manager to do first is to review the strategy documented in the risk management plan to manage the issue. This is because the risk management plan should contain a list of potential risks, as well as strategies for mitigating those risks. The outage of the critical component is a risk that should have been identified in the risk management plan, and there should be a strategy in place for managing this risk.
+
+The other answer choices are not as effective. Consulting the operations plan to determine the best way to resolve the issue is important but the project manager should first review the risk management plan to understand the root cause of the issue and to determine the best way to mitigate the risk. Following the communications management plan to notify the stakeholders of the issue is important, but this should not be the first thing that the project manager does. The project manager should first review the risk management plan to determine the best way to mitigate the risk and to develop a plan to resolve the issue. Updating the issue log with details about a final solution for the issue. The issue log should be updated with information about the issue, but the final solution should not be documented until the project manager has had a chance to review the risk management plan and to develop a plan to resolve the issue.
+
+This question and rationale were developed in reference to:
+
+PMBOK Guide Sixth Edition (2018) PMI/PMI/5.9/ [Item]
+
+| The AMA Handbook of Project Management, Third Edition (No Date) /AMACOM/13 Project communications management in practice/Location 3835 [Item]
+
+| The Project Management Tool Kit: 100 Tips and Techniques for Getting the Job Done Right (No Date) /Amacom/11 Communications planning/25 [Item]
+
+During project execution, key stakeholders request a change to ensure that the final product will satisfy their requirements. Why should the project manager submit a change request?
+
+A.To record the requirements needed for the stakeholders' sign-off in order to update the issues log.
+B.To ensure that the request is formally documented and incorporated according to the integrated change control process.
+C.To provide justification for any impact the change might have on the project's budget or schedule.
+D.To ensure stakeholder responsibility regarding potential impact of the change on project budget and schedule.
+Solution: B. To ensure that the request is formally documented and incorporated according to the integrated change control process.
+
+A change request formally documents a proposed modification to the project plan, and is the first step of implementing a change.
+
+The project manager's responsibilities include verifying that changes are registered, assessed, approved, tracked, and communicated to stakeholders.
+
+The other choices do not describe the purposes of a change request.
+
+This question and rationale were developed in reference to:
+
+PMBOK Guide Sixth Edition (2018) ///4.2.3.1 PROJECT MANAGEMENT PLAN [Item]
+
+| PMBOK Guide Sixth Edition (2018) PMI/PMI/4/119 [Item]
+
+| Project management : A Systems Approach to Planning, Scheduling, and Controlling (2009) Harold Kerzner/John Wiley/11/15551 (kindle) [Item]
+
+A new project manager joins a project overseen by a senior project manager. The sponsor asks the new project manager to develop the quality management plan.
+
+Why should the project manager initially consult with the senior project manager?
+
+A.To learn the established quality processes and plans and how appropriate standards were selected.
+B.To determine what product requirements have already been collected and to gather more as needed.
+C.To develop cost-benefit analyses and benchmarking samples to be used for risk management.
+D.To draft a change request for revision to the quality metrics and quality checklists.
+Solution: A. To learn the established quality processes and plans and how appropriate standards were selected.
+
+The new project manager should consult with the senior project manager to find out what practices and processes are already in place.
+
+Product requirements are not captured in the quality management plan.
+
+Developing cost-benefit analysis and benchmarking samples are not something the new project manager should start doing when the new project manager joins the project.
+
+The new project manager needs to understand what quality metrics and quality checklists are in place before making any changes to them.
+
+This question and rationale were developed in reference to:
+
+Information Technology Project Management, 7th Ed. (2015) Kathy Schwalbe//8/315-317 [Item]
+
+| PMBOK Guide Sixth Edition (2018) PMI/PMI/8/286 [Item]
+
+| PMBoK, Sixth edition (2021) PMI/PMI/8/ [Item Plan Quality Management]
+
+A customer wants to add new features to the project deliverable. Before the project manager can begin work on these new features, what should the project manager do first?
+
+A.Document the list of additional features in an email to the customer as a notification that the team will start working on the new features.
+B.Draft the change request in the appropriate format to seek approval from the change control board (CCB) and start working on the new features only after approval is given.
+C.Notify the project sponsor that the customer wants to add new features and wait for their approval to work on these new features.
+D.Consult a subject matter expert (SME) and start working on the new features after there are no further concerns raised.
+Solution: B. Draft the change request in the appropriate format to seek approval from the change control board (CCB) and start working on the new features only after approval is given
+
+The change control board is a formally chartered group responsible for reviewing, evaluating, approving, deferring, or rejecting changes to the project and for recording and communicating such decisions. The options to email the customer, notify the project sponsor and consult an SME are not sufficient to change control actions to be completed before spending resources on the new feature.
+
+This question and rationale were developed in reference to:
+
+e-Reads (No Date) ///Project Manager's Spotlight on Change Management Chapter 4 [Item]
+
+| OLD - PM: A Managerial Approach, 7th ed (Dec 10 2008 12:00AM) Jack R Meredith, Samuel J, Jr. Mantel/Wiley//page 502 [Item]
+
+| OLD - PMBOK® Guide--Fourth Edition (Dec 1 2008 12:00AM) PMI/PMI//Chapter 4, page 98 [Item]
+
+| PMBOK® Guide--Fifth Edition (5th) PMI/PMI//Section 4.5.2, pgs 98-99 [Item]
+
+A project manager and the project team identified risks, performed a qualitative risk analysis, and prepared a risk response plan. However, delays in the response to risk events are affecting the project schedule.
+
+How would assigning risk owners to the risk responses help avoid these delays?
+
+A.Risk owners work with the project sponsor to ensure the risk response plan will be effective.
+B.Risk owners identify likely constraints and assumptions before the risk events occur.
+C.Risk owners are responsible for implementing the appropriate risk response strategy.
+D.The risk report assigns management of delays in the project schedule to the appropriate risk owner.
+Solution: C. Risk owners are responsible for implementing the appropriate risk response strategy.
+
+The correct answer is risk owners are responsible for implementing the appropriate risk response strategy.
+Risk owners for each risk are nominated as part of the Identify Risks process and confirmed while performing qualitative risk analysis. A risk owner is a person responsible for monitoring the risk and for selecting and implementing an appropriate risk response strategy. If a risk owner is not assigned to a risk, then the risk response will not be implemented in a timely manner and delays to the schedule could occur. 
+The other options are incorrect because they do not address the issue in this case, which is that delays in the response to risk events are affecting the project schedule. Working to ensure the response plan will be effective, and/or identifying constraints and assumptions, does not address the fact that delays in implementing risk responses are affecting the project schedule. The risk report is a project document developed progressively throughout the risk management processes and summarizes information on individual project risks and the level of overall project risk. A risk report does not assign management of delays in the project schedule to the appropriate risk owner.
+
+This question and rationale were developed in reference to:
+PMBOK Guide Sixth Edition (2018) PMI/PMI/11/411 [Item]
+| Project Management: A Systems Approach to Planning, Scheduling, and Contro (No Date) /Project Management: A Systems Approach to Planning, Scheduling, and Control//24057 [Item]
+The Standard for Risk Management in Portfolios, Programs, and Projects (2019)
+
+A project manager is managing an agile project where the team is regularly missing user story due dates. What should the project manager do to resolve this situation?
+
+A.Work with the sponsor to move out the deliverable hand over date.
+B.Review the time allotted to iterations and sprints, adjusting them as needed.
+C.Meet with the project team to identify if further agile methodologies training is necessary.
+D.Implement a reward program for the project team to encourage completing stories on the due dates.
+Solution: C. Meet with the project team to identify if further agile methodologies training is necessary.
+
+It is important for the project manager to meet with the team and analyze the issue before proceeding. This will help identify gaps in training to ensure user story due dates are met.
+
+Then, the project manager and team members can review the time allotted to iterations and sprints, adjusting them as needed. Working with the sponsor to push delivery dates will be unnecessary when the issue is resolved and a reward system may not work for a team with differing preferences. 
+
+This question and rationale were developed in reference to:
+
+O'Reilly Platform (No Date) //Essential Scrum - chapter 19 - Sprint planning/ [Item]
+
+| The Agile Practice Guide (No Date) PMI/PMI/5/58 [Item]
+
+A new project is initiated to develop several new financial products and services for a company with offices in several countries. The project manager has researched the regulations for each of the countries. Based on the research, the project manager is concerned that some new products and services do not offer enough protection for the consumer.
+
+What should the project manager do first?
+
+A.Identify all of the project risks.
+B.Quantify the project risks in the risk register.
+C.Develop a risk response strategy.
+D.Perform scheduled risk audits.
+Solution: A. Identify the high-level project risks.
+
+The correct answer is to identify all of the project risks.
+The first step is to identify the risks, which is the process of determining and documenting the risks that might affect the intended outcomes. Regulations are requirements imposed by a governmental body. These requirements can establish product, process, or service characteristics, including applicable administrative provisions that have government-mandated compliance. The project manager has to account for the regulations of each country and identify the risks associated with those regulations.
+Once the risks are identified, they can be quantified and a response strategy can be developed and a schedule for a risk audit can be developed. A risk audit would not be helpful if all of the risks have not been identified. Periodic audits should be performed to determine strengths and weaknesses in handling risks within the project.
+
+This question and rationale were developed in reference to:
+
+This question and rationale were developed in reference to:
+Fundamentals of Technology Project Management, 2nd Ed (2015) Colleen Garton, Erika McCulloch/Mc Press//80 [Item]
+| PMBoK, Sixth edition (2021) PMI/PMI/3/ [Item Project Management Plan Components]
+PMBOK Guide Seventh Edition (2022) /// [Item Regulations]
+
+A project manager is developing the schedule for a new software development project. The project network diagram shows two separate paths:
+
+Path A: Tasks 1-2-3-4 (all with a duration of 5 days each)
+Path B: Tasks 5-6-7 (durations of 3, 7, and 2 days respectively)
+There are no external dependencies between these paths.
+
+What is the critical path for this project?
+
+A.1-2-3-4
+B.5-6-7
+C.1-2-3-4-5-6-7
+D.1-2-6-7
+Solution: A. 1-2-3-4
+
+The critical path refers to the longest sequence of dependent tasks that must be completed on time for the entire project to finish on schedule. Since there are no external dependencies between Path A and Path B, analyze their individual durations. Path A: Tasks 1-2-3-4 (all with a duration of 5 days each) has a total duration of 20 days (5 days/task * 4 tasks = 20). Path B: Tasks 5-6-7 (durations of 3, 7, and 2 days respectively) has a total duration of 12 days (3 days + 7 days + 2 days = 12). Because Path A has a longer total duration (20 days) compared to Path B (12 days), it represents the critical path for this project.
+
+The other answer choices are incorrect. The combination of both paths is not necessary since the paths are independent, thus there's no dependency between tasks 1-2-3-4 and 5-6-7, nor tasks 1-2 and 6-7.
+
+This question and rationale were developed in reference to:
+
+e-Reads (No Date) ///A Practical Guide to Earned Value Project Management, 2nd. CH17. Critical Chain Project Management [Item]
+
+| PMBOK® Guide--Fifth Edition (5th) PMI/PMI//pmbok 6.3.3.1 Project Schedule Network Diagrams ( p159-160) [Item]
+
+During a status review meeting, it was determined that the product will not meet project scope requirements in a particular scenario. What should the project manager do?
+
+A.Perform risk analysis and update project scope.
+B.Initiate integrated change control process.
+C.Review the baselines to determine the critical path.
+D.Inform customer and negotiate an extended deadline.
+Solution: B. Initiate integrated change control process.
+
+The product not meeting project scope is a "Risk" that needs to be managed. This is managed through Integrated Change Control Process. Project scope may change to include this particular scenario after the CCP is initiated.
+
+There is no baseline review nor renegotiation with the customer until after the CCP is initiated.
+
+This question and rationale were developed in reference to:
+
+e-Reads (No Date) ///Fundamentals of Effective Program Management: A Process Approach Based on the Global Standard by Paul Sanghera, Chapter 4 - Program Scope Management [Item]
+
+| PMBOK Guide Sixth Edition, 6th edition (2017) PMI/PMI/4/115 [Item 4.6 Perform Integrated Change Control]
+
+| PMBoK, Sixth edition (2021) PMI/PMI/11/ [Item Plan risk Management]
+
+| PMBOK® Guide--Fifth Edition (5th) PMI/PMI//5.1 Plan Scope Management. Pages 107-110. [Item]
+
+A project manager was recently hired in a new organization and has been assigned to their first project. A colleague of the project manager warns about too much stakeholder involvement and adding extra complexity to the project.
+
+Which behavior will neither add complexity nor uncertainty to the project during project scope process?
+
+A.Influential stakeholders understanding and agreement
+B.Stakeholder setting achievable goals
+C.Disagreement between stakeholders
+D.Optimistic biases on project scope
+Solution: A. Influential stakeholders understanding and agreement
+
+Stakeholder setting achievable goals is desirable but the key here is in the understanding and agreement among the influential stakeholders.
+
+Disagreement between stakeholders will increase complexity.
+
+Optimistic biases will increase uncertainty.
+
+This question and rationale were developed in reference to:
+
+https://www.projectmanagement.com/articles/433462/Project-Scope--Managing-Complexity-and-Uncertainty [Item Project Scope: Managing Complexity and Uncertainty
+
+Mari Rengarajam Deenadayalu (Chennai Chapter) - January 24, 2018]
+
+A project manager is assigned to a project that has completed the planning phase. The project sponsor is confident that the project management plan has allowed for sufficient budget and scheduled time. The project manager believes that unforeseen events could affect the ability to complete the project successfully.
+
+What should the project manager do?
+
+A.Identify and evaluate potential risks and develop a risk action plan.
+B.Meet with the project sponsor to request additional funding to mitigate potential risks.
+C.Discuss the risk potential with the functional manager and identify resources that could ensure project success.
+D.Document potential constraints and limitations in the risk management plan.
+Solution: A. Identify and evaluate potential risks and develop a risk action plan.
+
+The correct response is to identify and evaluate risks, and develop an action plan. The project manager needs to be proactive and anticipate uncertain events and create plans to avoid, mitigate, transfer, or accept them.
+
+Requesting additional funding is premature until the risks are understood, as are other resource discussions with the functional manager.
+
+The risk management plan describes the process by which the project approaches risk, and nothing in the question indicates that it is inadequate; documenting constraints and limitations also is premature.
+
+This question and rationale were developed in reference to:
+
+Fundamentals of Technology Project Management, 2nd Ed (2015) Colleen Garton, Erika McCulloch/Mc Press/10/369 [Item]
+
+| PMBOK Guide Sixth Edition (2018) PMI/PMI/11/321 [Item]
+
+While reviewing the approved project schedule, the project manager realizes that the milestones are unrealistic due to longer-than-expected procurement lead times for certain key project components. The project manager needs to update the schedule baseline to reflect the long lead times.
+
+What should the project manager do first?
+
+A.Modify the work breakdown structure (WBS).
+B.Update the assumption log.
+C.Modify the procurement management plan.
+D.Submit a change request.
+Solution: D. Submit a change request.
+
+Change request is the correct answer as every baseline change should go through an integrated change control process.
+
+Procurement lead times are the issue here. Therefore, there is no need to modify the WBS nor to update the assumption log. It is the lead times that were defined but not accounted in schedule baseline. There is no need to change the procurement management plan.
+
+This question and rationale were developed in reference to:
+
+Fundamentals of Technology PM, 2nd Ed (2nd) Colleen Garton, Erika McCulloch/Mc Press/4/134 [Item]
+
+| PMBOK Guide Sixth Edition (2018) PMI/PMI/4/81 [Item]
+
+A project manager for a cross-functional team realizes that there is a lack of commitment from stakeholders to the project following a review meeting. This could lead to project failure.
+
+Which three of the following actions should be avoided to mitigate this risk? (Choose 3).
+
+A.Creating a weak communication plan
+B.Allowing stakeholders to use information radiators
+C.Not prioritizing stakeholders’ communication needs
+D.Using fishbowl windows and remote pairing
+E.Not updating the communication plan
+Solution: A, C, and E. Creating a weak communication plan, Not prioritizing stakeholders’ communication needs, and Not updating the communication plan
+
+The three actions that should be avoided by the project manager to mitigate the risk are those that are most likely to lead to a lack of commitment from stakeholders. A weak communication plan, not prioritizing stakeholders' communication needs, and not updating the communication plan as the project progresses are all likely to lead to misunderstandings and a lack of information for stakeholders. This can lead to stakeholders feeling like they are not being kept in the loop, which can damage relationships and lead to a lack of commitment to the project.
+
+The other two options, stakeholders using information radiators and using fishbowl windows and remote pairing, are not as likely to lead to a lack of commitment from stakeholders. Information radiators are visual displays of project information that can be helpful in keeping stakeholders informed. Fishbowl windows and remote pairing are techniques that can be used to improve communication and collaboration between stakeholders, which can help to build relationships and increase buy-in.
+
+This question and rationale were developed in reference to:
+
+Agile Practice Guide (2017) PMI/PMI//46 [Item]
+
+An organization is updating its production capacity by modernizing its computer systems and machinery. The existing systems and machinery will need to keep running while the upgrades are being made. To minimize potential risks, agile methodologies will be used for the systems upgrades while the machinery acquisition, installation, and integration will use waterfall. The co-located project team agrees that communication is critical for the project to succeed.
+
+How should the project manager proceed to ensure the project will be completed on schedule?
+
+A.Schedule weekly co-located sessions with the project team and key stakeholders.
+B.Email weekly status updates to the project team.
+C.Meet individually with the stakeholders once a week to provide status updates.
+D.Conduct daily teleconference sessions with the sponsor.
+Solution: A. Schedule weekly co-located sessions with the project team and key stakeholders.
+
+In this situation, where communication is critical and the project involves both agile and waterfall methodologies, scheduling weekly co-located sessions with the project team and key stakeholders is the most effective approach. This allows for face-to-face interaction, promotes collaboration, and enables timely discussions and decision-making. 
+
+The other answer choices are incorrect. Emailing weekly status updates to the project team may not be sufficient for effective communication and collaboration, especially when dealing with a project that involves different methodologies and complex integration requirements. Meeting individually with stakeholders once a week may not facilitate cross-team communication and may lead to siloed information. It may also consume significant time and hinder overall coordination efforts. Conducting daily teleconference sessions with the sponsor can be excessive and impractical, as daily meetings may not be necessary for the entire project team. Weekly sessions are usually sufficient for stakeholders to stay informed and engaged.
+
+This question and rationale were developed in reference to:
+
+O'Reilly Platform (No Date) /// [Item Mastering Project Time Management, Cost Control, and Quality Management: Proven Methods for Controlling the Three Elements that Define Project Deliverables
+
+By Randal Wilson]
+
+| PMBOK Guide Sixth Edition (2018) PMI/PMI/10/365 [Item]

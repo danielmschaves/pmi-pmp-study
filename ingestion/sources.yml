@@ -43,3 +43,159 @@ sources:
   mode: extract
   chunk_minutes: 10
   status: processed
+- id: sh_001
+  type: studyhall
+  path: data/raw/sh_001_paste.txt
+  domain: null
+  topic: PMI Study Hall — Mini-Exam 1
+  mode: studyhall
+  status: processed
+- id: sh_002
+  type: studyhall
+  path: data/raw/sh_002_paste.txt
+  domain: null
+  topic: PMI Study Hall — Mini-Exam 2 (Predictive)
+  exam_section: Predictive
+  mode: studyhall
+  status: processed
+- id: sh_003
+  type: studyhall
+  path: data/raw/sh_003_paste.txt
+  domain: null
+  topic: PMI Study Hall — Mini-Exam 3 (Hybrid)
+  exam_section: Hybrid
+  mode: studyhall
+  status: processed
+- id: sh_004
+  type: studyhall
+  path: data/raw/sh_004_paste.txt
+  domain: null
+  topic: PMI Study Hall — Mini-Exam 4 (Agile)
+  exam_section: Agile
+  mode: studyhall
+  status: processed
+- id: sh_005
+  type: studyhall
+  path: data/raw/sh_005_paste.txt
+  domain: null
+  topic: PMI Study Hall — Mini-Exam 5 (Hybrid)
+  exam_section: Hybrid
+  mode: studyhall
+  status: processed
+- id: sh_006
+  type: studyhall
+  path: data/raw/sh_006_paste.txt
+  domain: null
+  topic: PMI Study Hall — Mini-Exam 6 (Predictive)
+  exam_section: Predictive
+  mode: studyhall
+  status: processed
+- id: sh_007
+  type: studyhall
+  path: data/raw/sh_007_paste.txt
+  domain: null
+  topic: PMI Study Hall — Mini-Exam 7
+  mode: studyhall
+  status: processed
+- id: sh_008
+  type: studyhall
+  path: data/raw/sh_008_paste.txt
+  domain: null
+  topic: PMI Study Hall — Mini-Exam 8 (Agile)
+  exam_section: Agile
+  mode: studyhall
+  status: processed
+- id: sh_009
+  type: studyhall
+  path: data/raw/sh_009_paste.txt
+  domain: 1
+  topic: PMI Study Hall — Mini-Exam 9 (People Domain)
+  exam_section: People Domain
+  mode: studyhall
+  status: processed
+- id: sh_010
+  type: studyhall
+  path: data/raw/sh_010_paste.txt
+  domain: 2
+  topic: PMI Study Hall — Mini-Exam 10 (Process Domain)
+  exam_section: Process Domain
+  mode: studyhall
+  status: processed
+- id: sh_011
+  type: studyhall
+  path: data/raw/sh_011_paste.txt
+  domain: 3
+  topic: PMI Study Hall — Mini-Exam 11 (Business Environment Domain)
+  exam_section: Business Environment Domain
+  mode: studyhall
+  status: processed
+- id: sh_012
+  type: studyhall
+  path: data/raw/sh_012_paste.txt
+  domain: null
+  topic: PMI Study Hall — Mini-Exam 12 (Hybrid)
+  exam_section: Hybrid
+  mode: studyhall
+  status: processed
+- id: sh_013
+  type: studyhall
+  path: data/raw/sh_013_paste.txt
+  domain: null
+  topic: PMI Study Hall — Mini-Exam 13 (Predictive)
+  exam_section: Predictive
+  mode: studyhall
+  status: processed
+- id: sh_014
+  type: studyhall
+  path: data/raw/sh_014_paste.txt
+  domain: null
+  topic: PMI Study Hall — Mini-Exam 14
+  mode: studyhall
+  status: processed
+- id: sh_015
+  type: studyhall
+  path: data/raw/sh_015_paste.txt
+  domain: null
+  topic: PMI Study Hall — Mini-Exam 15 (Agile)
+  exam_section: Agile
+  mode: studyhall
+  status: processed
+- id: sh_016
+  type: studyhall
+  path: data/raw/sh_016_paste.txt
+  domain: null
+  topic: PMI Study Hall — Mini-Exam 16 (Predictive)
+  exam_section: Predictive
+  mode: studyhall
+  status: processed
+- id: sh_017
+  type: studyhall
+  path: data/raw/sh_017_paste.txt
+  domain: null
+  topic: PMI Study Hall — Mini-Exam 17 (Hybrid)
+  exam_section: Hybrid
+  mode: studyhall
+  status: processed
+- id: sh_018
+  type: studyhall
+  path: data/raw/sh_018_paste.txt
+  domain: null
+  topic: PMI Study Hall — Mini-Exam 18 (Agile)
+  exam_section: Agile
+  mode: studyhall
+  status: processed
+- id: sh_019
+  type: studyhall
+  path: data/raw/sh_019_paste.txt
+  domain: null
+  topic: PMI Study Hall — Mini-Exam 19 (Predictive)
+  exam_section: Predictive
+  mode: studyhall
+  status: processed
+- id: sh_020
+  type: studyhall
+  path: data/raw/sh_020_paste.txt
+  domain: null
+  topic: PMI Study Hall — Mini-Exam 20
+  mode: studyhall
+  status: processed

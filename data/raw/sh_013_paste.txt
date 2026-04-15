@@ -1,0 +1,320 @@
+A project is in development when a functional manager leaves the company and is no longer involved with the project.
+
+What should the project manager do first?
+
+A.Update the change log.
+B.Update the risk register.
+C.Update the stakeholder register.
+D.Update the assumption log.
+Solution: C. Update the stakeholder register.
+
+The project manager should update the stakeholder register first when a functional manager leaves the company and is no longer involved with a project in development. By updating the stakeholder register first, the project manager can ensure that all stakeholders are informed and engaged in the project. 
+
+The other answer choices are incorrect. The stakeholder register is a document that lists all of the stakeholders on a project, as well as their contact information and their roles and responsibilities. When a functional manager leaves the company, they are no longer a stakeholder in the project, so their information needs to be removed from the stakeholder register. Additionally, the project manager may need to add new stakeholders to the register, such as the new functional manager (if there is one) or other team members who are taking on the functional manager's responsibilities. It is important to update the change log, risk register, and assumption log, however, that should not happen before the project manager updates the stakeholder register.
+
+This question and rationale were developed in reference to:
+
+PMBOK® Guide--Fifth Edition (5th) PMI/PMI/13/413-414 [Item]
+
+| The AMA Handbook of Project Management, Third Edition (2011) Paul C. Dinsmore and Jeannette Cabanis-Brewin/AMACOM/13/Identify Stakeholders [Item]
+
+A project manager is committed to the success of a multinational project with tight deadlines. A new team member is continually late or misses status meetings. In a one-on-one with the project manager, the team member expresses the belief that working on deliverables is more important than attending status meetings.
+
+What should the project manager do?
+
+A.Reassign the team member to another project with more flexible deadlines.
+B.Document this behavior in the team member's personnel file.
+C.Encourage this team member's attendance, but be flexible if critical work is not affected.
+D.Meet with the team to ensure they understand that attendance at status meetings is required.
+Solution: D. Meet with the team to ensure they understand that attendance at status meetings is required.
+
+Meet with the Team is the correct answer. It speaks to the setting of expectations and communication with the project team members. By being open and transparent, the PM ensures the message has been clarified with the team members.
+
+Reassign and document options may be steps the PM may take if the behavior continues after the expectations have been clarified with the team
+Encourage contradicts what the PM is observing and needing to communicate to the team.
+This question and rationale were developed in reference to:
+
+Fundamentals of Technology PM, 2nd Ed (2nd) Colleen Garton, Erika McCulloch/Mc Press/Managing Communication/Conducting Effective and Productive Meetings [Item]
+
+| PMBOK Guide Sixth Edition (2018) PMI/PMI/9.5.2.1/ [Item]
+
+After receiving the project charter, a project manager starts to prepare the project management plan. Although there is a limited amount of detailed activity information in the project management office (PMO), the project manager needs to calculate the expected duration of the project.
+
+What should the project manager use to determine this?
+
+A.Analogous estimating
+B.Bottom-up estimating
+C.Kick-off meeting feedback
+D.Input from the project sponsor
+Solution: A. Analogous estimating
+
+Analogous estimating is a technique for estimating the duration or cost of an activity or a project using historical data from a similar activity or project. Analogous estimating uses parameters from a previous, similar project, such as duration, budget, size, weight, and complexity, as the basis for estimating the same parameter or measure for a future project.
+
+Bottom-up estimating is not appropriate here, as there is limited detailed information available at the beginning of the project that is required for such an estimate.
+
+The kickoff meeting is too late, as the project's duration would already have been estimated by that time.
+
+Getting input from the Project Sponsor is incorrect, as the sponsor relies on the PM to provide this information.
+
+This question and rationale were developed in reference to:
+
+PMBOK Guide Sixth Edition (2018) //6.4.2.2 ANALOGOUS ESTIMATING/ [Item]
+
+| PMBOK® Guide--Fifth Edition (No Date) PMI/PMI/4.2.2.1/ [Item]
+
+| Project Planning Techniques (2005) Parviz F. Rad and Vittal S. Anantatmula/Management Concepts/4/ [Item]
+
+A project is showing a negative schedule variance. The project manager sees that one team is causing the delays.
+
+What should the project manager do?
+
+A.Meet with the team to identify strategies to resolve the delays.
+B.Meet with the project sponsor to determine an approach to getting back on schedule.
+C.Run a risk analysis to determine the impact of the delays on project success.
+D.Meet with human resources to discuss possible actions to get project back on schedule.
+Solution: A. Meet with the team to identify strategies to resolve the delays.
+
+The project manager needs to be proactive and review the activities with the team and to identify resolution strategies. Meet with the team to identify strategies to resolve the delays is the right choice.
+
+Meeting the project sponsor or human resources is not going to help in this situation
+
+Risk analysis can help in determining the impact of the delays on project success. However it is not going to help in resolving the delays
+
+This question and rationale were developed in reference to:
+
+Project management : A Systems Approach to Planning, Scheduling, and Controlling (2009) Harold Kerzner/Wiley/15/766 [Item]
+
+| Project management and project network techniques (No Date) Lockyer and Gordon/FT Prentice Hall/10/81 [Item]
+
+A customer has informed the project manager that they do not accept the project deliverables. What should the project manager do to gain approval?
+
+A.Review the acceptance criteria with the customer to address deliverable requirements.
+B.Review the project charter and stakeholder engagement plan with the customer.
+C.Examine the quality management plan with the customer.
+D.Ascertain the customer's objections and perform a risk analysis.
+Solution: A. Review the acceptance criteria with the customer to address deliverable requirements.
+
+To close a project, the PM needs to obtain customer acceptance of deliverable.
+
+Review project charter and stakeholder engagement plan: Neither document would have acceptance criteria.
+
+Examine the quality management plan: This document does not address deliverable acceptance, and would not contain acceptance criteria.
+
+Risk analysis: This situation is one of scope verification (customer acceptance) and does not involve risk management.
+
+This question and rationale were developed in reference to:
+
+Information Technology Project Management, 7th Ed. (2015) Kathy Schwalbe/Published/13/ [Item]
+
+| PMBOK Guide Sixth Edition (2017) /PMI/5.6/ [Item Validate Scope is the process of formalizing acceptance of the completed project deliverables. The verified deliverables obtained from the Control Quality process are an input to the Validate Scope process. One of the outputs of Validate Scope is accepted deliverables that are formally signed off and approved by the authorized stakeholder.]
+
+A manufacturing project is in the implementation phase. During a status meeting, a team member tells the project manager that a solution has been found for a persistent failure on equipment used in the implementation; however, this solution is temporary, and the equipment could fail again in the future.
+
+Which document should the project manager update?
+
+A.Issue log
+B.Risk management plan
+C.Assumption log
+D.Stakeholder register
+Solution: A. Issue log
+
+The issue log should be updated. This document helps the project manager track and manage issues throughout the project lifecycle, ensuring that they are investigated and resolved. In this case, the project has new information on an issue that should be captured on the issue log.
+
+The risk management plan is not correct, as it specifies how a project manages risk, and does not list identified risks or their response plans.
+
+The assumption log contains details about the assumptions and limitations that could affect the project. The stakeholder register records identified stakeholders and their expectations from the project. Nothing in the question indicates that changes to these documents is necessary.
+
+This question and rationale were developed in reference to:
+
+PMBOK Guide Sixth Edition (2018) PMI/PMI/4/124 [Item]
+
+| Project management : A Systems Approach to Planning, Scheduling, and Controlling (2009) Harold Kerzner/John Wiley//30348 [Item]
+
+A looming fuel price increase was identified as a risk during the planning stages of a large construction project. The identified risk was assigned high probability with low impact; the price increase would not be more than 2%. The project begins and a 20% fuel price increase goes into effect.
+
+What should the project manager do?
+
+A.Update the risk register.
+B.Update the assumption log.
+C.Update the issue log.
+D.Update the lessons learned register.
+Solution: C. Update the issue log.
+
+The correct answer is to update the issue log. 
+An issue log is a project document where information about issues is recorded and monitored. The risk of a 2% price increase was identified, however, the realized price increase was 20%. Since the price increase has occurred, it is no longer a risk, it is an issue. An issue is a current condition or situation that may have an impact on the project objectives. Whereas a risk is an uncertain event or condition that, if it occurs, has a positive or negative effect on one or more project objectives. The potential 2% price increase was a risk, when the 20% price increase occurred, it became an issue. 
+The other options are incorrect.
+A risk register is a repository in which outputs of risk management processes are recorded. Information in a risk register can include the person responsible for managing the risk, probability, impact, risk score, planned risk responses, and other information used to get a high-level understanding of individual risks.
+An assumption log records all assumptions and constraints throughout the project. An assumption is a factor that is considered to be true, real, or certain, without proof or demonstration. A constraint is a factor that limits the options for managing a project, program, portfolio, or process. 
+A lessons learned register is used to record knowledge gained during a project, phase, or iteration so that it can be used to improve future performance for the project team and/or the organization.
+
+This question and rationale were developed in reference to:
+PMBOK Guide Seventh Edition (2022) /// [4.6.2 LOGS AND REGISTERS]
+| The AMA Handbook of Project Management, Third Edition (No Date) /AMACOM/14 Risk Management in Practice/Location 4199 [Item]
+| The Project Management Tool Kit: 100 Tips and Techniques for Getting the Job Done Right (No Date) /Amacom/Risk processes 82 risk monitoring & control/202 [Item]
+
+A project manager in a global organization is responsible for a project involving six different companies. Midway through the project, one stakeholder moves from one company to another.
+
+Which document should the project manager update?
+
+A.Stakeholder engagement plan
+B.Project charter
+C.Stakeholder register
+D.Project management plan
+Solution: C. Stakeholder register
+
+The stakeholder register should be updated, as it contains a list of project stakeholders and their organizations and contact information.
+
+The stakeholder engagement and project management plans consist mainly of processes and procedures, which are not affected here, and thus are not the correct choices. Likewise, the moving of a stakeholder from one organization to another does not impact the project charter.
+
+This question and rationale were developed in reference to:
+
+PMBOK Guide Sixth Edition (2018) PMI/PMI//510 [Item]
+
+| Project Management: A Systems Approach to Planning, Scheduling, and Controlling, Tenth Edition (2013) Harold Kerzner/John Wiley & Sons / Eleventh Edition/10.6/478 [Item]
+
+As a predictive project enters the execution phase, a functional manager discovers that one of the materials to be used in the product will have a detrimental effect on the environment and urges the project manager to switch to a more environmentally friendly material. What should the project manager's initial response be?
+
+A.Develop a proof of concept plan to assess the feasibility and impact of the change and present it to the project sponsor.
+B.Immediately authorize the change in materials and initiate the transition to an environmentally friendly material.
+C.Inform the functional manager that material changes are not permitted during the execution phase of the project.
+D. Instruct the functional manager to submit a formal change request through the established change management process.
+Solution: A. Develop a proof of concept plan to assess the feasibility and impact of the change and present it to the project sponsor.
+Predictive projects typically have a fixed scope, schedule, and budget. Changing any of these elements can have a significant impact on the project. Predictive projects may use proof-of-concept developments to explore options. A proof of concept is a small-scale experiment that can be used to test the feasibility of a proposed change. It ensures that any alterations to the project align with its objectives, scope, and timeline. Presenting the plan to the project sponsor for approval maintains proper project governance and change control processes.
+The other options are not suitable responses.
+Immediately authorizing the change without evaluating it can lead to unforeseen issues and could disrupt the project's ongoing execution.
+Telling the functional manager that changes are not permitted during the execution phase is overly restrictive and does not align with effective project management. The project manager should be willing to work with the functional manager to find a solution that meets the needs of the project and the environment.
+Change requests should be accompanied by an evaluation of any new risks that are introduced due to the addition to or change in scope. The project manager should work with the change control board and the change requestor to guide change requests through the change control process.
+
+This question and rationale were developed in reference to:
+
+Fundamentals of Project Management 4th (Sep 15 2011 12:00AM) James P. Lewis/AMACOM/AMerica Management Association/11 (The Change Control Process)/Kindle 2225 [Item]
+
+PMBOK Guide Seventh Edition (2022) /// [2.3.3 DEVELOPMENT APPROACHES] [2.5.7 MONITORING NEW WORK AND CHANGES]
+
+A construction project is in the execution phase when several new team members from different countries are assigned to the project.
+
+Which document should the project manager update first?
+
+A.Procurement management plan
+B.Risk management plan
+C.Project charter
+D.Communications management plan
+Solution: D. Communications management plan
+
+It is important that the project manager update the communications management plan when new team members are assigned to the project, especially if they are from different countries, to ensure that everyone is able to communicate effectively.
+
+The other answer choices are incorrect. The new team members will likely have some time to review the procurement management plan, risk management plan, and project charter before they begin working on the project. By updating the communications management plan first, the project manager can help set the stage for effective communication and collaboration among all team members, regardless of their background or location. This will help to improve the success of the project. 
+
+This question and rationale were developed in reference to:
+
+PMBOK® Guide--Fifth Edition (5th) PMI/PMI/4.3.3.4/86 [Item]
+
+| Project management the managerial process (2009) Erik W. Larson/Tim Vertovec/4/119 [Item]
+
+A customer identifies performance issues on a newly implemented product. Why should the project manager estimate the cost of quality (COQ) for this project?
+
+A.To find the optimal cost to prevent failures in future iterations of this product.
+B.To assess the conformance and non-conformance cost during the life of this product.
+C.To assess the quality of the product to minimize future appraisal costs.
+D.To minimize rework and scrap associated with failure costs during project execution.
+Solution: B. To assess the conformance and non-conformance cost during the life of this product.
+
+Cost of Quality (COQ) helps identify and quantify the financial impact of quality-related activities throughout the project lifecycle. In this scenario, estimating COQ provides valuable insights to identify savings.
+
+The other answer choices are incorrect. While COQ might inform future prevention strategies, the primary focus is analyzing costs associated with the current product. COQ analysis helps understand both prevention and appraisal costs, but cost minimization isn't the sole objective. It's about finding the optimal balance. COQ analysis considers all quality costs throughout the product lifecycle, not just project execution.
+
+This question and rationale were developed in reference to:
+
+Handbook of Management Techniques, Revised Third Edition - Chapter 31 - Quality Management - COSTS OF QUALITY - External failure cost. [Item]
+
+| https://project-management.info/cost-of-quality-coq/ [Item Cost of Quality (COQ) – Cost of Conformance vs. Cost of Non-Conformance]
+
+PMBOK Guide (Sixth edition) - Chapter 7: Quality Management
+Project Management Institute (PMI) Article - "Cost of Quality: A Project Manager’s Guide": https://www.pmi.org/learning/library/cost-quality-communication-stakeholder-information-4288
+
+A project sponsor assigns a project manager to a new, critical project. This project has tight budget and time constraints.
+
+What should the project manager do first?
+
+A.Meet with functional managers to schedule team resources.
+B.Meet with stakeholders to obtain their buy-in and support.
+C.Meet with the project sponsor to understand the project's purpose and high level requirements.
+D.Update the requirements management plan to reflect the budget and time constraints.
+Solution: C. Meet with the project sponsor to understand the project's purpose and high level requirements.
+
+The first steps in initiating a project are to understand the goal, the requirements and to create a charter. So meeting the project sponsor to understand the project's purpose and high level requirements is the first step.
+
+If the requirements and goal of the project are not yet known, the skill set of resources is not known, so it is too early to meet with functional managers or with stakeholders. The requirements documentation and charter must be completed before a requirements management plan can be drafted.
+
+This question and rationale were developed in reference to:
+
+PMBOK Guide Sixth Edition (2018) ///2.1 DEVELOP PROJECT CHARTER [Item]
+
+| The AMA Handbook of Project Management, Third Edition (No Date) /AMACOM/7/1706 [Item]
+
+| The Project Management Tool Kit: 100 Tips and Techniques for Getting the Job Done Right (No Date) /Amacom//141 [Item]
+
+A complex project is in the planning stage when the sponsor identifies a need for a specialist who is a citizen of a foreign country. The project manager knows that the budget does not allow for this specialist's travel expenses.
+
+What should the project manager do?
+
+A.Train a resource on the existing team in the special skills.
+B.Submit a change request for additional budget.
+C.Find a local replacement.
+D.Assign the specialist to a virtual team.
+Solution: D. Assign the specialist to a virtual team.
+
+Assign the specialist to a virtual team is the correct answer. The use of virtual teams creates new possibilities when acquiring project team members. Virtual teams can be deﬁned as groups of people with a shared goal who fulfill their roles with little or no time spent meeting face to face. The availability of communication technology such as email, audio conferencing, social media, web-based meetings, and video conferencing has made virtual teams feasible.
+
+The other options are not correct as explained
+
+Train would require time that may not be available
+A change could be requested but not necessary in this case.
+It has already been determined that a local specialist is not available
+This question and rationale were developed in reference to:
+
+PMBOK Guide Sixth Edition (2018) PMI/PMI/9/329-330 [Item]
+
+| The AMA Handbook of Project Management, Third Edition (No Date) /AMACOM/Project management process- the superstructure/Location 456 [Item]
+
+A key project needs to be completed on time and exceed all established quality levels. Throughout the project, the project manager takes coffee breaks with the team and asks if they have ideas on how to improve their way of working.
+
+The project manager's approach is in line with which theory?
+
+A.Theory X
+B.Theory Q
+C.Theory Y
+D.Theory T
+Solution: C. Theory Y
+
+Theory Y is the correct answer. Theory Y assumes that the team members want to contribute and reinforces team motivation by seeking input and assistance to obtain the best results.
+
+Theory X believe that the team members dislike their work and have little motivation, and an authoritarian style of management should be implemented.
+
+Theory Q and Theory T are distractors. There is no Theory Q or T.
+
+This question and rationale were developed in reference to:
+
+https://www.pmi.org/learning/library/motivation-increase-project-team-performance-7234 [Item Theory Y motivation naturally creates a participative environment with strong manager-employee relations. Within the project manager role of a Theory Y environment, the project manager will seek input and assistance from the project team to obtain the best possible alternative for project implementation.]
+
+| PMP: Project Management Professional Study Guide, Ninth Edition, 9th edition (2018) Kim Heldman/Sybex/9/410 [Item]
+
+After comparing actual results to the performance measurement baseline, the project manager discovers that the project's work and cost performance measures are better than expected. The project manager doubts that these positive variances can continue until the end of the project.
+
+What should the project manager do?
+
+A.Conduct performance reviews with the team members.
+B.Update the risk register.
+C.Notify the stakeholders.
+D.Review the project management plan.
+Solution: B. Update the risk register.
+
+The first action to take is to update the risk register. The project manager is perceiving a risk that project performance may deteriorate in the future, and will record it in the register, potentially with a response plan.
+
+There is no indication that team member performance reviews are warranted, nor that project processes need to be reviewed in the management plan. The stakeholders may or may not need to be notified, but even if they are, the risk register would be updated first.
+
+This question and rationale were developed in reference to:
+
+PMBOK Guide Sixth Edition (2018) PMI/PMI/11/398 [Item]
+
+| Project management : A Systems Approach to Planning, Scheduling, and Controlling (2009) Harold Kerzner/John Wiley/17/915 [Item]

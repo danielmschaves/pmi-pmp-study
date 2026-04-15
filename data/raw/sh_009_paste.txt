@@ -1,0 +1,328 @@
+A project is in the execution phase when the project manager needs to assign new resources to the existing project team. What should the project manager do to ensure the team works effectively and meets project requirements on time?
+
+A.Create accessible library services. 
+B.Conduct a brainstorming session. 
+C.Integrate skills development activities.
+D.Monitor project team cohesiveness. 
+Solution: C. Integrate skills development activities.
+
+When a project manager needs to assign new resources to an existing project team, it is important to integrate skills development activities into the project execution phase. This will help to ensure that all team members have the skills and knowledge they need to do their jobs effectively and meet project requirements on time. A highly skilled and capable team is more likely to work effectively and meet project requirements on time. Skills development activities ensure that team members are equipped to handle their roles and responsibilities competently.
+
+The other options are incorrect because they are not the most immediate actions to ensure the team's effectiveness during the execution phase of the project.
+
+Creating accessible library services is incorrect because it does not directly address the team's skills and capabilities and does not ensure effectiveness in the execution phase.
+
+Conducting brainstorming sessions is incorrect because they are not directly related to skills development or ensuring the team's effectiveness. 
+
+Monitoring team cohesiveness is important for assessing team dynamics and collaboration, but it is not a proactive way to ensure the team works effectively and meets project requirements on time. The project manager should focus on helping the new resources integrate into the team and develop the skills they need.
+
+This question and rationale were developed in reference to:
+
+The AMA Handbook of Project Management, Third Edition (No Date) /AMACOM/12/Fast Track to Teaming [Item]
+
+PMBOK Guide Seventh Edition (2022) /// [2.4.3 PROJECT TEAM COMPOSITION AND STRUCTURE] [2.4.1 INTERNAL ENVIRONMENT]
+
+Days before the sixth and final sprint of a software development project, the project manager presents the project’s deliverables to the stakeholders. During the presentation, a recently added stakeholder states that the deliverable will fail to meet market expectations.
+
+What should the project manager do to address the situation?
+
+A.Meet with the project sponsor and the new stakeholder to discuss how they will resolve this issue.
+B.Meet with the new stakeholder to review the project scope and project plan.
+C.Conduct a task prioritization meeting with the new stakeholder and the project development team.
+D.Implement the change management plan to revise the project scope to meet the new stakeholders’ expectations.
+Solution: B. Meet with the new stakeholder to review the project scope and project plan.
+
+The project manager must understand the reasoning for the stakeholder's comment and assess it first. Once assessed, the project manager can proceed accordingly.
+
+This question and rationale were developed in reference to:
+
+Information Technology Project Management, 7th Ed. (2015) Kathy Schwalbe/Course Technology/5/11 [Item]
+
+| PMBOK Guide Sixth Edition (2018) PMI/PMI/13.3/523 [Item]
+
+| PMBoK, Sixth edition (2021) PMI/PMI/5 and 13/ [Item Project Scope Management Plan and Stakeholder mapping/representation]
+
+A project is currently in the release planning stage and some team members are arguing about which tasks need to be completed first, resulting in the development team becoming frustrated and losing interest in the project.
+
+What should the project manager do?
+
+A.Apply a compromise/reconcile conflict resolution method.
+B.Apply a force/direct conflict resolution method.
+C.Apply a withdraw/avoid conflict resolution method.
+D.Apply a smooth/accommodate conflict resolution method.
+Solution: A. Apply a compromise/reconcile conflict resolution method.
+
+The most effective method of conflict resolution for the project manager to use in this scenario is compromise/reconcile. This method involves working with the team to find a solution that meets the needs of all parties involved. This may involve adjusting the project plan, reprioritizing tasks, or delegating tasks differently.
+
+The other answer choices are not as effective in this scenario. Force/Direct: This method involves using authority to impose a solution on the team and it is more likely to escalate the conflict in this scenario. Withdraw/Avoid: This method involves ignoring the conflict or hoping that it will resolve itself. This is not a good solution, as the conflict is likely to continue to grow and fester. Smooth/Accommodate: This method involves giving in to the demands of the team members and is likely to lead to resentment and conflict in this scenario. By using the compromise/reconcile method, the project manager can work with the team to find a solution that meets everyone's needs and helps to improve morale and productivity.
+
+This question and rationale were developed in reference to:
+
+PMBOK Guide Seventh Edition (2021) / 168 [Section 4.2.7.1]
+
+Midway through a project, the project manager identifies new stakeholders. Each of these new stakeholders plays a different project role.
+
+What should the project manager do first?
+
+A.Meet with the project sponsor to learn if new roles have been created.
+B.Review the stakeholder register.
+C.Submit a change request to the change control board (CCB).
+D.Update the stakeholder management plan.
+Solution: D. Update the stakeholder management plan.
+
+The identification, prioritization, and engagement of stakeholders should be reviewed and updated routinely, and at least at the following times when:
+
+The stakeholder register is not being reviewed, only new names are being added.
+
+There is no change in the project requirements and/or definition sothere is no need to submit a change request.
+
+This question and rationale were developed in reference to:
+
+Information Technology Project Management, 7th Ed. (2015) Kathy Schwalbe/Course Technology/13/513 [Item]
+
+| PMBOK Guide Sixth Edition (2018) PMI/PMI/13/514 [Item]
+
+| PMBoK, Sixth edition (2021) PMI/PMI/13/ [Item Project Stakeholder Management]
+
+A project manager has been assigned to a new project. The client has mentioned that the project's inception is based on ideas and assumptions put forward by their business partners. What should the project manager do to ensure that they have a clear understanding of the project objectives?
+
+A.Conduct in-depth interviews with the client's business partners to uncover their expectations and objectives.
+B.Meet with stakeholders, including the client's business partners, to gather input and define project objectives.
+C.Initiate the project and develop a comprehensive project plan based on available information and assumptions.
+D.Meet with the client to discuss the project's initial ideas and assumptions and seek clarification on their vision.
+Solution: B. Meet with stakeholders, including the client's business partners, to gather input and define project objectives.
+
+Meeting with stakeholders, including the client's business partners, to gather input and collaboratively define project objectives is the most effective approach to achieving this clarity. This allows for a comprehensive gathering of input from those who have contributed to the project's ideas and assumptions. It also ensures that various perspectives are considered. Collaboratively defining project objectives in a meeting helps align expectations, clarify the client's vision, and create a shared understanding among all relevant parties. This process can lead to a more successful project outcome.
+
+The other answer options are also important steps in the project management process, but they are not the best way to ensure that the project manager has a clear understanding of the project objectives. 
+
+Conducting in-depth interviews with the client's business partners can be helpful, but it is important to involve all stakeholders in the process of defining the project objectives. 
+
+Meeting with the client to discuss the project's initial ideas and assumptions is also important, but it is not enough to ensure that you have a complete understanding of the project objectives. 
+
+Initiating the project and developing a comprehensive project plan based on available information and assumptions is premature until you have a clear understanding of the project objectives.
+
+This question and rationale were developed in reference to:
+
+Fundamentals of Technology Project Management, 2nd Ed (2015) Colleen Garton, Erika McCulloch/Mc Press/3/59 [Item]
+
+PMBOK Guide Seventh Edition (2022) /// [2.2 TEAM PERFORMANCE DOMAIN] [2.4.2.1 Delivery] 
+
+Team members express frustration because their functional manager does not listen to their opinions. They seem reluctant to devote themselves to the remainder of the project.
+
+What should the project manager do?
+
+A.Demonstrate support for the team by discussing their goals and beliefs.
+B.Break the remaining work into smaller tasks and divide the tasks among the team.
+C.Ask the team to prioritize the tasks remaining in the project.
+D.Discuss the team's concerns with the functional manager.
+Solution: A. Demonstrate support for the team by discussing their goals and beliefs.
+
+The primary goal of a project manager in relation to the project team is to ensure that the team has the time and resources to do their job and to remove any barriers they may encounter. By standing up for the team's beliefs the project manager is demonstrating their support for the team.
+
+Breaking the remaining work into smaller task, dividing the tasks and asking the team to prioritize the task will not solve the frustration the team members are facing.
+
+Discussing with team's concerns with the functional manager may not help to resolve the motivation of the team members to focus and complete the remainder of the project.
+
+This question and rationale were developed in reference to:
+
+Fundamentals of Technology Project Management, 2nd Ed (2012) ///24 [Item]
+
+| Fundamentals of Technology Project Management, 2nd Ed (2015) Colleen Garton, Erika McCulloch/Mc Press/16/527 [Item]
+
+| Information Technology Project Management, 7th Ed. (2015) Kathy Schwalbe/Schwalbe/9/391 [Item]
+
+A project manager needs to hire suppliers for an international project that has a performance period of several years. The project manager needs to allow for conditions such as changes in inflation rates.
+
+What type of contract should the project manager use?
+
+A.Time and material (T&M)
+B.Cost plus fixed fee (CPFF)
+C.Cost plus incentive fee (FPIF)
+D.Fixed price with economic price adjustment (FPEPA)
+Solution: D. Fixed price with economic price adjustment (FPEPA)
+
+The FP-EPA contract type is used whenever the seller’s performance period spans a considerable period of years, or if the payments are made in a different currency. It is a ﬁxed-price contract, but with a special provision allowing for predefined ﬁnal adjustments to the contract price due to changed conditions, such as inﬂation changes or cost increases (or decreases) for specific commodities.
+
+All other options don't account for the inflation adjustment.
+
+This question and rationale were developed in reference to:
+
+e-Reads (No Date) ///The New Dynamic Project Management: Winning Through the Competitive Advantage, 2nd Edition - Chaper 14 - Procurement and Contract Management 14.4.4 Types of Contracts and Pricing Arrangements [Item]
+
+| PMBOK® Guide--Fifth Edition (5th) PMI/PMI//Chapter 12 - Project Procurement Management - 12.1.1.9 Organizational Process Assets - Page 362-364 [Item]
+
+A project's statement of work (SOW) requires that the project be delivered in nine months. The project manager believes that the timeline is not realistic.
+
+What should the project manager do?
+
+A.Involve the change control board (CCB) in the Perform Integrated Change Control process
+B.Submit a written request to the project sponsor for additional resources and budget
+C.Meet with subject matter experts (SMEs) and the project sponsor to set expectations
+D.Negotiate a new timeline with the project sponsor
+Solution: C. Meet with subject matter experts (SMEs) and the project sponsor to set expectations
+
+If a project timeline is not realistic, then the project manager needs to provide the proof to the sponsor so that a realistic expectation can be set. The SMEs can provide that information and allow the sponsor to decide on a course of action.
+
+The Change Control Board evaluates and approves additions or deletions of scope. A written request for additional resources and negotiating a new timeline could be an approach, but not the first thing one would do.
+
+This question and rationale were developed in reference to:
+
+PMBOK® Guide--Fifth Edition (No Date) PMI/PMI/4/71 [Item]
+
+| Project management : A Systems Approach to Planning, Scheduling, and Controlling (2009) Harold Kerzner/John Wiley/11/521 [Item]
+
+An organization is redesigning and relaunching a key product. The stakeholders are all company executives and want to ensure that the product launch will be a success.
+
+What should the project manager do to ensure project success?
+
+A.Implement a detailed communication management plan so that stakeholders are kept informed of the project status.
+B.Communicate the critical nature of this project to the team and escalate any issues to the sponsor.
+C.Ensure that all of the stakeholders attend the daily standups so that they can adjust the project as needed.
+D.Work to identify and align performance indicators with the deliverable.
+Solution: D. Work to identify and align performance indicators with the deliverable.
+
+In order to measure the successful delivery and completion of any initiative, it is critical to determine the performance indicators beforehand. The Project Manager can ensure project success by identifying & aligning the performance indicators with the deliverable.
+
+Implementing a detailed communications management plan is incorrect as that is not the issue. Also, the stakeholder continues to receive communications. A project manager would not escalate to the project sponsor. All of the stakeholders do not attend the daily standups.
+
+This question and rationale were developed in reference to:
+
+O'Reilly Platform (No Date) //Objectives and key results - Chapter 5 - Managing with OKRs/ [Item]
+
+| PMBOK Guide Sixth Edition (2018) PMI/PMI/Project Resource Management/350 [Item]
+
+During a project's execution phase, two stakeholders complain that they receive insufficient information on the project's status. The stakeholders have been included in the regular status meetings, and status reports are being shared with them.
+
+Why should the project manager meet with these stakeholders?
+
+A.To gather data on the issue in order to update the issue log.
+B.To determine what information they are lacking and develop an understanding of their communication needs.
+C.Send the stakeholders copies of the Emails previously sent to prove that they are included in the project's communications plan.
+D.To develop a better working relationship with these stakeholders in order to prioritize and rank their requirements.
+Solution: B. To determine what information they are lacking and develop an understanding of their communication needs.
+
+Since the stakeholders are already included in the status meetings and status reports, the project manager should meet with them one on one to understand what their additional communication needs are.
+
+Managing Stakeholder Engagement involves activities such as managing stakeholder expectations through proper and accurate communications.
+
+There is no issue that needs to be updated in the issue log as the stakeholders are being provided with all the required details. Emails are not working, sending "proof" does not address the issue.
+
+This question and rationale were developed in reference to:
+
+Fundamentals of Technology Project Management, 2nd Ed (2015) Colleen Garton, Erika McCulloch/Mc Press/14/454 [Item]
+
+| Project management : A Systems Approach to Planning, Scheduling, and Controlling (2013) Harold Kerzner/John Wiley/8402-8522/ [Item]
+
+In which stage of Tuckman's stages of team development do the team members begin to resolve conflicts effectively?
+
+A.Forming
+B.Storming
+C.Norming
+D.Performing
+Solution: C. Norming
+
+Following the conflict of the storming phase, the team learns to work more effectively in the norming phase, including resolving conflicts. Norming is the correct choice. Norming is the stage at which the project team starts to function as a collective body. At this point, project team members know their places on the team and how they relate to and interface with all the other members. They are starting to work together. There might be some challenges as work progresses, but these issues are resolved quickly, and the project team moves into action.
+
+Effective team conflict resolution skills are not present in the forming and storming stages. They are well developed in the performing stage, but the question asks at which stage they begin to arise.
+
+The other options are incorrect.
+
+The forming stage is when the project team first comes together. Members get to know each other’s names, position on the project team, skill sets, and other pertinent background information. This might occur in the kickoff meeting.
+
+During the storming stage, project team members jockey for positions on the team. This phase is where people’s personalities, strengths, and weaknesses start to come out. There might be some conflict or struggle as people figure out how to work together. Storming might go on for some time or pass relatively quickly.
+
+At the performing stage, the project team becomes operationally efficient. This is the mature project team stage. Project teams that have been together for a while are able to develop synergy. By working together, project team members accomplish more and produce a high-quality product.
+
+This question and rationale were developed in reference to:
+
+https://www.pmi.org/learning/library/best-practices-virtual-project-teams-6038 [Item Stage 3 – Norming: In this stage, the team is working together more effectively. Each member has found his or her place on the team and they are following processes and procedures. They support each other and problem solve and resolve conflicts effectively, with guidance from the team leader as necessary, to ensure the project keeps moving in the right direction. Technology is used effectively and efficiently to help the virtual team stay connected.]
+
+PMBOK Guide Seventh Edition (2022) /// [4.2.6 PROJECT TEAM DEVELOPMENT MODELS]
+
+During project initiation, the project manager learns that a key stakeholder will leave the project for a month to consult on another strategic project.
+
+What should the project manager do first?
+
+A.Update the issue log and notify the other stakeholders.
+B.Ask the functional manager to provide a replacement while the stakeholder is unavailable.
+C.Interview the stakeholder to gather relevant information and expert judgment.
+D.Update the risk management plan to include the impact of the stakeholder's absence.
+Solution: A. Update the issue log and notify the other stakeholders.
+
+The FIRST thing the PM needs to do is to capture this as an issue and communicate this to the other stakeholders. Until then, no action can or should be taken.
+
+This question and rationale were developed in reference to:
+
+PMBOK Guide Sixth Edition (2017) /PMI/4.3.3.3/ [Item Throughout the life cycle of a project, the project manager will normally face problems, gaps, inconsistencies, or conflicts that occur unexpectedly and that require some action so they do not impact the project performance. The issue log is a project document where all the issues are recorded and tracked.]
+
+| The Project Management Tool Kit: 100 Tips and Techniques for Getting the Job Done Right (2004) Tom Kendrick/AMACOM/31/74 [Item]
+
+During project execution, the team finds that changes must be made to a component sourced from an outside supplier. The component is being used in the project.
+
+What should the project manager do?
+
+A.Meet with the component supplier to discuss the product warranty.
+B.Review the contract terms and the Procurement Management Plan.
+C.List the potential risks that would result from the change.
+D.Process a change request to modify the project management plan.
+Solution: B. Review the contract terms and the Procurement Management Plan.
+
+The procurement management plan describes how a project team will acquire goods and services from outside of the performing organization. The contract's terms and conditions will specify how changes will be handled. Thus, the contract and Procurement Management Plan will define how to proceed, and should be reviewed first.
+
+The other answer choices are incorrect because the contract terms must be followed and therefore must come first.
+
+This question and rationale were developed in reference to:
+
+Proj Managers Portable HB, 3rd Ed (3rd) David I Cleland and Lewis R Ireland/McGraw Hill Companies, Inc./6.8.2/262 [Item]
+
+| Project Management: A Systems Approach to Planning, Scheduling, and Controlling (2015) Harold, Ph.D. Kerzner/Wiley/19/995 [Item]
+
+The owner of a consulting company initiates a project to expand the number of services the company provides. The company has a competitive advantage, outstanding expertise, and an excellent reputation. The executive team wants to evaluate and rank criteria such as uncertainty and valuation regarding the addition of these new services.
+
+Which technique should the project manager use to help the company make this evaluation?
+
+A.Cause-and-effect diagram
+B.Forecasting
+C.Multicriteria decision analysis
+D.Risk assessment matrix
+Solution: C. Multicriteria decision analysis
+
+The correct answer is multicriteria decision analysis which is used to evaluate multiple criteria which could have a negative or positive impact. This would allow the executives to evaluate and prioritize the implementation of new services. Cause and effect diagrams are used for root cause analysis, forecasting is used for cost or schedule control, risk register contains identified risks and their response.
+
+This question and rationale were developed in reference to:
+
+Fundamentals of Technology Project Management, 2nd Ed (2015) Colleen Garton, Erika McCulloch/Mc Press//137 [Item]
+
+| PMBOK Guide Sixth Edition (2018) ///5.2.2.4 DECISION MAKING [Item]
+
+| The Project Management Tool Kit: 100 Tips and Techniques for Getting the Job Done Right (2004) Tom Kendrick/AMACOM//173 [Item]
+
+A project manager is assigned to a new multinational project. This will be the project manager's first time working with team members from different countries.
+
+What should the project manager do to prepare themselves for the project?
+
+A.Attend cultural sensitivity training to understand and respect cultural differences.
+B.Brush up on language skills if necessary to facilitate effective communication.
+C.Conduct team-building exercises to foster collaboration and trust among team members.
+D.Develop an awareness of local customs with the understanding that culture is learned.
+Solution: A. Attend cultural sensitivity training to understand and respect cultural differences.
+
+When working with team members from different countries, it's crucial for a project manager to be culturally sensitive and aware. Cultural sensitivity training can help project managers understand and navigate the nuances of working with a multicultural team, promoting effective communication, collaboration, and respect for cultural differences.
+
+The other options are incorrect.
+
+Brushing up on language skills is incorrect because it may not be feasible or unilaterally effective. Effective communication involves more than just language; it also encompasses cultural nuances, customs, and non-verbal communication. Even if the project manager speaks the languages of all of their team members, it is still important to be aware of cultural differences in communication. 
+
+In this scenario, the project manager is seeking to prepare themselves to manage a multinational project, which they have never done. Conducting team-building exercises should come after cultural sensitivity training, as it's important to first establish an understanding of cultural differences and build a foundation of respect and effective communication.
+
+Developing an awareness of local customs is always a good idea, but the project manager will be working with team members from different countries, learning local customs is not the most effective way for the project manager to understand and respect the different cultural backgrounds of their team members. Cultural sensitivity training offers a more comprehensive and structured approach to understanding and respecting different cultural backgrounds.
+
+This question and rationale were developed in reference to:
+
+Project Manager's Portable Handbook, 3rd Ed (2015) David I Cleland and Lewis R Ireland/McGraw Hill Companies, Inc./9.2/ [Item]
+
+| The Cultural Dimension of International Business (6th Edition) (2015) Gary P. Ferraro/Published/2/22 [Item]
+
+PMBOK Guide Seventh Edition (2022) /// [3.2 CREATE A COLLABORATIVE PROJECT TEAM ENVIRONMENT]
+

@@ -1,0 +1,303 @@
+A project manager has been awarded a firm-fixed-price (FFP) contract to develop a new mobile app for a client. The contract scope is well-defined and the client has approved the project plan. However, during the course of the project, the team encountered some unexpected technical challenges. These challenges will require additional time and resources to resolve.
+
+Which of the following is the most suitable course of action to take?
+
+A.Terminate the contract with the client and return the advance payment immediately.
+B.Proceed with the project as planned and try to resolve the challenges within the existing budget and schedule. 
+C.Notify the client and request a change order to increase the project budget and extend the project schedule. 
+D.Attempt to resolve the technical challenges using existing resources, even if this means sacrificing quality. 
+Solution: C. Notify the client and request a change order to increase the project budget and extend the project schedule.
+It is important to be transparent with the client and communicate any challenges as soon as possible. This will help to avoid any surprises or disagreements down the road. It is also important to be realistic about the additional resources and time that will be needed to resolve the challenges.
+The other answer options are incorrect.
+Terminating the contract with the client and returning the advance payment should be a last resort. This can damage the relationship with the client and make it difficult to find new clients in the future.
+Proceeding with the project as planned and trying to resolve the challenges within the existing budget and schedule is a risky approach. If the challenges cannot be resolved within the existing scope, the project could go over budget and/or behind schedule. This could also damage the relationship with the client.
+Attempting to resolve the technical challenges using existing resources, even if this means sacrificing quality, is not a good idea. This could lead to a poor quality product and damage the client's satisfaction.
+
+This question and rationale were developed in reference to:
+
+PMBOK Guide Seventh Edition (2022) /// [2.4.7 CHANGES]
+
+A project manager is part of a project management strategy focus group that is brainstorming the ways projects will be used to add business value to the organization in the upcoming quarter. Which statement(s) describes broadly how organizations use projects to add business value?
+
+A.Projects are used to develop new products, processes, or services.
+B.Projects are used to modify existing products, processes, or services.
+C.Projects are used to deliver day-to-day activities, processes, or services.
+D.Projects are used to develop and modify products, processes, or services.
+Solution: D. Projects are used to develop and modify products, processes, or services.
+
+Business value is added by projects to develop new products or modify existing products, processes, or services.
+
+Projects should deliver unique features, and do not deliver day-to-day activities.
+
+This question and rationale were developed in reference to:
+
+PMI.org (2014) //Phillipy, M. A. (2014). Delivering business value: The most important aspect of project management. Paper presented at PMI® Global Congress 2014—North America, Phoenix, AZ. Newtown Square, PA: Project Management Institute// [Item]
+
+During plan development, the sponsor insists on keeping project governance informal for efficiency, while the project management office (PMO) requires formal governance standards. The PMO warns that bypassing governance documentation may expose the organization to audit risks.
+
+What should the project manager do?
+
+A.Implement an informal governance structure as preferred by the project sponsor.
+B.Delay governance design decisions until the end of plan development.
+C.Request that the legal department resolve the issue before proceeding.
+D.Establish the project governance framework according to organizational standards.
+Solution: D. Establish the governance framework according to organizational standards.
+
+Governance enforces legal, regulatory, and compliance requirements, ensuring that projects are conducted ethically and in accordance with organizational standards. This protects the organization from legal risks and helps maintain consistency in project execution across the organization. Successful governance ensures that necessary changes or exceptions are managed appropriately. The project manager should also discuss this decision with the sponsor and explain that adhering to governance standards helps maintain consistency in project execution across the organization, ensuring that all projects follow established processes and thereby enhancing efficiency and effectiveness.
+
+The other options are incorrect.
+
+Implementing a governance structure based on the sponsor’s preferences undermines organizational standards, complicates accountability, and exposes the project to audit risks.
+
+Delaying governance design weakens decision-making and increases risk in execution.
+
+Escalation is premature before the project manager facilitates governance alignment.
+
+This question and rationale were developed in reference to:
+
+https://www.pmi.org/learning/library/project-sponsorship-collaborative-journey-6210
+
+A project team has adopted a new project management methodology which entails holding regular review and retrospective meetings every two weeks. In addition, there are daily status meetings and whiteboards are the main tool used to document decisions and action points.
+
+Which project management methodology has the team adopted?
+
+A.Traditional
+B.Agile
+C.Waterfall
+D.Iterative
+Solution: B. Agile
+
+In traditional project management the white boards and status meetings are not generally used.
+
+Daily stand-ups, bi-weekly reviews, retrospectives and lightweight documentation are all characteristics of agile methodology. So, Agile is the right answer.
+
+In Waterfall project management the white boards and daily status meetings are not generally used.
+
+In iterative project management the white boards and status meetings are not generally used.
+
+This question and rationale were developed in reference to:
+
+PMI.org (2010) //Sheffield, J. & Lemétayer, J. (2010). Critical success factors in project management methodology fit. Paper presented at PMI® Global Congress 2010—Asia Pacific, Melbourne, Victoria, Australia. Newtown Square, PA: Project Management Institute// [Item]
+
+A project manager is midway through project delivery. The project manager decides to hold a stakeholder engagement meeting with senior management and the clients to examine if the project deliverables are achieving business value.
+
+Which of the documents contains critical information to help the project manager with this?
+
+A.Work breakdown structure
+B.Project management plan
+C.Project scope statement
+D.Business case
+Solution: D. Business case
+
+The business case can be used to establish what was the initial project justification hence the business value envisaged from the onset
+
+Work breakdown structure - Tasks, deadlines, and assigned resources along with the dependencies are documented in the work breakdown structure document
+
+Project scope statement - The scope of the work is documented in the scope statement
+
+Project management plan - It contains the information about the tasks which are involved in each and every stage of the project (Initiation, planning execution, control, and closure)
+
+This question and rationale were developed in reference to:
+
+PMI.org (2014) //Phillipy, M. A. (2014). Delivering business value: The most important aspect of project management. Paper presented at PMI® Global Congress 2014—North America, Phoenix, AZ. Newtown Square, PA: Project Management Institute// [Item]
+
+An agile team is determining which activities to complete first during an upcoming project iteration for a new product development. Which factor should they use to rank the order of activities that will be delivered?
+
+A.Size of the activity
+B.Value of the activity to stakeholders
+C.Cost of the activity
+D.Ease of completion of the activity
+Solution: B. Value of the activity to stakeholders.
+
+In agile product development, prioritizing activities based on the value they provide to stakeholders is a fundamental principle. This approach ensures that the most valuable and impactful features or tasks are addressed first, maximizing the project's return on investment (ROI) and addressing stakeholders' needs and expectations effectively. Prioritizing based on the value of the activity to stakeholders ensures that the team works on tasks or features that directly contribute to meeting customer or user requirements and expectations.
+
+While the size, cost, and ease of completion are important factors to consider, they should be secondary to the value factor. An activity might be small, inexpensive, or easy to complete, but if it doesn't provide substantial value to stakeholders, it may not be the most important one to address.
+
+This question and rationale were developed in reference to:
+
+PMI.org (2010) //Byatt, G. (2010). Delivering project benefits—a practical plan for success. Paper presented at PMI® Global Congress 2010—Asia Pacific, Melbourne, Victoria, Australia. Newtown Square, PA: Project Management Institute// [Item]
+
+Due to regulatory changes, a government agency is now a key stakeholder in a complex project. An agency representative has asked the project manager to explain how well the advantages derived from the project align with the agency's business strategies.
+
+What should the project manager do?
+
+A.Meet with the other stakeholders to discuss the project objectives.
+B.Review the assumption log.
+C.Update the stakeholder engagement plan.
+D.Refer to the benefits management plan.
+Solution: D. Refer to the benefits management plan.
+
+The project manager should refer to the benefits management plan to answer the agency representative's question. The benefits management plan will show the agency representative how the advantages derived from the project align with the agency's business strategies.
+
+The other options are not as good as referring to the benefits management plan. Meeting with the other stakeholders to discuss the project objectives does not answer the agency representative's specific question. Reviewing the assumption log would not provide information about how the project's benefits align with the agency's business strategies. Updating the stakeholder engagement plan would be important for keeping stakeholders informed, but it would not address the agency representative's specific question.
+
+This question and rationale were developed in reference to:
+
+PMBOK Guide Sixth Edition (2018) PMI/PMI/13/514 [Item]
+
+| Project management: A Systems Approach to Planning, Scheduling, and Controlling (2009) Harold Kerzner/John Wiley/10.6/481 Perform Stakeholder Engagements [Item]
+
+A project manager works for an organization that uses the predictive method of project management. The project manager has completed training for agile project management and begins to manage projects using the agile method. Stakeholders are not familiar with agile and are having difficulty understanding the new project methodology.
+
+How should the project manager address this issue?
+
+A.Hold a session with the stakeholders to introduce agility - explaining the business value of prioritization, accountability, and improved quality from frequent reviews.
+B.Conduct a cost benefit analysis for the new project comparing predictive and agile approaches and present it to the stakeholders.
+C.Invite the stakeholders to a backlog grooming session so that they understand the scope of work and the development approach.
+D.Send the stakeholders video links explaining agile approaches as well as supporting case studies from the industry.
+Solution: A. Hold a session with the stakeholders to introduce agility - explaining the business value of prioritization, accountability, and improved quality from frequent reviews.
+
+This question tests the project manager's understanding of their role in educating the stakeholders, as well as the benefits of this type of stakeholder engagement.
+
+The other options on conducting analysis, and having a backlog grooming session do not help the stakeholders understand better. The option to send video links is helpful, but a personalised session with the stakeholders would likely be the most effective option.
+
+This question and rationale were developed in reference to:
+
+Effective Project Management: Traditional, Agile, Extreme, Hybrid (No Date) Robert K. Wysocki//3 What are the Project Management Processes/96 [Item]
+
+| The Agile Practice Guide (No Date) PMI/PMI/4/4.2.1.4 (37) [Item]
+
+During a project performance evaluation meeting, a team established that the performance of the project as of the status date was as follows: schedule performance index (SPI) = 0.5; cost performance index (CPI) = 1.5. The client had identified cost and schedule performance as key in terms of value.
+
+Based on these performance figures, which of the following describes the value being delivered to the client as of the status date?
+
+A.Good cost value and poor schedule value
+B.Poor cost value and good schedule value
+C.Good cost value and good schedule value
+D.Poor cost value and poor schedule value
+Solution: A. Good cost value and poor schedule value
+
+The Schedule Performance Index (SPI) measures how well the project is meeting its schedule milestones. An SPI of 1 means that the project is on schedule, an SPI of less than 1 means that the project is behind schedule, and an SPI of greater than 1 means that the project is ahead of schedule. The Cost Performance Index (CPI) measures how well the project is meeting its budget. A CPI of 1 means that the project is on budget, a CPI of less than 1 means that the project is over budget, and a CPI of greater than 1 means that the project is under budget.
+
+In this case, the SPI is 0.5, which means that the project is behind schedule. The CPI is 1.5, which means that the project is under budget. Therefore, the value being delivered to the client as of the status date is good cost value and poor schedule value.
+
+The other answer choices are incorrect. Good cost value and good schedule value is not correct because the SPI is less than 1, which means that the project is behind schedule. Poor cost value and good schedule value is not correct because the CPI is greater than 1, which means that the project is under budget. Poor cost value and poor schedule value is not correct because the SPI and CPI are both less than 1, which means that the project is behind schedule and over budget.
+
+This question and rationale were developed in reference to:
+
+PMI.org (2010) //Byatt, G. (2010). Delivering project benefits—a practical plan for success. Paper presented at PMI® Global Congress 2010—Asia Pacific, Melbourne, Victoria, Australia. Newtown Square, PA: Project Management Institute// [Item]
+
+A local government provides subsidies for healthcare activities. An organization plans to leverage this subsidy for a project to provide health testing services for at-risk populations. After the project has started, the government announces that this testing service might not qualify for the subsidy.
+
+What should the project manager do?
+
+A.Escalate the project risk to a higher level.
+B.Meet with the project sponsor to redefine project benefits.
+C.Inform the stakeholders of the need to develop a contingency plan.
+D.Submit a change request to the change control board (CCB).
+Solution: A. Escalate the project risk to a higher level.
+
+If there are potential conflicts between strategic goals and the portfolio of work, then the risk is escalated to the proper level of management.
+
+The project benefits haven't changed, there is no indication yet that a contingency plan is needed, and there would be nothing to substantiate a change request.
+
+This question and rationale were developed in reference to:
+
+PMBOK Guide Sixth Edition (2018) PMI/PMI/11 Project risk management/398 [Item]
+
+| PMBoK, Sixth edition (2021) PMI/PMI/11/ [Item Key Concepts for the Project Risk Management]
+
+| The AMA Handbook of Project Management, Third Edition (No Date) /AMACOM/CHAPTER 14 Risk Management in Practice/Location 4166 [Item]
+
+| The Project Management Tool Kit: 100 Tips and Techniques for Getting the Job Done Right (No Date) /Amacom/RISK PROCESS 81 Risk-Management Planning/202 [Item]
+
+| The Standard for Risk Management in Portfolios, Programs, and Projects (2019) Project Management Institute, Inc./Project Management Institute, Inc.// [Item]
+
+A project manager in a predictive environment has recently completed agile training and is starting to manage projects in an agile fashion. The organization is new to agile and not everyone understands the principles.
+
+How should the project manager gain support going forward?
+
+A.Hold a session with the stakeholders explaining the business value of prioritization, mindset, accountability, and improved quality.
+B.Conduct a cost benefit analysis for the new project comparing predictive and agile approaches and present it to the stakeholders.
+C.Invite the stakeholders to a backlog grooming session so that they understand the scope of work and the development approach.
+D.Send the stakeholders video links explaining agile approaches as well as supporting case studies from the industry.
+Solution: A. Hold a session with the stakeholders explaining the business value of prioritization, mindset, accountability, and improved quality.
+
+The project manager is responsible for educating and engaging the stakeholders. The project manager should hold a session with the stakeholders explaining the business value of prioritization, agile mindset, accountability, and improved quality.
+
+The other answer choices are incorrect. Conducting a cost benefit analysis may not show results in favor of the agile approach; inviting stakeholders to instill understanding of the benefits of agile is not the objective of a backlog grooming session; holding a session shows more dedication to the stakeholders as opposed to sending a video lesson link.
+
+This question and rationale were developed in reference to:
+
+Effective Project Management: Traditional, Agile, Extreme, Hybrid (No Date) Robert K. Wysocki//3 What are the Project Management Processes/96 [Item]
+
+| The Agile Practice Guide (No Date) PMI/PMI/4/4.2.1.4 (37) [Item]
+
+What methodology uses new approaches to implement solutions to problems that are encountered daily?
+
+A.Ideation 2.0
+B.Scrum
+C.Kanban
+D.Hybrid
+Solution: A. Ideation 2.0
+
+Ideation 2.0 is about using new approaches to ideate solutions to the problems you encounter in your daily routine, helping you to design collaboratively while keeping in mind the necessary outputs to inform the initial prototype.
+
+The other answer choices are incorrect because they are not designed to address problems that are encountered on a daily basis.
+
+This question and rationale were developed in reference to:
+
+https://www.projectmanagement.com/articles/675586/An-Introduction-to-Ideation-2-0-in-Practice [Item Ideation 2.0 is about using new approaches to ideate solutions to the problems you encounter in your daily routine, helping you to design collaboratively while keeping in mind the necessary outputs to inform the initial prototype.]
+
+A project management office (PMO) normally runs projects using the waterfall approach. A project currently in development is impacted by local regulations which are being updated regularly. The project team feels that implementing agile techniques would benefit the project due to the constantly changing regulations.
+
+What should the project manager do in this scenario?
+
+A.Leverage budget reserves to add vendors familiar with the regulations to the project team.
+B.Conduct an analysis of how incorporating agile methodologies will impact the project.
+C.Present this request to the PMO and the project sponsor.
+D.Implement the request and train the project team on agile methodologies.
+Solution: B. Conduct an analysis of how incorporating agile methodologies will impact the project.
+
+The project should first conduct an analysis of how incorporating agile methodologies will impact the project requirement before making other changes to the approach.
+
+Using budget reserves to add vendors is not the correct action for this scenario.
+
+The Project Manager should do the due diligence on why the project should be changed to agile before presenting the request to the PMO and project sponsor.
+
+The Project Manager shouldn't be implementing the request and training the project team on agile methodologies without first getting approval from the stakeholder.
+
+This question and rationale were developed in reference to:
+
+Choose Your WoW! A Disciplined Agile Delivery Handbook for Opitimizing Your Way of Working (January 2019) Scott W Ambler and Mark Lines/// [Item Page No.78]
+
+| O'Reilly Platform (No Date) //6/np [Item The Professional product owner: Leveraging scrum as a competitive advantage by Don McGreat and Ralph Johnson 2018.]
+
+A project team is brainstorming the best project management methodology to recommend to senior management for adoption. The project team's idea is characterized by frequent requirement changes, incremental and iterative changes, customer focus, and defined stages with specific documents produced to meet industry regulatory standards.
+
+Which project management methodology is preferred in this case?
+
+A.Agile
+B.Hybrid
+C.Predictive
+D.Waterfall
+Solution: B. Hybrid
+
+Hybrid is correct as the team needs to adopt the hybrid approach as their projects require agile benefits such as being more customer centric, responding faster to change as well as predictive benefits of clear stages and documents. Hence a blend is recommended in this instance.
+
+Agile is incorrect as the defined stages with specific documents are required in order to meet industry regulatory standards.
+Predictive is incorrect as the project requires frequent requirement changes, incremental and iterative changes whereas predictive methodology is applied when when the scope of work and requirements for the project are clear and justify the detailed upfront planning.
+Waterfall is incorrect as the waterfall project management is a sequential, linear process of project management whereas this project requires frequent requirement changes, incremental and iterative changes
+This question and rationale were developed in reference to:
+
+PMI.org (2010) //Sheffield, J. & Lemétayer, J. (2010). Critical success factors in project management methodology fit. Paper presented at PMI® Global Congress 2010—Asia Pacific, Melbourne, Victoria, Australia. Newtown Square, PA: Project Management Institute// [Item]
+
+A project manager has been assigned to a new project. During the initial review of the project charter, the project manager reaches out to the project sponsor to discuss important information that is missing in the document.
+
+What piece of information is appropriate for the project manager to request?
+
+A.Measurable objectives of critical success factors
+B.Detailed description and requirements of the final deliverable
+C.Work breakdown structure (WBS)
+D.Performance measurement baseline
+Solution: A. Measurable objectives of critical success factors
+
+The project sponsor is generally responsible for the development of the business case for the project. That person would be the logical source of the objectives for project success.
+
+Detailed deliverable requirements, WBS, and performance management baseline are all lower level documents that the project manager should develop based on the criteria provided by the sponsor.
+
+This question and rationale were developed in reference to:
+
+Effective Project Management: Traditional, Agile, Extreme, 7th ed (No Date) Robert Wysocki/Wiley/12/393 [Item]
+
+| PMBOK Guide Sixth Edition (2018) PMI/PMI/4/81 [Item]
