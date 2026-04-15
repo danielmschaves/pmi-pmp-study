@@ -118,8 +118,8 @@ During a session:
 
 ## Web UI (alternative to the terminal)
 
-A static browser app that mirrors every feature of `quiz_runner.py` — no Docker required
-after the first data sync. Deploy to Vercel or run locally.
+A static browser app (Vite + TypeScript, zero runtime dependencies) that runs the full
+question bank in a browser. No Docker required after the first data sync.
 
 ### Local dev
 
@@ -147,20 +147,40 @@ Connect the repo on [vercel.com](https://vercel.com), set **Root Directory** to
 `front-end`. Vercel auto-detects Vite and runs `sync-data.mjs` as a `prebuild` hook
 (the repo checkout makes the data files available without the Docker mount).
 
-### What the web UI offers vs the CLI
+### What's built
 
-| Feature | CLI (`quiz_runner.py`) | Web UI |
+| Feature | CLI | Web UI |
 |---|---|---|
-| Exam profiles (practice / standard / hard) | `--exam` flag | Cards on home screen |
-| Count, domain, difficulty filters | CLI flags | Setup screen |
-| Unseen-first sampling + ECO weights | Python | Identical TS port |
-| Live progress bar + ETA + running score | Terminal | Sticky top bar |
-| Explanations toggle | `--no-explanation` | Toggle on setup screen |
-| Reproducible seed | `--seed N` | `?seed=N` query param |
-| Per-domain results + topics to review | End-of-session summary | Results screen |
-| Retry missed questions | — | "Retry missed" button |
-| History persistence | Session only | `localStorage` (survives refresh) |
-| Keyboard shortcuts | Required | Supported + touch gestures |
+| Exam profiles (practice / standard / hard) | `--exam` flag | Cards on home screen with difficulty mix bar |
+| **Mini Exam** (15 Q · 15 min timed) | — | Home screen card, ECO-weighted, no feedback until end |
+| Count, domain, difficulty filters | CLI flags | Setup screen with chips + segmented controls |
+| Unseen-first + ECO-weighted sampling | Python | Identical TS port (`sampling.ts`) |
+| Reproducible seed | `--seed N` | `?seed=N` query param (power user, no UI) |
+| Progress bar during quiz | Terminal | 2 px green bar spans full width |
+| Live elapsed / countdown timer | — | Top bar (countdown for timed sessions) |
+| Explanations toggle | `--no-explanation` | Toggle on setup screen + settings drawer |
+| Correct/wrong feedback + answer reveal | Terminal colors | Option row states (green/red border + ✓ ✗) |
+| Exam mode (no feedback during play) | — | Enabled automatically for Mini Exam |
+| Per-domain accuracy on results | Terminal summary | Horizontal bars, green ≥70% / red <70% |
+| Topics to review | Terminal list | Ranked list with missed-count bubble |
+| Retry missed questions | — | "Retry missed" button on results screen |
+| History persistence | Session only | `localStorage` `pmp.v1` (survives refresh) |
+| Reset progress | — | Settings drawer → "Reset progress" |
+| Keyboard shortcuts (A–D, Enter, S, Esc) | Required | Supported |
+| Keyboard hints hidden on touch | — | `(pointer: coarse)` CSS media query |
+| `prefers-reduced-motion` | — | All transitions disabled |
+| iOS/Android safe area + theme color | — | `viewport-fit=cover`, `env(safe-area-inset-*)`, `theme-color` |
+
+### What's not built yet
+
+| Item | Notes |
+|---|---|
+| Self-hosted fonts | PRD specifies Inter Tight + IBM Plex Mono woff2 in `public/fonts/`. Currently falls back to system Inter + system mono. |
+| Running score + ETA in play header | PRD shows `9 · ETA 8m` on the right of the top bar. Only elapsed/countdown timer is shown today. |
+| Touch swipe gestures | PRD: swipe left = next (post-lock), swipe right = toggle explanation. Not wired in `play.ts`. |
+| Seed field in settings drawer | Seed works via `?seed=N` URL only. PRD listed a drawer input as a stretch item. |
+| Home stat strip progress line | PRD shows a 2 px line under the stat numbers. Stat strip renders text only. |
+| Topic-filtered retry | Clicking a topic on the results screen is inert. Deferred by PRD. |
 
 ---
 
@@ -255,13 +275,14 @@ pmi-pmp-study/
 │   ├── youtube_extractor.py    # step 1 — download transcripts
 │   ├── qa_extractor.py         # step 2 — Claude API Q&A extraction
 │   ├── qa_formatter.py         # step 3 — validate + build question bank
-│   └── quiz_builder.py         # step 4 — assemble exam files
+│   ├── quiz_builder.py         # step 4 — assemble exam files
+│   └── pdf_extractor.py        # PDF/slide ingestion (parallel to YouTube path)
 │
 ├── study/
 │   ├── quizzes/
 │   │   ├── quiz_runner.py      # interactive CLI quiz
 │   │   └── exam_*.json         # generated exam files
-│   └── *.ipynb                 # domain study notebooks (coming soon)
+│   └── [notebooks not yet created — see below]
 │
 ├── data/
 │   ├── raw/                    # transcripts and segments
@@ -283,3 +304,29 @@ pmi-pmp-study/
         ├── sampling.ts         # TS port of quiz_runner sampling logic
         └── views/              # home / setup / play / results
 ```
+
+---
+
+## What's not built yet
+
+### Domain study notebooks
+
+The original PRD planned theory notebooks under `study/` — none exist yet:
+
+| File | Content |
+|------|---------|
+| `study/00_exam_overview.ipynb` | Exam metadata, domain weights, ECO breakdown |
+| `study/01_domain1_people.ipynb` | Leadership, teams, stakeholders, conflict resolution, EQ |
+| `study/02_domain2_process.ipynb` | Schedules, risk, EVM, quality, procurement, agile |
+| `study/03_domain3_business_env.ipynb` | Benefits realization, org change, compliance, governance |
+
+### PDF ingestion
+
+`ingestion/pdf_extractor.py` exists but is not wired into the documented pipeline.
+To use it, register a `type: pdf` source in `sources.yml` (see the original PRD for
+the format) and run it before `qa_formatter.py`.
+
+### Web UI items (see table in Web UI section above)
+
+Custom fonts, running score + ETA during play, swipe gestures, and the stat strip
+progress line are the main open items on the frontend side.
