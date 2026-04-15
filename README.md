@@ -1,7 +1,8 @@
 # PMP Study Repository
 
 Self-contained PMP certification exam prep tool. Extracts questions from YouTube practice
-videos, builds a question bank, and runs interactive timed quizzes in the terminal.
+videos, builds a question bank, and runs interactive timed quizzes — in the terminal **or
+in a browser**.
 
 **Current bank:** 343 questions — `hard` + `expert` difficulty — across all 3 ECO domains.
 
@@ -115,6 +116,54 @@ During a session:
 
 ---
 
+## Web UI (alternative to the terminal)
+
+A static browser app that mirrors every feature of `quiz_runner.py` — no Docker required
+after the first data sync. Deploy to Vercel or run locally.
+
+### Local dev
+
+```bash
+cd front-end
+docker compose up --build          # first run: installs deps, starts Vite on :5173
+docker compose up                  # subsequent runs
+```
+
+Open http://localhost:5173. The container mounts `../data/processed` and
+`../study/quizzes` read-only and runs `scripts/sync-data.mjs` on startup, so the
+browser always reads the latest question bank built by the Python pipeline.
+
+### Production build (smoke test before deploy)
+
+```bash
+cd front-end
+docker compose run --rm web npm run build
+docker compose run --rm -p 4173:4173 web npm run preview
+```
+
+### Deploy to Vercel
+
+Connect the repo on [vercel.com](https://vercel.com), set **Root Directory** to
+`front-end`. Vercel auto-detects Vite and runs `sync-data.mjs` as a `prebuild` hook
+(the repo checkout makes the data files available without the Docker mount).
+
+### What the web UI offers vs the CLI
+
+| Feature | CLI (`quiz_runner.py`) | Web UI |
+|---|---|---|
+| Exam profiles (practice / standard / hard) | `--exam` flag | Cards on home screen |
+| Count, domain, difficulty filters | CLI flags | Setup screen |
+| Unseen-first sampling + ECO weights | Python | Identical TS port |
+| Live progress bar + ETA + running score | Terminal | Sticky top bar |
+| Explanations toggle | `--no-explanation` | Toggle on setup screen |
+| Reproducible seed | `--seed N` | `?seed=N` query param |
+| Per-domain results + topics to review | End-of-session summary | Results screen |
+| Retry missed questions | — | "Retry missed" button |
+| History persistence | Session only | `localStorage` (survives refresh) |
+| Keyboard shortcuts | Required | Supported + touch gestures |
+
+---
+
 ## Adding New Video Sources
 
 ### 1. Register the video in `ingestion/sources.yml`
@@ -218,5 +267,19 @@ pmi-pmp-study/
 │   ├── raw/                    # transcripts and segments
 │   └── processed/              # question bank and chunk checkpoints
 │
-└── materials/                  # drop PDFs here for ingestion
+├── materials/                  # drop PDFs here for ingestion
+│
+└── front-end/                  # static web UI (Vite + TypeScript)
+    ├── docker-compose.yml      # dev server on :5173
+    ├── Dockerfile.dev
+    ├── package.json
+    ├── vite.config.ts
+    ├── vercel.json
+    ├── scripts/
+    │   └── sync-data.mjs       # copies question bank into public/data/
+    └── src/
+        ├── main.ts             # router + mount
+        ├── state.ts            # session state + localStorage
+        ├── sampling.ts         # TS port of quiz_runner sampling logic
+        └── views/              # home / setup / play / results
 ```
