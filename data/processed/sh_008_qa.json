@@ -14,7 +14,7 @@
     "domain": 2,
     "source_id": "sh_008",
     "chunk_index": 0,
-    "video_segment": "PMI Study Hall — Mini-Exam 8 (Agile) (paste line 9)"
+    "video_segment": "PMI Practice Exam — Mini-Exam 8 (Agile) (paste line 9)"
   },
   {
     "question": "A project manager is leading a daily standup meeting when a team member requests that other team members take on some of their assigned work because they are feeling overwhelmed with an upcoming deadline. What should the project manager do next?",
@@ -31,7 +31,7 @@
     "domain": 1,
     "source_id": "sh_008",
     "chunk_index": 0,
-    "video_segment": "PMI Study Hall — Mini-Exam 8 (Agile) (paste line 25)"
+    "video_segment": "PMI Practice Exam — Mini-Exam 8 (Agile) (paste line 25)"
   },
   {
     "question": "Which of the following steps should an Agile project manager of a newly formed virtual team take to help the organization succeed? (Choose 2).",
@@ -48,7 +48,7 @@
     "domain": 1,
     "source_id": "sh_008",
     "chunk_index": 0,
-    "video_segment": "PMI Study Hall — Mini-Exam 8 (Agile) (paste line 43)"
+    "video_segment": "PMI Practice Exam — Mini-Exam 8 (Agile) (paste line 43)"
   },
   {
     "question": "A project manager is running an agile project that is half completed. During the most recent sprint retrospective, the team members see that they worked more hours than were originally scheduled. How should the project manager address this situation?",
@@ -65,7 +65,7 @@
     "domain": 2,
     "source_id": "sh_008",
     "chunk_index": 0,
-    "video_segment": "PMI Study Hall — Mini-Exam 8 (Agile) (paste line 59)"
+    "video_segment": "PMI Practice Exam — Mini-Exam 8 (Agile) (paste line 59)"
   },
   {
     "question": "A software developer who is working on a critical component has to take emergency leave from the project. Due to time constraints, the project manager cannot hire a new replacement developer for the team. What should the project manager do to manage the situation?",
@@ -82,7 +82,7 @@
     "domain": 1,
     "source_id": "sh_008",
     "chunk_index": 0,
-    "video_segment": "PMI Study Hall — Mini-Exam 8 (Agile) (paste line 83)"
+    "video_segment": "PMI Practice Exam — Mini-Exam 8 (Agile) (paste line 83)"
   },
   {
     "question": "What should project manager do to manage the project budget?",
@@ -99,7 +99,7 @@
     "domain": 2,
     "source_id": "sh_008",
     "chunk_index": 0,
-    "video_segment": "PMI Study Hall — Mini-Exam 8 (Agile) (paste line 129)"
+    "video_segment": "PMI Practice Exam — Mini-Exam 8 (Agile) (paste line 129)"
   },
   {
     "question": "A project manager is new to the organization and is assigned to replace the project manager of an active project. What should be one of the first things the project manager does?",
@@ -116,7 +116,7 @@
     "domain": 1,
     "source_id": "sh_008",
     "chunk_index": 0,
-    "video_segment": "PMI Study Hall — Mini-Exam 8 (Agile) (paste line 147)"
+    "video_segment": "PMI Practice Exam — Mini-Exam 8 (Agile) (paste line 147)"
   },
   {
     "question": "What can be determined from this information?",
@@ -133,7 +133,7 @@
     "domain": 2,
     "source_id": "sh_008",
     "chunk_index": 0,
-    "video_segment": "PMI Study Hall — Mini-Exam 8 (Agile) (paste line 173)"
+    "video_segment": "PMI Practice Exam — Mini-Exam 8 (Agile) (paste line 173)"
   },
   {
     "question": "Which agile project parameter is least likely to change during project execution?",
@@ -150,7 +150,7 @@
     "domain": 2,
     "source_id": "sh_008",
     "chunk_index": 0,
-    "video_segment": "PMI Study Hall — Mini-Exam 8 (Agile) (paste line 197)"
+    "video_segment": "PMI Practice Exam — Mini-Exam 8 (Agile) (paste line 197)"
   },
   {
     "question": "An agile team finds it difficult to complete a checklist because they have different interpretations of what the project aims to achieve. How can the project manager help them gain a common understanding of the project's overall purpose?",
@@ -167,7 +167,7 @@
     "domain": 1,
     "source_id": "sh_008",
     "chunk_index": 0,
-    "video_segment": "PMI Study Hall — Mini-Exam 8 (Agile) (paste line 251)"
+    "video_segment": "PMI Practice Exam — Mini-Exam 8 (Agile) (paste line 251)"
   },
   {
     "question": "A project manager is assigned a project for a customer with a history of being demanding and unclear about requirements. The customer has refused to accept previous deliverables without providing clear feedback. How should the project manager proceed with this project?",
@@ -184,7 +184,7 @@
     "domain": 3,
     "source_id": "sh_008",
     "chunk_index": 0,
-    "video_segment": "PMI Study Hall — Mini-Exam 8 (Agile) (paste line 271)"
+    "video_segment": "PMI Practice Exam — Mini-Exam 8 (Agile) (paste line 271)"
   },
   {
     "question": "A team member informs the project manager during a project meeting that a due task was not completed on time because of a last-minute work crisis. What should the project manager do?",
@@ -201,7 +201,7 @@
     "domain": 2,
     "source_id": "sh_008",
     "chunk_index": 0,
-    "video_segment": "PMI Study Hall — Mini-Exam 8 (Agile) (paste line 297)"
+    "video_segment": "PMI Practice Exam — Mini-Exam 8 (Agile) (paste line 297)"
   },
   {
     "question": "During a daily standup, a stakeholder unexpectedly joins the meeting and criticizes the performance of one of the team members. After this, the team member is very distracted from their work and their productivity noticeably decreases. What should the team member do in this scenario?",
@@ -218,6 +218,6 @@
     "domain": 1,
     "source_id": "sh_008",
     "chunk_index": 0,
-    "video_segment": "PMI Study Hall — Mini-Exam 8 (Agile) (paste line 313)"
+    "video_segment": "PMI Practice Exam — Mini-Exam 8 (Agile) (paste line 313)"
   }
 ]

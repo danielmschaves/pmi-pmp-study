@@ -1,11 +1,11 @@
 """
 studyhall_extractor.py
 
-Ingest PMI Study Hall practice-exam pastes into the standard question pipeline.
+Ingest PMI practice-exam pastes into the standard question pipeline.
 
 Pipeline position: (manual paste) → [studyhall_extractor] → qa_formatter → quiz_builder
 
-Inputs:  data/raw/<source_id>_paste.txt  (plain-text copy-paste from the Study Hall report page)
+Inputs:  data/raw/<source_id>_paste.txt  (plain-text copy-paste from the exam report page)
 Outputs: data/processed/<source_id>_qa.json         (questions in the canonical schema)
          data/processed/<source_id>_skipped.json    (multi-select and malformed blocks for review)
 
@@ -14,7 +14,7 @@ sources.yml entry:
     type: studyhall
     path: data/raw/sh_001_paste.txt
     domain: null           # always null — inferred per question
-    topic: PMI Study Hall — Mini-Exam 1 (Agile)
+    topic: PMI Practice Exam — Mini-Exam 1 (Agile)
     exam_section: Agile    # optional; prepended to each question's topic
     mode: studyhall
     status: pending
@@ -410,7 +410,7 @@ def classify_batch(client: anthropic.Anthropic, questions: list[str]) -> list[di
 def process_source(source: dict, client: anthropic.Anthropic | None, dry_run: bool, parse_only: bool) -> int:
     source_id = source["id"]
     paste_path = ROOT / source["path"]
-    topic_prefix = source.get("topic", "PMI Study Hall")
+    topic_prefix = source.get("topic", "PMI Practice Exam")
     exam_section = source.get("exam_section")
 
     if not paste_path.exists():
@@ -420,7 +420,7 @@ def process_source(source: dict, client: anthropic.Anthropic | None, dry_run: bo
     text = paste_path.read_text(encoding="utf-8")
     blocks = parse_paste(text)
     if not blocks:
-        print(f"[{source_id}] No 'Solution:' lines found — is this file a Study Hall report paste?")
+        print(f"[{source_id}] No 'Solution:' lines found — is this file a PMI practice exam paste?")
         return 0
 
     ok_blocks = [b for b in blocks if b["status"] == "ok"]
@@ -553,7 +553,7 @@ def run(source_filter: str | None, dry_run: bool, parse_only: bool, force: bool)
 
 
 if __name__ == "__main__":
-    parser = argparse.ArgumentParser(description="Ingest PMI Study Hall pastes.")
+    parser = argparse.ArgumentParser(description="Ingest PMI practice exam pastes.")
     parser.add_argument("--source", default=None, help="Process only this source ID")
     parser.add_argument("--dry-run", action="store_true", help="Parse and print a preview, no writes")
     parser.add_argument("--parse-only", action="store_true", help="Parse and write parsed.json but skip API classification")
