@@ -71,6 +71,74 @@ def diff_badge(d): return DIFF_BADGE.get(d, f" {d.upper()} ")
 def dom_badge(d):  return c(f" {DOM_NAMES.get(d, f'Domain {d}')} ", BOLD, DOM_COLOR.get(d, WHITE))
 
 
+# ─── Session-report helpers (pure — no I/O) ───────────────────────────────────
+
+def compute_domain_breakdown(domain_stats: dict[int, dict]) -> list[dict]:
+    """Return a structured row per domain that had at least one answered question.
+
+    Each row: {domain, name, total, correct, pct, weak}
+    Rows are sorted by domain number. `weak` is True when pct < 70.
+    """
+    rows = []
+    for d in sorted(domain_stats):
+        s = domain_stats[d]
+        total = s["total"]
+        if total == 0:
+            continue
+        correct = s["correct"]
+        pct = correct / total * 100
+        rows.append({
+            "domain":  d,
+            "name":    DOM_NAMES.get(d, f"Domain {d}"),
+            "total":   total,
+            "correct": correct,
+            "pct":     pct,
+            "weak":    pct < 70.0,
+        })
+    return rows
+
+
+def compute_next_steps(domain_stats: dict[int, dict], wrong: list[dict]) -> list[str]:
+    """Return an ordered list of plain-text next-step recommendations.
+
+    Priority order in the returned list:
+      1. Topic reviews (wrong answers), sorted by miss count descending, capped at 5.
+      2. Domain drills for each domain that scored < 70 %.
+      3. If nothing above applies, a difficulty-upgrade suggestion.
+    """
+    if not domain_stats:
+        return []
+
+    steps: list[str] = []
+
+    # 1 — Wrong topics, top-5 by miss count
+    topic_counts: dict[str, int] = {}
+    for q in wrong:
+        t = q.get("topic", "General")
+        topic_counts[t] = topic_counts.get(t, 0) + 1
+    for topic, cnt in sorted(topic_counts.items(), key=lambda x: -x[1])[:5]:
+        plural = "wrong" if cnt > 1 else "wrong"
+        steps.append(f"Review: {topic} ({cnt} {plural})")
+
+    # 2 — Weak domains
+    for d in sorted(domain_stats):
+        s = domain_stats[d]
+        if s["total"] > 0 and s["correct"] / s["total"] * 100 < 70.0:
+            name = DOM_NAMES.get(d, f"Domain {d}")
+            steps.append(f"Drill {name} — run with --domain {d}")
+
+    # 3 — Nothing to flag: encourage harder work
+    if not steps:
+        total   = sum(s["total"]   for s in domain_stats.values())
+        correct = sum(s["correct"] for s in domain_stats.values())
+        if total > 0 and correct == total:
+            steps.append("Perfect score — try --difficulty hard or expert next session")
+        elif total > 0:
+            steps.append("Strong session — try a harder profile next time")
+
+    return steps
+
+
 # ─── History ─────────────────────────────────────────────────────────────────
 
 class QuizHistory:
@@ -233,6 +301,7 @@ def run_quiz(questions: list[dict], history: QuizHistory, show_explanation: bool
     total      = len(questions)
     score      = 0
     wrong: list[dict] = []
+    domain_stats: dict[int, dict] = {}   # {domain: {total, correct}} — skips excluded
     start_time = time.time()
 
     clear()
@@ -291,14 +360,20 @@ def run_quiz(questions: list[dict], history: QuizHistory, show_explanation: bool
             blank()
             if raw == "S":
                 print(c(f"  ⤷  Skipped — correct answer: {q['answer']}", DIM))
-            elif raw == q["answer"]:
-                score += 1
-                print(c("  ✓  CORRECT", BOLD + GREEN))
             else:
-                wrong.append(q)
-                print(c("  ✗  WRONG", BOLD + RED) +
-                      c("  —  correct answer: ", WHITE) +
-                      c(q["answer"], BOLD + GREEN))
+                d = q["domain"]
+                if d not in domain_stats:
+                    domain_stats[d] = {"total": 0, "correct": 0}
+                domain_stats[d]["total"] += 1
+                if raw == q["answer"]:
+                    score += 1
+                    domain_stats[d]["correct"] += 1
+                    print(c("  ✓  CORRECT", BOLD + GREEN))
+                else:
+                    wrong.append(q)
+                    print(c("  ✗  WRONG", BOLD + RED) +
+                          c("  —  correct answer: ", WHITE) +
+                          c(q["answer"], BOLD + GREEN))
 
             if show_explanation and raw != "S":
                 blank()
@@ -319,10 +394,17 @@ def run_quiz(questions: list[dict], history: QuizHistory, show_explanation: bool
         print(c("  Quiz interrupted.", YELLOW))
 
     elapsed = time.time() - start_time
-    _print_results(score, answered, total, elapsed, wrong)
+    _print_results(score, answered, total, elapsed, wrong, domain_stats)
 
 
-def _print_results(score: int, answered: int, total: int, elapsed: float, wrong: list[dict]):
+def _print_results(
+    score: int,
+    answered: int,
+    total: int,
+    elapsed: float,
+    wrong: list[dict],
+    domain_stats: dict[int, dict],
+):
     if answered == 0:
         return
     clear()
@@ -346,15 +428,28 @@ def _print_results(score: int, answered: int, total: int, elapsed: float, wrong:
     blank()
     print(f"  {c('Status:', DIM)}  {c(status[0], status[1])}")
 
-    if wrong:
+    # ── Domain breakdown ──────────────────────────────────────────────────────
+    breakdown = compute_domain_breakdown(domain_stats)
+    if breakdown:
         blank();  rule("·", DIM);  blank()
-        print(c("  Topics to review:", BOLD + YELLOW));  blank()
-        topics: dict[str, int] = {}
-        for q in wrong:
-            t = q.get("topic", "General")
-            topics[t] = topics.get(t, 0) + 1
-        for topic, cnt in sorted(topics.items(), key=lambda x: -x[1])[:10]:
-            print(f"  {c('▪' * cnt, RED)}  {c(topic, WHITE)}")
+        print(c("  Domain breakdown:", BOLD + CYAN));  blank()
+        mini_w = 20
+        for row in breakdown:
+            d_filled  = int(row["pct"] / 100 * mini_w)
+            d_color   = GREEN if not row["weak"] else RED
+            d_bar     = c("█" * d_filled, d_color) + c("░" * (mini_w - d_filled), DIM)
+            pct_str   = c(f"{row['pct']:5.1f}%", BOLD + d_color)
+            score_str = c(f"{row['correct']}/{row['total']}", DIM)
+            print(f"  {dom_badge(row['domain'])}  {d_bar}  {pct_str}  {score_str}")
+
+    # ── Concept mastery next steps ────────────────────────────────────────────
+    steps = compute_next_steps(domain_stats, wrong)
+    if steps:
+        blank();  rule("·", DIM);  blank()
+        print(c("  Concept mastery — next steps:", BOLD + YELLOW));  blank()
+        for step in steps:
+            bullet = c("▸", YELLOW)
+            print(f"  {bullet}  {c(step, WHITE)}")
 
     blank();  rule("═", BOLD + CYAN);  blank()
 
