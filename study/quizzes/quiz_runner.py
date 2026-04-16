@@ -117,8 +117,7 @@ def compute_next_steps(domain_stats: dict[int, dict], wrong: list[dict]) -> list
         t = q.get("topic", "General")
         topic_counts[t] = topic_counts.get(t, 0) + 1
     for topic, cnt in sorted(topic_counts.items(), key=lambda x: -x[1])[:5]:
-        plural = "wrong" if cnt > 1 else "wrong"
-        steps.append(f"Review: {topic} ({cnt} {plural})")
+        steps.append(f"Review: {topic} ({cnt} wrong)")
 
     # 2 — Weak domains
     for d in sorted(domain_stats):
