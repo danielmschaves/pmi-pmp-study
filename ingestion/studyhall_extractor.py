@@ -73,6 +73,13 @@ def _is_trailer_line(line: str) -> bool:
         return True
     if s.startswith("[") and "Item" in s:
         return True
+    # Bibliography lines that appear in the trailer block but don't start with "|":
+    # e.g. "PMBOK Guide Seventh Edition (2022) /// [2.4.7 CHANGES]"
+    if s.startswith("PMBOK"):
+        return True
+    # e.g. "Agile Practice Guide (2017) PMI/PMI/4.2.1.1/ [Item ...]"
+    if "[Item" in s:
+        return True
     return False
 
 
