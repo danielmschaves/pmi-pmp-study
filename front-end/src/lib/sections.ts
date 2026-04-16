@@ -1,6 +1,6 @@
 import type { Question } from "../types";
 
-// Format/section parsed from the topic prefix (Study Hall convention).
+// Format/section parsed from the topic prefix (PMI practice exam convention).
 // Topic looks like "Agile / Stakeholder Engagement" — we split on the first " / ".
 export type Section = "agile" | "predictive" | "hybrid" | null;
 
@@ -31,6 +31,6 @@ export const SECTION_LABELS: Record<Exclude<Section, null>, string> = {
 };
 
 export const SOURCE_LABELS: Record<SourceFamily, string> = {
-  studyhall: "Study Hall",
+  studyhall: "PMI Practice Exam",
   youtube: "YouTube",
 };
