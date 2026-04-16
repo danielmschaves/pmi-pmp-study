@@ -14,7 +14,7 @@
     "domain": 1,
     "source_id": "sh_018",
     "chunk_index": 0,
-    "video_segment": "PMI Study Hall — Mini-Exam 18 (Agile) (paste line 7)"
+    "video_segment": "PMI Practice Exam — Mini-Exam 18 (Agile) (paste line 7)"
   },
   {
     "question": "A project manager learns that a few stakeholders have a disagreement regarding the results of one project deliverable. What is the next step the project manager should take?",
@@ -31,7 +31,7 @@
     "domain": 1,
     "source_id": "sh_018",
     "chunk_index": 0,
-    "video_segment": "PMI Study Hall — Mini-Exam 18 (Agile) (paste line 31)"
+    "video_segment": "PMI Practice Exam — Mini-Exam 18 (Agile) (paste line 31)"
   },
   {
     "question": "An agile project manager is leading a new software system development project that is in the user acceptance testing phase. The project manager has received positive feedback from the majority of business stakeholders, but the IT director is dissatisfied. What should the agile project manager do first?",
@@ -48,7 +48,7 @@
     "domain": 1,
     "source_id": "sh_018",
     "chunk_index": 0,
-    "video_segment": "PMI Study Hall — Mini-Exam 18 (Agile) (paste line 51)"
+    "video_segment": "PMI Practice Exam — Mini-Exam 18 (Agile) (paste line 51)"
   },
   {
     "question": "An organization just implemented agile and forms a development team where members are not co-located. The organization’s management style is known for setting clearly defined rules and objectives for team members. What should the agile project manager do to align the team to the desired outcomes?",
@@ -65,7 +65,7 @@
     "domain": 1,
     "source_id": "sh_018",
     "chunk_index": 0,
-    "video_segment": "PMI Study Hall — Mini-Exam 18 (Agile) (paste line 71)"
+    "video_segment": "PMI Practice Exam — Mini-Exam 18 (Agile) (paste line 71)"
   },
   {
     "question": "A new product is being constructed by an agile team, but the team has a limited amount of time to complete it. Due to these circumstances, it is important for the team to sustain collaboration for the duration of the project. To build team solidarity, what should the project leader do?",
@@ -82,7 +82,7 @@
     "domain": 1,
     "source_id": "sh_018",
     "chunk_index": 0,
-    "video_segment": "PMI Study Hall — Mini-Exam 18 (Agile) (paste line 91)"
+    "video_segment": "PMI Practice Exam — Mini-Exam 18 (Agile) (paste line 91)"
   },
   {
     "question": "A team is ready to start working on a project with a customer who was very difficult to work with in the past because the customer was unable to describe exactly what they wanted. What approach should the project manager take to remove this impediment?",
@@ -99,7 +99,7 @@
     "domain": 2,
     "source_id": "sh_018",
     "chunk_index": 0,
-    "video_segment": "PMI Study Hall — Mini-Exam 18 (Agile) (paste line 109)"
+    "video_segment": "PMI Practice Exam — Mini-Exam 18 (Agile) (paste line 109)"
   },
   {
     "question": "A member of a project team at a standup proposes altering a feature due to its popularity in the market. A different team member counters and is concerned about quality user experience regarding the feature. How can the project manager correct this issue?",
@@ -116,7 +116,7 @@
     "domain": 1,
     "source_id": "sh_018",
     "chunk_index": 0,
-    "video_segment": "PMI Study Hall — Mini-Exam 18 (Agile) (paste line 133)"
+    "video_segment": "PMI Practice Exam — Mini-Exam 18 (Agile) (paste line 133)"
   },
   {
     "question": "A project's deliverables due date is approaching, but one team member's performance is negatively impacting the schedule. What should the project manager do?",
@@ -133,7 +133,7 @@
     "domain": 1,
     "source_id": "sh_018",
     "chunk_index": 0,
-    "video_segment": "PMI Study Hall — Mini-Exam 18 (Agile) (paste line 151)"
+    "video_segment": "PMI Practice Exam — Mini-Exam 18 (Agile) (paste line 151)"
   },
   {
     "question": "What should the project manager do in this scenario?",
@@ -150,7 +150,7 @@
     "domain": 1,
     "source_id": "sh_018",
     "chunk_index": 0,
-    "video_segment": "PMI Study Hall — Mini-Exam 18 (Agile) (paste line 173)"
+    "video_segment": "PMI Practice Exam — Mini-Exam 18 (Agile) (paste line 173)"
   },
   {
     "question": "During a new agile project, there have been hindrances related to budgeting and time management. The remote quality assurance team reported a lengthy defect list following completion of a couple sprints. The project manager concluded that the issues stem from language misinterpretation and not project quality. What should the project manager do?",
@@ -167,7 +167,7 @@
     "domain": 1,
     "source_id": "sh_018",
     "chunk_index": 0,
-    "video_segment": "PMI Study Hall — Mini-Exam 18 (Agile) (paste line 197)"
+    "video_segment": "PMI Practice Exam — Mini-Exam 18 (Agile) (paste line 197)"
   },
   {
     "question": "A project manager has been moved to a new division and is in charge of an existing project in an unfamiliar domain. When attempting to gain an understanding of the risks for this agile project, what is the primary tool the project manager should employ?",
@@ -184,7 +184,7 @@
     "domain": 2,
     "source_id": "sh_018",
     "chunk_index": 0,
-    "video_segment": "PMI Study Hall — Mini-Exam 18 (Agile) (paste line 215)"
+    "video_segment": "PMI Practice Exam — Mini-Exam 18 (Agile) (paste line 215)"
   },
   {
     "question": "Members from an agile team have been consistently tardy for stand-up meetings and are not meeting project target dates. The project leader assumes the issue may be difficulty with self-managing tasks within the team. What action should the project leader take?",
@@ -201,7 +201,7 @@
     "domain": 1,
     "source_id": "sh_018",
     "chunk_index": 0,
-    "video_segment": "PMI Study Hall — Mini-Exam 18 (Agile) (paste line 237)"
+    "video_segment": "PMI Practice Exam — Mini-Exam 18 (Agile) (paste line 237)"
   },
   {
     "question": "The product owner decides to launch a product after a couple of releases, knowing that the minimum viable product (MVP) lacks some features. One of the key stakeholders, the marketing vice president, is not happy with the results and questioned the release decision. What should the project manager do?",
@@ -218,7 +218,7 @@
     "domain": 3,
     "source_id": "sh_018",
     "chunk_index": 0,
-    "video_segment": "PMI Study Hall — Mini-Exam 18 (Agile) (paste line 257)"
+    "video_segment": "PMI Practice Exam — Mini-Exam 18 (Agile) (paste line 257)"
   },
   {
     "question": "A product owner presented the backlog to the team, and the team raised concerns over implementing some of the features due to various impediments. What should the project manager suggest that the product owner do next?",
@@ -235,7 +235,7 @@
     "domain": 2,
     "source_id": "sh_018",
     "chunk_index": 0,
-    "video_segment": "PMI Study Hall — Mini-Exam 18 (Agile) (paste line 279)"
+    "video_segment": "PMI Practice Exam — Mini-Exam 18 (Agile) (paste line 279)"
   },
   {
     "question": "A project manager is managing a project where requirements are not fully known and a high level of uncertainty exists. Which methodology should be used for this project?",
@@ -252,6 +252,6 @@
     "domain": 2,
     "source_id": "sh_018",
     "chunk_index": 0,
-    "video_segment": "PMI Study Hall — Mini-Exam 18 (Agile) (paste line 301)"
+    "video_segment": "PMI Practice Exam — Mini-Exam 18 (Agile) (paste line 301)"
   }
 ]

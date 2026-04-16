@@ -14,7 +14,7 @@
     "domain": 1,
     "source_id": "sh_001",
     "chunk_index": 0,
-    "video_segment": "PMI Study Hall — Mini-Exam 1 (paste line 9)"
+    "video_segment": "PMI Practice Exam — Mini-Exam 1 (paste line 9)"
   },
   {
     "question": "An organization is under a business transformation. The project manager has been assigned to a project related to one of the new business lines. What should the project manager and team do before defining the scope of the project?",
@@ -31,7 +31,7 @@
     "domain": 3,
     "source_id": "sh_001",
     "chunk_index": 0,
-    "video_segment": "PMI Study Hall — Mini-Exam 1 (paste line 56)"
+    "video_segment": "PMI Practice Exam — Mini-Exam 1 (paste line 56)"
   },
   {
     "question": "After completing the stakeholder analysis, the project manager is in the action planning phase. What should the project manager do with the stakeholders that have no interest or influence in the project?",
@@ -48,7 +48,7 @@
     "domain": 1,
     "source_id": "sh_001",
     "chunk_index": 0,
-    "video_segment": "PMI Study Hall — Mini-Exam 1 (paste line 66)"
+    "video_segment": "PMI Practice Exam — Mini-Exam 1 (paste line 66)"
   },
   {
     "question": "A customer requested a change to a functionality that is being delivered in the next iteration. The specialist responsible for this functionality was recently assigned to another project. What should the project manager do first?",
@@ -65,7 +65,7 @@
     "domain": 2,
     "source_id": "sh_001",
     "chunk_index": 0,
-    "video_segment": "PMI Study Hall — Mini-Exam 1 (paste line 84)"
+    "video_segment": "PMI Practice Exam — Mini-Exam 1 (paste line 84)"
   },
   {
     "question": "A project manager is developing a project management plan to submit to the project sponsor in two weeks. The project sponsor, however, wants to review the early resource estimates before the deadline. What should the project manager do?",
@@ -82,7 +82,7 @@
     "domain": 2,
     "source_id": "sh_001",
     "chunk_index": 0,
-    "video_segment": "PMI Study Hall — Mini-Exam 1 (paste line 103)"
+    "video_segment": "PMI Practice Exam — Mini-Exam 1 (paste line 103)"
   },
   {
     "question": "What can a project manager do to communicate the formal project announcement and relevant information to stakeholders, and then gain their commitment?",
@@ -99,7 +99,7 @@
     "domain": 1,
     "source_id": "sh_001",
     "chunk_index": 0,
-    "video_segment": "PMI Study Hall — Mini-Exam 1 (paste line 121)"
+    "video_segment": "PMI Practice Exam — Mini-Exam 1 (paste line 121)"
   },
   {
     "question": "Since the beginning of a project, the product owner keeps asking during ceremonies about the budget spent for each product iteration. The product owner seems much more interested in the cost rather than the product itself. What should the project manager have done earlier to change the product owner's behavior?",
@@ -116,7 +116,7 @@
     "domain": 1,
     "source_id": "sh_001",
     "chunk_index": 0,
-    "video_segment": "PMI Study Hall — Mini-Exam 1 (paste line 143)"
+    "video_segment": "PMI Practice Exam — Mini-Exam 1 (paste line 143)"
   },
   {
     "question": "A project manager sends out requests for regular status meetings and daily standup meetings during the project setup phase. However, business stakeholders are declining the meetings. What should the project manager do?",
@@ -133,7 +133,7 @@
     "domain": 1,
     "source_id": "sh_001",
     "chunk_index": 0,
-    "video_segment": "PMI Study Hall — Mini-Exam 1 (paste line 163)"
+    "video_segment": "PMI Practice Exam — Mini-Exam 1 (paste line 163)"
   },
   {
     "question": "While preparing a project's third progress report, the project manager identifies that the project will experience delays due to late material deliveries. The two previous project reports indicated that the project was on track. What should the project manager do next?",
@@ -150,7 +150,7 @@
     "domain": 2,
     "source_id": "sh_001",
     "chunk_index": 0,
-    "video_segment": "PMI Study Hall — Mini-Exam 1 (paste line 184)"
+    "video_segment": "PMI Practice Exam — Mini-Exam 1 (paste line 184)"
   },
   {
     "question": "A research and development department is planning to develop a product that will introduce a new line of business for the organization. What should the project manager do to increase the project's chances of success?",
@@ -167,7 +167,7 @@
     "domain": 3,
     "source_id": "sh_001",
     "chunk_index": 0,
-    "video_segment": "PMI Study Hall — Mini-Exam 1 (paste line 226)"
+    "video_segment": "PMI Practice Exam — Mini-Exam 1 (paste line 226)"
   },
   {
     "question": "A project manager is leading a project with seven key stakeholders. What should the project manager consider as the most important part of stakeholder management?",
@@ -184,7 +184,7 @@
     "domain": 1,
     "source_id": "sh_001",
     "chunk_index": 0,
-    "video_segment": "PMI Study Hall — Mini-Exam 1 (paste line 244)"
+    "video_segment": "PMI Practice Exam — Mini-Exam 1 (paste line 244)"
   },
   {
     "question": "A company outsources the execution of a project with a fixed-price contract to a supplier. During execution, the supplier agrees to deliver additional customer requirements that were not included in the contract. To fulfill the expanded scope, both parties add more resources to keep the project on the planned schedule. Which technique is being applied in this project?",
@@ -201,7 +201,7 @@
     "domain": 2,
     "source_id": "sh_001",
     "chunk_index": 0,
-    "video_segment": "PMI Study Hall — Mini-Exam 1 (paste line 260)"
+    "video_segment": "PMI Practice Exam — Mini-Exam 1 (paste line 260)"
   },
   {
     "question": "A project team is arranging user testing to be completed for a project but does not have a strong enough server to do so. The team orders a new server and postpones user testing. What should the project manager do moving forward?",
@@ -218,7 +218,7 @@
     "domain": 2,
     "source_id": "sh_001",
     "chunk_index": 0,
-    "video_segment": "PMI Study Hall — Mini-Exam 1 (paste line 278)"
+    "video_segment": "PMI Practice Exam — Mini-Exam 1 (paste line 278)"
   },
   {
     "question": "The team and product owner are reviewing user stories in the iteration planning meeting. While reviewing stories, it is identified that some of the high-value stories have more associated risks. What should the agile project manager do?",
@@ -235,6 +235,6 @@
     "domain": 2,
     "source_id": "sh_001",
     "chunk_index": 0,
-    "video_segment": "PMI Study Hall — Mini-Exam 1 (paste line 298)"
+    "video_segment": "PMI Practice Exam — Mini-Exam 1 (paste line 298)"
   }
 ]

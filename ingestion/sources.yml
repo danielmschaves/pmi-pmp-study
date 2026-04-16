@@ -47,14 +47,14 @@ sources:
   type: studyhall
   path: data/raw/sh_001_paste.txt
   domain: null
-  topic: PMI Study Hall — Mini-Exam 1
+  topic: PMI Practice Exam — Mini-Exam 1
   mode: studyhall
   status: processed
 - id: sh_002
   type: studyhall
   path: data/raw/sh_002_paste.txt
   domain: null
-  topic: PMI Study Hall — Mini-Exam 2 (Predictive)
+  topic: PMI Practice Exam — Mini-Exam 2 (Predictive)
   exam_section: Predictive
   mode: studyhall
   status: processed
@@ -62,7 +62,7 @@ sources:
   type: studyhall
   path: data/raw/sh_003_paste.txt
   domain: null
-  topic: PMI Study Hall — Mini-Exam 3 (Hybrid)
+  topic: PMI Practice Exam — Mini-Exam 3 (Hybrid)
   exam_section: Hybrid
   mode: studyhall
   status: processed
@@ -70,7 +70,7 @@ sources:
   type: studyhall
   path: data/raw/sh_004_paste.txt
   domain: null
-  topic: PMI Study Hall — Mini-Exam 4 (Agile)
+  topic: PMI Practice Exam — Mini-Exam 4 (Agile)
   exam_section: Agile
   mode: studyhall
   status: processed
@@ -78,7 +78,7 @@ sources:
   type: studyhall
   path: data/raw/sh_005_paste.txt
   domain: null
-  topic: PMI Study Hall — Mini-Exam 5 (Hybrid)
+  topic: PMI Practice Exam — Mini-Exam 5 (Hybrid)
   exam_section: Hybrid
   mode: studyhall
   status: processed
@@ -86,7 +86,7 @@ sources:
   type: studyhall
   path: data/raw/sh_006_paste.txt
   domain: null
-  topic: PMI Study Hall — Mini-Exam 6 (Predictive)
+  topic: PMI Practice Exam — Mini-Exam 6 (Predictive)
   exam_section: Predictive
   mode: studyhall
   status: processed
@@ -94,14 +94,14 @@ sources:
   type: studyhall
   path: data/raw/sh_007_paste.txt
   domain: null
-  topic: PMI Study Hall — Mini-Exam 7
+  topic: PMI Practice Exam — Mini-Exam 7
   mode: studyhall
   status: processed
 - id: sh_008
   type: studyhall
   path: data/raw/sh_008_paste.txt
   domain: null
-  topic: PMI Study Hall — Mini-Exam 8 (Agile)
+  topic: PMI Practice Exam — Mini-Exam 8 (Agile)
   exam_section: Agile
   mode: studyhall
   status: processed
@@ -109,7 +109,7 @@ sources:
   type: studyhall
   path: data/raw/sh_009_paste.txt
   domain: 1
-  topic: PMI Study Hall — Mini-Exam 9 (People Domain)
+  topic: PMI Practice Exam — Mini-Exam 9 (People Domain)
   exam_section: People Domain
   mode: studyhall
   status: processed
@@ -117,7 +117,7 @@ sources:
   type: studyhall
   path: data/raw/sh_010_paste.txt
   domain: 2
-  topic: PMI Study Hall — Mini-Exam 10 (Process Domain)
+  topic: PMI Practice Exam — Mini-Exam 10 (Process Domain)
   exam_section: Process Domain
   mode: studyhall
   status: processed
@@ -125,7 +125,7 @@ sources:
   type: studyhall
   path: data/raw/sh_011_paste.txt
   domain: 3
-  topic: PMI Study Hall — Mini-Exam 11 (Business Environment Domain)
+  topic: PMI Practice Exam — Mini-Exam 11 (Business Environment Domain)
   exam_section: Business Environment Domain
   mode: studyhall
   status: processed
@@ -133,7 +133,7 @@ sources:
   type: studyhall
   path: data/raw/sh_012_paste.txt
   domain: null
-  topic: PMI Study Hall — Mini-Exam 12 (Hybrid)
+  topic: PMI Practice Exam — Mini-Exam 12 (Hybrid)
   exam_section: Hybrid
   mode: studyhall
   status: processed
@@ -141,7 +141,7 @@ sources:
   type: studyhall
   path: data/raw/sh_013_paste.txt
   domain: null
-  topic: PMI Study Hall — Mini-Exam 13 (Predictive)
+  topic: PMI Practice Exam — Mini-Exam 13 (Predictive)
   exam_section: Predictive
   mode: studyhall
   status: processed
@@ -149,14 +149,14 @@ sources:
   type: studyhall
   path: data/raw/sh_014_paste.txt
   domain: null
-  topic: PMI Study Hall — Mini-Exam 14
+  topic: PMI Practice Exam — Mini-Exam 14
   mode: studyhall
   status: processed
 - id: sh_015
   type: studyhall
   path: data/raw/sh_015_paste.txt
   domain: null
-  topic: PMI Study Hall — Mini-Exam 15 (Agile)
+  topic: PMI Practice Exam — Mini-Exam 15 (Agile)
   exam_section: Agile
   mode: studyhall
   status: processed
@@ -164,7 +164,7 @@ sources:
   type: studyhall
   path: data/raw/sh_016_paste.txt
   domain: null
-  topic: PMI Study Hall — Mini-Exam 16 (Predictive)
+  topic: PMI Practice Exam — Mini-Exam 16 (Predictive)
   exam_section: Predictive
   mode: studyhall
   status: processed
@@ -172,7 +172,7 @@ sources:
   type: studyhall
   path: data/raw/sh_017_paste.txt
   domain: null
-  topic: PMI Study Hall — Mini-Exam 17 (Hybrid)
+  topic: PMI Practice Exam — Mini-Exam 17 (Hybrid)
   exam_section: Hybrid
   mode: studyhall
   status: processed
@@ -180,7 +180,7 @@ sources:
   type: studyhall
   path: data/raw/sh_018_paste.txt
   domain: null
-  topic: PMI Study Hall — Mini-Exam 18 (Agile)
+  topic: PMI Practice Exam — Mini-Exam 18 (Agile)
   exam_section: Agile
   mode: studyhall
   status: processed
@@ -188,7 +188,7 @@ sources:
   type: studyhall
   path: data/raw/sh_019_paste.txt
   domain: null
-  topic: PMI Study Hall — Mini-Exam 19 (Predictive)
+  topic: PMI Practice Exam — Mini-Exam 19 (Predictive)
   exam_section: Predictive
   mode: studyhall
   status: processed
@@ -196,6 +196,6 @@ sources:
   type: studyhall
   path: data/raw/sh_020_paste.txt
   domain: null
-  topic: PMI Study Hall — Mini-Exam 20
+  topic: PMI Practice Exam — Mini-Exam 20
   mode: studyhall
   status: processed
