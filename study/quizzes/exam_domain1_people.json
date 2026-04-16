@@ -1063,7 +1063,7 @@
   },
   {
     "id": "sh_017_000_13",
-    "question": "PMBOK Guide Seventh Edition (2022) /// [2.2.4 LEADERSHIP SKILLS] [4.2.7.1 Conflict Model] What is the reason for relationship network change?",
+    "question": "What is the reason for relationship network change?",
     "options": [
       "A. Roles and titles are formally assigned",
       "B. Evolves over time as people gain and lose influence",
@@ -1927,7 +1927,7 @@
   },
   {
     "id": "sh_005_000_08",
-    "question": "PMBOK Guide Seventh Edition (2022) /// [2.1.1 STAKEHOLDER ENGAGEMENT] Which two decision-making styles are quickest and would be used when there is little time to make a decision? (check two choices)",
+    "question": "Which two decision-making styles are quickest and would be used when there is little time to make a decision? (check two choices)",
     "options": [
       "A. Command Style",
       "B. Consultative Style",
@@ -2197,7 +2197,7 @@
   },
   {
     "id": "sh_015_000_14",
-    "question": "PMBOK Guide Seventh Edition (2022) /// [2.6 DELIVERY PERFORMANCE DOMAIN] [2.4.7 CHANGES] A project manager receives an email from a customer detailing reservations about the project deliverables. How should the project manager address the customer’s reservations?",
+    "question": "A project manager receives an email from a customer detailing reservations about the project deliverables. How should the project manager address the customer’s reservations?",
     "options": [
       "A. Meet with the customer to discuss the project scope.",
       "B. Note the reservations in the risk register and prepare a mitigation plan.",
@@ -2773,7 +2773,7 @@
   },
   {
     "id": "sh_008_000_09",
-    "question": "PMBOK Guide Seventh Edition (2022) /// [2.3.3 DEVELOPMENT APPROACHES] [4.2.4 CHANGE MODELS] An agile team finds it difficult to complete a checklist because they have different interpretations of what the project aims to achieve. How can the project manager help them gain a common understanding of the project's overall purpose?",
+    "question": "An agile team finds it difficult to complete a checklist because they have different interpretations of what the project aims to achieve. How can the project manager help them gain a common understanding of the project's overall purpose?",
     "options": [
       "A. Review the project vision.",
       "B. Review the full list of user stories.",
@@ -3565,7 +3565,7 @@
   },
   {
     "id": "sh_014_000_05",
-    "question": "PMBOK Guide Sixth Edition - PMI/PMI/9.4.2.6/page 342 [Item] A project manager is having difficulty managing stakeholders because the stakeholder register does not distinguish how aware of the project they need to be in order for the project to be successful. What should the project manager do?",
+    "question": "A project manager is having difficulty managing stakeholders because the stakeholder register does not distinguish how aware of the project they need to be in order for the project to be successful. What should the project manager do?",
     "options": [
       "A. Meet with the change control board (CCB) to assess the impact of identifying new stakeholders.",
       "B. Update the stakeholder communication plan.",
@@ -5923,7 +5923,7 @@
   },
   {
     "id": "sh_019_000_07",
-    "question": "PMBOK Guide Seventh Edition (2022) /// [4.6.3 PLANS] A project manager learns that the project team will miss a milestone because team member A has not completed the task requirements needed by team member B. When meeting with team member A, what should the project manager do?",
+    "question": "A project manager learns that the project team will miss a milestone because team member A has not completed the task requirements needed by team member B. When meeting with team member A, what should the project manager do?",
     "options": [
       "A. Direct team member A to turn over the responsibilities for completing the task requirements to team member B.",
       "B. Identify any obstacles to meeting the task requirements and determine if team member A needs help completing them.",

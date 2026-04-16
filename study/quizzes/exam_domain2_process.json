@@ -2377,7 +2377,7 @@
   },
   {
     "id": "sh_002_000_13",
-    "question": "PMBOK Guide Seventh Edition (2022) /// [2.5.7 MONITORING NEW WORK AND CHANGES] Which is the process that the project manager performs to prioritize individual project risks for further analysis or action by assessing their probability of occurrence and impact, as well as other characteristics?",
+    "question": "Which is the process that the project manager performs to prioritize individual project risks for further analysis or action by assessing their probability of occurrence and impact, as well as other characteristics?",
     "options": [
       "A. Quantitative Risk Analysis",
       "B. Qualitative Risk Analysis",
@@ -2917,7 +2917,7 @@
   },
   {
     "id": "sh_006_000_11",
-    "question": "PMBOK Guide Seventh Edition (2022) /// [2.4.7 CHANGES] [2.5.7 MONITORING NEW WORK AND CHANGES] While developing the initial schedule baseline, the project manager learns that a functional manager reassigned two resources needed for a critical task to another strategic project. What should the project manager do?",
+    "question": "While developing the initial schedule baseline, the project manager learns that a functional manager reassigned two resources needed for a critical task to another strategic project. What should the project manager do?",
     "options": [
       "A. Perform a quantitative risk analysis to determine the impact of the change on the project.",
       "B. Request a review of the reassignment by the change control board (CCB).",
@@ -2989,7 +2989,7 @@
   },
   {
     "id": "sh_002_000_03",
-    "question": "PMBOK Guide Seventh Edition (2022) PMI/PMI/ [2.4.7 CHANGES] A project manager has finished a qualitative risk analysis with their team. Which project documents may require updating based on this information?",
+    "question": "A project manager has finished a qualitative risk analysis with their team. Which project documents may require updating based on this information?",
     "options": [
       "A. Risk Register, Risk Report, Lessons Learned",
       "B. Plan Risk Management, Assumption Log",
@@ -4195,7 +4195,7 @@
   },
   {
     "id": "sh_006_000_08",
-    "question": "PMBOK® Guide Seventh Edition (2022) PMI/PMI [A GUIDE TO THE PROJECT MANAGEMENT BODY OF KNOWLEDGE 2.1 STAKEHOLDER PERFORMANCE DOMAIN] A project manager identifies a risk during the implementation phase of a project which was not anticipated during planning. How would facilitating a brainstorming session allow the project manager to mitigate the risk while keeping the project on schedule?",
+    "question": "A project manager identifies a risk during the implementation phase of a project which was not anticipated during planning. How would facilitating a brainstorming session allow the project manager to mitigate the risk while keeping the project on schedule?",
     "options": [
       "A. Brainstorming would enable the project manager to apply qualitative data analysis techniques.",
       "B. Brainstorming with the project team can identify multiple ideas in a short amount of time.",
@@ -5005,7 +5005,7 @@
   },
   {
     "id": "sh_003_000_13",
-    "question": "PMBOK Guide Sixth Edition (2018) PMI/PMI/11 Project Risk Management/414-415 (11.2.2 Identify risks: tools and Techniques) A company, which is conducting a critical bidding process, included a penalty clause in an agreement specifying that the selected supplier must pay a significant liquidated damages penalty in the event of non-performance. Given that this bidding process is extremely attractive to the supplier with a medium risk threshold, how should the supplier's project manager budget for it?",
+    "question": "A company, which is conducting a critical bidding process, included a penalty clause in an agreement specifying that the selected supplier must pay a significant liquidated damages penalty in the event of non-performance. Given that this bidding process is extremely attractive to the supplier with a medium risk threshold, how should the supplier's project manager budget for it?",
     "options": [
       "A. Increase the quote to mitigate the risk and support the above clause.",
       "B. Advise management not to participate in the request for proposals (RFP) since it is a big risk.",
@@ -6319,7 +6319,7 @@
   },
   {
     "id": "sh_020_000_14",
-    "question": "PMBOK Guide Seventh Edition (2022) /// [4.6.2 LOGS AND REGISTERS] [2.8 UNCERTAINTY PERFORMANCE DOMAIN] A sponsor proposes a project scope change that is popular with the project team and key stakeholders. What should the project manager do?",
+    "question": "A sponsor proposes a project scope change that is popular with the project team and key stakeholders. What should the project manager do?",
     "options": [
       "A. Follow the change management process.",
       "B. Notify stakeholders of the change.",
@@ -8047,7 +8047,7 @@
   },
   {
     "id": "sh_020_000_03",
-    "question": "PMBOK Guide Seventh Edition (2022) /// [2.5.1 PROJECT PROCESSES] [2.5.8 LEARNING THROUGHOUT THE PROJECT] A vendor submits a high-level project schedule for a three-year project, including a detailed design-phase schedule. What does this describe?",
+    "question": "A vendor submits a high-level project schedule for a three-year project, including a detailed design-phase schedule. What does this describe?",
     "options": [
       "A. Rolling wave planning",
       "B. Decomposition",
@@ -8839,7 +8839,7 @@
   },
   {
     "id": "sh_005_000_11",
-    "question": "PMBOK Guide Seventh Edition (2022) /// [2.6.2 DELIVERABLES] Midway through a project, a project manager learns that the project management planning application is failing to record updates to the project. What should the project manager do in this situation?",
+    "question": "Midway through a project, a project manager learns that the project management planning application is failing to record updates to the project. What should the project manager do in this situation?",
     "options": [
       "A. Task a project team member to manually update the project plan from now on.",
       "B. Inform the project management office (PMO) and have them resolve this issue.",

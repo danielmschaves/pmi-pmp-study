@@ -397,7 +397,7 @@
   },
   {
     "id": "sh_006_000_11",
-    "question": "PMBOK Guide Seventh Edition (2022) /// [2.4.7 CHANGES] [2.5.7 MONITORING NEW WORK AND CHANGES] While developing the initial schedule baseline, the project manager learns that a functional manager reassigned two resources needed for a critical task to another strategic project. What should the project manager do?",
+    "question": "While developing the initial schedule baseline, the project manager learns that a functional manager reassigned two resources needed for a critical task to another strategic project. What should the project manager do?",
     "options": [
       "A. Perform a quantitative risk analysis to determine the impact of the change on the project.",
       "B. Request a review of the reassignment by the change control board (CCB).",
@@ -2431,7 +2431,7 @@
   },
   {
     "id": "sh_015_000_14",
-    "question": "PMBOK Guide Seventh Edition (2022) /// [2.6 DELIVERY PERFORMANCE DOMAIN] [2.4.7 CHANGES] A project manager receives an email from a customer detailing reservations about the project deliverables. How should the project manager address the customer’s reservations?",
+    "question": "A project manager receives an email from a customer detailing reservations about the project deliverables. How should the project manager address the customer’s reservations?",
     "options": [
       "A. Meet with the customer to discuss the project scope.",
       "B. Note the reservations in the risk register and prepare a mitigation plan.",

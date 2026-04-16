@@ -343,7 +343,7 @@
   },
   {
     "id": "sh_002_000_03",
-    "question": "PMBOK Guide Seventh Edition (2022) PMI/PMI/ [2.4.7 CHANGES] A project manager has finished a qualitative risk analysis with their team. Which project documents may require updating based on this information?",
+    "question": "A project manager has finished a qualitative risk analysis with their team. Which project documents may require updating based on this information?",
     "options": [
       "A. Risk Register, Risk Report, Lessons Learned",
       "B. Plan Risk Management, Assumption Log",
@@ -631,7 +631,7 @@
   },
   {
     "id": "sh_008_000_09",
-    "question": "PMBOK Guide Seventh Edition (2022) /// [2.3.3 DEVELOPMENT APPROACHES] [4.2.4 CHANGE MODELS] An agile team finds it difficult to complete a checklist because they have different interpretations of what the project aims to achieve. How can the project manager help them gain a common understanding of the project's overall purpose?",
+    "question": "An agile team finds it difficult to complete a checklist because they have different interpretations of what the project aims to achieve. How can the project manager help them gain a common understanding of the project's overall purpose?",
     "options": [
       "A. Review the project vision.",
       "B. Review the full list of user stories.",
@@ -1243,7 +1243,7 @@
   },
   {
     "id": "sh_003_000_13",
-    "question": "PMBOK Guide Sixth Edition (2018) PMI/PMI/11 Project Risk Management/414-415 (11.2.2 Identify risks: tools and Techniques) A company, which is conducting a critical bidding process, included a penalty clause in an agreement specifying that the selected supplier must pay a significant liquidated damages penalty in the event of non-performance. Given that this bidding process is extremely attractive to the supplier with a medium risk threshold, how should the supplier's project manager budget for it?",
+    "question": "A company, which is conducting a critical bidding process, included a penalty clause in an agreement specifying that the selected supplier must pay a significant liquidated damages penalty in the event of non-performance. Given that this bidding process is extremely attractive to the supplier with a medium risk threshold, how should the supplier's project manager budget for it?",
     "options": [
       "A. Increase the quote to mitigate the risk and support the above clause.",
       "B. Advise management not to participate in the request for proposals (RFP) since it is a big risk.",
@@ -1369,7 +1369,7 @@
   },
   {
     "id": "sh_014_000_05",
-    "question": "PMBOK Guide Sixth Edition - PMI/PMI/9.4.2.6/page 342 [Item] A project manager is having difficulty managing stakeholders because the stakeholder register does not distinguish how aware of the project they need to be in order for the project to be successful. What should the project manager do?",
+    "question": "A project manager is having difficulty managing stakeholders because the stakeholder register does not distinguish how aware of the project they need to be in order for the project to be successful. What should the project manager do?",
     "options": [
       "A. Meet with the change control board (CCB) to assess the impact of identifying new stakeholders.",
       "B. Update the stakeholder communication plan.",
@@ -2629,7 +2629,7 @@
   },
   {
     "id": "sh_019_000_07",
-    "question": "PMBOK Guide Seventh Edition (2022) /// [4.6.3 PLANS] A project manager learns that the project team will miss a milestone because team member A has not completed the task requirements needed by team member B. When meeting with team member A, what should the project manager do?",
+    "question": "A project manager learns that the project team will miss a milestone because team member A has not completed the task requirements needed by team member B. When meeting with team member A, what should the project manager do?",
     "options": [
       "A. Direct team member A to turn over the responsibilities for completing the task requirements to team member B.",
       "B. Identify any obstacles to meeting the task requirements and determine if team member A needs help completing them.",
@@ -3205,7 +3205,7 @@
   },
   {
     "id": "sh_006_000_08",
-    "question": "PMBOK® Guide Seventh Edition (2022) PMI/PMI [A GUIDE TO THE PROJECT MANAGEMENT BODY OF KNOWLEDGE 2.1 STAKEHOLDER PERFORMANCE DOMAIN] A project manager identifies a risk during the implementation phase of a project which was not anticipated during planning. How would facilitating a brainstorming session allow the project manager to mitigate the risk while keeping the project on schedule?",
+    "question": "A project manager identifies a risk during the implementation phase of a project which was not anticipated during planning. How would facilitating a brainstorming session allow the project manager to mitigate the risk while keeping the project on schedule?",
     "options": [
       "A. Brainstorming would enable the project manager to apply qualitative data analysis techniques.",
       "B. Brainstorming with the project team can identify multiple ideas in a short amount of time.",

@@ -325,7 +325,7 @@
   },
   {
     "id": "sh_011_000_01",
-    "question": "PMBOK Guide Seventh Edition (2022) /// [2.4.7 CHANGES] A project manager is part of a project management strategy focus group that is brainstorming the ways projects will be used to add business value to the organization in the upcoming quarter. Which statement(s) describes broadly how organizations use projects to add business value?",
+    "question": "A project manager is part of a project management strategy focus group that is brainstorming the ways projects will be used to add business value to the organization in the upcoming quarter. Which statement(s) describes broadly how organizations use projects to add business value?",
     "options": [
       "A. Projects are used to develop new products, processes, or services.",
       "B. Projects are used to modify existing products, processes, or services.",
@@ -883,7 +883,7 @@
   },
   {
     "id": "sh_002_000_13",
-    "question": "PMBOK Guide Seventh Edition (2022) /// [2.5.7 MONITORING NEW WORK AND CHANGES] Which is the process that the project manager performs to prioritize individual project risks for further analysis or action by assessing their probability of occurrence and impact, as well as other characteristics?",
+    "question": "Which is the process that the project manager performs to prioritize individual project risks for further analysis or action by assessing their probability of occurrence and impact, as well as other characteristics?",
     "options": [
       "A. Quantitative Risk Analysis",
       "B. Qualitative Risk Analysis",
@@ -1009,7 +1009,7 @@
   },
   {
     "id": "sh_020_000_03",
-    "question": "PMBOK Guide Seventh Edition (2022) /// [2.5.1 PROJECT PROCESSES] [2.5.8 LEARNING THROUGHOUT THE PROJECT] A vendor submits a high-level project schedule for a three-year project, including a detailed design-phase schedule. What does this describe?",
+    "question": "A vendor submits a high-level project schedule for a three-year project, including a detailed design-phase schedule. What does this describe?",
     "options": [
       "A. Rolling wave planning",
       "B. Decomposition",
@@ -2089,7 +2089,7 @@
   },
   {
     "id": "sh_005_000_11",
-    "question": "PMBOK Guide Seventh Edition (2022) /// [2.6.2 DELIVERABLES] Midway through a project, a project manager learns that the project management planning application is failing to record updates to the project. What should the project manager do in this situation?",
+    "question": "Midway through a project, a project manager learns that the project management planning application is failing to record updates to the project. What should the project manager do in this situation?",
     "options": [
       "A. Task a project team member to manually update the project plan from now on.",
       "B. Inform the project management office (PMO) and have them resolve this issue.",
@@ -2251,7 +2251,7 @@
   },
   {
     "id": "sh_017_000_13",
-    "question": "PMBOK Guide Seventh Edition (2022) /// [2.2.4 LEADERSHIP SKILLS] [4.2.7.1 Conflict Model] What is the reason for relationship network change?",
+    "question": "What is the reason for relationship network change?",
     "options": [
       "A. Roles and titles are formally assigned",
       "B. Evolves over time as people gain and lose influence",
@@ -2845,7 +2845,7 @@
   },
   {
     "id": "sh_020_000_14",
-    "question": "PMBOK Guide Seventh Edition (2022) /// [4.6.2 LOGS AND REGISTERS] [2.8 UNCERTAINTY PERFORMANCE DOMAIN] A sponsor proposes a project scope change that is popular with the project team and key stakeholders. What should the project manager do?",
+    "question": "A sponsor proposes a project scope change that is popular with the project team and key stakeholders. What should the project manager do?",
     "options": [
       "A. Follow the change management process.",
       "B. Notify stakeholders of the change.",
@@ -3187,7 +3187,7 @@
   },
   {
     "id": "sh_005_000_08",
-    "question": "PMBOK Guide Seventh Edition (2022) /// [2.1.1 STAKEHOLDER ENGAGEMENT] Which two decision-making styles are quickest and would be used when there is little time to make a decision? (check two choices)",
+    "question": "Which two decision-making styles are quickest and would be used when there is little time to make a decision? (check two choices)",
     "options": [
       "A. Command Style",
       "B. Consultative Style",
