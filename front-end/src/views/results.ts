@@ -196,7 +196,7 @@ function renderNextSteps(
       <section class="stack">
         <h2>Next steps</h2>
         <p class="muted" style="font-size:14px;margin:0;">
-          Strong result — try a harder difficulty next time.
+          All domains above the pass threshold. Try the Hard or Expert preset to keep pushing.
         </p>
       </section>
     `;
@@ -217,7 +217,7 @@ function renderNextSteps(
             return `
               <div class="row">
                 <span class="badge badge-danger mono" style="min-width:42px;justify-content:center;">${p}%</span>
-                <span>Drill <strong>${DOMAIN_NAMES[d]}</strong> — below pass threshold</span>
+                <span><strong>${DOMAIN_NAMES[d]}</strong> is at ${p}% — focus here before your exam</span>
               </div>
             `;
           })
