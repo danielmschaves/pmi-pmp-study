@@ -102,6 +102,8 @@ export function renderResults(root: HTMLElement): void {
         </div>
       </section>
 
+      ${renderNextSteps(byDomain, missed.length)}
+
       ${
         topTopics.length
           ? `
@@ -179,6 +181,50 @@ export function renderResults(root: HTMLElement): void {
       });
     }
   }
+}
+
+function renderNextSteps(
+  domainData: Record<Domain, { c: number; t: number }>,
+  missedCount: number,
+): string {
+  const weakDomains = ([1, 2, 3] as Domain[]).filter(
+    (d) => domainData[d].t > 0 && domainData[d].c / domainData[d].t < 0.7,
+  );
+
+  if (weakDomains.length === 0 && missedCount === 0) {
+    return `
+      <section class="stack">
+        <h2>Next steps</h2>
+        <p class="muted" style="font-size:14px;margin:0;">
+          Strong result — try a harder difficulty next time.
+        </p>
+      </section>
+    `;
+  }
+
+  if (weakDomains.length === 0) {
+    return "";
+  }
+
+  return `
+    <section class="stack">
+      <h2>Next steps</h2>
+      <div class="stack" style="gap:6px;">
+        ${weakDomains
+          .map((d) => {
+            const v = domainData[d];
+            const p = Math.round((v.c / v.t) * 100);
+            return `
+              <div class="row">
+                <span class="badge badge-danger mono" style="min-width:42px;justify-content:center;">${p}%</span>
+                <span>Drill <strong>${DOMAIN_NAMES[d]}</strong> — below pass threshold</span>
+              </div>
+            `;
+          })
+          .join("")}
+      </div>
+    </section>
+  `;
 }
 
 function renderReviewList(answers: AnswerRecord[]): void {

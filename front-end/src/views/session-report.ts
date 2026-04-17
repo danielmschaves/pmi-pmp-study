@@ -37,7 +37,7 @@ export function renderSessionReport(root: HTMLElement, sessionId: string | null)
   const overall = overallAccuracy(answers);
   const status = statusFromPct(overall.pct);
   const dom = byDomain(answers);
-  const con = byConcept(answers);
+  const con = byConcept(answers, 1);
   const elapsed = ((session.endedAt ?? Date.now()) - session.startedAt) / 1000;
 
   const state = { filter: "all" as Filter };
@@ -98,8 +98,8 @@ export function renderSessionReport(root: HTMLElement, sessionId: string | null)
           </div>
         </div>
         ${
-          con.all.size > 0 && con.strong.length === 0 && con.weak.length === 0
-            ? `<p class="muted" style="font-size:13px;">Not enough repeat concepts to classify — run another quiz to fill this in.</p>`
+          con.all.size === 0
+            ? `<p class="muted" style="font-size:13px;">No concept data yet — complete a quiz to fill this in.</p>`
             : ""
         }
       </section>
