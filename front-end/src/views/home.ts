@@ -13,7 +13,7 @@ export async function renderHome(root: HTMLElement): Promise<void> {
       <header class="row">
         <div class="stack" style="gap:4px;flex:1;">
           <h1>PMP Study</h1>
-          <p class="muted" style="margin:0;">Run a study session — quizzes and configuration live inside.</p>
+          <p class="muted" style="margin:0;">Practice PMP questions, track your weak spots, and build exam confidence.</p>
         </div>
         <button class="btn btn-ghost" id="open-settings" aria-label="Settings">Settings</button>
       </header>
@@ -64,7 +64,7 @@ function renderSessionBanner(): void {
           <span class="mono dim">${active.quizzes.length} quiz${active.quizzes.length === 1 ? "" : "zes"}</span>
         </div>
         <div class="muted" style="font-size:14px;">
-          Continue where you left off or end the session to see the report.
+          Pick up where you left off, or end the session to review your full report.
         </div>
       </button>
     `;
@@ -90,7 +90,7 @@ function renderSessionBanner(): void {
         ${lastPct != null ? `<span class="mono dim">last: ${lastPct}%</span>` : ""}
       </div>
       <div class="muted" style="font-size:14px;">
-        Pick presets and filters inside the session — one panel, no extra screens.
+        Set your domain focus, question count, and format — all in one place.
       </div>
     </button>
   `;

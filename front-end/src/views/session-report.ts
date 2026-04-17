@@ -26,7 +26,7 @@ export function renderSessionReport(root: HTMLElement, sessionId: string | null)
   if (answers.length === 0) {
     root.innerHTML = `
       <main class="app stack">
-        <h1>No answers in this session</h1>
+        <h1>No answers recorded yet</h1>
         <button class="btn btn-secondary btn-block" id="home">Back home</button>
       </main>
     `;
@@ -89,17 +89,17 @@ export function renderSessionReport(root: HTMLElement, sessionId: string | null)
         <h2>Concept mastery</h2>
         <div class="concept-grid">
           <div class="stack" style="gap:6px;">
-            <h3 class="muted" style="font-size:13px;margin:0;">Strong</h3>
+            <h3 class="muted" style="font-size:13px;margin:0;">Strong areas</h3>
             ${renderConceptList(con.strong, "accent")}
           </div>
           <div class="stack" style="gap:6px;">
-            <h3 class="muted" style="font-size:13px;margin:0;">Focus here</h3>
+            <h3 class="muted" style="font-size:13px;margin:0;">Needs more practice</h3>
             ${renderConceptList(con.weak, "danger")}
           </div>
         </div>
         ${
           con.all.size === 0
-            ? `<p class="muted" style="font-size:13px;">No concept data yet — complete a quiz to fill this in.</p>`
+            ? `<p class="muted" style="font-size:13px;">Complete a quiz to see concept-level insights here.</p>`
             : ""
         }
       </section>
@@ -192,7 +192,7 @@ function renderReviewList(answers: AnswerRecord[], state: { filter: Filter }): v
   });
 
   if (filtered.length === 0) {
-    list.innerHTML = `<p class="muted">No questions match this filter.</p>`;
+    list.innerHTML = `<p class="muted">No questions match this filter — try switching to All.</p>`;
     return;
   }
 

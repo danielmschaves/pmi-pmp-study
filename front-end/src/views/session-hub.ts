@@ -38,7 +38,7 @@ type Preset = {
 const PRESETS: Record<PresetId, Preset> = {
   mini: {
     label: "Mini",
-    blurb: "Timed · 15 min",
+    blurb: "10 questions · 15-min timer",
     defaultCount: 15,
     kind: "dynamic",
     profile: "standard",
@@ -49,7 +49,7 @@ const PRESETS: Record<PresetId, Preset> = {
   },
   practice: {
     label: "Practice",
-    blurb: "Easier mix",
+    blurb: "Easy–medium · explanations on",
     defaultCount: 25,
     kind: "dynamic",
     profile: "practice",
@@ -60,7 +60,7 @@ const PRESETS: Record<PresetId, Preset> = {
   },
   standard: {
     label: "Standard",
-    blurb: "Exam-like balance",
+    blurb: "Mixed difficulty · ECO-weighted",
     defaultCount: 50,
     kind: "dynamic",
     profile: "standard",
@@ -71,7 +71,7 @@ const PRESETS: Record<PresetId, Preset> = {
   },
   hard: {
     label: "Hard",
-    blurb: "Expert-heavy",
+    blurb: "Hard & expert questions only",
     defaultCount: 50,
     kind: "dynamic",
     profile: "hard",
@@ -82,7 +82,7 @@ const PRESETS: Record<PresetId, Preset> = {
   },
   full_exam: {
     label: "Full exam",
-    blurb: "180 Q · the real thing",
+    blurb: "180 questions · full exam conditions",
     defaultCount: 180,
     kind: "static",
     examId: "exam_standard",
@@ -135,7 +135,7 @@ export function renderSessionHub(root: HTMLElement): void {
               ${buildResumeText(dom!, strongest, weakest)}
               <a href="#" id="preview-report" style="margin-left:6px;">Preview report →</a>
             </p>`
-          : `<p class="muted" style="margin:0;font-size:13px;">No quizzes yet — configure one below to start tracking progress.</p>`
+          : `<p class="muted" style="margin:0;font-size:13px;">No quizzes yet. Start one below to begin tracking your readiness.</p>`
       }
 
       <section class="stack">
@@ -188,7 +188,7 @@ export function renderSessionHub(root: HTMLElement): void {
 
   const list = document.getElementById("quiz-list")!;
   if (active.quizzes.length === 0) {
-    list.innerHTML = `<p class="muted">No quizzes completed yet.</p>`;
+    list.innerHTML = `<p class="muted">No quizzes completed yet — results will appear here.</p>`;
   } else {
     for (const q of active.quizzes) {
       const pct = q.score.answered ? (q.score.correct / q.score.answered) * 100 : 0;
@@ -354,7 +354,7 @@ export function renderSessionHub(root: HTMLElement): void {
   });
 
   document.getElementById("abandon")!.addEventListener("click", () => {
-    if (confirm("Abandon this session? Completed quizzes will be archived but no report will be generated.")) {
+    if (confirm("Abandon this session? Completed quizzes are saved, but no session report will be generated.")) {
       endActiveStudySession();
       location.hash = "#/";
     }
@@ -418,7 +418,7 @@ async function launchQuiz(state: LaunchState): Promise<void> {
   }
 
   if (questions.length === 0) {
-    alert("No new questions match these filters — try widening them or end the session.");
+    alert("No unseen questions match these filters. Try widening them or end the session.");
     return;
   }
 
