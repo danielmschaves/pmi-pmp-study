@@ -1,5 +1,5 @@
 import { supabase } from "./supabase";
-import { pushProgress, pushPreferences } from "./sync";
+import { deleteProgress, pushPreferences, pushProgress } from "./sync";
 
 const KEY = "pmp.v1";
 
@@ -49,6 +49,11 @@ export function resetHistory(): void {
   const p = read();
   p.seen = {};
   write(p);
+  void supabase.auth.getSession().then(({ data }) => {
+    if (data.session) {
+      void deleteProgress(data.session.user.id);
+    }
+  });
 }
 
 export function getExplanationsDefault(): boolean {

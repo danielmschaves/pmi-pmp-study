@@ -1,19 +1,21 @@
 import { describe, it, expect, vi, beforeEach } from "vitest";
 
-const { mockGetSession, mockUpsert, mockUpdate, mockEq } = vi.hoisted(() => ({
+const { mockGetSession, mockUpsert, mockUpdate, mockEq, mockDelete } = vi.hoisted(() => ({
   mockGetSession: vi.fn().mockResolvedValue({ data: { session: null } }),
   mockUpsert:     vi.fn().mockResolvedValue({ data: null, error: null }),
   mockUpdate:     vi.fn(),
-  mockEq:         vi.fn(),
+  mockEq:         vi.fn().mockResolvedValue({ data: null, error: null }),
+  mockDelete:     vi.fn().mockReturnThis(),
 }));
 
 vi.mock("../src/supabase", () => ({
   supabase: {
     auth: { getSession: mockGetSession },
     from: vi.fn().mockReturnValue({
-      upsert: mockUpsert,
-      update: mockUpdate,
-      eq: mockEq,
+      upsert:  mockUpsert,
+      update:  mockUpdate,
+      delete:  mockDelete,
+      eq:      mockEq,
     }),
   },
 }));
@@ -85,6 +87,21 @@ describe("resetHistory", () => {
     setExplanationsDefault(false);
     resetHistory();
     expect(getExplanationsDefault()).toBe(false);
+  });
+
+  it("fires deleteProgress when a session exists", async () => {
+    const fakeSession = { user: { id: "user-reset" } };
+    mockGetSession.mockResolvedValue({ data: { session: fakeSession } });
+
+    resetHistory();
+    await vi.waitFor(() => expect(mockDelete).toHaveBeenCalled());
+  });
+
+  it("does not call deleteProgress when not authenticated", async () => {
+    mockGetSession.mockResolvedValue({ data: { session: null } });
+    resetHistory();
+    await new Promise((r) => setTimeout(r, 10));
+    expect(mockDelete).not.toHaveBeenCalled();
   });
 });
 

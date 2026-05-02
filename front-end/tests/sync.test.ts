@@ -96,8 +96,9 @@ describe("mergeSessionHistories", () => {
 vi.mock("../src/supabase", () => {
   const upsert = vi.fn().mockRejectedValue(new Error("network error"));
   const update = vi.fn().mockReturnThis();
-  const eq     = vi.fn().mockReturnValue({ update });
-  const chain  = { upsert, update, eq };
+  const del    = vi.fn().mockRejectedValue(new Error("network error"));
+  const eq     = vi.fn().mockReturnValue({ update, delete: del });
+  const chain  = { upsert, update, delete: del, eq };
   return { supabase: { from: vi.fn().mockReturnValue(chain) } };
 });
 
@@ -124,5 +125,12 @@ describe("pushPreferences — error resilience", () => {
     await expect(
       pushPreferences("uid", { explanationsByDefault: false }),
     ).resolves.toBeUndefined();
+  });
+});
+
+describe("deleteProgress — error resilience", () => {
+  it("does not throw when supabase rejects", async () => {
+    const { deleteProgress } = await import("../src/sync");
+    await expect(deleteProgress("uid")).resolves.toBeUndefined();
   });
 });

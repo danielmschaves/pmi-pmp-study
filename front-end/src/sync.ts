@@ -205,6 +205,14 @@ export async function pushPreferences(
   }
 }
 
+export async function deleteProgress(userId: string): Promise<void> {
+  try {
+    await supabase.from("user_progress").delete().eq("user_id", userId);
+  } catch {
+    // intentionally silent — caller does not await this
+  }
+}
+
 // ── localStorage helpers (shared key with state.ts) ───────────────────────────
 
 function readPersisted(): Persisted {
