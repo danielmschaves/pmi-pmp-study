@@ -1,5 +1,7 @@
 import type { QuizAttempt, SessionState, StudySession } from "./types";
 import { read, remove, uuid, write } from "./lib/storage";
+import { supabase } from "./supabase";
+import { pushStudySession } from "./sync";
 
 // ─── In-memory per-quiz session (used by play.ts) ───────────────────────────
 // Ephemeral. Each quiz renders from this object. Completed quizzes get
@@ -84,6 +86,13 @@ export function endActiveStudySession(): StudySession | null {
   write(HISTORY_KEY, history);
 
   remove(ACTIVE_KEY);
+
+  void supabase.auth.getSession().then(({ data }) => {
+    if (data.session) {
+      void pushStudySession(data.session.user.id, active);
+    }
+  });
+
   return active;
 }
 
