@@ -1,8 +1,8 @@
 # PRD — PMP Quiz (Web)
 
-**Status:** Draft · **Owner:** danielmschaves · **Date:** 2026-04-14
-**Scope:** Static web frontend that plays the existing PMP question bank. Modern,
-minimal, mostly monochrome. No ingestion, no backend, no auth. Deploys to Vercel.
+**Status:** Implemented · **Owner:** danielmschaves · **Updated:** 2026-05-08
+**Scope:** Full-stack web SPA — Vite/TypeScript frontend, Supabase backend (PostgreSQL + Auth).
+Deploys to Vercel.
 
 ---
 
@@ -10,236 +10,160 @@ minimal, mostly monochrome. No ingestion, no backend, no auth. Deploys to Vercel
 
 Replace the Docker + CLI friction (`quiz_runner.py`) with a browser app that keeps
 **every feature** of the Python runner but replaces the terminal look with a clean,
-modern interface. Study on any device, share by URL, no server.
+modern interface. Study on any device, progress syncs across devices automatically.
 
-**Keep from Python:** profile-based sampling (practice / standard / hard), static exam
+**Delivered from Python:** profile-based sampling (practice / standard / hard), static exam
 files, question-count picker, domain filter, difficulty filter, unseen-first history,
 skip, explanations on/off, live progress + ETA + running score, results with pass
 thresholds (70% / 61%) and a "topics to review" list.
 
-**Drop:** terminal aesthetic (ANSI colors, ASCII bars, monospace everywhere), Docker
-requirement, CLI arg parsing.
-
-**Out of scope:** ingestion pipeline, Claude API, accounts, cloud sync, SRS scheduling.
-
----
-
-## 2. Primary flow
-
-1. **Home** — choose an exam type, then configure the session.
-2. **Configure** — pick count, domain filter, difficulty filter, explanations on/off.
-3. **Play** — answer, optionally skip, see explanation, continue.
-4. **Results** — score, pass banner, time, topics to review, retry missed or start over.
-
-All four are routes under a single SPA. No loading screens beyond the first paint — all
-data is bundled.
+**Added beyond Python:** gated landing page, email/password auth, cross-device sync via
+Supabase, study sessions (group multiple quizzes), exam mode, timer (countdown or
+stopwatch), demo mode (15 free questions without an account).
 
 ---
 
-## 3. Feature parity with `quiz_runner.py`
+## 2. Auth model
 
-| CLI feature | Web equivalent |
-|---|---|
-| `--exam practice / standard / hard` | "Dynamic exam" cards on home with difficulty mix preview |
-| `--exam exam_practice.json` (static) | "Saved exams" section below the dynamic cards |
-| `--count N` | Number input + quick chips (10 / 25 / 50 / 90 / 180) |
-| `--domain 1\|2\|3` | Segmented control: All · People · Process · Business Env |
-| `--difficulty easy\|medium\|hard\|expert` | Segmented control |
-| `--no-explanation` | Toggle on setup screen |
-| `--seed N` | `?seed=` query param (power user, no UI) |
-| `--list` | Home screen itself |
-| `--reset-history` | Settings drawer → "Reset progress" (with confirm) |
-| Unseen-first sampling | Same algorithm in TS, backed by `localStorage` |
-| ECO-weighted + difficulty profile for ≥50 | Same algorithm in TS |
-| Running progress bar + ETA + score | Top bar during play |
-| Pass thresholds 70 / 61 | Same thresholds, colored status chip |
-| "Topics to review" ranked list | Results screen section |
-| History persisted after every answer | `localStorage.setItem` after each answer |
+Login is required for all quiz routes. Supabase Auth handles email/password sign-up with
+mandatory email confirmation. On login, the app pulls remote state and merges it into
+localStorage. All quiz data is associated with `auth.uid()` via Row Level Security.
+
+Public routes: `#/landing`, `#/login`, `#/signup`, `#/demo`.
+
+Demo mode: a single 15-question quiz that works without an account. Gated so it clears
+immediately after sign-in (config.demo flag on the quiz session).
+
+---
+
+## 3. Primary flow
+
+1. **Landing** — hero page with "Get Started" and "Log In" CTAs, plus a "Try it free" demo link.
+2. **Auth** — single view that renders in login or signup mode based on the route.
+3. **Home** — stat strip (total / unseen / % covered), session banner (resume or start new).
+4. **Session hub** — configure a study session: domain focus, question count, format.
+5. **Play** — answer, optionally skip, see explanation, continue.
+6. **Results** — score, pass banner, time, per-domain accuracy, topics to review.
+7. **Session report** — full history of a completed study session across all its quizzes.
+
+All routes live under a single hash-routed SPA. The auth guard in `main.ts` redirects
+unauthenticated users to `#/landing` before any quiz route renders.
 
 ---
 
 ## 4. Data
 
-Bundled as static JSON inside `front-end/public/data/`:
+### Backend (source of truth when logged in)
 
-- `question_bank.json` — master bank (required for dynamic profiles)
-- `exam_practice.json`, `exam_standard.json`, `exam_hard.json`,
-  `exam_domain1_people.json`, `exam_domain2_process.json`,
-  `exam_domain3_business_environment.json`
-- `index.json` — manifest written by the build script
+Questions live in a Supabase `questions` table. `src/lib/data.ts` fetches them with
+1 000-row pagination so the full bank is always available regardless of table size.
 
-Shape unchanged from Python:
+Other Supabase tables:
 
-```ts
-type Question = {
-  id: string; question: string; options: string[];
-  answer: "A" | "B" | "C" | "D"; explanation: string;
-  difficulty: "easy" | "medium" | "hard" | "expert";
-  topic: string; domain: 1 | 2 | 3;
-  source_id: string; chunk_index: number; video_segment: string;
-};
-```
+| Table | Purpose |
+|-------|---------|
+| `profiles` | Display name, preferences (explanationsByDefault) |
+| `user_progress` | One row per (user, question) — replaces `seen{}` in localStorage |
+| `study_sessions` | Groups multiple quiz attempts |
+| `quiz_attempts` | Question IDs + answer records (answers stored as JSONB) |
+| `subscriptions` | Stripe placeholder — write via service_role only |
 
-**Build step:** `front-end/scripts/sync-data.mjs` copies the JSON files from
-`../data/processed/question_bank.json` and `../study/quizzes/exam_*.json` into
-`front-end/public/data/` and emits `index.json`. Runs before `vite build`. The Python
-pipeline stays the source of truth and is not touched.
+All tables have Row Level Security: every policy restricts to `auth.uid() = user_id`.
 
-**Persistence:** `localStorage` key `pmp.v1` — `{ seen: { [qid]: isoTimestamp }, lastSession: {...} }`.
+### Local cache (fast path, works offline)
+
+`localStorage` key `pmp.v1` — `{ seen: Record<qId, isoTimestamp>, explanationsByDefault: boolean }`.
+Active and completed study sessions live in `pmp.studySession.active` and
+`pmp.studySession.history` (capped at 50).
+
+### Sync strategy
+
+- Writes go to localStorage first (zero latency).
+- Fire-and-forget push to Supabase follows each write (`markSeen`, `endActiveStudySession`,
+  `setExplanationsDefault`).
+- On login: `pullAndMerge(userId)` fetches remote state and merges it into localStorage
+  (union of seen IDs, earliest `seen_at` wins; remote sessions prepended to history).
+- All push functions swallow errors silently so they never block the UI.
 
 ---
 
-## 5. Stack (kept minimal)
+## 5. Stack
 
-| Layer | Choice | Why |
-|---|---|---|
-| Framework | **Vite + vanilla TypeScript** | Zero runtime deps, smallest footprint. Vercel auto-detects. |
-| Styling | Single `styles.css` with CSS custom properties | No Tailwind, no CSS-in-JS. A design system in ~150 lines. |
-| Fonts | **Inter Tight** (display/body) + **IBM Plex Mono** (numbers, badges) — self-hosted woff2 | Modern, professional, distinct enough to avoid generic Inter. |
-| Routing | Hash routing (`#/play`) | No Vercel rewrites required. |
-| State | One module + `localStorage` | No Redux, no query lib. |
-| Icons | 5–6 inline SVGs in a `lib/icons.ts` | No icon library. |
-| Deploy | Vercel static | `vercel.json` with `outputDirectory: dist`. |
+| Layer | Choice |
+|-------|--------|
+| Framework | Vite + vanilla TypeScript |
+| Styling | Single `styles.css` with CSS custom properties |
+| Fonts | Inter Tight (display/body) + IBM Plex Mono (numbers) — self-hosted woff2 |
+| Routing | Hash routing (`#/play`, `#/login`, etc.) |
+| State | `state.ts` + `session.ts` + localStorage |
+| Backend | Supabase (PostgreSQL + Auth) |
+| Client | `@supabase/supabase-js` v2 |
+| Deploy | Vercel static |
 
-Runtime dependencies: **zero**. Dev: `vite`, `typescript`.
+Runtime dependencies: `@supabase/supabase-js`. Dev: `vite`, `typescript`, `vitest`.
 
 ---
 
 ## 6. Design
 
-A basic quiz UI. Dark, modern, nothing clever.
+Dark, minimal, purposeful.
 
 - **Colors:** background `#0F0F10`, card `#18191C`, border `#2A2B30`, text `#F4F4F5`
-  (primary) / `#A1A1AA` (secondary). One accent `#4ADE80` (green) for correct +
-  progress, `#F87171` (red) for wrong. That's the whole palette.
-- **Type:** Inter for everything, one weight for body (400), one for emphasis (600).
-  System mono for score/ETA numerics so digits don't jitter. 16 px body, 20 px question.
-- **Layout:** centered column, 640 px max. 8-pt spacing scale. Cards with 12 px radius
-  and a 1 px border — no shadows, no gradients.
-- **Buttons:** solid green for primary, outlined for secondary, ghost for tertiary.
-  Same 44 px height everywhere.
-- **Options:** four stacked rows in a card. Letter tag on the left, text next to it.
-  Hover/press = lighter surface. Selected = green border. Correct post-lock = green
-  border + check. Wrong = red border + ×.
-- **Progress:** thin 2 px bar across the top during play, green fill.
-- **Motion:** 150 ms ease-out on hover and selection. Nothing else.
-- **Accessibility:** 4.5:1 contrast, visible focus rings, keyboard support, respects
-  `prefers-reduced-motion`.
+  (primary) / `#A1A1AA` (muted). Accent `oklch(70% 0.19 280)` (iris/indigo) for primary
+  actions. `#4ADE80` for correct, `#F87171` for wrong.
+- **Type:** Inter Tight for display headings, Inter for body, IBM Plex Mono for scores
+  and counters. 16 px body, 20 px question.
+- **Layout:** centered column, `app-shell` wrapper, `sticky-foot` for bottom action bars.
+  8-pt spacing scale. Cards with 12 px radius, 1 px border — no shadows, no gradients.
+- **Components:** `btn`, `chip`, `letter-glyph`, `dot-progress`, `stat-strip`, `toggle`.
+- **Accessibility:** 4.5:1 contrast, visible focus rings, keyboard support,
+  `prefers-reduced-motion` respected.
 
 ---
 
 ## 7. Screens
 
-### 7.1 Home — `#/`
+### Landing — `#/landing`
+Hero with value prop, "Get Started" → `#/signup`, "Log In" → `#/login`, and
+"Try a free demo" → `#/demo`.
 
-- Heading `PMP Study` + one-line subtitle
-- Stat strip (mono): `343 questions · 127 unseen · 63% covered` with a 2px progress line
-- **Dynamic exams** — three cards (Practice / Standard / Hard). Each shows the
-  difficulty mix as a single 4-segment bar (easy/medium/hard/expert widths proportional
-  to profile) plus copy like "180 questions · ECO-weighted"
-- **Saved exams** — compact list of static exam files, name + count
-- Settings icon top-right → drawer with "Reset progress", "Toggle explanations by
-  default", "Seed (advanced)"
+### Auth — `#/login` · `#/signup`
+Email + password fields, social placeholders (Google / Apple — not yet functional),
+loading state, error banner, "Forgot?" placeholder, link to switch between modes.
+On signup success: "Check your email" confirmation message.
+On login success: `pullAndMerge()` then redirect to `#/`.
 
-### 7.2 Configure — `#/setup/:examId`
+### Home — `#/`
+Stat strip (`N questions · N unseen · N% covered`), session banner (resume active
+session or start new), recent sessions list.
 
-A single form, not a wizard:
+### Session hub — `#/session`
+Configure a study session: domain, question count, exam mode toggle, explanations
+toggle. Displays active session progress; can end the session to view the report.
 
-- **Count** — number input 1–300 + quick chips (10, 25, 50, 90, 180). Default = exam's
-  native count (180 for dynamic, file length for static)
-- **Domain** — segmented: All · People · Process · Business Env
-- **Difficulty** — segmented: All · Easy · Medium · Hard · Expert
-- **Show explanations** — toggle, default on
-- Primary button `Start session` (full width, lime). Secondary `Back`.
-- Small note when ECO weighting will apply (count ≥ 50 and no filters).
+### Play — `#/play`
+Dot-progress bar, timer (countdown or stopwatch), question with four option buttons,
+letter-glyph indicators, explanation block (study mode), Skip + Next footer.
 
-### 7.3 Play — `#/play`
+### Results — `#/results`
+Score, pass/borderline/needs-work chip, per-domain accuracy bars, topics to review,
+"Retry missed" and "New session" actions.
 
-- **Top bar** (sticky): left = `Q 12 / 50` (mono), center = 2px progress line spanning
-  full width, right = score `9 · ETA 8m` (mono). Exit button (×) far right.
-- **Meta row**: outlined badges — domain name, difficulty, topic
-- **Question**: H2, plenty of breathing room above/below
-- **Options**: four rows. Each row = letter tag (mono) + text + trailing selectable
-  area. Hover = surface lift. Selected = left rail + stronger border. Locked correct =
-  lime rail + tiny check glyph. Locked wrong = red rail + tiny × glyph. The correct one
-  is always revealed post-lock.
-- **Explanation** (when shown): slides in below options in a muted surface block,
-  1.2× body line-height for readability. Includes video timestamp as a small mono
-  string at the bottom-right.
-- **Footer bar**: `Skip (S)` · `Lock (Enter)` · `Next (N)` — subtle, text buttons.
-
-### 7.4 Results — `#/results`
-
-- Big score (`82%` H1 weight 600), status chip next to it (`PASS` lime / `BORDERLINE`
-  amber / `NEEDS WORK` red)
-- Mono summary line: `41 / 50 correct · 38m 12s · avg 45s/q`
-- **Per-domain accuracy**: three thin horizontal bars, labeled, mono percentage on the
-  right. Black track, lime/red fill depending on ≥70%.
-- **Topics to review**: ranked list (topic name + tiny count bubble). Clicking a topic
-  starts a 10-question session filtered to that topic (stretch; v1 can be a no-op link).
-- Primary action `Retry missed` (creates an ad-hoc session from `wrong[]`). Secondary
-  `New session` (back to home).
+### Session report — `#/session-report/:id`
+Full history of a completed study session: total score, per-quiz breakdown, all
+questions with picked answer and correct answer.
 
 ---
 
 ## 7a. Mobile
 
-Primary use case is **phone in hand between meetings** — the design is mobile-first,
-not "responsive as an afterthought". Everything on desktop is a widened version of the
-mobile layout, never the reverse.
+Primary use case is phone in hand — design is mobile-first.
 
-**Breakpoints:** `≤640px` phone, `641–960px` tablet, `>960px` desktop. The centered
-column grows from 16px side padding (phone) → 32px (tablet) → 680px max column
-(desktop).
-
-**Touch targets:** every interactive element is ≥ 44×44 px (Apple HIG) and spaced at
-least 8 px apart. Option rows expand to full tap-height (~ 64 px) so the whole row is
-tappable, not just the letter tag.
-
-**Screen-specific adjustments:**
-
-- **Home:** dynamic exam cards stack vertically full-width. The stat strip wraps to two
-  lines on < 380 px and drops the percentage.
-- **Setup:** count chips wrap to two rows; domain/difficulty segmented controls become
-  **horizontally scrollable pill groups** with a subtle fade mask on the right edge.
-  The `Start session` button is full-width and anchored at the bottom with safe-area
-  padding.
-- **Play:** top bar drops the ETA on < 480 px (keeps `Q x/y` + progress line + exit).
-  Running score moves into the bottom footer bar on mobile. The explanation block
-  appears inline (no side-panel fantasy). Footer becomes a 3-button segmented control
-  (`Skip` · `Lock` · `Next`), full-width, sticky above the keyboard/safe-area.
-- **Results:** per-domain bars stack tight; "Retry missed" and "New session" become
-  stacked full-width buttons, primary on top.
-
-**Interaction model on touch:**
-
-- Tap an option to **select** (doesn't lock). Tap `Lock` in the footer — or tap the
-  selected option a second time — to commit. The confirm-before-lock prevents fat-
-  finger misfires that would be instant on keyboard.
-- Swipe left anywhere on the play screen = next question (post-lock only). Swipe right
-  = show/hide explanation. Both are extras; every swipe has a button equivalent.
-- `active:` states replace `hover:` — a 80 ms background dim on press.
-- `-webkit-tap-highlight-color: transparent` set globally; we draw our own press state.
-
-**Viewport & chrome:**
-
-- `<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">`
-- `env(safe-area-inset-*)` respected on sticky top/bottom bars (iPhone notch + home
-  indicator).
-- `theme-color` meta set to `#0E0E10` so iOS/Android status bar matches the app.
-- No horizontal scroll anywhere, ever (lint rule: no element allowed wider than 100vw).
-
-**Performance on mobile:**
-
-- Total JS budget: < 30 KB gzipped. Total CSS: < 10 KB.
-- Fonts subset to Latin basic + numbers; `font-display: swap`.
-- `question_bank.json` (~400 KB) lazy-loaded **only** when a dynamic profile is picked;
-  static exam files loaded on demand too. Home screen JSON is just the manifest.
-- Lighthouse mobile target: Performance ≥ 95, Accessibility = 100.
-
-**What mobile does NOT get:** the keybind cheatsheet (`?` overlay) is hidden on touch
-devices via `(pointer: coarse)`. Keyboard shortcuts still fire if an external keyboard
-is attached.
+- Touch targets ≥ 44×44 px everywhere.
+- Option rows expand to full tap-height.
+- Sticky footer with action buttons above safe-area.
+- `env(safe-area-inset-*)` respected on top/bottom bars.
+- `theme-color` meta matches app background.
 
 ---
 
@@ -251,34 +175,57 @@ front-end/
 ├── package.json
 ├── tsconfig.json
 ├── vite.config.ts
+├── vitest.config.ts
 ├── vercel.json
 ├── index.html
+├── .env.example
 ├── public/
-│   ├── fonts/           ← InterTight-*.woff2, IBMPlexMono-*.woff2
-│   └── data/            ← populated by sync-data.mjs
+│   └── fonts/           ← InterTight-*.woff2, IBMPlexMono-*.woff2
 ├── scripts/
-│   └── sync-data.mjs
+│   └── sync-data.mjs    ← copies exam JSON into public/data/ for CLI-compat fallback
+├── tests/
+│   ├── auth.test.ts
+│   ├── play.test.ts
+│   ├── render.test.ts
+│   ├── sampling.test.ts
+│   ├── session.test.ts
+│   ├── state.test.ts
+│   ├── sync.test.ts
+│   ├── supabase-connection.test.ts   ← integration, skipped without credentials
+│   ├── format.test.ts
+│   └── fixtures.ts
 └── src/
-    ├── main.ts          ← router + mount
-    ├── state.ts         ← session + localStorage (pmp.v1)
-    ├── sampling.ts      ← port of sample_questions() + sort_unseen_first()
-    ├── views/
-    │   ├── home.ts
-    │   ├── setup.ts
-    │   ├── play.ts
-    │   └── results.ts
-    ├── lib/
-    │   ├── keys.ts      ← keybind dispatcher
-    │   ├── icons.ts
-    │   └── format.ts    ← eta, percent, etc.
-    └── styles.css
+    ├── main.ts              ← router + async auth guard + onAuthChange listener
+    ├── supabase.ts          ← Supabase client singleton (fail-fast on missing env)
+    ├── auth.ts              ← signIn / signUp / signOut / getSession / onAuthChange
+    ├── sync.ts              ← pullAndMerge + pushProgress/StudySession/Preferences/deleteProgress
+    ├── state.ts             ← seen{} + explanationsByDefault (localStorage + sync hooks)
+    ├── session.ts           ← StudySession / QuizAttempt lifecycle + sync on end
+    ├── sampling.ts          ← ECO-weighted sampling, unseen-first, PRNG seed
+    ├── types.ts
+    └── views/
+    │   ├── landing.ts       ← public hero page
+    │   ├── auth.ts          ← login / signup form (shared component)
+    │   ├── home.ts          ← post-login home with stats + session banner
+    │   ├── setup.ts         ← quiz configurator
+    │   ├── play.ts          ← question player
+    │   ├── results.ts       ← quiz results
+    │   ├── session-hub.ts   ← study session dashboard
+    │   └── session-report.ts
+    └── lib/
+        ├── data.ts          ← paginated Supabase question bank loader + cache
+        ├── format.ts        ← ETA, time, percent formatters
+        ├── keys.ts          ← keyboard shortcut dispatcher
+        ├── analytics.ts
+        ├── prng.ts          ← mulberry32 PRNG for seed support
+        ├── sections.ts
+        ├── source_links.ts
+        └── storage.ts
 ```
 
 ---
 
 ## 9. Sampling logic (direct TS port of Python)
-
-Constants mirror `quiz_runner.py`:
 
 ```ts
 const PROFILES = {
@@ -290,90 +237,62 @@ const ECO = { 1: 0.42, 2: 0.50, 3: 0.08 };
 const FULL_EXAM_SIZE = 180;
 ```
 
-Behavior:
 - `count < 50` or any filter active → unseen-first random draw, take first N.
 - Otherwise → ECO-weighted domain buckets × difficulty fractions, then top-up.
 - `sort_unseen_first` matches Python: unseen shuffled, then seen sorted oldest-first.
-
-Seed support via `?seed=N` feeds a small mulberry32 PRNG so a given URL is reproducible.
-
----
-
-## 10. Non-goals / deferred
-
-- No PWA or offline manifest v1 (browser cache is enough).
-- No analytics, no telemetry.
-- No multi-device sync.
-- No question editing UI — Python pipeline remains the author.
-- No light theme. Dark only, by design.
+- Seed via `?seed=N` feeds a mulberry32 PRNG for reproducible question order.
 
 ---
 
-## 10a. Local dev (Docker)
+## 10. Environment variables
 
-The frontend has its own compose file scoped to `/front-end` so it doesn't collide
-with the Python `jupyter` service.
+```
+VITE_SUPABASE_URL=https://your-project.supabase.co
+VITE_SUPABASE_ANON_KEY=your-anon-key
+```
+
+Both must be set or the app throws on startup (`supabase.ts` fail-fast). The anon key is
+safe in the frontend — RLS enforces per-user data access. Never put the service role key
+in the frontend.
+
+---
+
+## 11. Local dev (Docker)
 
 ```bash
 cd front-end
-docker compose up --build          # first run installs deps, starts Vite on :5173
-docker compose up                  # subsequent runs
-docker compose down                # stop
+cp .env.example .env          # fill in Supabase credentials
+docker compose up --build     # first run: installs deps, starts Vite on :5173
+docker compose up             # subsequent runs
+docker compose down
 ```
 
-Open http://localhost:5173 — live reload works via bind mount + polling
+Open http://localhost:5173 — live reload via bind mount + polling
 (`CHOKIDAR_USEPOLLING=true`, needed on Windows/WSL).
 
-The compose file mounts `../data/processed` and `../study/quizzes` read-only into
-`/app/data-src`. The `npm run sync-data` script (run automatically before `dev` and
-`build` via `pre` hooks) copies `question_bank.json` + `exam_*.json` into
-`public/data/` and writes `index.json`. Result: the Python pipeline stays the source
-of truth, and the frontend always reads the latest bank on container start.
+**Tests:**
+```bash
+docker compose run --rm web npm test
+```
+110 unit tests via Vitest + jsdom. The Supabase integration test (`supabase-connection.test.ts`)
+is skipped automatically when credentials aren't configured.
 
-**Files added to `/front-end`:**
-- `Dockerfile.dev` — node:20-alpine + `npm install` + `vite --host 0.0.0.0`
-- `docker-compose.yml` — dev service on :5173 with bind mounts
-- `.dockerignore`, `.gitignore`
-- `package.json`, `tsconfig.json`, `vite.config.ts`, `vercel.json`
-- `index.html`, `src/main.ts`, `src/styles.css` — minimal scaffold
-- `scripts/sync-data.mjs` — copy bank + exams into `public/data/`
-
-**Build for production (local smoke test before Vercel):**
+**Production build (local smoke test):**
 ```bash
 docker compose run --rm web npm run build
 docker compose run --rm -p 4173:4173 web npm run preview
 ```
 
-**Deploy to Vercel:** connect the repo, set **Root Directory** to `front-end`. Vercel
-auto-detects Vite; `vercel.json` pins `buildCommand` and `outputDirectory`. The
-`prebuild` hook runs `sync-data.mjs` there too — Vercel's build env has the repo
-checked out so `../data/processed` and `../study/quizzes` resolve without the Docker
-mount.
+**Deploy to Vercel:** connect the repo, set Root Directory to `front-end`, add Supabase
+env vars in Project → Settings → Environment Variables.
 
 ---
 
-## 11. Milestones
+## 12. Non-goals / deferred
 
-1. **M1 — Scaffold (½ day):** Vite + TS, `vercel.json`, `sync-data.mjs`, home screen
-   renders manifest + bank stats from localStorage.
-2. **M2 — Configure + play loop (1 day):** setup screen, question renderer, keybinds,
-   lock/skip/next, localStorage updates per answer.
-3. **M3 — Sampling port (½ day):** TS port of `sample_questions` + unseen-first + ECO
-   weights, including unit sanity checks against the Python output on a fixed seed.
-4. **M4 — Results (½ day):** score, pass bands, per-domain bars, topics to review,
-   retry-missed.
-5. **M5 — Design polish (½ day):** fonts wired, spacing/typography pass, motion, focus
-   states, reduced-motion. The product should feel *designed* before shipping.
-6. **M6 — Deploy:** `vercel --prod` from `/front-end`.
-
----
-
-## 12. Open questions
-
-- **Bank size on Vercel:** `question_bank.json` is currently ~343 questions — well under
-  1 MB, fine to ship as a single asset. Revisit if the bank grows past ~2 MB.
-- **Topic-filtered retry** from the results screen: keep for v1 or defer? Recommendation:
-  defer — `Retry missed` from the wrong list covers 90% of the value.
-- **Video deep-links:** bank stores `video_segment` (timestamp range) but not the URL.
-  Show as plain mono text for v1; wire URLs in a later pass if `sources.yml` starts
-  shipping with the bank.
+- No PWA or offline manifest (browser cache is sufficient for now).
+- Google / Apple OAuth — placeholders exist in the auth view; implementation deferred.
+- Password reset — "Forgot?" shows "not yet available"; full flow deferred.
+- Stripe billing integration — `subscriptions` table exists but no checkout flow yet.
+- Light theme — dark only, by design.
+- Question editing UI — Python pipeline remains the author.
