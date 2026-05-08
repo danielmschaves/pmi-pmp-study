@@ -33,7 +33,7 @@ create table public.study_sessions (
   id         text primary key,
   user_id    uuid references auth.users(id) on delete cascade not null,
   started_at timestamptz not null,
-  ended_at   timestamptz,
+  ended_at   timestamptz check (ended_at is null or ended_at >= started_at),
   created_at timestamptz default now()
 );
 
@@ -51,13 +51,15 @@ create table public.quiz_attempts (
   session_id     text references public.study_sessions(id) on delete cascade,
   config         jsonb   not null,   -- SessionConfig
   question_ids   text[]  not null,   -- ordered question ids
-  answers        jsonb   not null,   -- [{picked, correct, ms}] parallel array
-  score_correct  int     not null,
-  score_answered int     not null,
-  score_total    int     not null,
+  answers        jsonb   not null check (jsonb_typeof(answers) = 'array'),   -- [{picked, correct, ms}] parallel array
+  score_correct  int     not null check (score_correct >= 0),
+  score_answered int     not null check (score_answered >= 0),
+  score_total    int     not null check (score_total >= 0),
   started_at     timestamptz not null,
-  finished_at    timestamptz not null,
-  created_at     timestamptz default now()
+  finished_at    timestamptz not null check (finished_at >= started_at),
+  created_at     timestamptz default now(),
+  check (score_correct <= score_answered and score_answered <= score_total),
+  check (coalesce(array_length(question_ids, 1), 0) = jsonb_array_length(answers))
 );
 
 alter table public.quiz_attempts enable row level security;

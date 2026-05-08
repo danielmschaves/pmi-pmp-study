@@ -64,7 +64,7 @@ export function renderAuth(root: HTMLElement, mode: "login" | "signup"): void {
           <div class="auth-field">
             <div style="display:flex;justify-content:space-between;align-items:baseline;margin-bottom:8px;">
               <label class="field-label" for="auth-password" style="margin-bottom:0;">Password</label>
-              ${!isSignup ? `<a class="dim" style="font-size:12px;text-decoration:underline;text-underline-offset:3px;" href="#">Forgot?</a>` : ""}
+              ${!isSignup ? `<a id="auth-forgot" class="dim" style="font-size:12px;text-decoration:underline;text-underline-offset:3px;" href="#">Forgot?</a>` : ""}
             </div>
             <input
               id="auth-password"
@@ -81,7 +81,7 @@ export function renderAuth(root: HTMLElement, mode: "login" | "signup"): void {
           <div id="auth-success" class="auth-success" hidden aria-live="polite"></div>
 
           <button class="btn btn-iris btn-block btn-lg" type="submit" id="auth-submit">
-            <span>${isSignup ? "Create account" : "Sign in"}</span>
+            <span id="auth-submit-label">${isSignup ? "Create account" : "Sign in"}</span>
             <span class="kbd">&crarr;</span>
           </button>
         </form>
@@ -95,18 +95,24 @@ export function renderAuth(root: HTMLElement, mode: "login" | "signup"): void {
     </div>
   `;
 
-  const form       = root.querySelector<HTMLFormElement>("#auth-form")!;
-  const emailInput = root.querySelector<HTMLInputElement>("#auth-email")!;
-  const pwInput    = root.querySelector<HTMLInputElement>("#auth-password")!;
-  const errorEl    = root.querySelector<HTMLElement>("#auth-error")!;
-  const successEl  = root.querySelector<HTMLElement>("#auth-success")!;
-  const submitBtn  = root.querySelector<HTMLButtonElement>("#auth-submit")!;
+  const form        = root.querySelector<HTMLFormElement>("#auth-form")!;
+  const emailInput  = root.querySelector<HTMLInputElement>("#auth-email")!;
+  const pwInput     = root.querySelector<HTMLInputElement>("#auth-password")!;
+  const errorEl     = root.querySelector<HTMLElement>("#auth-error")!;
+  const successEl   = root.querySelector<HTMLElement>("#auth-success")!;
+  const submitBtn   = root.querySelector<HTMLButtonElement>("#auth-submit")!;
+  const submitLabel = root.querySelector<HTMLElement>("#auth-submit-label")!;
 
   root.querySelector<HTMLButtonElement>("#btn-google")!.addEventListener("click", () => {
     setMessage(errorEl, "Google sign-in is not yet available. Use email/password below.");
   });
   root.querySelector<HTMLButtonElement>("#btn-apple")!.addEventListener("click", () => {
     setMessage(errorEl, "Apple sign-in is not yet available. Use email/password below.");
+  });
+
+  root.querySelector<HTMLAnchorElement>("#auth-forgot")?.addEventListener("click", (e) => {
+    e.preventDefault();
+    setMessage(errorEl, "Password reset is not yet available.");
   });
 
   form.addEventListener("submit", async (e) => {
@@ -117,7 +123,7 @@ export function renderAuth(root: HTMLElement, mode: "login" | "signup"): void {
     errorEl.hidden   = true;
     successEl.hidden = true;
     submitBtn.disabled    = true;
-    submitBtn.textContent = isSignup ? "Creating account…" : "Signing in…";
+    submitLabel.textContent = isSignup ? "Creating account…" : "Signing in…";
 
     try {
       if (isSignup) {
@@ -137,8 +143,8 @@ export function renderAuth(root: HTMLElement, mode: "login" | "signup"): void {
         }
       }
     } finally {
-      submitBtn.disabled    = false;
-      submitBtn.textContent = isSignup ? "Create account" : "Sign in";
+      submitBtn.disabled      = false;
+      submitLabel.textContent = isSignup ? "Create account" : "Sign in";
     }
   });
 }
