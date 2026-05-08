@@ -6,3 +6,4 @@ dist
 public/data/
 tsconfig.tsbuildinfo
 *.log
+design-system/

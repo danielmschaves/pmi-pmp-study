@@ -13,4 +13,6 @@ services:
       - ../ingestion/sources.yml:/app/data-src/sources.yml:ro   # source video registry
     environment:
       - CHOKIDAR_USEPOLLING=true   # file-watching reliability on Windows/WSL bind mounts
+      - VITE_SUPABASE_URL=${VITE_SUPABASE_URL:-}
+      - VITE_SUPABASE_ANON_KEY=${VITE_SUPABASE_ANON_KEY:-}
     restart: unless-stopped

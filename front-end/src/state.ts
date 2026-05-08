@@ -1,3 +1,6 @@
+import { supabase } from "./supabase";
+import { deleteProgress, pushPreferences, pushProgress } from "./sync";
+
 const KEY = "pmp.v1";
 
 type Persisted = {
@@ -35,12 +38,22 @@ export function markSeen(id: string): void {
   const p = read();
   p.seen[id] = new Date().toISOString();
   write(p);
+  void supabase.auth.getSession().then(({ data }) => {
+    if (data.session) {
+      void pushProgress(data.session.user.id, id, p.seen[id]);
+    }
+  }).catch(() => {});
 }
 
 export function resetHistory(): void {
   const p = read();
   p.seen = {};
   write(p);
+  void supabase.auth.getSession().then(({ data }) => {
+    if (data.session) {
+      void deleteProgress(data.session.user.id);
+    }
+  }).catch(() => {});
 }
 
 export function getExplanationsDefault(): boolean {
@@ -51,4 +64,9 @@ export function setExplanationsDefault(v: boolean): void {
   const p = read();
   p.explanationsByDefault = v;
   write(p);
+  void supabase.auth.getSession().then(({ data }) => {
+    if (data.session) {
+      void pushPreferences(data.session.user.id, { explanationsByDefault: v });
+    }
+  }).catch(() => {});
 }

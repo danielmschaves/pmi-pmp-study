@@ -7,15 +7,27 @@ import {
 } from "../session";
 import type { StudySession } from "../types";
 
+const LOGO_SVG = `<svg width="24" height="24" viewBox="0 0 32 32" fill="none">
+  <rect x="0.5" y="0.5" width="31" height="31" rx="9.5" stroke="rgba(255,255,255,0.16)"/>
+  <path d="M9 22V10h6.5a4 4 0 0 1 0 8H12" stroke="oklch(70% 0.19 280)" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round"/>
+  <circle cx="22.5" cy="21.5" r="1.6" fill="oklch(70% 0.19 280)"/>
+</svg>`;
+
 export async function renderHome(root: HTMLElement): Promise<void> {
   root.innerHTML = `
-    <main class="app stack">
-      <header class="row">
-        <div class="stack" style="gap:4px;flex:1;">
-          <h1>PMP Study</h1>
-          <p class="muted" style="margin:0;">Practice PMP questions, track your weak spots, and build exam confidence.</p>
+    <main class="app-shell stack">
+      <header>
+        <div class="row home-logo-row" style="margin-bottom:var(--s-2);">
+          <div style="display:inline-flex;align-items:center;gap:10px;">
+            ${LOGO_SVG}
+            <span style="font-family:var(--f-display);font-size:20px;letter-spacing:-0.01em;line-height:1;">Pacing</span>
+          </div>
+          <span class="spacer"></span>
+          <button class="btn btn-quiet" id="open-settings" aria-label="Settings" style="font-size:var(--t-sm);">Settings</button>
         </div>
-        <button class="btn btn-ghost" id="open-settings" aria-label="Settings">Settings</button>
+        <div class="eyebrow" style="margin-bottom:var(--s-3);">PMP Exam prep</div>
+        <h1 style="margin:0 0 var(--s-2);">Good to see you.</h1>
+        <p class="muted" style="margin:0;font-size:var(--t-sm);">Practice questions, track your weak spots, and build exam confidence.</p>
       </header>
 
       <section id="stats" class="stat-strip">Loading…</section>
@@ -30,6 +42,8 @@ export async function renderHome(root: HTMLElement): Promise<void> {
   `;
 
   document.getElementById("open-settings")!.addEventListener("click", openSettings);
+  document.removeEventListener("app:open-settings", openSettings);
+  document.addEventListener("app:open-settings", openSettings);
 
   renderSessionBanner();
   renderRecent();
@@ -57,7 +71,7 @@ function renderSessionBanner(): void {
 
   if (active) {
     el.innerHTML = `
-      <button class="card-button stack" id="resume-session" style="gap:6px;border-color:var(--accent);background:var(--accent-dim);">
+      <button class="card-button mini-exam stack" id="resume-session" style="gap:6px;">
         <div class="row">
           <strong>Resume study session</strong>
           <span class="spacer"></span>
@@ -147,7 +161,7 @@ function openSettings(): void {
     </label>
     <div class="divider"></div>
     <button class="btn btn-danger btn-block" id="reset-progress">Reset progress</button>
-    <button class="btn btn-secondary btn-block" id="close-settings">Close</button>
+    <button class="btn btn-ghost btn-block" id="close-settings">Close</button>
   `;
 
   const close = (): void => {

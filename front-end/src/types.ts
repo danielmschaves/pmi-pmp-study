@@ -45,6 +45,7 @@ export type SessionConfig = {
   examMode: boolean;            // hide feedback/explanations until results
   timeLimitSec: number | null;  // null = no countdown, just elapsed clock
   label?: string;               // display label, e.g. "Mini Exam"
+  demo?: boolean;               // guest demo session — not saved, results locked
 };
 
 export type AnswerRecord = {

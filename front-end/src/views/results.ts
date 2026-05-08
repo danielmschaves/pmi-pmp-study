@@ -16,7 +16,12 @@ const appended = new Set<string>();
 export function renderResults(root: HTMLElement): void {
   const sess = getSession();
   if (!sess || sess.answers.length === 0) {
-    location.hash = "#/";
+    location.hash = sess?.config.demo ? "#/landing" : "#/";
+    return;
+  }
+
+  if (sess.config.demo) {
+    renderDemoResults(root, sess);
     return;
   }
 
@@ -39,12 +44,11 @@ export function renderResults(root: HTMLElement): void {
 
   const status =
     pct >= 70
-      ? { label: "Pass", cls: "badge-accent" }
+      ? { label: "Pass", cls: "chip-iris" }
       : pct >= 61
-        ? { label: "Borderline", cls: "badge-warning" }
-        : { label: "Needs work", cls: "badge-danger" };
+        ? { label: "Borderline", cls: "chip-warn" }
+        : { label: "Needs work", cls: "chip-bad" };
 
-  // Per-domain accuracy
   const byDomain: Record<Domain, { c: number; t: number }> = {
     1: { c: 0, t: 0 },
     2: { c: 0, t: 0 },
@@ -55,7 +59,6 @@ export function renderResults(root: HTMLElement): void {
     if (a.correct) byDomain[a.q.domain].c += 1;
   }
 
-  // Topics to review
   const missed = sess.answers.filter((a) => !a.correct);
   const topicCounts = new Map<string, number>();
   for (const a of missed) {
@@ -67,34 +70,43 @@ export function renderResults(root: HTMLElement): void {
     .slice(0, 10);
 
   root.innerHTML = `
-    <main class="app stack">
-      <header class="row">
-        <div class="stack" style="gap:4px;">
-          <p class="muted" style="margin:0;font-size:13px;">${inSession ? "Quiz results" : "Results"}</p>
-          <div class="row" style="gap:16px;align-items:flex-end;">
-            <span class="score-big mono">${pct.toFixed(0)}%</span>
-            <span class="badge ${status.cls}" style="font-size:12px;">${status.label}</span>
-          </div>
+    <main class="app-shell stack">
+      <div class="eyebrow" style="margin-bottom:var(--s-1);">${inSession ? "Quiz results" : "Results"}</div>
+      <header style="margin-bottom:var(--s-2);">
+        <div class="row" style="align-items:flex-end;gap:14px;">
+          <span class="f-display" style="font-size:88px;line-height:0.9;letter-spacing:-0.03em;">
+            ${pct.toFixed(0)}<span style="font-size:32px;color:var(--paper-3);">%</span>
+          </span>
+          <span class="chip ${status.cls}">${status.label}</span>
+        </div>
+        <div class="row" style="flex-wrap:wrap;gap:16px;margin-top:14px;font-family:var(--f-mono);font-size:12px;color:var(--paper-2);">
+          <span><b style="color:var(--paper);">${correct}</b> / ${answered} correct</span>
+          <span>${formatDuration(elapsed)}</span>
+          <span>avg ${Math.round(avgPerQ)}s/q</span>
         </div>
       </header>
 
-      <p class="mono muted" style="margin:0;">
-        ${correct} / ${answered} correct · ${formatDuration(elapsed)} · avg ${Math.round(avgPerQ)}s/q
-      </p>
-
       <section class="stack">
         <h2>By domain</h2>
-        <div class="stack" style="gap:10px;">
+        <div class="stack" style="gap:14px;">
           ${([1, 2, 3] as Domain[])
             .map((d) => {
               const v = byDomain[d];
               const p = v.t ? (v.c / v.t) * 100 : 0;
-              const low = p < 70;
+              const tone = p < 40 ? "bad" : p < 70 ? "warn" : "iris";
               return `
-                <div class="domain-bar">
-                  <span class="label">${DOMAIN_NAMES[d]}</span>
-                  <span class="track"><span class="fill" data-low="${low}" style="width:${p}%"></span></span>
-                  <span class="pct muted">${v.t ? p.toFixed(0) + "%" : "—"}</span>
+                <div>
+                  <div class="row" style="margin-bottom:6px;">
+                    <span style="font-size:14px;color:var(--paper-2);">${DOMAIN_NAMES[d]}</span>
+                    <span class="spacer"></span>
+                    <span class="f-mono" style="font-size:12px;">${v.t ? p.toFixed(0) + "%" : "—"}</span>
+                  </div>
+                  <div class="progress-track" style="height:6px;">
+                    <span class="progress-fill ${tone}" style="width:${p}%;"></span>
+                  </div>
+                  <div class="f-mono dim" style="font-size:11px;margin-top:6px;letter-spacing:0.04em;">
+                    ${v.c} / ${v.t} answered
+                  </div>
                 </div>
               `;
             })
@@ -113,9 +125,9 @@ export function renderResults(root: HTMLElement): void {
             ${topTopics
               .map(
                 ([t, n]) => `
-              <div class="row">
-                <span class="badge badge-danger mono" style="min-width:28px;justify-content:center;">${n}</span>
-                <span>${escapeHtml(t)}</span>
+              <div style="display:flex;align-items:center;gap:12px;padding:10px 4px;border-bottom:1px solid var(--line-1);">
+                <span style="width:22px;height:22px;border-radius:999px;border:1px solid var(--bad);background:var(--bad-tint);color:var(--bad);font-family:var(--f-mono);font-size:10px;display:inline-flex;align-items:center;justify-content:center;">${n}</span>
+                <span style="font-size:14px;">${escapeHtml(t)}</span>
               </div>
             `,
               )
@@ -131,18 +143,18 @@ export function renderResults(root: HTMLElement): void {
         <div class="stack" id="review-list" style="gap:8px;"></div>
       </section>
 
-      <div class="footer-bar" style="flex-direction:column;">
+      <div class="sticky-foot" style="flex-direction:column;">
         ${
           inSession
-            ? `<button class="btn btn-primary btn-block" id="hub">Back to session hub</button>`
+            ? `<button class="btn btn-iris btn-block" id="hub">Back to session hub</button>`
             : missed.length
-              ? `<button class="btn btn-primary btn-block" id="retry">Retry missed (${missed.length})</button>`
+              ? `<button class="btn btn-iris btn-block" id="retry">Retry missed (${missed.length})</button>`
               : ""
         }
         ${
           inSession
             ? ""
-            : `<button class="btn btn-secondary btn-block" id="new">New session</button>`
+            : `<button class="btn btn-ghost btn-block" id="new">New session</button>`
         }
       </div>
     </main>
@@ -216,7 +228,7 @@ function renderNextSteps(
             const p = Math.round((v.c / v.t) * 100);
             return `
               <div class="row">
-                <span class="badge badge-danger mono" style="min-width:42px;justify-content:center;">${p}%</span>
+                <span class="chip chip-bad mono" style="min-width:42px;justify-content:center;">${p}%</span>
                 <span><strong>${DOMAIN_NAMES[d]}</strong> is at ${p}% — focus here before your exam</span>
               </div>
             `;
@@ -234,10 +246,17 @@ function renderReviewList(answers: AnswerRecord[]): void {
   answers.forEach((a, idx) => {
     const row = document.createElement("details");
     row.className = "review-row";
+    const ok = a.correct;
+    const circleStyle = ok
+      ? `border-color:var(--ok);background:var(--ok-tint);color:var(--ok);`
+      : `border-color:var(--bad);background:var(--bad-tint);color:var(--bad);`;
+    const circleIcon = ok
+      ? `<svg width="10" height="10" viewBox="0 0 10 10"><path d="M2 5l2 2 4-4" stroke="currentColor" stroke-width="1.6" fill="none" stroke-linecap="round"/></svg>`
+      : `<svg width="10" height="10" viewBox="0 0 10 10"><path d="M2 2l6 6M8 2l-6 6" stroke="currentColor" stroke-width="1.6" stroke-linecap="round"/></svg>`;
     row.innerHTML = `
       <summary class="row">
-        <span class="badge mono ${a.correct ? "badge-accent" : "badge-danger"}" style="min-width:24px;justify-content:center;">
-          ${a.correct ? "✓" : "✗"}
+        <span data-review-status="${ok ? "ok" : "bad"}" style="width:22px;height:22px;border-radius:999px;border:1px solid;${circleStyle}display:inline-flex;align-items:center;justify-content:center;flex:0 0 auto;">
+          ${circleIcon}
         </span>
         <span class="review-q">${escapeHtml(truncate(a.q.question, 100))}</span>
         <span class="mono dim" style="font-size:12px;">${DOMAIN_NAMES[a.q.domain]}</span>
@@ -261,7 +280,7 @@ function renderReviewList(answers: AnswerRecord[]): void {
         <div class="row" style="gap:8px;">
           <span class="mono dim" style="font-size:12px;">${escapeHtml(a.q.topic)}</span>
           <span class="spacer"></span>
-          <a class="btn btn-secondary" data-src-link="${idx}" target="_blank" rel="noopener noreferrer" href="#">
+          <a class="btn btn-ghost" data-src-link="${idx}" target="_blank" rel="noopener noreferrer" href="#">
             ▶ Open source
           </a>
         </div>
@@ -287,6 +306,108 @@ function renderReviewList(answers: AnswerRecord[]): void {
       if (!link.precise) anchor.title = "No precise timestamp available for this source";
     });
   });
+}
+
+function renderDemoResults(root: HTMLElement, sess: import("../types").SessionState): void {
+  const answered = sess.answers.length;
+  const correct  = sess.answers.filter((a) => a.correct).length;
+  const pct      = (correct / answered) * 100;
+  const elapsed  = ((sess.finishedAt ?? Date.now()) - sess.startedAt) / 1000;
+
+  const status =
+    pct >= 70
+      ? { label: "Pass", cls: "chip-iris" }
+      : pct >= 61
+        ? { label: "Borderline", cls: "chip-warn" }
+        : { label: "Needs work", cls: "chip-bad" };
+
+  const byDomain: Record<Domain, { c: number; t: number }> = {
+    1: { c: 0, t: 0 }, 2: { c: 0, t: 0 }, 3: { c: 0, t: 0 },
+  };
+  for (const a of sess.answers) {
+    byDomain[a.q.domain].t += 1;
+    if (a.correct) byDomain[a.q.domain].c += 1;
+  }
+
+  root.innerHTML = `
+    <main class="app-shell stack">
+      <div class="eyebrow" style="margin-bottom:var(--s-1);">Demo results</div>
+      <header style="margin-bottom:var(--s-2);">
+        <div class="row" style="align-items:flex-end;gap:14px;">
+          <span class="f-display" style="font-size:88px;line-height:0.9;letter-spacing:-0.03em;">
+            ${pct.toFixed(0)}<span style="font-size:32px;color:var(--paper-3);">%</span>
+          </span>
+          <span class="chip ${status.cls}">${status.label}</span>
+        </div>
+        <div class="row" style="flex-wrap:wrap;gap:16px;margin-top:14px;font-family:var(--f-mono);font-size:12px;color:var(--paper-2);">
+          <span><b style="color:var(--paper);">${correct}</b> / ${answered} correct</span>
+          <span>${formatDuration(elapsed)}</span>
+        </div>
+      </header>
+
+      <section class="stack">
+        <h2>By domain</h2>
+        <div class="stack" style="gap:14px;">
+          ${([1, 2, 3] as Domain[]).map((d) => {
+            const v = byDomain[d];
+            const p = v.t ? (v.c / v.t) * 100 : 0;
+            const tone = p < 40 ? "bad" : p < 70 ? "warn" : "iris";
+            return `
+              <div>
+                <div class="row" style="margin-bottom:6px;">
+                  <span style="font-size:14px;color:var(--paper-2);">${DOMAIN_NAMES[d]}</span>
+                  <span class="spacer"></span>
+                  <span class="f-mono" style="font-size:12px;">${v.t ? p.toFixed(0) + "%" : "—"}</span>
+                </div>
+                <div class="progress-track" style="height:6px;">
+                  <span class="progress-fill ${tone}" style="width:${p}%;"></span>
+                </div>
+                <div class="f-mono dim" style="font-size:11px;margin-top:6px;">${v.c} / ${v.t} answered</div>
+              </div>`;
+          }).join("")}
+        </div>
+      </section>
+
+      <!-- locked review -->
+      <section class="stack">
+        <h2>Question review</h2>
+        <div style="border:1px solid var(--line-2);border-radius:var(--r-md);overflow:hidden;">
+          <!-- blurred preview rows with fade-out gradient -->
+          <div style="position:relative;">
+            <div style="filter:blur(4px);pointer-events:none;user-select:none;padding:12px 12px 0;" aria-hidden="true">
+              ${sess.answers.slice(0, 3).map((a) => {
+                const ok = a.correct;
+                const cs = ok ? "border-color:var(--ok);background:var(--ok-tint);color:var(--ok);" : "border-color:var(--bad);background:var(--bad-tint);color:var(--bad);";
+                const icon = ok
+                  ? `<svg width="10" height="10" viewBox="0 0 10 10"><path d="M2 5l2 2 4-4" stroke="currentColor" stroke-width="1.6" fill="none" stroke-linecap="round"/></svg>`
+                  : `<svg width="10" height="10" viewBox="0 0 10 10"><path d="M2 2l6 6M8 2l-6 6" stroke="currentColor" stroke-width="1.6" stroke-linecap="round"/></svg>`;
+                return `
+                  <div class="row" style="padding:12px 14px;background:var(--ink-1);border:1px solid var(--line-1);border-radius:var(--r-md);margin-bottom:8px;gap:12px;">
+                    <span style="width:22px;height:22px;border-radius:999px;border:1px solid;${cs}display:inline-flex;align-items:center;justify-content:center;flex:0 0 auto;">${icon}</span>
+                    <span style="flex:1;font-size:13px;white-space:nowrap;overflow:hidden;text-overflow:ellipsis;">${escapeHtml(truncate(a.q.question, 80))}</span>
+                  </div>`;
+              }).join("")}
+            </div>
+            <div style="position:absolute;inset:0;background:linear-gradient(to top,var(--ink-0) 30%,transparent);pointer-events:none;" aria-hidden="true"></div>
+          </div>
+          <!-- gate content in normal flow — always fully visible -->
+          <div style="display:flex;flex-direction:column;align-items:center;gap:var(--s-4);padding:var(--s-4) var(--s-5) var(--s-6);background:var(--ink-0);">
+            <div class="eyebrow" style="text-align:center;">Create a free account to unlock</div>
+            <p style="color:var(--paper-2);font-size:14px;text-align:center;margin:0;max-width:280px;">
+              See every question, correct answers, and explanations — plus track your readiness over time.
+            </p>
+            <button class="btn btn-iris btn-lg btn-block" id="demo-signup">Create free account</button>
+            <button class="btn btn-ghost btn-block" id="demo-login">Already have an account? Log in</button>
+          </div>
+        </div>
+      </section>
+    </main>
+  `;
+
+  root.querySelector<HTMLButtonElement>("#demo-signup")!
+    .addEventListener("click", () => { location.hash = "#/signup"; });
+  root.querySelector<HTMLButtonElement>("#demo-login")!
+    .addEventListener("click", () => { location.hash = "#/login"; });
 }
 
 function truncate(s: string, n: number): string {

@@ -24,7 +24,6 @@ export async function renderSetup(root: HTMLElement, examId: string): Promise<vo
   const inSession = activeStudySession !== null;
   const quizNum = activeStudySession ? activeStudySession.quizzes.length + 1 : null;
 
-  // URL params let upstream views (session-hub) prefill format/source/domain
   const urlParams = new URLSearchParams(location.hash.split("?")[1] ?? "");
   const sectionFromUrl = parseSectionParam(urlParams.get("format"));
   const sourceFromUrl = parseSourceParam(urlParams.get("source"));
@@ -45,7 +44,7 @@ export async function renderSetup(root: HTMLElement, examId: string): Promise<vo
   const title = inSession ? `Session quiz ${quizNum} · ${baseTitle}` : baseTitle;
 
   root.innerHTML = `
-    <main class="app stack">
+    <main class="app-shell stack">
       <header class="row">
         <button class="btn btn-ghost" id="back">← Back</button>
         <span class="spacer"></span>
@@ -54,31 +53,31 @@ export async function renderSetup(root: HTMLElement, examId: string): Promise<vo
       <p class="muted" style="margin:0;">${isDynamic ? "Samples fresh questions from the full bank, unseen first." : "Fixed question set."}</p>
 
       <section class="stack">
-        <label class="muted" style="font-size:13px;">QUESTIONS</label>
+        <label class="eyebrow">Questions</label>
         <div class="row" style="gap:8px;flex-wrap:wrap;">
           <input id="count" type="number" min="1" max="${isDynamic ? 500 : maxCount}" value="${state.count}"
-            style="width:90px;min-height:44px;padding:0 12px;border:1px solid var(--border);border-radius:8px;background:var(--card);" />
+            class="input" style="width:90px;" />
           <div class="seg" id="count-chips"></div>
         </div>
       </section>
 
       <section class="stack">
-        <label class="muted" style="font-size:13px;">DOMAIN</label>
+        <label class="eyebrow">Domain</label>
         <div class="seg" id="dom-seg"></div>
       </section>
 
       <section class="stack">
-        <label class="muted" style="font-size:13px;">DIFFICULTY</label>
+        <label class="eyebrow">Difficulty</label>
         <div class="seg" id="diff-seg"></div>
       </section>
 
       <section class="stack">
-        <label class="muted" style="font-size:13px;">FORMAT</label>
+        <label class="eyebrow">Format</label>
         <div class="seg" id="section-seg"></div>
       </section>
 
       <section class="stack">
-        <label class="muted" style="font-size:13px;">SOURCE</label>
+        <label class="eyebrow">Source</label>
         <div class="seg" id="source-seg"></div>
       </section>
 
@@ -92,8 +91,8 @@ export async function renderSetup(root: HTMLElement, examId: string): Promise<vo
 
       <p id="eco-note" class="muted" style="font-size:13px;"></p>
 
-      <div class="footer-bar">
-        <button class="btn btn-primary btn-block" id="start">Start session</button>
+      <div class="sticky-foot">
+        <button class="btn btn-iris btn-block" id="start">Start session</button>
       </div>
     </main>
   `;
@@ -113,6 +112,7 @@ export async function renderSetup(root: HTMLElement, examId: string): Promise<vo
   const countChips = document.getElementById("count-chips")!;
   chips.forEach((n) => {
     const b = document.createElement("button");
+    b.className = "seg-pill";
     b.textContent = String(n);
     b.addEventListener("click", () => {
       state.count = n;
@@ -284,6 +284,7 @@ function renderSeg<T>(
   };
   items.forEach((it) => {
     const b = document.createElement("button");
+    b.className = "seg-pill";
     b.textContent = it.label;
     b.addEventListener("click", () => {
       set(it.value);

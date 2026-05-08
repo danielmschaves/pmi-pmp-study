@@ -9,6 +9,12 @@ const DOMAIN_NAMES: Record<number, string> = {
   3: "Business Env",
 };
 
+const DOMAIN_CHIP_CLASS: Record<number, string> = {
+  1: "chip chip-dom-people",
+  2: "chip chip-dom-process",
+  3: "chip chip-dom-biz",
+};
+
 export function renderPlay(root: HTMLElement): void {
   const sess = getSession();
   if (!sess) {
@@ -62,38 +68,42 @@ export function renderPlay(root: HTMLElement): void {
     const q = sess!.questions[sess!.index];
     const total = sess!.questions.length;
     const done = sess!.index;
-    const pct = (done / total) * 100;
     const examMode = sess!.config.examMode;
     const timerInitial = sess!.config.timeLimitSec != null
       ? formatClock(sess!.config.timeLimitSec)
       : "00:00";
 
     root.innerHTML = `
-      <main class="app stack">
+      <main class="app-shell stack">
         <div class="play-top">
           <span class="mono">Q ${done + 1}/${total}</span>
-          ${sess!.config.label ? `<span class="badge badge-accent">${escapeHtml(sess!.config.label)}</span>` : ""}
+          ${sess!.config.label ? `<span class="chip chip-iris">${escapeHtml(sess!.config.label)}</span>` : ""}
           <span class="spacer"></span>
           <span class="mono timer" id="timer" data-low="false">${timerInitial}</span>
-          <button class="exit" id="exit" aria-label="Exit session">×</button>
+          <button class="btn btn-quiet" id="exit" aria-label="Exit session">×</button>
         </div>
-        <div class="progress" aria-hidden="true"><span style="width:${pct}%"></span></div>
+
+        <div class="dot-progress" aria-hidden="true">
+          ${Array.from({ length: total }, (_, i) =>
+            `<span class="dot${i < done ? " done" : ""}${i === done ? " current" : ""}"></span>`
+          ).join("")}
+        </div>
 
         <div class="row" style="flex-wrap:wrap;gap:8px;">
-          <span class="badge">${DOMAIN_NAMES[q.domain] ?? `Domain ${q.domain}`}</span>
-          ${examMode ? "" : `<span class="badge ${diffBadgeClass(q.difficulty)}">${q.difficulty}</span>`}
-          ${examMode ? "" : `<span class="badge">${escapeHtml(truncate(q.topic, 40))}</span>`}
+          <span class="${DOMAIN_CHIP_CLASS[q.domain] ?? "chip"}">${DOMAIN_NAMES[q.domain] ?? `Domain ${q.domain}`}</span>
+          ${examMode ? "" : `<span class="chip ${diffChipClass(q.difficulty)}">${q.difficulty}</span>`}
+          ${examMode ? "" : `<span class="chip">${escapeHtml(truncate(q.topic, 40))}</span>`}
         </div>
 
-        <p class="question-text">${escapeHtml(q.question)}</p>
+        <p class="question-text f-display" style="font-size:26px;line-height:1.22;letter-spacing:-0.01em;">${escapeHtml(q.question)}</p>
 
         <div class="options" id="options"></div>
 
         <div id="feedback"></div>
 
-        <div class="footer-bar">
-          <button class="btn btn-secondary" id="skip">Skip <span class="kbd-hint mono dim">S</span></button>
-          <button class="btn btn-primary" id="act" disabled>Next <span class="kbd-hint mono dim">⏎</span></button>
+        <div class="sticky-foot">
+          <button class="btn btn-ghost" id="skip">Skip <span class="kbd-hint mono dim">S</span></button>
+          <button class="btn btn-iris" id="act" disabled>Next <span class="kbd-hint mono dim">⏎</span></button>
         </div>
       </main>
     `;
@@ -105,8 +115,9 @@ export function renderPlay(root: HTMLElement): void {
       const row = document.createElement("button");
       row.className = "option";
       row.dataset.letter = letter;
+      row.dataset.selected = "false";
       row.innerHTML = `
-        <span class="letter">${letter}</span>
+        <span class="letter-glyph">${letter}</span>
         <span class="text">${escapeHtml(text)}</span>
         <span class="mark"></span>
       `;
@@ -165,18 +176,14 @@ export function renderPlay(root: HTMLElement): void {
     selected = letter;
     const options = document.querySelectorAll<HTMLElement>(".option");
     options.forEach((o) => {
-      o.dataset.selected = o.dataset.letter === letter ? "true" : "false";
+      const isSelected = o.dataset.letter === letter;
+      o.dataset.selected = isSelected ? "true" : "false";
+      o.querySelector<HTMLElement>(".letter-glyph")?.classList.toggle("is-selected", isSelected);
     });
     const act = document.getElementById("act") as HTMLButtonElement;
     act.disabled = false;
   }
 
-  /**
-   * Primary commit action. Called by Next button / Enter / Space.
-   * - Before any answer: nothing to do if no selection.
-   * - Exam mode: lock + advance in one step (no feedback).
-   * - Study mode: first press locks and shows feedback; second press advances.
-   */
   function advance(): void {
     if (!selected) return;
     const q = sess!.questions[sess!.index];
@@ -202,7 +209,6 @@ export function renderPlay(root: HTMLElement): void {
     const options = document.querySelectorAll<HTMLElement>(".option");
 
     if (examMode) {
-      // Exam mode: just mark the chosen option as "selected-and-locked", no reveal.
       options.forEach((o) => {
         const letter = o.dataset.letter as Letter;
         if (letter === locked!.picked) {
@@ -220,12 +226,17 @@ export function renderPlay(root: HTMLElement): void {
       options.forEach((o) => {
         const letter = o.dataset.letter as Letter;
         const mark = o.querySelector(".mark")!;
+        const glyph = o.querySelector<HTMLElement>(".letter-glyph");
+        if (glyph) glyph.classList.remove("is-selected", "is-correct", "is-wrong");
+
         if (letter === q.answer) {
           o.dataset.state = locked!.picked === q.answer ? "correct" : "reveal";
           mark.textContent = "✓";
+          if (glyph) glyph.classList.add("is-correct");
         } else if (letter === locked!.picked) {
           o.dataset.state = "wrong";
           mark.textContent = "✗";
+          if (glyph) glyph.classList.add("is-wrong");
         } else {
           (o as HTMLButtonElement).disabled = true;
           o.style.opacity = "0.55";
@@ -273,7 +284,6 @@ export function renderPlay(root: HTMLElement): void {
   }
 
   function forceFinish(): void {
-    // Time expired — record any remaining questions as skipped so results are complete.
     while (sess!.index < sess!.questions.length) {
       const q = sess!.questions[sess!.index];
       if (locked == null && sess!.answers.length === sess!.index) {
@@ -300,9 +310,9 @@ function formatClock(totalSec: number): string {
   return `${m.toString().padStart(2, "0")}:${r.toString().padStart(2, "0")}`;
 }
 
-function diffBadgeClass(d: string): string {
-  if (d === "expert") return "badge-danger";
-  if (d === "hard") return "badge-warning";
+function diffChipClass(d: string): string {
+  if (d === "expert") return "chip-bad";
+  if (d === "hard") return "chip-warn";
   return "";
 }
 

@@ -25,9 +25,9 @@ export function renderSessionReport(root: HTMLElement, sessionId: string | null)
   const answers = aggregateAnswers(session.quizzes);
   if (answers.length === 0) {
     root.innerHTML = `
-      <main class="app stack">
+      <main class="app-shell stack">
         <h1>No answers recorded yet</h1>
-        <button class="btn btn-secondary btn-block" id="home">Back home</button>
+        <button class="btn btn-ghost btn-block" id="home">Back home</button>
       </main>
     `;
     document.getElementById("home")!.addEventListener("click", () => (location.hash = "#/"));
@@ -43,41 +43,42 @@ export function renderSessionReport(root: HTMLElement, sessionId: string | null)
   const state = { filter: "all" as Filter };
 
   root.innerHTML = `
-    <main class="app stack">
-      <header class="row">
-        <div class="stack" style="gap:4px;flex:1;">
-          <p class="muted" style="margin:0;font-size:13px;">Session report</p>
-          <div class="row" style="gap:16px;align-items:flex-end;">
-            <span class="score-big mono">${overall.pct.toFixed(0)}%</span>
-            <span class="badge ${status.cls}" style="font-size:12px;">${status.label}</span>
-          </div>
+    <main class="app-shell stack">
+      <div class="eyebrow" style="margin-bottom:var(--s-1);">Session report</div>
+      <header style="margin-bottom:var(--s-2);">
+        <div class="row" style="align-items:flex-end;gap:14px;">
+          <span class="f-display" style="font-size:88px;line-height:0.9;letter-spacing:-0.03em;">
+            ${overall.pct.toFixed(0)}<span style="font-size:32px;color:var(--paper-3);">%</span>
+          </span>
+          <span class="chip ${status.cls}">${status.label}</span>
+        </div>
+        <div class="row" style="flex-wrap:wrap;gap:16px;margin-top:14px;font-family:var(--f-mono);font-size:12px;color:var(--paper-2);">
+          <span><b style="color:var(--paper);">${overall.correct}</b> / ${overall.answered} correct</span>
+          <span>${session.quizzes.length} quiz${session.quizzes.length === 1 ? "" : "zes"}</span>
+          <span>${formatDuration(elapsed)}</span>
         </div>
       </header>
 
-      <p class="mono muted" style="margin:0;">
-        ${overall.correct} / ${overall.answered} correct ·
-        ${session.quizzes.length} quiz${session.quizzes.length === 1 ? "" : "zes"} ·
-        ${formatDuration(elapsed)}
-      </p>
-
       <section class="stack">
         <h2>Domain breakdown</h2>
-        <div class="stack" style="gap:10px;">
+        <div class="stack" style="gap:18px;">
           ${([1, 2, 3] as Domain[])
             .map((d) => {
               const v = dom[d];
-              const low = v.total > 0 && v.pct < 70;
+              const tone = v.pct < 40 ? "bad" : v.pct < 70 ? "warn" : "iris";
               return `
-                <div class="domain-bar">
-                  <span class="label">${DOMAIN_NAMES[d]}</span>
-                  <span class="track">
-                    <span class="fill" data-low="${low}" style="width:${v.pct}%"></span>
-                    <span class="eco-tick" style="left:${v.targetPct}%" title="ECO target ${v.targetPct.toFixed(0)}% weight"></span>
-                  </span>
-                  <span class="pct muted">${v.total ? v.pct.toFixed(0) + "%" : "—"}</span>
-                </div>
-                <div class="muted" style="font-size:12px;margin-left:142px;">
-                  ${v.correct} / ${v.total} answered · target weight ${v.targetPct.toFixed(0)}%
+                <div>
+                  <div class="row" style="margin-bottom:6px;">
+                    <span style="font-size:14px;color:var(--paper);">${DOMAIN_NAMES[d]}</span>
+                    <span class="spacer"></span>
+                    <span class="f-mono" style="font-size:12px;">${v.total ? v.pct.toFixed(0) + "%" : "—"}</span>
+                  </div>
+                  <div class="progress-track" style="height:6px;">
+                    <span class="progress-fill ${tone}" style="width:${v.pct}%;"></span>
+                  </div>
+                  <div class="f-mono dim" style="font-size:11px;margin-top:6px;letter-spacing:0.04em;">
+                    ${v.correct} / ${v.total} answered · target weight ${v.targetPct.toFixed(0)}%
+                  </div>
                 </div>
               `;
             })
@@ -90,11 +91,11 @@ export function renderSessionReport(root: HTMLElement, sessionId: string | null)
         <div class="concept-grid">
           <div class="stack" style="gap:6px;">
             <h3 class="muted" style="font-size:13px;margin:0;">Strong areas</h3>
-            ${renderConceptList(con.strong, "accent")}
+            ${renderConceptList(con.strong, "ok")}
           </div>
           <div class="stack" style="gap:6px;">
             <h3 class="muted" style="font-size:13px;margin:0;">Needs more practice</h3>
-            ${renderConceptList(con.weak, "danger")}
+            ${renderConceptList(con.weak, "bad")}
           </div>
         </div>
         ${
@@ -113,8 +114,8 @@ export function renderSessionReport(root: HTMLElement, sessionId: string | null)
         <div class="stack" id="review-list" style="gap:8px;"></div>
       </section>
 
-      <div class="footer-bar" style="flex-direction:column;">
-        <button class="btn btn-secondary btn-block" id="home">Back home</button>
+      <div class="sticky-foot" style="flex-direction:column;">
+        <button class="btn btn-ghost btn-block" id="home">Back home</button>
       </div>
     </main>
   `;
@@ -130,13 +131,12 @@ function resolveSession(id: string | null): StudySession | null {
     const hist = getHistoricalSession(id);
     if (hist) return hist;
   }
-  // Fallback: in-flight session (if the user hit the route manually)
   return getActiveStudySession();
 }
 
 function renderConceptList(
   items: Array<{ concept: string; tally: { correct: number; total: number }; pct: number }>,
-  tone: "accent" | "danger",
+  tone: "ok" | "bad",
 ): string {
   if (items.length === 0) {
     return `<p class="muted" style="font-size:13px;margin:0;">None yet.</p>`;
@@ -146,7 +146,7 @@ function renderConceptList(
     .map(
       (it) => `
         <div class="row">
-          <span class="badge badge-${tone} mono" style="min-width:48px;justify-content:center;">
+          <span class="chip chip-${tone} mono" style="min-width:48px;justify-content:center;">
             ${it.pct.toFixed(0)}%
           </span>
           <span style="flex:1;">${escapeHtml(it.concept)}</span>
@@ -170,6 +170,7 @@ function renderFilterChips(
   el.innerHTML = "";
   chips.forEach((c) => {
     const b = document.createElement("button");
+    b.className = "seg-pill";
     b.textContent = c.label;
     b.setAttribute("aria-pressed", state.filter === c.value ? "true" : "false");
     b.addEventListener("click", () => {
@@ -200,10 +201,17 @@ function renderReviewList(answers: AnswerRecord[], state: { filter: Filter }): v
   filtered.forEach((a, idx) => {
     const row = document.createElement("details");
     row.className = "review-row";
+    const ok = a.correct;
+    const circleStyle = ok
+      ? `border-color:var(--ok);background:var(--ok-tint);color:var(--ok);`
+      : `border-color:var(--bad);background:var(--bad-tint);color:var(--bad);`;
+    const circleIcon = ok
+      ? `<svg width="8" height="8" viewBox="0 0 10 10"><path d="M2 5l2 2 4-4" stroke="currentColor" stroke-width="1.6" fill="none" stroke-linecap="round"/></svg>`
+      : `<svg width="8" height="8" viewBox="0 0 10 10"><path d="M2 2l6 6M8 2l-6 6" stroke="currentColor" stroke-width="1.6" stroke-linecap="round"/></svg>`;
     row.innerHTML = `
       <summary class="row">
-        <span class="badge mono ${a.correct ? "badge-accent" : "badge-danger"}" style="min-width:24px;justify-content:center;">
-          ${a.correct ? "✓" : "✗"}
+        <span style="width:18px;height:18px;border-radius:999px;border:1px solid;${circleStyle}display:inline-flex;align-items:center;justify-content:center;flex:0 0 auto;">
+          ${circleIcon}
         </span>
         <span class="review-q">${escapeHtml(truncate(a.q.question, 100))}</span>
         <span class="mono dim" style="font-size:12px;">${DOMAIN_NAMES[a.q.domain]}</span>
@@ -231,7 +239,7 @@ function renderReviewList(answers: AnswerRecord[], state: { filter: Filter }): v
         <div class="row" style="gap:8px;">
           <span class="mono dim" style="font-size:12px;">${escapeHtml(a.q.topic)}</span>
           <span class="spacer"></span>
-          <a class="btn btn-secondary" data-src-link="${idx}" target="_blank" rel="noopener noreferrer" href="#">
+          <a class="btn btn-ghost" data-src-link="${idx}" target="_blank" rel="noopener noreferrer" href="#">
             ▶ Open source
           </a>
         </div>
@@ -240,7 +248,6 @@ function renderReviewList(answers: AnswerRecord[], state: { filter: Filter }): v
     list.appendChild(row);
   });
 
-  // Resolve source links asynchronously and rewrite hrefs.
   filtered.forEach((a, idx) => {
     void resolveSourceLink(a.q).then((link) => {
       const anchor = list.querySelector<HTMLAnchorElement>(`[data-src-link="${idx}"]`);

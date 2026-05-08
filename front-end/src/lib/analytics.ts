@@ -85,7 +85,7 @@ export function aggregateAnswers(quizzes: QuizAttempt[]): AnswerRecord[] {
 }
 
 export function statusFromPct(pct: number): { label: string; cls: string } {
-  if (pct >= 70) return { label: "Pass", cls: "badge-accent" };
-  if (pct >= 61) return { label: "Borderline", cls: "badge-warning" };
-  return { label: "Needs work", cls: "badge-danger" };
+  if (pct >= 70) return { label: "Pass", cls: "chip-iris" };
+  if (pct >= 61) return { label: "Borderline", cls: "chip-warn" };
+  return { label: "Needs work", cls: "chip-bad" };
 }
