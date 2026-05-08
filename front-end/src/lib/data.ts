@@ -30,10 +30,19 @@ export async function loadManifest(): Promise<Manifest> {
 export async function loadBank(): Promise<Question[]> {
   if (bankCache) return bankCache;
 
-  const { data, error } = await supabase.from("questions").select("*");
-  if (error) throw new Error(`bank: ${error.message}`);
-
-  bankCache = (data ?? []) as Question[];
+  const PAGE = 1000;
+  const all: Question[] = [];
+  for (let from = 0; ; from += PAGE) {
+    const { data, error } = await supabase
+      .from("questions")
+      .select("*")
+      .range(from, from + PAGE - 1);
+    if (error) throw new Error(`bank: ${error.message}`);
+    if (!data || data.length === 0) break;
+    all.push(...(data as Question[]));
+    if (data.length < PAGE) break;
+  }
+  bankCache = all;
   return bankCache;
 }
 

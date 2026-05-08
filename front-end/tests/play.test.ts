@@ -3,6 +3,13 @@ import { renderPlay } from "../src/views/play";
 import { setSession, getSession } from "../src/session";
 import { makeQuestion, makeSession } from "./fixtures";
 
+vi.mock("../src/supabase", () => ({
+  supabase: {
+    auth: { getSession: vi.fn().mockResolvedValue({ data: { session: null } }) },
+    from: vi.fn().mockReturnValue({ upsert: vi.fn().mockResolvedValue({ data: null, error: null }) }),
+  },
+}));
+
 function root(): HTMLElement {
   return document.getElementById("app")!;
 }

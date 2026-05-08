@@ -42,7 +42,8 @@ export async function renderHome(root: HTMLElement): Promise<void> {
   `;
 
   document.getElementById("open-settings")!.addEventListener("click", openSettings);
-  document.addEventListener("app:open-settings", openSettings, { once: true });
+  document.removeEventListener("app:open-settings", openSettings);
+  document.addEventListener("app:open-settings", openSettings);
 
   renderSessionBanner();
   renderRecent();

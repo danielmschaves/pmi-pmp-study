@@ -25,6 +25,7 @@ alter table public.user_progress enable row level security;
 create policy "own progress select" on public.user_progress for select using (auth.uid() = user_id);
 create policy "own progress insert" on public.user_progress for insert with check (auth.uid() = user_id);
 create policy "own progress update" on public.user_progress for update using (auth.uid() = user_id);
+create policy "own progress delete" on public.user_progress for delete using (auth.uid() = user_id);
 
 -- ── study_sessions ────────────────────────────────────────────────────────────
 -- Mirrors pmp.studySession.history in localStorage (capped at 50).
@@ -81,7 +82,11 @@ create policy "own subscription select" on public.subscriptions for select using
 
 -- ── auto-create profile on signup ─────────────────────────────────────────────
 create or replace function public.handle_new_user()
-returns trigger language plpgsql security definer as $$
+returns trigger
+language plpgsql
+security definer
+set search_path = ''
+as $$
 begin
   insert into public.profiles (id) values (new.id);
   return new;

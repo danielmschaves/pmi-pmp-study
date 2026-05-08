@@ -139,14 +139,15 @@ async function render(): Promise<void> {
   const route = parseHash();
 
   if (!PUBLIC_ROUTES.has(route.name)) {
-    // Allow play/results through for an active demo session (no Supabase auth needed)
-    const quizSess = getQuizSession();
+    // Fetch auth state first so isDemoPassthrough is correctly gated on "no session".
+    const quizSess   = getQuizSession();
+    const authSession = await getAuthSession();
     const isDemoPassthrough =
+      !authSession &&
       quizSess?.config.demo === true &&
       (route.name === "play" || route.name === "results");
 
     if (!isDemoPassthrough) {
-      const authSession = await getAuthSession();
       if (!authSession) {
         hideSidebar();
         location.hash = "#/landing";

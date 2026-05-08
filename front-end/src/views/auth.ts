@@ -119,25 +119,27 @@ export function renderAuth(root: HTMLElement, mode: "login" | "signup"): void {
     submitBtn.disabled    = true;
     submitBtn.textContent = isSignup ? "Creating account…" : "Signing in…";
 
-    if (isSignup) {
-      const { error } = await signUp(email, password);
-      if (error) {
-        setMessage(errorEl, error.message);
+    try {
+      if (isSignup) {
+        const { error } = await signUp(email, password);
+        if (error) {
+          setMessage(errorEl, error.message);
+        } else {
+          setMessage(successEl, "Check your email to confirm your account.");
+        }
       } else {
-        setMessage(successEl, "Check your email to confirm your account.");
+        const { data, error } = await signIn(email, password);
+        if (error) {
+          setMessage(errorEl, error.message);
+        } else if (data.session) {
+          try { await pullAndMerge(data.session.user.id); } catch { /* best-effort */ }
+          location.hash = "#/";
+        }
       }
-    } else {
-      const { data, error } = await signIn(email, password);
-      if (error) {
-        setMessage(errorEl, error.message);
-      } else if (data.session) {
-        await pullAndMerge(data.session.user.id);
-        location.hash = "#/";
-      }
+    } finally {
+      submitBtn.disabled    = false;
+      submitBtn.textContent = isSignup ? "Create account" : "Sign in";
     }
-
-    submitBtn.disabled    = false;
-    submitBtn.textContent = isSignup ? "Create account" : "Sign in";
   });
 }
 

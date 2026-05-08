@@ -87,11 +87,14 @@ export function endActiveStudySession(): StudySession | null {
 
   remove(ACTIVE_KEY);
 
-  void supabase.auth.getSession().then(({ data }) => {
-    if (data.session) {
-      void pushStudySession(data.session.user.id, active);
+  void (async () => {
+    try {
+      const { data } = await supabase.auth.getSession();
+      if (data.session) await pushStudySession(data.session.user.id, active);
+    } catch {
+      // Best-effort remote sync; local session finalization already completed.
     }
-  });
+  })();
 
   return active;
 }

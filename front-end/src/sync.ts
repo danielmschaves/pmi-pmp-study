@@ -47,11 +47,12 @@ export async function pullAndMerge(userId: string): Promise<void> {
 }
 
 async function syncProgress(userId: string): Promise<void> {
-  const { data } = await supabase
+  const { data, error } = await supabase
     .from("user_progress")
     .select("question_id, seen_at")
     .eq("user_id", userId);
 
+  if (error) { console.warn("syncProgress failed:", error.message); return; }
   if (!data || data.length === 0) return;
 
   const persisted = readPersisted();
@@ -60,12 +61,13 @@ async function syncProgress(userId: string): Promise<void> {
 }
 
 async function syncPreferences(userId: string): Promise<void> {
-  const { data } = await supabase
+  const { data, error } = await supabase
     .from("profiles")
     .select("preferences")
     .eq("id", userId)
     .single();
 
+  if (error) { console.warn("syncPreferences failed:", error.message); return; }
   if (!data?.preferences) return;
   if (typeof data.preferences.explanationsByDefault !== "boolean") return;
 
@@ -75,22 +77,25 @@ async function syncPreferences(userId: string): Promise<void> {
 }
 
 async function syncSessions(userId: string): Promise<void> {
-  const { data: sessions } = await supabase
+  const { data: sessions, error: sessErr } = await supabase
     .from("study_sessions")
     .select("id, started_at, ended_at")
     .eq("user_id", userId)
     .order("started_at", { ascending: false })
     .limit(HISTORY_CAP);
 
+  if (sessErr) { console.warn("syncSessions failed:", sessErr.message); return; }
   if (!sessions || sessions.length === 0) return;
 
-  const { data: attempts } = await supabase
+  const { data: attempts, error: attErr } = await supabase
     .from("quiz_attempts")
     .select("*")
     .in(
       "session_id",
       sessions.map((s: { id: string }) => s.id),
     );
+
+  if (attErr) { console.warn("syncSessions (attempts) failed:", attErr.message); return; }
 
   const remoteSessions: StudySession[] = sessions.map(
     (s: { id: string; started_at: string; ended_at: string | null }) => ({
@@ -127,6 +132,8 @@ function buildAttempts(sessionId: string, rows: Record<string, unknown>[]): Quiz
         chunk_index: 0,
         video_segment: "",
       })),
+      // answers include the full `q` object (stored at push time) so session reports
+      // can display question text, options, and explanations for historical attempts.
       answers: r["answers"] as QuizAttempt["answers"],
       startedAt: new Date(r["started_at"] as string).getTime(),
       finishedAt: new Date(r["finished_at"] as string).getTime(),
@@ -146,14 +153,15 @@ export async function pushProgress(
   seenAt: string,
 ): Promise<void> {
   try {
-    await supabase
+    const { error } = await supabase
       .from("user_progress")
       .upsert(
         { user_id: userId, question_id: questionId, seen_at: seenAt },
         { onConflict: "user_id,question_id" },
       );
-  } catch {
-    // intentionally silent — caller does not await this
+    if (error) console.warn("pushProgress failed:", error.message);
+  } catch (e) {
+    console.warn("pushProgress threw:", (e as Error).message);
   }
 }
 
@@ -162,23 +170,25 @@ export async function pushStudySession(
   session: StudySession,
 ): Promise<void> {
   try {
-    await supabase.from("study_sessions").upsert({
+    const { error: sessErr } = await supabase.from("study_sessions").upsert({
       id: session.id,
       user_id: userId,
       started_at: new Date(session.startedAt).toISOString(),
       ended_at: session.endedAt ? new Date(session.endedAt).toISOString() : null,
     });
+    if (sessErr) { console.warn("pushStudySession (session) failed:", sessErr.message); return; }
 
     if (session.quizzes.length === 0) return;
 
-    await supabase.from("quiz_attempts").upsert(
+    const { error: quizErr } = await supabase.from("quiz_attempts").upsert(
       session.quizzes.map((q) => ({
         id: q.id,
         user_id: userId,
         session_id: session.id,
         config: q.config,
         question_ids: q.questions.map((qu) => qu.id),
-        answers: q.answers.map((a) => ({ picked: a.picked, correct: a.correct, ms: a.ms })),
+        // Store the full `q` so historical session reports can render question text.
+        answers: q.answers.map((a) => ({ q: a.q, picked: a.picked, correct: a.correct, ms: a.ms })),
         score_correct: q.score.correct,
         score_answered: q.score.answered,
         score_total: q.score.total,
@@ -186,8 +196,9 @@ export async function pushStudySession(
         finished_at: new Date(q.finishedAt).toISOString(),
       })),
     );
-  } catch {
-    // intentionally silent — caller does not await this
+    if (quizErr) console.warn("pushStudySession (attempts) failed:", quizErr.message);
+  } catch (e) {
+    console.warn("pushStudySession threw:", (e as Error).message);
   }
 }
 
@@ -196,20 +207,22 @@ export async function pushPreferences(
   prefs: { explanationsByDefault: boolean },
 ): Promise<void> {
   try {
-    await supabase
+    const { error } = await supabase
       .from("profiles")
       .update({ preferences: prefs, updated_at: new Date().toISOString() })
       .eq("id", userId);
-  } catch {
-    // intentionally silent — caller does not await this
+    if (error) console.warn("pushPreferences failed:", error.message);
+  } catch (e) {
+    console.warn("pushPreferences threw:", (e as Error).message);
   }
 }
 
 export async function deleteProgress(userId: string): Promise<void> {
   try {
-    await supabase.from("user_progress").delete().eq("user_id", userId);
-  } catch {
-    // intentionally silent — caller does not await this
+    const { error } = await supabase.from("user_progress").delete().eq("user_id", userId);
+    if (error) console.warn("deleteProgress failed:", error.message);
+  } catch (e) {
+    console.warn("deleteProgress threw:", (e as Error).message);
   }
 }
 

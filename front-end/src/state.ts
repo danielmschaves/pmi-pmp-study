@@ -42,7 +42,7 @@ export function markSeen(id: string): void {
     if (data.session) {
       void pushProgress(data.session.user.id, id, p.seen[id]);
     }
-  });
+  }).catch(() => {});
 }
 
 export function resetHistory(): void {
@@ -53,7 +53,7 @@ export function resetHistory(): void {
     if (data.session) {
       void deleteProgress(data.session.user.id);
     }
-  });
+  }).catch(() => {});
 }
 
 export function getExplanationsDefault(): boolean {
@@ -68,5 +68,5 @@ export function setExplanationsDefault(v: boolean): void {
     if (data.session) {
       void pushPreferences(data.session.user.id, { explanationsByDefault: v });
     }
-  });
+  }).catch(() => {});
 }
