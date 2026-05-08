@@ -218,3 +218,121 @@ describe("play view — timer", () => {
     expect(timer()).toBe("00:05");
   });
 });
+
+describe("play view — design system classes", () => {
+  it("renders letter-glyph for each option", () => {
+    setSession(makeSession([makeQuestion({ id: "q1" }), makeQuestion({ id: "q2" })]));
+    renderPlay(root());
+
+    const glyphs = document.querySelectorAll(".letter-glyph");
+    expect(glyphs.length).toBe(4);
+    const labels = Array.from(glyphs).map((g) => g.textContent);
+    expect(labels).toEqual(["A", "B", "C", "D"]);
+  });
+
+  it("adds is-selected to letter-glyph when option is clicked", () => {
+    setSession(makeSession([makeQuestion({ id: "q1" }), makeQuestion({ id: "q2" })]));
+    renderPlay(root());
+
+    document.querySelector<HTMLElement>('.option[data-letter="B"]')!.click();
+
+    const selected = document.querySelector(".letter-glyph.is-selected");
+    expect(selected).not.toBeNull();
+    expect(selected!.textContent).toBe("B");
+
+    const others = document.querySelectorAll(".letter-glyph:not(.is-selected)");
+    expect(others.length).toBe(3);
+  });
+
+  it("adds is-correct to letter-glyph after correct answer locked", () => {
+    setSession(
+      makeSession([makeQuestion({ id: "q1", answer: "B" }), makeQuestion({ id: "q2" })]),
+    );
+    renderPlay(root());
+
+    document.querySelector<HTMLElement>('.option[data-letter="B"]')!.click();
+    document.getElementById("act")!.click();
+
+    const correct = document.querySelector(".letter-glyph.is-correct");
+    expect(correct).not.toBeNull();
+    expect(correct!.textContent).toBe("B");
+  });
+
+  it("adds is-wrong to the picked glyph and is-correct to the answer after wrong answer", () => {
+    setSession(
+      makeSession([makeQuestion({ id: "q1", answer: "B" }), makeQuestion({ id: "q2" })]),
+    );
+    renderPlay(root());
+
+    document.querySelector<HTMLElement>('.option[data-letter="A"]')!.click();
+    document.getElementById("act")!.click();
+
+    expect(document.querySelector(".letter-glyph.is-wrong")!.textContent).toBe("A");
+    expect(document.querySelector(".letter-glyph.is-correct")!.textContent).toBe("B");
+  });
+
+  it("renders dot-progress with total number of dots, current marked", () => {
+    setSession(
+      makeSession([
+        makeQuestion({ id: "q1" }),
+        makeQuestion({ id: "q2" }),
+        makeQuestion({ id: "q3" }),
+      ]),
+    );
+    renderPlay(root());
+
+    const dots = document.querySelectorAll(".dot-progress .dot");
+    expect(dots.length).toBe(3);
+    expect(document.querySelector(".dot-progress .dot.current")).not.toBeNull();
+    expect(document.querySelectorAll(".dot-progress .dot.done").length).toBe(0);
+  });
+
+  it("dot.done count increments as questions are answered", () => {
+    setSession(
+      makeSession(
+        [makeQuestion({ id: "q1", answer: "A" }), makeQuestion({ id: "q2", answer: "A" }), makeQuestion({ id: "q3" })],
+        { examMode: true },
+      ),
+    );
+    renderPlay(root());
+
+    // Q1: answer and advance
+    document.querySelector<HTMLElement>('.option[data-letter="A"]')!.click();
+    document.getElementById("act")!.click();
+
+    expect(document.querySelectorAll(".dot-progress .dot.done").length).toBe(1);
+    expect(document.querySelector(".dot-progress .dot.current")).not.toBeNull();
+  });
+
+  it("uses dot-progress only — no linear progress-track bar", () => {
+    setSession(makeSession([makeQuestion({ id: "q1" }), makeQuestion({ id: "q2" })]));
+    renderPlay(root());
+
+    expect(document.querySelector(".dot-progress")).not.toBeNull();
+    expect(document.querySelector(".progress-track")).toBeNull();
+  });
+
+  it("uses app-shell layout wrapper", () => {
+    setSession(makeSession([makeQuestion({ id: "q1" })]));
+    renderPlay(root());
+
+    expect(document.querySelector("main.app-shell")).not.toBeNull();
+    expect(document.querySelector("main.app")).toBeNull();
+  });
+
+  it("uses sticky-foot instead of footer-bar", () => {
+    setSession(makeSession([makeQuestion({ id: "q1" })]));
+    renderPlay(root());
+
+    expect(document.querySelector(".sticky-foot")).not.toBeNull();
+    expect(document.querySelector(".footer-bar")).toBeNull();
+  });
+
+  it("uses chip for domain label, not badge", () => {
+    setSession(makeSession([makeQuestion({ id: "q1", domain: 1 })]));
+    renderPlay(root());
+
+    expect(document.querySelector(".chip")).not.toBeNull();
+    expect(document.querySelector(".badge")).toBeNull();
+  });
+});

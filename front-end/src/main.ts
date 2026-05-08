@@ -6,17 +6,62 @@ import { renderSessionHub } from "./views/session-hub";
 import { renderSessionReport } from "./views/session-report";
 import { renderLanding } from "./views/landing";
 import { renderAuth } from "./views/auth";
-import { getSession, onAuthChange } from "./auth";
+import { getSession as getAuthSession, onAuthChange } from "./auth";
+import { getSession as getQuizSession, setSession } from "./session";
+import { loadBank } from "./lib/data";
 import { installGlobalKeys, setKeyHandler } from "./lib/keys";
 
-const root = document.getElementById("app")!;
+const root    = document.getElementById("app")!;
+const sidebar = document.getElementById("sidebar") as HTMLElement;
 
-const PUBLIC_ROUTES = new Set(["landing", "login", "signup"]);
+const PUBLIC_ROUTES = new Set(["landing", "login", "signup", "demo"]);
+
+const SIDEBAR_LOGO = `<svg width="28" height="28" viewBox="0 0 32 32" fill="none">
+  <rect x="0.5" y="0.5" width="31" height="31" rx="9.5" stroke="rgba(255,255,255,0.16)"/>
+  <path d="M9 22V10h6.5a4 4 0 0 1 0 8H12" stroke="oklch(70% 0.19 280)" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round"/>
+  <circle cx="22.5" cy="21.5" r="1.6" fill="oklch(70% 0.19 280)"/>
+</svg>`;
+
+function showSidebar(routeName: string): void {
+  sidebar.removeAttribute("hidden");
+  document.body.classList.add("has-sidebar");
+
+  const isHome    = routeName === "home";
+  const isSession = routeName === "session-hub" || routeName === "session-report";
+
+  sidebar.innerHTML = `
+    <div style="display:flex;align-items:center;gap:10px;margin-bottom:var(--s-6);padding:var(--s-1) 0;">
+      ${SIDEBAR_LOGO}
+      <span style="font-family:var(--f-display);font-size:20px;letter-spacing:-0.01em;line-height:1;">Pacing</span>
+    </div>
+
+    <div class="eyebrow" style="margin-bottom:var(--s-3);padding:0 var(--s-3);">Menu</div>
+
+    <nav style="display:flex;flex-direction:column;gap:2px;margin-bottom:var(--s-4);">
+      <a href="#/" class="sidebar-link ${isHome ? "is-active" : ""}">Home</a>
+      <a href="#/session" class="sidebar-link ${isSession ? "is-active" : ""}">Study Session</a>
+    </nav>
+
+    <div style="flex:1;"></div>
+    <div class="hairline" style="margin:var(--s-3) 0;"></div>
+    <button class="sidebar-link" id="sidebar-settings">Settings</button>
+  `;
+
+  document.getElementById("sidebar-settings")?.addEventListener("click", () => {
+    document.dispatchEvent(new CustomEvent("app:open-settings"));
+  });
+}
+
+function hideSidebar(): void {
+  sidebar.hidden = true;
+  document.body.classList.remove("has-sidebar");
+}
 
 type Route =
   | { name: "landing" }
   | { name: "login" }
   | { name: "signup" }
+  | { name: "demo" }
   | { name: "home" }
   | { name: "setup"; examId: string }
   | { name: "play" }
@@ -30,6 +75,7 @@ function parseHash(): Route {
   if (h === "/landing") return { name: "landing" };
   if (h === "/login")   return { name: "login" };
   if (h === "/signup")  return { name: "signup" };
+  if (h === "/demo")    return { name: "demo" };
   if (h.startsWith("/setup/")) {
     const after = h.slice("/setup/".length);
     const q = after.indexOf("?");
@@ -44,6 +90,45 @@ function parseHash(): Route {
   return { name: "home" };
 }
 
+async function startDemo(container: HTMLElement): Promise<void> {
+  container.innerHTML = `
+    <main class="app-shell stack" style="justify-content:center;align-items:center;">
+      <div class="eyebrow">Setting up your demo&hellip;</div>
+    </main>`;
+
+  try {
+    const bank = await loadBank();
+    // Shuffle with a simple Fisher-Yates and take 15
+    const pool = [...bank];
+    for (let i = pool.length - 1; i > 0; i--) {
+      const j = Math.floor(Math.random() * (i + 1));
+      [pool[i], pool[j]] = [pool[j], pool[i]];
+    }
+    setSession({
+      config: {
+        examId: "demo",
+        kind: "static",
+        count: 15,
+        domain: null,
+        difficulty: null,
+        showExplanation: false,
+        seed: null,
+        examMode: true,
+        timeLimitSec: null,
+        label: "Demo",
+        demo: true,
+      },
+      questions: pool.slice(0, 15),
+      index: 0,
+      answers: [],
+      startedAt: Date.now(),
+    });
+    location.hash = "#/play";
+  } catch {
+    location.hash = "#/landing";
+  }
+}
+
 export function navigate(hash: string): void {
   if (location.hash === hash) render();
   else location.hash = hash;
@@ -54,11 +139,25 @@ async function render(): Promise<void> {
   const route = parseHash();
 
   if (!PUBLIC_ROUTES.has(route.name)) {
-    const session = await getSession();
-    if (!session) {
-      location.hash = "#/landing";
-      return;
+    // Allow play/results through for an active demo session (no Supabase auth needed)
+    const quizSess = getQuizSession();
+    const isDemoPassthrough =
+      quizSess?.config.demo === true &&
+      (route.name === "play" || route.name === "results");
+
+    if (!isDemoPassthrough) {
+      const authSession = await getAuthSession();
+      if (!authSession) {
+        hideSidebar();
+        location.hash = "#/landing";
+        return;
+      }
     }
+
+    if (!isDemoPassthrough) showSidebar(route.name);
+    else hideSidebar();
+  } else {
+    hideSidebar();
   }
 
   root.innerHTML = "";
@@ -71,6 +170,9 @@ async function render(): Promise<void> {
       break;
     case "signup":
       renderAuth(root, "signup");
+      break;
+    case "demo":
+      await startDemo(root);
       break;
     case "home":
       renderHome(root);

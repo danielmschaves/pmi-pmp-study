@@ -113,7 +113,7 @@ export function renderSessionHub(root: HTMLElement): void {
   const strongest = con && con.strong.length ? con.strong[0] : null;
 
   root.innerHTML = `
-    <main class="app stack">
+    <main class="app-shell stack">
       <header class="row">
         <div class="stack" style="gap:4px;flex:1;">
           <p class="muted" style="margin:0;font-size:13px;">Study session</p>
@@ -125,7 +125,7 @@ export function renderSessionHub(root: HTMLElement): void {
       <section class="stat-strip">
         <span><b>${active.quizzes.length}</b> quizzes</span>
         <span><b>${overall.answered}</b> answered</span>
-        ${status ? `<span><b>${overall.pct.toFixed(0)}%</b> <span class="badge ${status.cls}" style="font-size:11px;">${status.label}</span></span>` : ""}
+        ${status ? `<span><b>${overall.pct.toFixed(0)}%</b> <span class="chip ${status.cls}" style="font-size:11px;">${status.label}</span></span>` : ""}
         <span><b>${formatDuration(elapsed)}</b> elapsed</span>
       </section>
 
@@ -141,28 +141,28 @@ export function renderSessionHub(root: HTMLElement): void {
       <section class="stack">
         <h2>Launch a quiz</h2>
         <div class="stack" style="gap:6px;">
-          <label class="muted" style="font-size:13px;">PRESET</label>
+          <label class="eyebrow">Preset</label>
           <div class="seg" id="preset-seg"></div>
           <p class="muted" id="preset-blurb" style="margin:0;font-size:12px;"></p>
         </div>
         <div class="stack" style="gap:6px;" id="count-row">
-          <label class="muted" style="font-size:13px;">QUESTIONS</label>
+          <label class="eyebrow">Questions</label>
           <div class="row" style="gap:8px;flex-wrap:wrap;">
             <input id="count" type="number" min="1" max="500" value="15"
-              style="width:90px;min-height:44px;padding:0 12px;border:1px solid var(--border);border-radius:8px;background:var(--card);" />
+              class="input" style="width:90px;" />
             <div class="seg" id="count-chips"></div>
           </div>
         </div>
         <div class="stack" style="gap:6px;" id="domain-row">
-          <label class="muted" style="font-size:13px;">DOMAIN</label>
+          <label class="eyebrow">Domain</label>
           <div class="seg" id="domain-seg"></div>
         </div>
         <div class="stack" style="gap:6px;" id="section-row">
-          <label class="muted" style="font-size:13px;">FORMAT</label>
+          <label class="eyebrow">Format</label>
           <div class="seg" id="section-seg"></div>
         </div>
         <div class="stack" style="gap:6px;" id="source-row">
-          <label class="muted" style="font-size:13px;">SOURCE</label>
+          <label class="eyebrow">Source</label>
           <div class="seg" id="source-seg"></div>
         </div>
         <label class="toggle" id="exp-row">
@@ -170,7 +170,7 @@ export function renderSessionHub(root: HTMLElement): void {
           <span class="track"></span>
           <span>Show explanations</span>
         </label>
-        <button class="btn btn-primary btn-block" id="start-quiz">Start quiz</button>
+        <button class="btn btn-iris btn-block" id="start-quiz">Start quiz</button>
       </section>
 
       <section class="stack">
@@ -178,8 +178,8 @@ export function renderSessionHub(root: HTMLElement): void {
         <div class="stack" id="quiz-list" style="gap:8px;"></div>
       </section>
 
-      <div class="footer-bar" style="flex-direction:column;">
-        <button class="btn btn-primary btn-block" id="end" ${active.quizzes.length === 0 ? "disabled" : ""}>
+      <div class="sticky-foot" style="flex-direction:column;">
+        <button class="btn btn-iris btn-block" id="end" ${active.quizzes.length === 0 ? "disabled" : ""}>
           End session &amp; see report
         </button>
       </div>
@@ -193,7 +193,8 @@ export function renderSessionHub(root: HTMLElement): void {
     for (const q of active.quizzes) {
       const pct = q.score.answered ? (q.score.correct / q.score.answered) * 100 : 0;
       const row = document.createElement("div");
-      row.className = "card row";
+      row.className = "surface row";
+      row.style.padding = "var(--s-3) var(--s-4)";
       row.innerHTML = `
         <div class="stack" style="gap:2px;flex:1;">
           <strong>${escapeHtml(prettyExamName(q.config))}</strong>
@@ -201,7 +202,7 @@ export function renderSessionHub(root: HTMLElement): void {
             ${q.score.correct}/${q.score.answered} · ${pct.toFixed(0)}%
           </span>
         </div>
-        <span class="badge ${statusFromPct(pct).cls}">${pct.toFixed(0)}%</span>
+        <span class="chip ${statusFromPct(pct).cls}">${pct.toFixed(0)}%</span>
       `;
       list.appendChild(row);
     }
@@ -269,6 +270,7 @@ export function renderSessionHub(root: HTMLElement): void {
   const countChips = document.getElementById("count-chips")!;
   COUNT_CHIPS.forEach((n) => {
     const b = document.createElement("button");
+    b.className = "seg-pill";
     b.textContent = String(n);
     b.addEventListener("click", () => {
       if (!PRESETS[state.preset].allows.count) return;
@@ -498,6 +500,7 @@ function renderSeg<T>(
   };
   items.forEach((it) => {
     const b = document.createElement("button");
+    b.className = "seg-pill";
     b.textContent = it.label;
     b.addEventListener("click", () => {
       set(it.value);
