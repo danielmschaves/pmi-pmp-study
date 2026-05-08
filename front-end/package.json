@@ -4,12 +4,11 @@
   "version": "0.0.1",
   "type": "module",
   "scripts": {
-    "predev": "node scripts/sync-data.mjs",
-    "prebuild": "node scripts/sync-data.mjs",
     "dev": "vite",
     "build": "tsc -b && vite build",
     "preview": "vite preview --host 0.0.0.0 --port 4173",
     "sync-data": "node scripts/sync-data.mjs",
+    "import-data": "node scripts/import-to-supabase.mjs",
     "test": "vitest run",
     "test:watch": "vitest"
   },
