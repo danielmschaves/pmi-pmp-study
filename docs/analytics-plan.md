@@ -1,23 +1,36 @@
 # Analytics Plan — PMP Study Quiz
 
-Track every quiz session and per-question result in DuckDB, then build a dashboard on top.
+---
+
+## Status
+
+**Web app:** Quiz attempts are automatically captured in the Supabase `quiz_attempts` table
+(see `supabase/migrations/001_initial_schema.sql`). The schema stores question IDs, per-question
+answer records (`picked`, `correct`, `ms`), scores, and timestamps per attempt. No additional
+instrumentation needed for web analytics — query the `quiz_attempts` table directly in the
+Supabase dashboard or via the API.
+
+**CLI:** The terminal quiz runner (`quiz_runner.py`) does not yet log to any analytics store.
+The DuckDB plan below is the proposed approach for CLI-only analytics.
 
 ---
 
-## Database location
+## CLI Analytics (Proposed — not yet implemented)
+
+Track every CLI quiz session and per-question result in DuckDB, then build a dashboard on top.
+
+### Database location
 
 ```
 data/analytics/quiz_analytics.duckdb
 ```
 
----
+### Schema
 
-## Schema
-
-### `quiz_sessions` — one row per quiz run
+#### `quiz_sessions` — one row per quiz run
 
 | Column | Type | Notes |
-|---|---|---|
+|--------|------|-------|
 | `session_id` | VARCHAR PK | UUID |
 | `started_at` | TIMESTAMP | |
 | `ended_at` | TIMESTAMP | |
@@ -33,10 +46,10 @@ data/analytics/quiz_analytics.duckdb
 | `seed` | INT | NULL if not set |
 | `interrupted` | BOOLEAN | true on Ctrl+C exit |
 
-### `question_attempts` — one row per question per session
+#### `question_attempts` — one row per question per session
 
 | Column | Type | Notes |
-|---|---|---|
+|--------|------|-------|
 | `attempt_id` | VARCHAR PK | UUID |
 | `session_id` | VARCHAR FK | → `quiz_sessions` |
 | `question_id` | VARCHAR | e.g. `yt_003_001_09` |
@@ -51,9 +64,7 @@ data/analytics/quiz_analytics.duckdb
 | `elapsed_seconds` | FLOAT | time spent on this question |
 | `position` | INT | 1-based order within the session |
 
----
-
-## New file: `study/analytics.py`
+### New file: `study/analytics.py`
 
 Thin DuckDB wrapper with two public functions:
 
@@ -66,9 +77,7 @@ log_session(session: dict, attempts: list[dict]) -> None
     # Called after _print_results, even on KeyboardInterrupt.
 ```
 
----
-
-## Changes to `quiz_runner.py`
+### Changes to `quiz_runner.py`
 
 - Add per-question timer — `time.time()` snapshot before and after each `input()` call.
 - Collect an `attempts` list during the question loop (currently only `wrong` is tracked).
@@ -76,9 +85,7 @@ log_session(session: dict, attempts: list[dict]) -> None
   fires even when the quiz is interrupted with Ctrl+C.
 - Add `--no-analytics` CLI flag to suppress logging (useful for dry runs / tests).
 
----
-
-## Dependency
+### Dependency
 
 Add to `pyproject.toml`:
 
@@ -92,12 +99,10 @@ Rebuild the Docker image once after:
 docker compose build
 ```
 
----
-
-## Dashboard-ready queries
+### Dashboard-ready queries
 
 | Question | Key SQL |
-|---|---|
+|----------|---------|
 | Score over time | `SELECT started_at, pct_correct FROM quiz_sessions ORDER BY started_at` |
 | Weakest domains | `SELECT domain, COUNT(*) FROM question_attempts WHERE NOT is_correct GROUP BY domain` |
 | Weakest topics | `SELECT topic, COUNT(*) FROM question_attempts WHERE NOT is_correct GROUP BY topic ORDER BY 2 DESC` |
@@ -106,9 +111,7 @@ docker compose build
 | Avg time per question | `SELECT exam_name, AVG(elapsed_seconds / answered) FROM quiz_sessions GROUP BY exam_name` |
 | Sessions per day | `SELECT started_at::DATE as day, COUNT(*) FROM quiz_sessions GROUP BY day` |
 
----
-
-## Implementation order
+### Implementation order
 
 1. Add `duckdb` to `pyproject.toml` and rebuild image.
 2. Create `study/analytics.py` with `init_db` and `log_session`.

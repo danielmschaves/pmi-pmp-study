@@ -1,20 +1,70 @@
 # PMP Study Repository
 
 Self-contained PMP certification exam prep tool. Extracts questions from YouTube practice
-videos, builds a question bank, and runs interactive timed quizzes in the terminal.
+videos, builds a question bank, and serves interactive quizzes — both in the terminal and
+as a full-stack web application.
 
 **Current bank:** 343 questions — `hard` + `expert` difficulty — across all 3 ECO domains.
 
 ---
 
-## Requirements
+## Web App
 
-- [Docker Desktop](https://www.docker.com/products/docker-desktop/)
-- An Anthropic API key (only needed when adding new video sources)
+The primary study interface is a Vite/TypeScript SPA deployed on Vercel, backed by Supabase
+(PostgreSQL + Auth). It requires an account and syncs progress across devices.
+
+**Live:** [pacing.app](https://pacing.app) *(update this with your Vercel URL)*
+
+### Features
+
+- Email/password sign-up and login (email confirmation required)
+- Question bank loaded from Supabase (paginated, no bundled JSON)
+- Study sessions — group multiple quizzes, track overall progress
+- Exam mode (no feedback) and study mode (explanation after each question)
+- Timer (countdown with limit, or elapsed-time stopwatch)
+- Cross-device sync — progress, seen questions, and session history sync on login
+- Demo mode — 15 free questions without an account
+
+### Local dev
+
+```bash
+cd front-end
+
+# Copy env template and fill in your Supabase credentials
+cp .env.example .env
+# VITE_SUPABASE_URL=https://your-project.supabase.co
+# VITE_SUPABASE_ANON_KEY=your-anon-key
+
+# Start the dev server (Docker)
+docker compose up --build          # first run
+docker compose up                  # subsequent runs
+# Open http://localhost:5173
+```
+
+### Supabase setup (one-time)
+
+1. Create a free project at [supabase.com](https://supabase.com)
+2. Settings → Auth → enable Email provider → enable "Confirm email"
+3. Run `supabase/migrations/001_initial_schema.sql` in the SQL editor
+4. Copy the Project URL and anon key into `front-end/.env`
+
+### Deploy to Vercel
+
+Connect the repo in the Vercel dashboard, set **Root Directory** to `front-end`, then add
+`VITE_SUPABASE_URL` and `VITE_SUPABASE_ANON_KEY` in Project → Settings → Environment Variables.
 
 ---
 
-## Setup
+## CLI Quiz
+
+The original terminal quiz runner still works and doesn't require Supabase.
+
+### Requirements
+
+- [Docker Desktop](https://www.docker.com/products/docker-desktop/)
+- Anthropic API key (only needed when adding new video sources)
+
+### Setup
 
 ```bash
 # 1. Copy the env template and add your API key
@@ -29,15 +79,13 @@ docker compose up
 # Open http://localhost:8888
 ```
 
----
-
-## Taking a Quiz
+### Taking a quiz
 
 ```bash
 docker compose run --rm -it jupyter python study/quizzes/quiz_runner.py --exam exam_practice
 ```
 
-### Available exams
+#### Available exams
 
 | Exam | Questions | Profile |
 |------|-----------|---------|
@@ -53,19 +101,15 @@ List all available exams:
 docker compose run --rm -it jupyter python study/quizzes/quiz_runner.py --list
 ```
 
-### Filtering by difficulty
+#### Filtering by difficulty
 
 ```bash
 # Expert questions only
 docker compose run --rm -it jupyter python study/quizzes/quiz_runner.py \
   --exam exam_practice --difficulty expert
-
-# Hard questions only
-docker compose run --rm -it jupyter python study/quizzes/quiz_runner.py \
-  --exam exam_practice --difficulty hard
 ```
 
-Difficulty levels (in order):
+Difficulty levels:
 
 | Level | Description |
 |-------|-------------|
@@ -74,7 +118,7 @@ Difficulty levels (in order):
 | `hard` | Analysis with competing options or partial information |
 | `expert` | Synthesis across multiple PM areas; ambiguity and trade-offs |
 
-### Filtering by domain
+#### Filtering by domain
 
 ```bash
 # Process domain only (50% of the real exam)
@@ -94,7 +138,7 @@ Domains:
 | 2 | Process | 50% |
 | 3 | Business Environment | 8% |
 
-### All quiz options
+#### All quiz options
 
 ```
 --exam         Exam file to load (required)
@@ -106,7 +150,7 @@ Domains:
 --list         List all available exam files
 ```
 
-### Quiz controls
+#### Quiz controls
 
 During a session:
 - Type `A`, `B`, `C`, or `D` and press Enter to answer
@@ -160,8 +204,7 @@ docker compose run --rm jupyter python ingestion/qa_formatter.py
 docker compose run --rm jupyter python ingestion/quiz_builder.py
 ```
 
-The extractor checkpoints each chunk to `data/processed/<id>/chunk_NNN.json` — if it
-is interrupted, re-running it resumes from where it stopped.
+The extractor checkpoints each chunk to `data/processed/<id>/chunk_NNN.json` — resumable if interrupted.
 
 ### Processing a single source
 
@@ -198,11 +241,11 @@ pmi-pmp-study/
 ├── Dockerfile
 ├── docker-compose.yml
 ├── pyproject.toml
-├── .env                        # API key (not committed)
+├── .env                         # API key (not committed)
 ├── .env.example
 │
 ├── ingestion/
-│   ├── sources.yml             # source registry
+│   ├── sources.yml              # source registry
 │   ├── youtube_extractor.py    # step 1 — download transcripts
 │   ├── qa_extractor.py         # step 2 — Claude API Q&A extraction
 │   ├── qa_formatter.py         # step 3 — validate + build question bank
@@ -212,11 +255,41 @@ pmi-pmp-study/
 │   ├── quizzes/
 │   │   ├── quiz_runner.py      # interactive CLI quiz
 │   │   └── exam_*.json         # generated exam files
-│   └── *.ipynb                 # domain study notebooks (coming soon)
+│   └── *.ipynb                 # domain study notebooks
 │
 ├── data/
 │   ├── raw/                    # transcripts and segments
 │   └── processed/              # question bank and chunk checkpoints
+│
+├── supabase/
+│   └── migrations/
+│       └── 001_initial_schema.sql   # DB schema + RLS policies
+│
+├── front-end/                  # Vite/TS web app (see front-end/PRD.md)
+│   ├── src/
+│   │   ├── main.ts             # router + auth guard
+│   │   ├── supabase.ts         # Supabase client singleton
+│   │   ├── auth.ts             # signIn / signUp / signOut / onAuthChange
+│   │   ├── sync.ts             # pullAndMerge + fire-and-forget push helpers
+│   │   ├── state.ts            # localStorage + sync hooks
+│   │   ├── session.ts          # study session management
+│   │   ├── sampling.ts         # ECO-weighted question sampling
+│   │   ├── types.ts
+│   │   ├── views/
+│   │   │   ├── landing.ts      # public landing page
+│   │   │   ├── auth.ts         # login / signup form
+│   │   │   ├── home.ts         # post-login home
+│   │   │   ├── setup.ts        # quiz configurator
+│   │   │   ├── play.ts         # question player
+│   │   │   ├── results.ts      # quiz results
+│   │   │   ├── session-hub.ts  # study session dashboard
+│   │   │   └── session-report.ts
+│   │   └── lib/
+│   │       ├── data.ts         # paginated Supabase question bank loader
+│   │       ├── format.ts       # time / percent helpers
+│   │       ├── keys.ts         # keyboard shortcut dispatcher
+│   │       └── ...
+│   └── ...
 │
 └── materials/                  # drop PDFs here for ingestion
 ```
