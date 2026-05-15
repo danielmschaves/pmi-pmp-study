@@ -199,10 +199,16 @@ async function render(): Promise<void> {
 installGlobalKeys();
 window.addEventListener("hashchange", () => { void render(); });
 
-// Redirect to landing on sign-out; redirect home after sign-in
+// Redirect to landing on sign-out; clean up URL on email-confirmation callback
 onAuthChange((session) => {
   if (!session && !PUBLIC_ROUTES.has(parseHash().name)) {
     location.hash = "#/landing";
+    return;
+  }
+  // Supabase email confirmation lands with ?access_token= or #access_token= in the URL.
+  // Replace the messy URL with a clean home hash so the user doesn't see raw tokens.
+  if (session && (location.search.includes("access_token") || location.hash.includes("access_token"))) {
+    location.replace(location.origin + location.pathname + "#/");
   }
 });
 

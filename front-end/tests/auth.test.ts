@@ -47,10 +47,14 @@ describe("getSession", () => {
 });
 
 describe("signUp", () => {
-  it("delegates to supabase.auth.signUp with email and password", async () => {
+  it("delegates to supabase.auth.signUp with email, password, and emailRedirectTo", async () => {
     mockSignUp.mockResolvedValue({ data: {}, error: null });
     await signUp("test@example.com", "secret123");
-    expect(mockSignUp).toHaveBeenCalledWith({ email: "test@example.com", password: "secret123" });
+    expect(mockSignUp).toHaveBeenCalledWith({
+      email: "test@example.com",
+      password: "secret123",
+      options: { emailRedirectTo: expect.any(String) },
+    });
   });
 
   it("passes through error from supabase", async () => {
